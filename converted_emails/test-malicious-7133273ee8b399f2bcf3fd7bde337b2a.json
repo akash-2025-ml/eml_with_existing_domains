@@ -1,0 +1,92 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-7133273ee8b399f2bcf3fd7bde337b2a",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-7133273ee8b399f2bcf3fd7bde337b2a",
+    "emailcontent": {
+      "subject": "***SPAM*** our new security measures",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "swingkid_caf@hotmail.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "swingkid_caf@hotmail.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "jennifer.bryan@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2009-05-25T14:16:37+02:00",
+      "sentDateTime": "2009-05-25T14:16:37+02:00",
+      "body": {
+        "contentType": "text/html",
+        "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\">\n<HTML><HEAD>\n<META http-equiv=Content-Type content=\"text/html; charset=iso-8859-1\">\n<META content=\"MSHTML 6.00.2900.2527\" name=GENERATOR>\n<STYLE></STYLE>\n</HEAD>\n<BODY>\n<html><head>\n<style type=\"text/css\">\n<!--\na:link{\ncolor:#405ebe;background:#ffffff;}\na:hover{\ncolor:#0000ff;background:#ffffff;}\ntable,div,h1,p{font-family:verdana;color:#333333;background:#ffffff;}\nh1{font-size:100%;font-family:verdana;color:#d4001a;background:#ffffff;margin-bottom:0px;}\n-->\n</style></head><body style=\"font-family:verdana;color:#333333;background:#ffffff;\">\n<div style=\"font-family:times new roman,new york,times,serif;font-size:12pt\"><div><br></div><div style=\"font-family: times new roman,new york,times,serif; font-size: 12pt;\"><br><div style=\"font-family: times new roman,new york,times,serif; font-size: 12pt;\">\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"747\">\n<tbody><tr style=\"height:70px;\">\n<td style=\"width:747px;\" colspan=\"4\">\n<img src=\"http://alert.bankofamerica.com/images/client/bankofamerica/95_email_masthead_top.jpg\" width=\"747\" height=\"70\"></td>\n</tr>\n<tr style=\"height:93px;\">\n<td style=\"width:160px;background:#f0f0f0;\" colspan=\"2\">\n<img src=\"http://alert.bankofamerica.com/images/client/bankofamerica/em_photo.jpg\" width=\"160\" height=\"103\"></td>\n<td colspan=\"2\" style=\"background: rgb(212, 0, 26) none repeat scroll 0% 0%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;width:78.6%;\">\n<img src=\"http://alert.bankofamerica.com/images/client/bankofamerica/em_title_red.gif\" width=\"193\" height=\"103\"></td>\n</tr>\n<tr style=\"height:25px;\" height=\"25\">\n<td style=\"width:160px;background:#f0f0f0;\" colspan=\"2\">\n<br></td>\n<td class=\"third-fourth\" colspan=\"2\">\n<br></td>\n</tr>\n<tr>\n<td style=\"width:15px;background:#f0f0f0;\">\n<br></td>\n<td style=\"width:145px;background:#f0f0f0;\" valign=\"bottom\"><div style=\"font-size:70%;font-family:verdana, arial, geneva, helvetica, sans-serif;background:#f0f0f0;line-height:1.4;\"> This email sent to:<br>\n<span style=\"text-transform:lowercase;background:#f0f0f0;\"><a href=\"mailto:infosec@uninet.edu\">infosec@uninet.edu</a></span> </div></td>\n<td style=\"width:15px;\">\n<br></td>\n<td style=\"width:572px;\">\n<h1>Message from Customer Service</h1>\n<hr size=\"1\">\n<table style=\"font-size:75%;font-family:verdana, arial, geneva, helvetica, sans-serif;margin-bottom:1em;line-height:1.4;margin-top:.8em;\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n<tbody><tr>\n<td align=\"right\">To:</td>\n<td><strong>&nbsp;infosec@uninet.edu</strong></td>\n</tr>\n<tr>\n<td align=\"right\">Date: </td><td><strong> Mon, 25 May 2009 14:16:37 +0200</strong></td>\n</tr>\n</tbody></table></td></tr>\n<tr>\n<td style=\"width:15px;background:#f0f0f0;\">\n<br></td>\n<td style=\"width:145px;background:#f0f0f0;\" valign=\"middle\"> </td>\n<td style=\"width:15px;\">\n<br></td>\n<td style=\"width:572px;\">\n<p style=\"font-size:70%;margin-top:0.45em;margin-bottom:1em;color:#333333;background:#ffffff;line-height:1.4;\">\nWe would like to inform you that we have released a new version of Bank of America Customer Form. This form is required to be completed by all Bank of America customers.</p>\n<p style=\"font-size:70%;margin-top:0.45em;margin-bottom:1em;color:#333333;background:#ffffff;line-height:1.4;\">\nPlease follow these steps:</p></td>\n</tr>\n<tr>\n<td style=\"width:15px;background:#f0f0f0;\">\n<br></td>\n<td style=\"width:145px;background:#f0f0f0;\" valign=\"bottom\"> </td>\n<td style=\"width:15px;\">\n<br></td>\n<td style=\"width:572px;\">\n<p style=\"font-size:70%;margin-top:0.45em;margin-bottom:1em;color:#333333;background:#ffffff;line-height:1.4;\">1.Open the form at <a href=\"http://www.bankofamerica.com.srv_17258480.etreew.com/customerservice/securedirectory/cform.do/cform.php?id=821096382920163123972418733719423407966&email=(infosec@uninet.edu)\">http://www.bankofamerica.com/srv_17258480/customerservice/securedirectory/cform.do/cform.php?id=821096382920163123972418733719423407966</a>.\n<br>\n2.Follow given instructions.</p></td>\n</tr>\n<tr height=\"2\">\n<td style=\"width:160px;background:#f0f0f0;\" colspan=\"2\"> <br></td>\n<td style=\"width:587px;\" colspan=\"2\"> <br></td>\n</tr>\n<tr>\n<td style=\"width:15px;background:#f0f0f0;\">\n<br></td>\n<td style=\"width:145px;background:#f0f0f0;\">\n<br></td>\n<td style=\"width:587px;\" colspan=\"2\">\n<table style=\"background: rgb(240, 240, 240) none repeat scroll 0% 0%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;\" align=\"right\" cellpadding=\"10\" width=\"99%\">\n<tbody>\n<tr>\n<td>\n<p style=\"font-size:65%;font-family:verdana;margin-bottom:1em;color:#333333;background:#f0f0f0;line-height:1.4;\">\n<strong>Because email is not a secure form of communication, please do not reply to this email.</strong><br>\n If you have any questions about your account or need assistance, please call the phone number on your statement or go to Contact Us at <a target=\"_blank\" href=\"http://www.bankofamerica.com\">www.bankofamerica.com</a>.</p></td>\n</tr>\n</tbody>\n</table></td>\n</tr>\n<tr bgcolor=\"#c0c0c0\" height=\"1\">\n<td style=\"width:747px;\" colspan=\"4\"><br></td>\n</tr>\n<tr bgcolor=\"#ffffff\" height=\"5\">\n<td style=\"width:747px;\" colspan=\"4\"><br></td>\n</tr>\n<tr>\n<td style=\"width:747px;\" colspan=\"4\">\n<div style=\"color:#333333;background:#ffffff;font-size:70%;margin-top:0em;margin-bottom:1em;\">\n<img src=\"http://alert.bankofamerica.com/images/client/bankofamerica/OlympicLogo_2_6_8_1_1_image.gif\" align=\"right\" width=\"131\" height=\"33\">\nBank of America, Member FDIC. <br>\n© 2009 Bank of America Corporation. All Rights Reserved.</div></td>\n</tr>\n</tbody></table>\n<img src=\"http://alert.bankofamerica.com/AlertTrackingServlet?tid=1766010494&dcc=SEA&retry=1&timeout=1228230752830\">\n</div></div></div><br>\n</body></html>\n</BODY></HTML>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<8e071d57-d90a-4a39-a9e9-4b0f5fdf0f91@generated>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "none",
+      "dkim": "none",
+      "dmarc": "none",
+      "returnpath": "swingkid_caf@hotmail.com",
+      "ipaddress": [
+        "2603:1096:c01:ec::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "This email sent to: infosec@uninet.edu Message from Customer Service To: infosec@uninet.edu Date: Mon, 25 May 2009 14:16:37 +0200 We would like to inform you that we have released a new version of Bank of America Customer Form. This form is required to be completed by all Bank of America customers. Please follow these steps: 1.Open the form at http://www.bankofamerica.com/srv_17258480/customerservice/securedirectory/cform.do/cform.php?id=821096382920163123972418733719423407966 . 2.Follow given i",
+      "links": [
+        "http://www.bankofamerica.com.srv_17258480.etreew.com/customerservice/securedirectory/cform.do/cform.php?id=821096382920163123972418733719423407966&email=(infosec@uninet.edu)",
+        "http://www.bankofamerica.com",
+        "http://alert.bankofamerica.com/images/client/bankofamerica/95_email_masthead_top.jpg",
+        "http://alert.bankofamerica.com/images/client/bankofamerica/em_photo.jpg",
+        "http://alert.bankofamerica.com/images/client/bankofamerica/em_title_red.gif",
+        "http://www.bankofamerica.com.srv_17258480.etreew.com/customerservice/securedirectory/cform.do/cform.php?id=821096382920163123972418733719423407966&email=(infosec@uninet.edu",
+        "http://www.bankofamerica.com/srv_17258480/customerservice/securedirectory/cform.do/cform.php?id=821096382920163123972418733719423407966",
+        "http://alert.bankofamerica.com/images/client/bankofamerica/OlympicLogo_2_6_8_1_1_image.gif",
+        "http://alert.bankofamerica.com/AlertTrackingServlet?tid=1766010494&dcc=SEA&retry=1&timeout=1228230752830",
+        "http://alert.bankofamerica.com",
+        "http://top.jp",
+        "http://photo.jp",
+        "http://uninet.edu",
+        "http://17258480.etreew.com"
+      ],
+      "domains": [
+        "17258480.etreew.com",
+        "alert.bankofamerica.com",
+        "uninet.edu",
+        "bankofamerica.com.srv_17258480.etreew.com",
+        "photo.jp",
+        "bankofamerica.com",
+        "top.jp"
+      ]
+    }
+  }
+}

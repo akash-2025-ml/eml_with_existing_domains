@@ -1,0 +1,93 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-7b87b1fb976de4be600cbbd9e0e0515d",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-7b87b1fb976de4be600cbbd9e0e0515d",
+    "emailcontent": {
+      "subject": "Account Review",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "xieyc@hotmail.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "xieyc@hotmail.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "frank.sayre@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "t.hodge@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2007-04-21T03:07:13+01:00",
+      "sentDateTime": "2007-04-21T03:07:13+01:00",
+      "body": {
+        "contentType": "text/html",
+        "content": "<a rel=\"nofollow\" target=\"_blank\" href=\"https://www.paypal.com/us\"><img src=\"http://images.paypal.com/en_US/i/logo/email_logo.gif\" alt=\"PayPal\" border=\"0\" height=\"35\" width=\"255\"></a>\n \n\n\n\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"316\" width=\"750\"><tbody><tr>\n<td background=\"http://images.paypal.com/images/bg_clk.gif\" height=\"29\" width=\"750\"><img src=\"http://images.paypal.com/images/pixel.gif\" border=\"0\" height=\"29\" width=\"1\"></td>\n</tr>\n<tr>\n<td height=\"287\" width=\"750\"><b><img src=\"http://images.paypal.com/images/pixel.gif\" border=\"0\" height=\"10\" width=\"1\">PayPal is committed to maintaining a safe environment for\n    its community of customers. To protect the security of your account, PayPal\n    employs some of the most advanced security systems in the world and our\n    anti-fraud teams regularly screen the PayPal system for unusual activity.\n    <br>\n    <br>\n    We are contacting you to remind you that our Account Review\n    Team identified some unusual activity in your account. In accordance with\n    PayPal's User Agreement and to ensure that your account has not been\n    compromised, access to your account was limited. Your account access will\n    remain limited until this issue has been resolved.<br>\n    <br>\n    To secure your account and quickly restore full access, we may require some\n    additional information from you for the following reason:<br>\n    <br>\n    We have been notified that a card associated with your account has been\n    reported as lost or stolen, or that there were additional problems with your\n    card.<br>\n    <br>\n    <br>\n    This process is mandatory, and if not completed within the nearest time your\n    account or credit card may be subject for temporary suspension. <br>\n    <br>\n    To securely confirm your PayPal information please click on the link bellow:<br>\n    <br>\n    <br>\n    <br>\n    <a rel=\"nofollow\" target=\"_blank\" href=\"http://server.biemilac.com/images/.9999/www.paypal.com3/www.paypal.com/cgi-bin/webscr_cmd=_login-run/index.html\"><span style=\"background: transparent none repeat scroll 0% 50%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;\" id=\"lw_1177017257_0\">https://www.paypal.com/cgi-bin/webscr?cmd=_login-run</span></a><br>\n    <br>\n    <br>\n    <br>\n    We encourage you to log in and perform the steps necessary to restore your\n    account access as soon as possible. Allowing your account access to remain\n    limited for an extended period of time may result in further limitations on\n    the use of your account and possible account closure.<br>\n    <br>\n    For more information about how to protect your account please visit PayPal\n    Security Center. We apologize for any incovenience this may cause, and we\n    apriciate your assistance in helping us to maintain the integrity of the\n    entire PayPal system.<br>\n    <br>\n    <br>\n    <br>\n    Thank you for using PayPal!<br>\n    The PayPal Team</b><br>\n&nbsp;</td></tr></tbody></table><!-- type = text -->\n\n<br><br><p>\n\n\n<!-- toctype = X-unknown -->\n<!-- toctype = text -->\n<!-- text -->\n\n\n\n\n<!-- END TOC --></p>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<cfadd713-c86d-46ab-8f36-5c00ef4532d7@generated>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "fail",
+      "dkim": "neutral",
+      "dmarc": "pass",
+      "returnpath": "xieyc@hotmail.com",
+      "ipaddress": [
+        "2603:1096:a04::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "PayPal is committed to maintaining a safe environment for its community of customers. To protect the security of your account, PayPal employs some of the most advanced security systems in the world and our anti-fraud teams regularly screen the PayPal system for unusual activity. We are contacting you to remind you that our Account Review Team identified some unusual activity in your account. In accordance with PayPal's User Agreement and to ensure that your account has not been compromised, acce",
+      "links": [
+        "https://www.paypal.com/us",
+        "http://server.biemilac.com/images/.9999/www.paypal.com3/www.paypal.com/cgi-bin/webscr_cmd=_login-run/index.html",
+        "http://images.paypal.com/en_US/i/logo/email_logo.gif",
+        "http://images.paypal.com/images/bg_clk.gif",
+        "http://images.paypal.com/images/pixel.gif",
+        "https://www.paypal.com/cgi-bin/webscr?cmd=_login-run",
+        "http://www.paypal.com/us",
+        "http://www.paypal.com3/www.paypal.com/cgi-bin/webscr_cmd=_login-run/index.html",
+        "http://www.paypal.com/cgi-bin/webscr?cmd=_login-run",
+        "http://www.paypal.com",
+        "http://images.paypal.com",
+        "http://server.biemilac.com"
+      ],
+      "domains": [
+        "paypal.com3",
+        "images.paypal.com",
+        "server.biemilac.com",
+        "paypal.com"
+      ]
+    }
+  }
+}

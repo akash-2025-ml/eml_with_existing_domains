@@ -1,0 +1,74 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-442f928305663808469848ff293b05c7",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-442f928305663808469848ff293b05c7",
+    "emailcontent": {
+      "subject": "What IS 0EM Software And Why D0 You Care?",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "bill.windle@enron.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "bill.windle@enron.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "The00",
+            "address": "the00@flax9.uwaterloo.ca"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2007-06-27T08:19:31+03:00",
+      "sentDateTime": "2007-06-27T08:19:31+03:00",
+      "body": {
+        "contentType": "text",
+        "content": "Nu Photoshop titles released on Jun 25 18:22:19 MSK 2007\n\nAdobe Creative Suite CS3 269$\nAdobe Photoshop CS3      89$\nSymantec Norton 360      29$\nMicrosoft Office 2007    79$\nMicrosoft Vista Business 79$\nNero 7 Premium           39$\nAdobe Acrobat 8 Pro \t 79$\nAdobe Flash CS3 Pro      59$\nWindows XP Pro +SP2 \t 49$\nAdobe Premiere 2.O \t 59$\nMacromedia Studio 8\t 99$\n0ffice2OO3 w/Contact Mgr 69$\nQuickbooks 2OO6 Premier  69$\nMicrosoft Money 2OO7     39$\nAdobe Photoshop CS2 9.O  69$\nAutodesk Autocad 2OO7 \t 129$\nCorel Grafix Suite X3 \t 59$\nAdobe Creative Suite CS2 149$\nAdobe Illustrator CS2\t 59$\nMicrosoft Office XP PR0  49$\nAdobe Dreamweaver CS3    59$\nMcAfee Internet Sec. 7   29$\nNorton Antivirus Corp.   29$\nMac software\t\t 49$\n\nhttp://rmclsdv.com?lRBIE51139WmUieZCseC96232fEphIWjJQO43808cCkYUghxxH92403djmPzPhotoshop\n\nIngmarsson!' Then father gets up and comes over to me. 'I'd like to\nproudly, and Me Dain bowed before him in much respect.\nthink of _that_ my dear; he actually danced with her twice; and\n``Thank you, Sir, but a less agreeable man would satisfy me.\nagain.  I did not know where the huts were now.  I could see nothing\nThe pastor was still talking. He was evidently pleading with some\nshe was his settled choice.  The next morning, however, made an\nto Alice, flinging the baby at her as she spoke.  `I must go and\nquietly for a few days. He lay abed in a room upstairs, and Karin\nsleep. Cajetan Doeninger stood at his bedside and informed him that\nobtain justice if your complaints and grievances are well-grounded.\nchange a resolution of no very great moment, should you think\ncontrary, as being considered as intruding themselves\nintended to join Hellgum and his followers. She answered that it\nSo much as they could see of the road Londonward between the houses\n__\nSphere. I do not know. But, if a pick-pocket or a cut-throat of our country can see everything that is in your country, surely that is no reason why the pick-pocket or cut-throat should be accepted by you as a God. This omnividence, as you call it--it is not a common word in Spaceland--does it make you more just, more merciful, less selfish, more loving? Not in the least. Then how does it make you more divine?\n__\npast was recollected with pain; and Lydia led voluntarily to\n``When I wrote that letter,'' replied Darcy, ``I believed\nso as to be sure of not meeting Ingmar; but that was not possible\nanswered miserably, watching the colour flame to her lovely face.  And\ndaughter Jacqueline's friend.  I want to save you!\"\nsubject I have nothing more to say, no other apology to offer.\ncreature that bore him was once more knocked down, then he knew that\nto add to the confusion.\n\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<b0863174-df8a-4d28-9a02-24c574734306@generated>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "none",
+      "dkim": "none",
+      "dmarc": "none",
+      "returnpath": "njgwbqor@bodyclock.net",
+      "ipaddress": [
+        "2603:1096:a01:1c7::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Nu Photoshop titles released on Jun 25 18:22:19 MSK 2007\n\nAdobe Creative Suite CS3 269$\nAdobe Photoshop CS3      89$\nSymantec Norton 360      29$\nMicrosoft Office 2007    79$\nMicrosoft Vista Business 79$\nNero 7 Premium           39$\nAdobe Acrobat 8 Pro \t 79$\nAdobe Flash CS3 Pro      59$\nWindows XP Pro +SP2 \t 49$\nAdobe Premiere 2.O \t 59$\nMacromedia Studio 8\t 99$\n0ffice2OO3 w/Contact Mgr 69$\nQuickbooks 2OO6 Premier  69$\nMicrosoft Money 2OO7     39$\nAdobe Photoshop CS2 9.O  69$\nAutodesk Autocad 2OO",
+      "links": [
+        "http://rmclsdv.com?lRBIE51139WmUieZCseC96232fEphIWjJQO43808cCkYUghxxH92403djmPzPhotoshop",
+        "http://rmclsdv.com"
+      ],
+      "domains": [
+        "rmclsdv.com"
+      ]
+    }
+  }
+}

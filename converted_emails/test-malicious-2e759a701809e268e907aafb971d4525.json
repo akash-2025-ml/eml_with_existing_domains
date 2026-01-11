@@ -1,0 +1,95 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-2e759a701809e268e907aafb971d4525",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-2e759a701809e268e907aafb971d4525",
+    "emailcontent": {
+      "subject": "Your Account Was Hijacked",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "bdrnxkh_erpoo2006@zigjuw.org"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "bdrnxkh_erpoo2006@zigjuw.org"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "avaughan@br-inc.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "dkhenry@br-inc.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "audrey.oneil@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2007-09-11T23:17:40-04:00",
+      "sentDateTime": "2007-09-11T23:17:40-04:00",
+      "body": {
+        "contentType": "html",
+        "content": "\n<html>\n\n<body>\n\n<table border=\"1\" width=\"57%\">\n        <tr>\n                <td>\n                <p align=\"center\">\n                </p>\n                <p align=\"left\">\n                <img border=\"0\" src=\"http://419.bittenus.com/phishing/chase_bank_logo.jpg\" \nalign=\"right\"><b><font face=\"Arial\" size=\"2\">Dear Chase\n                valued customer,</font></b><br>\n                <br>\n                <font face=\"Arial\" size=\"2\">We recently noticed one or more attempts to log in your\n\t\t\t\tChase account from a foreign IP address and we have\nreasons to believe\n                that your account was hijacked by a third party without\nyour\n                authorization. If you recently accessed your account while \n                traveling, the log\n                in attempts may have initiated by you.<br>\n                <br>\n                However if you are the rightful holder of the account, click on \n                the link below and submit, as we try to verify your account.\n                </font><br>\n                <br>\n\n<a target=\"_blank\" href=\"http://80.219.36.1/bizpartner/chaseonline.chase.com/\">\n\t\t Log on to Chase Internet Banking</a> and fill in the required informations. This is required for us to continue to offer you a safe and risk free environment. <br>\n                <br>\n                <font face=\"Arial\" size=\"2\">The log in attempt was made from:<br>\n                <br>\n                IP address: <b>89.30.50.107</b><br>\n                ISP host: <b>89.30.50.107.drmnet.org</b><br>\n                <br>\n                If you choose to ignore our request, you leave us no\nchoice but to\n                temporally suspend your account.<br>\n                We ask that you allow at least 48hrs for the case to be\ninvestigated and\n                we strongly recommend not making any changes to your\naccount in that\n                time.<br>\n                <br>\n<font color=\"#808080\">* Please do not respond to this\nemail as your\n                reply will not be received.</font><br>\n                <br>\n                Thank you for your patience as we work together to protect\nyour account.</font><p align=\"left\">\n                &nbsp;</td>\n        </tr>\n        <tr>\n                <td>\n                <p align=\"center\"><b><font face=\"Verdana\" size=\"2\">Copyright  2007 JPMorgan Chase & Co. All rights reserved.</font></b></td>\n        </tr>\n</table>\n\n</body>\n</html>\n\n\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<TEL28307dKwKkLxFjjB0000014f@tel2830>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "none",
+      "dkim": "pass",
+      "dmarc": "pass",
+      "returnpath": "bdrnxkh_erpoo2006@zigjuw.org",
+      "ipaddress": [
+        "2603:1096:c01:ec::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Dear Chase valued customer, We recently noticed one or more attempts to log in your Chase account from a foreign IP address and we have reasons to believe that your account was hijacked by a third party without your authorization. If you recently accessed your account while traveling, the log in attempts may have initiated by you. However if you are the rightful holder of the account, click on the link below and submit, as we try to verify your account. Log on to Chase Internet Banking and fill ",
+      "links": [
+        "http://80.219.36.1/bizpartner/chaseonline.chase.com/",
+        "http://419.bittenus.com/phishing/chase_bank_logo.jpg",
+        "http://80.219.36.1/bizpartner/chaseonline.chase.com",
+        "http://419.bittenus.com",
+        "http://logo.jp",
+        "http://chaseonline.chase.com",
+        "http://89.30.50.107.drmnet.org"
+      ],
+      "domains": [
+        "89.30.50.107.drmnet.org",
+        "419.bittenus.com",
+        "80.219.36.1",
+        "chaseonline.chase.com",
+        "logo.jp"
+      ]
+    }
+  }
+}

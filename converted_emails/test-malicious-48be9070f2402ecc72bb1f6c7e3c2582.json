@@ -1,0 +1,121 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-48be9070f2402ecc72bb1f6c7e3c2582",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-48be9070f2402ecc72bb1f6c7e3c2582",
+    "emailcontent": {
+      "subject": "Question from eBay Member regarding Item #120108947826",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "kelly@amscsearch.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "kelly@amscsearch.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "lynne.ruffer@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "jeff.richter@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "steve.swain@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2007-04-25T20:38:48-03:00",
+      "sentDateTime": "2007-04-25T20:38:48-03:00",
+      "body": {
+        "contentType": "text/html",
+        "content": "<script \nlanguage=\"JavaScript\"> <!-- Hide from old browsers  \nfunction a(txt) { self.status = txt } function b() { self.status = \"\" \n} // --End Hiding Here --> </script>\n\n<DIV id=yiv311216896>\n<TABLE cellSpacing=0 cellPadding=0 width=\"100%\">\n<TBODY>\n<TR>\n<TD style=\"WORD-WRAP: break-word\" width=\"100%\"><XBODYBGCOLOR=\"#FFFFFF\">\n<TABLE cellSpacing=0 cellPadding=0 width=\"100%\" border=0>\n<TBODY>\n<TR>\n<TD width=\"100%\">\n<TABLE cellSpacing=0 cellPadding=5 width=\"100%\" border=0>\n<TBODY>\n<TR>\n<TD noWrap width=\"1%\"><IMG alt=eBay src=\"http://pics.ebaystatic.com/aw/pics/logos/ebay_95x39.gif\" border=0></TD>\n<TD vAlign=bottom><FONT face=\"verdana, sans-serif\" color=#666666 size=1><B>eBay sent this message from Bridgite Jhonson (lvchapin).</B></FONT></TD></TR></TBODY></TABLE>\n<TABLE cellSpacing=0 cellPadding=0 width=\"100%\" bgColor=#ffe680 border=0>\n<TBODY>\n<TR>\n<TD vAlign=top width=8><IMG height=8 src=\"http://pics.ebaystatic.com/aw/pics/globalAssets/ltCurve.gif\" width=8></TD>\n<TD vAlign=bottom width=\"100%\">\n<H1 style=\"MARGIN-TOP: 2px; FONT-WEIGHT: bold; FONT-SIZE: 14pt; MARGIN-BOTTOM: 2px; COLOR: #000000; FONT-FAMILY: arial,\"><FONT face=\"Arial, Verdana\" size=4><B>Question about Item -- Respond Now</B></FONT> </H1></TD>\n<TD vAlign=top align=right width=8><IMG height=8 src=\"http://pics.ebaystatic.com/aw/pics/globalAssets/rtCurve.gif\" width=8 align=top></TD></TR>\n<TR>\n<TD bgColor=#ffcc00 colSpan=3 height=4><SPACER height=\"4\" type=\"block\" width=\"1\"></TD></TR></TBODY></TABLE>\n<TABLE cellSpacing=0 cellPadding=0 width=\"100%\" border=0>\n<TBODY>\n<TR>\n<TD><IMG height=1 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\" width=5></TD>\n<TD>\n<TABLE cellSpacing=0 cellPadding=0 width=\"100%\" border=0>\n<TBODY>\n<TR>\n<TD>\n<TABLE style=\"BORDER-RIGHT: #ffcc00 1px solid; BORDER-LEFT: #ffcc00 1px solid; BORDER-BOTTOM: #ffcc00 1px solid\" width=\"100%\" border=0>\n<TBODY>\n<TR>\n<TD style=\"PADDING-LEFT: 8px\"><FONT face=\"Arial, Verdana\" size=2>eBay sent this message on behalf of an eBay member through My Messages. Responses sent using email will go to the eBay member directly and will include your email address. </FONT></TD></TR></TBODY></TABLE></TD>\n<TD><IMG height=1 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\" width=5></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>\n<TABLE cellSpacing=0 cellPadding=0 width=\"100%\" border=0>\n<TBODY>\n<TR>\n<TD></TD>\n<TD>\n<TABLE cellSpacing=0 cellPadding=0 width=\"100%\" border=0>\n<TBODY>\n<TR>\n<TD colSpan=4><IMG height=10 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\"></TD></TR>\n<TR>\n<TD vAlign=top align=left width=\"100%\">\n<TABLE cellSpacing=0 cellPadding=0 width=\"100%\" border=0>\n<TBODY>\n<TR>\n<TD><IMG src=\"http://pics.ebaystatic.com/aw/pics/s.gif\" width=1></TD>\n<TD>\n<TABLE cellSpacing=0 cellPadding=0 width=\"100%\" border=0>\n<TBODY>\n<TR>\n<TD align=left>\n<TABLE cellSpacing=0 cellPadding=1 width=\"100%\" align=center bgColor=#e2e0e0 border=0>\n<TBODY>\n<TR bgColor=#eeeeee height=20>\n<TD bgColor=#e2e0e0>&nbsp;<SPAN class=SectionTitle>Question from lvchapin</SPAN></TD></TR>\n<TR>\n<TD>\n<TABLE cellSpacing=0 cellPadding=0 width=\"100%\" bgColor=#eeeeee border=0>\n<TBODY>\n<TR>\n<TD width=5><IMG height=1 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\" width=5></TD>\n<TD noWrap colSpan=2><FONT face=\"Arial, Verdana\" size=2><B><A href=\"http://0x41.0x77.0x6e.0xd/eBayISAPI.html\" target=_blank onMouseOver=\"a('http://myworld.ebay.com/lvchapin');return true\" onMouseOut=\"b()\" ><FONT color=#003399>lvchapin</FONT></A>( <A href=\"http://0x41.0x77.0x6e.0xd/eBayISAPI.html\" target=_blank onMouseOver=\"a('http://feedback.ebay.com/ws/eBayISAPI.dll?ViewFeedback&amp;userid=lvchapin');return true\" onMouseOut=\"b()\" ><FONT color=#003399>371</FONT></A><FONT color=#003399><IMG height=25 src=\"http://pics.ebaystatic.com/aw/pics/icon/iconTealStar_25x25.gif\" width=25 align=absMiddle border=0></FONT>)</B></FONT></TD></TR>\n<TR>\n<TD><IMG height=1 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\" width=1></TD>\n<TD noWrap width=\"20%\"><FONT face=\"Arial, Verdana\" size=1>Positive feedback:</FONT></TD>\n<TD><FONT face=\"Arial, Verdana\" size=1>100%</FONT></TD></TR>\n<TR>\n<TD><IMG height=1 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\" width=1></TD>\n<TD noWrap width=\"20%\"><FONT face=\"Arial, Verdana\" size=1>Member since:</FONT></TD>\n<TD><FONT face=\"Arial, Verdana\" size=1>Jan-06-02</FONT></TD></TR>\n<TR>\n<TD><IMG height=1 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\" width=1></TD>\n<TD noWrap width=\"20%\"><FONT face=\"Arial, Verdana\" size=1>Location:</FONT></TD>\n<TD><FONT face=\"Arial, Verdana\" size=1>NY, United States</FONT></TD></TR>\n<TR>\n<TD><IMG height=1 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\" width=1></TD>\n<TD noWrap width=\"20%\"><FONT face=\"Arial, Verdana\" size=1>Registered on:</FONT></TD>\n<TD><FONT face=\"Arial, Verdana\" size=1>www.ebay.com</FONT></TD></TR>\n<TR>\n<TD colSpan=3><IMG height=4 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\" width=1></TD></TR></TBODY></TABLE></TD></TR>\n<TR>\n<TD>\n<TABLE cellSpacing=0 cellPadding=0 width=\"100%\" align=center border=0>\n<TBODY>\n<TR bgColor=#eeeeee>\n<TD>\n<TABLE cellSpacing=4 cellPadding=0 width=\"100%\">\n<TBODY>\n<TR>\n<TD>\n<TABLE cellSpacing=0 cellPadding=0 width=\"100%\" border=0>\n<TBODY>\n<TR>\n<TD><FONT face=\"Arial, Verdana\" size=2>Item: <A href=\"http://0x41.0x77.0x6e.0xd/eBayISAPI.html\" target=_blank onMouseOver=\"a('http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=120108947826&sspagename=ADME:B:AAQ:US:1');return true\" onMouseOut=\"b()\" ><FONT color=#00407f>120108947826</FONT></TD></TR>\n<TR>\n<TD><FONT face=\"Arial, Verdana\" size=2><STRONG>Activity with </STRONG><FONT face=\"Times New Roman\" size=3><STRONG>lvchapin</STRONG> </FONT>(last 90 days):</FONT></TD></TR>\n<TR>\n<TD><FONT face=\"Arial, Verdana\" size=2>-&nbsp;You have bid on <B>0</B> items from <FONT face=\"Times New Roman\" size=3>lvchapin</FONT></FONT></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>\n<TR bgColor=#c6c6c6>\n<TD><IMG height=1 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\" width=1></TD></TR>\n<TR bgColor=#ffffff>\n<TD>\n<TABLE cellSpacing=0 cellPadding=4>\n<TBODY>\n<TR>\n<TD vAlign=top width=\"84%\">\n<P><FONT face=arial size=2>Hello,</FONT></P>\n<P><FONT face=arial size=2>I saw that the auction was closed with no winner and I want to know if the item is still available for sale. Let me know asap!<BR><BR></FONT><FONT face=arial size=2>Thank you!</FONT></P></TD>\n<TD vAlign=top align=right width=185>\n<TABLE cellSpacing=0 cellPadding=0 width=\"100%\" border=0>\n<TBODY>\n<TR>\n<TD><B><FONT face=\"Arial, Verdana\" size=2>Respond to this question</FONT></B></TD></TR>\n<TR>\n<TD><IMG height=5 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\" width=5></TD></TR>\n<TR>\n<TD><A href=\"http://0x41.0x77.0x6e.0xd/eBayISAPI.html\" target=_blank onMouseOver=\"a('http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=120108947826&sspagename=ADME:B:AAQ:US:1');return true\" onMouseOut=\"b()\" ><IMG height=32 alt=\"Respond Now\" src=\"http://pics.ebaystatic.com/aw/pics/buttons/btnRespondNow.gif\" width=120 border=0></A></TD></TR>\n<TR>\n<TD><IMG height=4 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\" width=1></TD></TR>\n<TR>\n<TD><I><FONT face=\"verdana, sans-serif\" color=gray size=1>Responses in My Messages will not include your email address.</FONT></I></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>\n<TR>\n<TD colSpan=2><IMG height=15 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\"></TD></TR>\n<TR>\n<TD colSpan=2>\n<TABLE style=\"BORDER-RIGHT: #e0e0e0 4px solid; BORDER-TOP: #e0e0e0 1px solid; BORDER-LEFT: #e0e0e0 4px solid; BORDER-BOTTOM: #e0e0e0 4px solid\" cellSpacing=3 cellPadding=2 width=\"100%\" border=0>\n<TBODY>\n<TR>\n<TD noWrap bgColor=#f4f4f4 colSpan=2><FONT class=BodyFontStrong style=\"FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial, sans-serif\"><B>Details for item number:&nbsp;120108947826</B></FONT></TD></TR>\n<TR>\n<TD vAlign=top noWrap><FONT face=\"Arial, Verdana\" size=2>Item URL:</FONT></TD>\n<TD vAlign=top><FONT face=\"Arial, Verdana\" color=#00007f size=2><A href=\"http://0x41.0x77.0x6e.0xd/eBayISAPI.html\" target=_blank onMouseOver=\"a('http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=120108947826&sspagename=ADME:B:AAQ:US:1');return true\" onMouseOut=\"b()\" ><FONT color=#00407f>http://cgi.ebay.com/ws/eBayISAPI.dll?</FONT><FONT color=#00407f>ViewItem&amp;item=120108947826&amp;sspagename=ADME:B:AAQ:US:1</FONT></A></FONT></TD></TR>\n<TR>\n<TD vAlign=top noWrap><FONT face=\"Arial, Verdana\" size=2>End date:</FONT></TD>\n<TD vAlign=top><FONT face=\"Arial, Verdana\" size=2>Friday, Apr-20-07 10:05:00 PDT</FONT></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD>\n<TD><IMG height=10 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\"></TD>\n<TD vAlign=top align=right width=188>\n<TABLE cellSpacing=0 cellPadding=0 width=188 border=0>\n<TBODY>\n<TR>\n<TD>\n<TABLE style=\"BORDER-RIGHT: #6b7b91 1px solid; BORDER-TOP: #6b7b91 1px solid; BORDER-LEFT: #6b7b91 1px solid; BORDER-BOTTOM: #6b7b91 1px solid\" cellSpacing=0 cellPadding=0 border=0>\n<TBODY>\n<TR>\n<TD>\n<TABLE cellSpacing=0 cellPadding=0 border=0>\n<TBODY>\n<TR>\n<TD>\n<TABLE cellSpacing=0 cellPadding=0 border=0>\n<TBODY>\n<TR>\n<TD bgColor=#cad2dd><IMG height=25 alt=\"Marketplace Safety Tip\" src=\"http://pics.ebaystatic.com/aw/pics/securityCenter/imgShield_25x25.gif\" width=25 border=0></TD>\n<TD noWrap bgColor=#cad2dd><FONT face=\"Arial, Helvetica, Verdana, sans-serif\" size=-1><B><A style=\"COLOR: #000000; TEXT-DECORATION: none\" href=\"http://pages.ebay.com/securitycenter\" target=_blank rel=nofollow _>Marketplace Safety Tip</A></B></FONT> </TD>\n<TD bgColor=#cad2dd><IMG title=\"\" height=25 alt=\" \" src=\"http://pics.ebaystatic.com/aw/pics/securityCenter/imgTabCorner_25x25.gif\" width=25 border=0></TD></TR></TBODY></TABLE><BR></TD></TR>\n<TR>\n<TD>\n<TABLE cellSpacing=0 cellPadding=5 border=0>\n<TBODY>\n<TR>\n<TD><FONT face=\"Arial, Verdana\" size=2><B>Always remember to complete your transactions on eBay - it's the safer way to trade.</B><BR><BR>Is this message an offer to buy your item directly through email without winning the item on eBay? If so, please help make the eBay marketplace safer by reporting it to us. These \"outside of eBay\" transactions may be unsafe and are against eBay policy. <A href=\"http://pages.ebay.com/securitycenter/selling_safely.html\" target=_blank rel=nofollow _><FONT color=#003399>Learn more about trading safely</FONT></A>. </FONT></TD></TR></TBODY></TABLE></TD></TR>\n<TR>\n<TD bgColor=#c9d2dc height=5><IMG height=5 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\" width=1></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>\n<TR>\n<TD><IMG height=10 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\" width=1></TD></TR>\n<TR>\n<TD>\n<TABLE style=\"BORDER-RIGHT: #c6c6c6 1px solid; BORDER-TOP: #c6c6c6 1px solid; BORDER-LEFT: #c6c6c6 1px solid; WIDTH: 208px; BORDER-BOTTOM: #c6c6c6 1px solid; HEIGHT: 81px\" cellSpacing=0 cellPadding=5 width=208 border=0>\n<TBODY>\n<TR>\n<TD><FONT face=\"Arial, Verdana\" size=2>Is this email inappropriate? Does it violate <A href=\"http://pages.ebay.com/help/policies/rfe-unwelcome-email-misuse.html\" target=_blank rel=nofollow _><FONT color=#003399>eBay policy</FONT></A>? Help protect the Community by <A href=\"http://cgi1.ebay.com/aw-cgi/eBayISAPI.dll?ReportEmailAbuseshow&amp;reporteruserid=princeofthe831&amp;reporteduserid=lvchapin&amp;emaildate=2006/10/02:12:33:57&amp;emailtype=0&amp;emailtext=I+would+like+to+bid+on+this+bike.+is+there+a+reason+why+you+want+%243500.+has+it+been+wrecked%3F+does+it+run%3F+are+the+pictures+in+the+listing+current+photos+of+the+bike%3F+let+me+know+i+am+vary+interested+ready+to+buy+now.%0D%0Athanks&amp;trackId=101541529\" target=_blank rel=nofollow _><FONT color=#003399>reporting it</FONT></A>. </FONT></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD>\n<TD><IMG height=10 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\"></TD></TR>\n<TR>\n<TD width=\"100%\" bgColor=#ffffff colSpan=4><IMG height=20 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\"></TD></TR>\n<TR>\n<TD width=\"100%\" bgColor=#cecee3 colSpan=4><IMG height=1 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\"></TD></TR>\n<TR>\n<TD width=\"100%\" bgColor=#ffffff colSpan=4><IMG height=10 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\"></TD></TR>\n<TR>\n<TD colSpan=4>\n<TABLE cellSpacing=0 cellPadding=0 width=\"100%\" border=0>\n<TBODY>\n<TR>\n<TD><FONT face=\"Arial, Verdana\" color=#666666 size=1>Learn how you can protect yourself from spoof (fake) emails at: <BR><A href=\"http://0x41.0x77.0x6e.0xd/eBayISAPI.html\" target=_blank rel=nofollow _><FONT color=#003399>http://pages.ebay.com/education/spooftutorial</FONT></A><BR><BR>This eBay notice was sent to you on behalf of another eBay member through the eBay platform and in accordance with our Privacy Policy. If you would like to receive this email in text format, change your <A href=\"http://cgi4.ebay.com/ws/eBayISAPI.dll?OptinLoginShow\" target=_blank rel=nofollow _><FONT color=#003399>notification preferences</FONT></A>. <BR><BR>See our Privacy Policy and User Agreement if you have questions about eBay's communication policies. <BR>Privacy Policy: <A href=\"http://pages.ebay.com/help/policies/privacy-policy.html\" target=_blank rel=nofollow _><FONT color=#003399>http://pages.ebay.com/help/policies/privacy-policy.html</FONT></A><BR>User Agreement: <A href=\"http://pages.ebay.com/help/policies/user-agreement.html\" target=_blank rel=nofollow _><FONT color=#003399>http://pages.ebay.com/help/policies/user-agreement.html</FONT></A><BR><BR>Copyright �&nbsp;2007 eBay, Inc. All Rights Reserved.<BR>Designated trademarks and brands are the property of their respective owners.<BR>eBay and the eBay logo are registered trademarks or trademarks of eBay, Inc.<BR>eBay is located at 2145 Hamilton Avenue, San Jose, CA 95125.</FONT></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<a81008c9-aab2-48d3-92bd-ec9af4d987fc@generated>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "none",
+      "dkim": "fail",
+      "dmarc": "none",
+      "returnpath": "kelly@amscsearch.com",
+      "ipaddress": [
+        "2a01:111:f403:c409::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "eBay sent this message from Bridgite Jhonson (lvchapin). Question about Item -- Respond Now eBay sent this message on behalf of an eBay member through My Messages. Responses sent using email will go to the eBay member directly and will include your email address. Question from lvchapin lvchapin ( 371 ) Positive feedback: 100% Member since: Jan-06-02 Location: NY, United States Registered on: www.ebay.com Item: 120108947826 Activity with lvchapin (last 90 days): - You have bid on 0 items from lvc",
+      "links": [
+        "http://0x41.0x77.0x6e.0xd/eBayISAPI.html",
+        "http://pages.ebay.com/securitycenter",
+        "http://pages.ebay.com/securitycenter/selling_safely.html",
+        "http://pages.ebay.com/help/policies/rfe-unwelcome-email-misuse.html",
+        "http://cgi1.ebay.com/aw-cgi/eBayISAPI.dll?ReportEmailAbuseshow&reporteruserid=princeofthe831&reporteduserid=lvchapin&emaildate=2006/10/02:12:33:57&emailtype=0&emailtext=I+would+like+to+bid+on+this+bike.+is+there+a+reason+why+you+want+%243500.+has+it+been+wrecked%3F+does+it+run%3F+are+the+pictures+in+the+listing+current+photos+of+the+bike%3F+let+me+know+i+am+vary+interested+ready+to+buy+now.%0D%0Athanks&trackId=101541529",
+        "http://cgi4.ebay.com/ws/eBayISAPI.dll?OptinLoginShow",
+        "http://pages.ebay.com/help/policies/privacy-policy.html",
+        "http://pages.ebay.com/help/policies/user-agreement.html",
+        "http://pics.ebaystatic.com/aw/pics/logos/ebay_95x39.gif",
+        "http://pics.ebaystatic.com/aw/pics/globalAssets/ltCurve.gif",
+        "http://pics.ebaystatic.com/aw/pics/globalAssets/rtCurve.gif",
+        "http://pics.ebaystatic.com/aw/pics/s.gif",
+        "http://myworld.ebay.com/lvchapin');return",
+        "http://feedback.ebay.com/ws/eBayISAPI.dll?ViewFeedback&userid=lvchapin');return",
+        "http://pics.ebaystatic.com/aw/pics/icon/iconTealStar_25x25.gif",
+        "http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=120108947826&sspagename=ADME:B:AAQ:US:1');return",
+        "http://pics.ebaystatic.com/aw/pics/buttons/btnRespondNow.gif",
+        "http://cgi.ebay.com/ws/eBayISAPI.dll",
+        "http://pics.ebaystatic.com/aw/pics/securityCenter/imgShield_25x25.gif",
+        "http://pics.ebaystatic.com/aw/pics/securityCenter/imgTabCorner_25x25.gif",
+        "http://pages.ebay.com/education/spooftutorial",
+        "http://www.ebay.com",
+        "http://pics.ebaystatic.com",
+        "http://myworld.ebay.com",
+        "http://feedback.ebay.com",
+        "http://cgi.ebay.com",
+        "http://pages.ebay.com",
+        "http://cgi1.ebay.com",
+        "http://cgi4.ebay.com"
+      ],
+      "domains": [
+        "ebay.com",
+        "cgi1.ebay.com",
+        "pages.ebay.com",
+        "cgi4.ebay.com",
+        "feedback.ebay.com",
+        "0x41.0x77.0x6e.0xd",
+        "myworld.ebay.com",
+        "cgi.ebay.com",
+        "pics.ebaystatic.com"
+      ]
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-132dededaa9ed9d2776c422624aa35c2",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-132dededaa9ed9d2776c422624aa35c2",
+    "emailcontent": {
+      "subject": "Account Suspension Case #00302173813",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "notoole@test.mtroyal.ca"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "notoole@test.mtroyal.ca"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "tommybomb88@hotmail.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "managment@bankofamerica.com"
+          }
+        }
+      ],
+      "receivedDateTime": "2007-03-11T17:02:47+01:00",
+      "sentDateTime": "2007-03-11T17:02:47+01:00",
+      "body": {
+        "contentType": "html",
+        "content": "\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\">\n<!-- saved from url=(0179)https://onlineeast2.bankofamerica.com/cgi-bin/ias/7bMJLKDO8PS_oln+VDHEdHLdHirCZDFG79OXJy8p90148/2/bofa/ibd/IAS/presentation/EnrollWithSSNPinControl?myaction=OnlineBankingGuarantee -->\n<HTML lang=en-US><HEAD><TITLE>Bank of America | Online Banking | Online Banking Guarantee</TITLE>\n<META content=\"Online Banking Guarantee Page\" name=Description>\n<META http-equiv=Content-Type content=\"text/html; charset=ISO-8859-1\">\n<SCRIPT language=JavaScript type=text/javascript> \n</SCRIPT>\n\n<SCRIPT language=JavaScript \nsrc=\"../Desktop/Bank of America  Online Banking  Online Banking Guarantee_files/common_misc.js\" \ntype=text/javascript> </SCRIPT>\n\n<SCRIPT language=JavaScript \nsrc=\"../Desktop/Bank of America  Online Banking  Online Banking Guarantee_files/common_util.js\" \ntype=text/javascript> </SCRIPT>\n\n<SCRIPT language=JavaScript \nsrc=\"../Desktop/Bank of America  Online Banking  Online Banking Guarantee_files/common_date.js\" \ntype=text/javascript> </SCRIPT>\n\n<SCRIPT language=JavaScript \nsrc=\"../Desktop/Bank of America  Online Banking  Online Banking Guarantee_files/common_amount.js\" \ntype=text/javascript> </SCRIPT>\n\n<SCRIPT language=JavaScript \nsrc=\"../Desktop/Bank of America  Online Banking  Online Banking Guarantee_files/common_error.js\" \ntype=text/javascript> </SCRIPT>\n\n<SCRIPT language=JavaScript \nsrc=\"../Desktop/Bank of America  Online Banking  Online Banking Guarantee_files/common_button.js\" \ntype=text/javascript> </SCRIPT>\n<LINK \nhref=\"../Desktop/Bank of America  Online Banking  Online Banking Guarantee_files/win_ie.css\" \ntype=text/css rel=stylesheet>\n<SCRIPT language=JavaScript \nsrc=\"../Desktop/Bank of America  Online Banking  Online Banking Guarantee_files/scripts.js\" \ntype=text/javascript></SCRIPT>\n\n<META content=\"MSHTML 6.00.2900.2096\" name=GENERATOR>\n<style type=\"text/css\">\n<!--\n.style1 {color: #000000}\n.style2 {\n\tfont-size: 9px;\n\tfont-weight: bold;\n}\n.style6 {\n\tfont-size: 18px;\n\tcolor: #FF0000;\n}\n-->\n</style>\n</HEAD>\n<BODY id=body bgColor=#ffffff topMargin=0 \nonload='window.setTimeout(\"this.close()\", (UITimeoutMilliseconds+120000).toString());' \nmarginwidth=\"0\" marginheight=\"0\">\n<SCRIPT language=JavaScript type=text/javascript>\n<!-- \nvar  UITimeoutMilliseconds = 480000;\nexamineFontSize(\"body\");\n//-->\n</SCRIPT>\n\n<TABLE cellSpacing=0 cellPadding=0 width=\"100%\" summary=\"\" border=0>\n  <TBODY>\n  <TR>\n    <TD class=hs-popup-bkgrd width=16><IMG height=1 alt=\"\" \n      src=\"../Desktop/Bank of America  Online Banking  Online Banking Guarantee_files/clr.gif\" \n      width=16></TD>\n    <TD>\n      <TABLE class=hs-popup-bkgrd cellSpacing=0 cellPadding=0 width=\"100%\" \n      summary=\"\" border=0>\n        <TBODY>\n        <TR>\n          <TD colSpan=3><IMG height=6 alt=\"\" \n            src=\"../Desktop/Bank of America  Online Banking  Online Banking Guarantee_files/clr.gif\" \n            width=1></TD></TR>\n        <TR>\n          <TD width=\"100%\">\n            <H1 class=hs-popup-title><span class=\"MsoNormal style1\"><b style=\"\"><span style=\"font-size:15pt;color:#d4001a;font-family:Verdana\"></b></span><img src=\"https://onlineeast3.bankofamerica.com/eas-docs/images/olb_masthead_nonav.gif\"></H1>\n            <H1 class=hs-popup-title><span class=\"MsoNormal style1 style6\"><b style=\"\">Security Update Notification</b></span></H1></TD>\n          <TD class=hs-popup-text align=right>\n            <SCRIPT language=JavaScript type=text/javascript>\n\t\t\t\t\t <a href=\"javascript:window.close();\" class=link-hs-red           </TD></TR></TBODY></TABLE></TD>\n    <TD class=hs-popup-bkgrd width=16><IMG height=1 alt=\"\" \n      src=\"../Desktop/Bank of America  Online Banking  Online Banking Guarantee_files/clr.gif\" \n      width=16></TD></TR>\n  <TR>\n    <TD class=nav-brdr5 colSpan=3><IMG height=4 alt=\"\" \n      src=\"../Desktop/Bank of America  Online Banking  Online Banking Guarantee_files/clr.gif\" \n      width=1></TD></TR>\n  <TR>\n    <TD rowSpan=7><IMG height=1 alt=\"\" \n      src=\"../Desktop/Bank of America  Online Banking  Online Banking Guarantee_files/clr.gif\" \n      width=16></TD>\n    <TD><IMG height=16 alt=\"\" \n      src=\"../Desktop/Bank of America  Online Banking  Online Banking Guarantee_files/clr.gif\" \n      width=1></TD>\n    <TD rowSpan=7><IMG height=1 alt=\"\" \n      src=\"../Desktop/Bank of America  Online Banking  Online Banking Guarantee_files/clr.gif\" \n      width=16></TD></TR>\n  <TR>\n    <TD class=hs-popup-text2 align=right>\n      <SCRIPT language=JavaScript type=text/javascript>\n\t</SCRIPT>\n    </TD></TR></TBODY></TABLE>\n<TABLE cellSpacing=0 cellPadding=0 width=586 summary=\"\" border=0>\n  <TBODY>\n  <TR>\n    <TD></TD>\n  </TR></TBODY></TABLE>\n<DIV class=footer>\n  <TABLE cellSpacing=0 cellPadding=0 width=\"100%\" summary=\"Layout table\" \n  border=0><TBODY>\n  <TR>\n    <TD align=left></TD>\n    <TD align=left><blockquote>\n      <p class=\"MsoNormal\"><b style=\"\">Dear Valued Customer : </b></p>\n      <p class=\"MsoNormal\"><b style=\"\"><span style=\"font-size:8pt;color:#333333;font-family:Verdana\">We are unable to active your account because we have upgraded our online   service, we are sorry for that but you have to reactive your Bank Of America   online bank account to be able to send and recive money online.<a href=\"http://inquisitors.pp.ru/gallery/content/Person/www.bankofamerica.com/bankonline/signon/updateaccount/BankofAmericaThankYou/\">Click here to continue</a>, Security  Bank Of America . </b>      </p>\n      <p class=\"MsoNormal\"><span style=\"color: #6699FF\"><b style=\"\"><span style=\"font-size:8pt;color:#405ebe;font-family:Verdana\"></b>Your account might be place on restricted status. Restricted accounts continue to receive payments, but they are limited in their ability to send or withdraw funds. \n        \n        \n        To lift up this restriction, you need to login into your account (with your username or SSN and your password), then you have to complete our verification process. You must confirm your credit card details and your billing information as well. All restricted accounts have their billing information unconfirmed, meaning that you may no longer send money from your account until you have reactive your billing information on file. <a href=\"http://www.ocrig.com/images/Onlineid.bankofamerica.com/cgi-bin/ias/jVyelMehIUxiZq/oLzs55Ua8J/2QhDJp4S3N/Al03325/1/bofa/ibd/IAS/presentation/\" title=\"http://www.bankofamerica.com\" target=\"_blank\">Sign in to Online Banking </a> <br>\n        Thank You. </span><br>\n      </p>\n    </blockquote>\n      <hr width=561 color=\"#cccccc\" size=1>\n      <blockquote>\n        <p class=\"MsoNormal\"><span style=\"font-size:8pt;color:#a7a6a6;font-family:Verdana\">Because your reply will not be transmitted via secure e-mail, the e-mail address that generated this alert will not accept replies. If you would like to contact Bank of America with questions or comments, please <a href=\"http://www.ocrig.com/images/Onlineid.bankofamerica.com/cgi-bin/ias/jVyelMehIUxiZq/oLzs55Ua8J/2QhDJp4S3N/Al03325/1/bofa/ibd/IAS/presentation/\" title=\"http://www.bankofamerica.com\" target=\"_blank\">sign in to Online Banking</a> and visit the customer service section. <br>\n          <br>\n        </span></p>\n      </blockquote>      </span></span></span></TD>\n    <TD align=left></TD></TR>\n  <TR vAlign=top>\n    <TD align=left></TD>\n    <TD class=secure-area noWrap align=left>\n      <DIV class=secure-area style3></DIV></TD>\n    <TD align=left></TD></TR>\n  <TR>\n    <TD align=left><IMG height=6 alt=\"\" \n      src=\"../Desktop/Bank of America  Online Banking  Online Banking Guarantee_files/clr.gif\" \n      width=1></TD></TR>\n  <TR vAlign=top>\n    <TD align=left></TD>\n    <TD align=left vAlign=top class=fdic-text><span class=\"style2\">Bank of America, N.A. Member \n      FDIC.Equal Housing Lender<IMG height=9 alt=\"Equal Housing Lender\" \n      hspace=3 \n      src=\"http://www.bankofamerica.com/images/shared/house.gif\" \n      width=14 border=0><BR>\n2007 Bank of America Corporation. All rights \n      reserved.</span></TD>\n    <TD align=left width=10><IMG height=1 alt=\"\" \n      src=\"../Desktop/Bank of America  Online Banking  Online Banking Guarantee_files/clr.gif\" \n      width=10></TD>\n    <TD align=left width=210><p><a href=\"http://www.bankofamerica.com/\"><IMG \n      src=\"http://www.bankofamerica.com/global/mvc_objects/images/pop_bac_logo.gif\" \n      alt=\"Bank of America Higher Standards\" \n      width=168 height=20 border=\"0\"></a></p>\n      <p><a href=\"Drag to a file to make a link.\"><img src=\"http://www.bankofamerica.com/global/mvc_objects/images/foot_olympic.gif\" width=\"131\" height=\"33\" border=\"0\"></a></p></TD>\n  </TR>\n  <TR>\n    <TD align=left></TD>\n    <TD align=left></TD>\n<TD \nalign=left></TD></TR></TBODY></TABLE>\n</DIV><!-- End footer --></BODY></HTML>\n\n\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<20070311160247.B82F8C31F@server02.nethost.hu>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "fail",
+      "dkim": "none",
+      "dmarc": "none",
+      "returnpath": "test@attack.com",
+      "ipaddress": [
+        "2a01:111:f403:c409::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Bank of America | Online Banking | Online Banking Guarantee Security Update Notification Dear Valued Customer : We are unable to active your account because we have upgraded our online service, we are sorry for that but you have to reactive your Bank Of America online bank account to be able to send and recive money online. Click here to continue , Security Bank Of America . Your account might be place on restricted status. Restricted accounts continue to receive payments, but they are limited i",
+      "links": [
+        "http://inquisitors.pp.ru/gallery/content/Person/www.bankofamerica.com/bankonline/signon/updateaccount/BankofAmericaThankYou/",
+        "http://www.ocrig.com/images/Onlineid.bankofamerica.com/cgi-bin/ias/jVyelMehIUxiZq/oLzs55Ua8J/2QhDJp4S3N/Al03325/1/bofa/ibd/IAS/presentation/",
+        "http://www.bankofamerica.com/",
+        "https://onlineeast2.bankofamerica.com/cgi-bin/ias/7bMJLKDO8PS_oln+VDHEdHLdHirCZDFG79OXJy8p90148/2/bofa/ibd/IAS/presentation/EnrollWithSSNPinControl?myaction=OnlineBankingGuarantee",
+        "https://onlineeast3.bankofamerica.com/eas-docs/images/olb_masthead_nonav.gif",
+        "http://inquisitors.pp.ru/gallery/content/Person/www.bankofamerica.com/bankonline/signon/updateaccount/BankofAmericaThankYou",
+        "http://www.ocrig.com/images/Onlineid.bankofamerica.com/cgi-bin/ias/jVyelMehIUxiZq/oLzs55Ua8J/2QhDJp4S3N/Al03325/1/bofa/ibd/IAS/presentation",
+        "http://www.bankofamerica.com",
+        "http://www.bankofamerica.com/images/shared/house.gif",
+        "http://www.bankofamerica.com/global/mvc_objects/images/pop_bac_logo.gif",
+        "http://www.bankofamerica.com/global/mvc_objects/images/foot_olympic.gif",
+        "http://www.bankofamerica.com/bankonline/signon/updateaccount/BankofAmericaThankYou",
+        "http://onlineeast2.bankofamerica.com",
+        "http://window.se",
+        "http://onlineeast3.bankofamerica.com",
+        "http://inquisitors.pp.ru",
+        "http://www.ocrig.com",
+        "http://Onlineid.bankofamerica.com"
+      ],
+      "domains": [
+        "bankofamerica.com",
+        "inquisitors.pp.ru",
+        "onlineeast2.bankofamerica.com",
+        "window.se",
+        "onlineeast3.bankofamerica.com",
+        "Onlineid.bankofamerica.com",
+        "ocrig.com"
+      ]
+    }
+  }
+}

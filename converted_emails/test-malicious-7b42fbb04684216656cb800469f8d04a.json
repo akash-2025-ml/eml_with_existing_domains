@@ -1,0 +1,94 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-7b42fbb04684216656cb800469f8d04a",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-7b42fbb04684216656cb800469f8d04a",
+    "emailcontent": {
+      "subject": "Fortune !",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "nrcsaran@gcnet.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "nrcsaran@gcnet.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "daniel.allegretti@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "tim.aron@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "nancy.bagot@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "barrdesmonderik@myway.com"
+          }
+        }
+      ],
+      "receivedDateTime": "2007-05-15T03:33:49-04:00",
+      "sentDateTime": "2007-05-15T03:33:49-04:00",
+      "body": {
+        "contentType": "text",
+        "content": "\nDear Partner,\n\nI wish to intimate you with a request that would be of immense Benefit  to both of us. Being an executor of wills, Codicil and Administration  of Estate, it is possible that we may be tempted to make fortune out  of our client's situations when we cannot help it, or left with no  better option. \n\nI am Barrister Desmond Erik, The issue I am presenting to you is a case of my client Mr.Pajares Luis Caceres (An Australia National) a  consultant/contractor with Gulf Maritime General Trading & contracting Company) who WILLED a fortune to his next-of-kin.It was most unfortunate that he and his next-of-kin died on the same  day in an auto crash of Tuesday 10th February 2004.\n\n I am now faced with  the Task of who to pass the fortune to.According to the Irish law,  the fortune is supposed to be bequeathed to the Government.\n\nHowever, I don't belong to that school of thought which proposes that  the fortune of unlucky people be given to the Government. My client made a numbered time (Fixed) Deposit, valued at (7, 500,000.00) Seven Million, Five Hundred Thousand Pounds  Sterlings only, for twelve (12) calendar months with Ulster Bank Ltd,  Ballincollig Cork, Ireland. \n\nUpon maturity, the bank sent a routine notification to his forwarding  address but got no reply. This prompted me as the legal representative among others to inform Ulster Bank Ltd  the sudden death of my client and to present the Next of Kin in accordance with the Irish Probate and Inheritance Board.\n\nThis sum of 7,500,000.00 Seven Million, Five Hundred Thousand Pounds  Sterlings is in the Bank right now and the interest is being rolled  over with the principal sum at the end of each year. No one will ever come forward to claim it. \n\nIn accordance with the Irish Law, at the expiration of 4 (four) years, the money will revert to the ownership of the Irish Government, if  nobody applies as the Next of kin to Claim the fund. Consequently, I shall present you to stand in as the next of kin to my  Late Client so that you and I can benefit from the fruits of this old  mans labour to enhance Humanitarian Organization World wide.\n\nFor now, I alone know about his last will/Testament, as my client has  great confident in me. Everything will be left between you and I.The share would be 50% for you and 50% for me. All I have to Do is to  ammend the Last will/Testament of my client to make you the beneficiary  (next of Kin) to the claim of the Seven Million, Five Hundred Thousand  Pounds Sterlings legally. \n\nAs I am not very sure of getting your consent on the issue, I prefer  not to divulge my full identity so as not to risk being disbarred.The  Irish Bar considers it a breach of the oath of the Irish Bar.I need not emphasize to you that the sensitivity of this issue need  not be toyed with by neglecting its confidentiality.\n\nDue to the risk involve and also the activities of fraudsters now rampant on the Internet, and until I am sure of your consent, full  co-operation and genuine willingness to assist me for our mutual  benefit, I would prefer that we maintain correspondence by email. \n\nUpon acceptance, I shall send to you a copy of the probate and  Inheritance return information form and the Detailed Information on  how this business would be successfully transacted.\n\nAt this point I want to assure you that your true consent, full  co-operation and confidentiality are all that are required for us to  take full advantage of this great opportunity.\n\nDo send your full names, address, and Private telephone & fax numbers  for easy communication. Please note that You can also reach me at: desmonderik@myway.com\n\nI look forward to hear from you soon. \n\nYours truly, \n\nBarrister Desmond Erik.\n\n\n\n\u0000\n\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<20070515073349.82EFD90022@node4.c16>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "fail",
+      "dkim": "fail",
+      "dmarc": "fail",
+      "returnpath": "nrcsaran@gcnet.com",
+      "ipaddress": [
+        "2603:1096:c01:19c::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "\nDear Partner,\n\nI wish to intimate you with a request that would be of immense Benefit  to both of us. Being an executor of wills, Codicil and Administration  of Estate, it is possible that we may be tempted to make fortune out  of our client's situations when we cannot help it, or left with no  better option. \n\nI am Barrister Desmond Erik, The issue I am presenting to you is a case of my client Mr.Pajares Luis Caceres (An Australia National) a  consultant/contractor with Gulf Maritime General T",
+      "links": [
+        "http://next-of-kin.It",
+        "http://myway.com"
+      ],
+      "domains": [
+        "myway.com",
+        "next-of-kin.It"
+      ]
+    }
+  }
+}

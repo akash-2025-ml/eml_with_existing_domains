@@ -1,0 +1,89 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-2d605e4296ea91a69142c2a68f8b525f",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-2d605e4296ea91a69142c2a68f8b525f",
+    "emailcontent": {
+      "subject": "Please Update Your Amazon Account !",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "brad.mckay@enron.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "brad.mckay@enron.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "mark.pickering@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "sally.beck@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2005-12-02T06:36:08-08:00",
+      "sentDateTime": "2005-12-02T06:36:08-08:00",
+      "body": {
+        "contentType": "html",
+        "content": "\n<HTML>\n<meta name=\"generator\" content=\"Namo WebEditor v5.0(Trial)\">\n&nbsp;  <IMG height=30 \nsrc=\"http://g-images.amazon.com/images/G/04/icons/amazon-logo.gif\" width=140> <TABLE cellSpacing=0 cellPadding=0 width=600\nalign=center border=0> <TBODY> <TR> <TD><IMG height=2\nsrc=\"pp.files/pixel.gif\"  width=2></TD></TR></TBODY></TABLE> <P><FONT\nsize=2><FONT face=Verdana>Dear&nbsp;<STRONG><STRONG><SPAN\nstyle=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: \nVerdana\">Amazon<SUP> &nbsp;</SUP></SPAN></STRONG>&nbsp;</STRONG>member</FONT>,&nbsp;<BR></font><BR></P>\n<P><FONT face=Verdana size=2>It has come to our attention that\nyour&nbsp;<SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY:\nVerdana\"><STRONG>Amazon</STRONG></SPAN> order Information \nrecords are &nbsp;<BR>out of date.That requires you to update\nthe order Information If you could&nbsp;<BR>please take\n5-10 minutes out of your online&nbsp;<FONT face=Verdana size=2>\nexperience and update&nbsp;<BR>your order records,  you will not run \ninto any future problems with Amazon&nbsp;<BR>online service.\n\n&nbsp;<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></FONT></P>\n<P><FONT face=Verdana \nsize=2><FONT face=Verdana size=2>However, failure to update your records will\nresult in account termination.&nbsp;<BR>Please update your records in \nmaximum 24 hours.&nbsp;</FONT>&nbsp;<BR><BR>Once you have updated\nrecords, your&nbsp;<SPAN style=\"FONT-SIZE: 10pt; COLOR: black; \nFONT-FAMILY: Verdana\"><STRONG>Amazon</STRONG></SPAN> session\nwill not be&nbsp;<BR>interrupted and will continue as normal. </FONT></P>\n<P><FONT face=Verdana size=2>To update your <SPAN style=\"FONT-SIZE: 10pt;\nCOLOR: black; FONT-FAMILY:\nVerdana\"><STRONG>Amazon</STRONG></SPAN> order Information \nclick on the\nfollowing link:&nbsp;<BR></FONT></P>\n<p><FONT face=Verdana size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT><SPAN class=treb><SPAN style=\"FONT-SIZE: 9pt; FONT-FAMILY: Verdana\"><A \nonclick=\"return ShowLinkWarning()\" \nhref=\"http://211.233.38.86/~park/amazon.html\" \ntarget=_blank>http://www.amazon.com/exec/obidos/account-access-login/ref=/index</A></SPAN></SPAN></p>\n<P>&nbsp;<FONT face=Verdana size=2>Best Regards , <BR><SPAN style=\"FONT-SIZE:  10pt; \nCOLOR: black; \nFONT-FAMILY: Verdana\"><STRONG>Amazon<SUP> </SUP><SPAN style=\"FONT-SIZE: \n10pt; COLOR: black; FONT-FAMILY: Verdana\">Security </SPAN></STRONG><SPAN\nstyle=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY:\nVerdana\"><STRONG>Departament</STRONG></SPAN></SPAN>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\n</FONT></P> <P><FONT face=Verdana size=2>&nbsp;</font>\n<p><FONT face=Verdana size=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <SPAN class=\"tiny\"><A \nhref=\"http://www.amazon.com/exec/obidos/tg/browse/-/508088/103-3650287-7644618\"><font color=\"#006699\" size=\"2\">Conditions \nof Use</font></A><font color=\"#006699\" size=\"2\"> | </font><A \nhref=\"http://www.amazon.com/exec/obidos/tg/browse/-/468496/103-3650287-7644618\"><font color=\"#006699\" size=\"2\">Privacy \nNotice</font></A><font color=\"#006699\" size=\"2\"> </font><font size=\"2\"> 1995-2005, Amazon.com, Inc. or its affiliates. </font></SPAN></p>\n<TABLE cellSpacing=0 cellPadding=0 \nwidth=600\nalign=center border=0> <TBODY> <TR> <TD><IMG height=2\nsrc=\"pp.files/pixel.gif\"  width=2></TD></TR></TBODY></TABLE> <P>\n</HTML>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<20051202143608.32DC2CB73C8@MF-Server.local>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "none",
+      "dkim": "none",
+      "dmarc": "pass",
+      "returnpath": "brad.mckay@enron.com",
+      "ipaddress": [
+        "2603:1096:a01:af::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Dear Amazon member , It has come to our attention that your Amazon order Information records are out of date.That requires you to update the order Information If you could please take 5-10 minutes out of your online experience and update your order records, you will not run into any future problems with Amazon online service. However, failure to update your records will result in account termination. Please update your records in maximum 24 hours. Once you have updated records, your Amazon sessi",
+      "links": [
+        "http://211.233.38.86/~park/amazon.html",
+        "http://www.amazon.com/exec/obidos/tg/browse/-/508088/103-3650287-7644618",
+        "http://www.amazon.com/exec/obidos/tg/browse/-/468496/103-3650287-7644618",
+        "http://g-images.amazon.com/images/G/04/icons/amazon-logo.gif",
+        "http://www.amazon.com/exec/obidos/account-access-login/ref=/index",
+        "http://g-images.amazon.com",
+        "http://www.amazon.com",
+        "http://Amazon.com"
+      ],
+      "domains": [
+        "g-images.amazon.com",
+        "amazon.com",
+        "211.233.38.86",
+        "Amazon.com"
+      ]
+    }
+  }
+}

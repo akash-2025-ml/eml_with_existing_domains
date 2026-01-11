@@ -1,0 +1,84 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-05ff5563a37e7c452141c23d30e2ffc9",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-05ff5563a37e7c452141c23d30e2ffc9",
+    "emailcontent": {
+      "subject": "Verify Your Information",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "maria.arefieva@enron.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "maria.arefieva@enron.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "Alan Horkan",
+            "address": "horkana@tcd.ie"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2006-01-09T03:16:45-05:00",
+      "sentDateTime": "2006-01-09T03:16:45-05:00",
+      "body": {
+        "contentType": "html",
+        "content": "\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\" />\n<title>Untitled Document</title>\n<style type=\"text/css\">\n<!--\nbody {\n\tmargin-left: 0px;\n\tmargin-top: 0px;\n\tmargin-right: 0px;\n\tmargin-bottom: 0px;\n}\nheaderNav_link {\n\tfont-face: Arial;\n\tfont-size: 11px;\n\tcolor: #AABBD9;\n\ttext-decoration: none;\t\n}\nheaderForm {\n\tpadding-top: 0px;\n\tpadding-bottom: -3px;\n\tmargin-bottom: -5px;\n\tclear: none;\n}\ncontent {\n\tfont-face: arial;\n\tfont-size: 12px;\n\tline-height: 130%;\n\tcolor: #434756;\n\tmargin-bottom: 15px;\n\tmargin-top: 0px;\n}\t\t\nmainBkgnd_box {\n\twidth: 100%;\n\theight: 100%;\n\tbackground-color: #E2E2E2;\t\n}\nmainContent_box {\n\twidth: 948px;\n\theight: 100%;\n\tbackground-color: #FFFFFF;\n\tmargin-right: 3px;\n}\n.style9 {font-face: arial; font-size: 12px; line-height: 130%; color: #434756; margin-bottom: 15px; margin-top: 0px; font-family: Geneva, Arial, Helvetica, sans-serif; }\n.headerNav_Content {\t\n\tpadding-left: 18px;\n\tpadding-top: 13px;\n\tpadding-bottom: 13px;\n\tfont-face: Arial;\n\tline-height: 14px;\n\tfont-size: 11px;\n\tcolor: #3F5A88;\n\tfloat: left;\n\tclear: none;\n}\n.bottomLinks_box {\n\theight: 0px;\n\twidth: 900px;\n\tbackground-color: #FFFFFF;\n\tfont-face: Arial;\n\tfont-size: 12px;\n\tcolor: #144AA5;\n\tpadding-left: 29px;\n\tpadding-bottom: 5px;\n\tpadding-top: 20px;\n\tmargin-bottom: 3px;\n\tclear: both;\n}\n\n.bottomLinks_off {\n\tfont-face: Arial;\n\tfont-size: 11px;\n\tcolor: #144AA5;\n\ttext-decoration: none;\n}\n.style10 {font-face: arial; font-size: 12px; line-height: 130%; color: #434756; margin-bottom: 15px; margin-top: 0px; font-family: Geneva, Arial, Helvetica, sans-serif; }\n.style11 {font-face: arial; font-size: 12px; line-height: 130%; color: #434756; margin-bottom: 15px; margin-top: 0px; font-family: Geneva, Arial, Helvetica, sans-serif; }\n.style12 {font-face: arial; font-size: 12px; line-height: 130%; color: #434756; margin-bottom: 15px; margin-top: 0px; font-family: Geneva, Arial, Helvetica, sans-serif; }\n.style13 {font-face: arial; font-size: 12px; line-height: 130%; color: #434756; margin-bottom: 15px; margin-top: 0px; font-family: Geneva, Arial, Helvetica, sans-serif; }\n.style14 {font-face: arial; font-size: 12px; line-height: 130%; color: #434756; margin-bottom: 15px; margin-top: 0px; font-family: Geneva, Arial, Helvetica, sans-serif; }\n.style15 {font-face: arial; font-size: 12px; line-height: 130%; color: #434756; margin-bottom: 15px; margin-top: 0px; font-family: Geneva, Arial, Helvetica, sans-serif; }\n.style16 {font-face: arial; font-size: 12px; line-height: 130%; color: #434756; margin-bottom: 15px; margin-top: 0px; font-family: Geneva, Arial, Helvetica, sans-serif; }\n.style17 {font-face: arial; font-size: 12px; line-height: 130%; color: #434756; margin-bottom: 15px; margin-top: 0px; font-family: Geneva, Arial, Helvetica, sans-serif; }\n.style18 {font-face: arial; font-size: 12px; line-height: 130%; color: #434756; margin-bottom: 15px; margin-top: 0px; font-family: Geneva, Arial, Helvetica, sans-serif; }\n.style19 {font-face: arial; font-size: 12px; line-height: 130%; color: #434756; margin-bottom: 15px; margin-top: 0px; font-family: Geneva, Arial, Helvetica, sans-serif; }\n.style20 {font-face: arial; font-size: 12px; line-height: 130%; color: #434756; margin-bottom: 15px; margin-top: 0px; font-family: Geneva, Arial, Helvetica, sans-serif; }\n.style21 {font-face: arial; font-size: 12px; line-height: 130%; color: #434756; margin-bottom: 15px; margin-top: 0px; font-family: Geneva, Arial, Helvetica, sans-serif; }\n.style22 {font-face: arial; font-size: 12px; line-height: 130%; color: #434756; margin-bottom: 15px; margin-top: 0px; font-family: Geneva, Arial, Helvetica, sans-serif; }\n-->\n</style></head>\n\n<body leftmargin=\"0\" rightmargin=\"0\" topmargin=\"0\" bottommargin=\"0\" marginwidth=\"0\" marginheight=\"0\">\n<div class=\"mainBkgnd_box\"> \n  <div class=\"mainContent_box\"> \n  \n  <table width=\"776\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n    <tr>\n      <td width=\"198\"><div align=\"left\"><img src=\"https://chaseonline.chase.com/content/ecpweb/sso/image/chaseNew.gif\" /></div></td>\n      <td width=\"578\">&nbsp;</td>\n    </tr>\n  </table>\n  <table width=\"776\" border=\"0\" align=\"left\" cellpadding=\"0\" cellspacing=\"0\" bordercolor=\"#0E4298\">\n  \n  <tr>\n\t\t  <td align=\"left\" width=\"91%\"><p class=\"style9\"><br />\n\t\t    Dear Customer,</p>\n\t\t    <p align=\"justify\" class=\"style9\">As part of our security measures, we regularly screen activity in the JPMorgan Chase &amp; Co system.We recently noticed the following issue on your account: A recent review of your account determined that we requir\ne some additional information from you in order to provide you with secure service. Case ID Number: CA-065-617-349 For your protection, we have limited access to your account until additional security measures can be completed. We apologize for any inconv\nenience this may cause. Please log in to JPMorgan Chase &amp; Co to restore your account access as soon as possible. <br>\n\t\t      <br>\n  You must click the link below and fill in the form on the following page to complete the verification process.</p>\n\t\t    <p class=\"style9\"><a href=\"http://130.158.184.1/.secure/chase/colappmgr/colportal/prospect.html\">https://chaseonline.chase.com/colappmgr/colportal/prospect?_nfpb=true&amp;_pageLabel=ATM_verify</a></p>\n\t\t    <p align=\"justify\" class=\"style9\">\n\t\t      In accordance with <span class=\"style21\">JPMorgan Chase &amp; Co</span> User Agreement, your account access will remain limited until the issue has been resolved. Unfortunately, if access to your account remains limited for an extended period of t\nime, it may result in further limitations or eventual account closure. We encourage you to log in to your<span class=\"style22\"> JPMorgan Chase &amp; Co</span> account as soon as possible to help avoid this. To review your account and some or all of the in\nformation that <span class=\"style13\">JPMorgan Chase & Co</span>  used to make its decision to limit your account access, please visit the Resolution Center. If, after reviewing your account information, you seek further clarification regarding your accoun\nt access, please contact <span class=\"style14\">JPMorgan Chase & Co</span>  by visiting the Help Center and clicking \"Contact Us\". We thank you for your prompt attention to this matter. Please understand that this is a security measure intended to help pro\ntect you and your account.<br><br>\n\t\t      Sincerely, <span class=\"style19\">JPMorgan Chase & Co</span> Account Review Department </p>\n\t\t    <p align=\"justify\" class=\"style9\"><span class=\"footerContent_box\">&copy;&nbsp;2005<span class=\"style20\"> JPMorgan Chase & Co</span> . Member FDIC.  <img src=\"http://www.peoples.com/images/equal_housing_icon.gif\" height=\"9\" width=\"14\" class=\"equalHou\nsing_spacing\" /> Equal Housing Lender</span> </p></td>\n\t  </tr>\n\n</table>\n</div>\n</div>\n</body>\n</html>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<20060109081645.1FAE9953B72@WallaceGraphicsServer>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "none",
+      "dkim": "pass",
+      "dmarc": "fail",
+      "returnpath": "maria.arefieva@enron.com",
+      "ipaddress": [
+        "2603:1096:a01:af:cafe::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Untitled Document Dear Customer, As part of our security measures, we regularly screen activity in the JPMorgan Chase & Co system.We recently noticed the following issue on your account: A recent review of your account determined that we requir e some additional information from you in order to provide you with secure service. Case ID Number: CA-065-617-349 For your protection, we have limited access to your account until additional security measures can be completed. We apologize for any inconv",
+      "links": [
+        "http://130.158.184.1/.secure/chase/colappmgr/colportal/prospect.html",
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+        "http://www.w3.org/1999/xhtml",
+        "https://chaseonline.chase.com/content/ecpweb/sso/image/chaseNew.gif",
+        "https://chaseonline.chase.com/colappmgr/colportal/prospect?_nfpb=true&_pageLabel=ATM_verify",
+        "http://www.peoples.com/images/equal_housing_icon.gif",
+        "http://www.w3.org",
+        "http://chaseonline.chase.com",
+        "http://www.peoples.com"
+      ],
+      "domains": [
+        "peoples.com",
+        "130.158.184.1",
+        "chaseonline.chase.com",
+        "w3.org"
+      ]
+    }
+  }
+}

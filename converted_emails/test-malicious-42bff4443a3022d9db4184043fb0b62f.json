@@ -1,0 +1,82 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-42bff4443a3022d9db4184043fb0b62f",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-42bff4443a3022d9db4184043fb0b62f",
+    "emailcontent": {
+      "subject": "fw:There are no reasons to buy pills elsewhere.",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "firstdata9857@gmx.co.uk"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "firstdata9857@gmx.co.uk"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "rita.houston@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2007-05-07T19:07:51+03:00",
+      "sentDateTime": "2007-05-07T19:07:51+03:00",
+      "body": {
+        "contentType": "text/html",
+        "content": "<html xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:w=\"urn:schemas-microsoft-com:office:word\" xmlns=\"http://www.w3.org/TR/REC-html40\">\n\n<head>\n<META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=Windows-1252\">\n<meta name=Generator content=\"Microsoft Word 11 (filtered medium)\">\n</head>\n<body>\n<html>\n<body bgcolor=\"#FFFFFF\" link=\"#333366\">\n<font face=\"Verdana\" size=\"2\" color=\"#000000\">Dear valued member.<br>\n<br>\nMore and more people are getting concerned with the problem of fake drugs sold on the Web. This letter is aimed at helping you choose a really reliable Internet drugstore.<br><br>\nNo matter how wide the choice of meds is, always try to cling to generic ones. Moreover, it would be better to purchase them from reliable pharmacies, such as <a href=\"http://wgimja.superplusnob.com/?gmoilmrxyaix\">USDrugs</a>. Don’t forget that the pharmacy you shop at should be licensed.<br><bR>\nDon’t try to play Russian roulette with your health – choose reliable Web pharmacies only!<bR>\n<br>\n--<br>\nIf you have any more questions please contact to me.<br>\nPlease include all previous messages in your email's.<br>\n-------------------------------------------<br>\nThank you and best regards<br>\nElva Greene<br>\nEmail: 789stocknews@townoflivingston.com<br>\nWWW: <a href=\"http://wgimja.superplusnob.com/?gmoilmrxyaix\">http://wgimjasuperplusnob.com/?gmoilmrxyaix</a>\n</body>\n</html>\n</body>\n</html>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<01c790db$02777810$6c822ecf@789stocknews>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "fail",
+      "dkim": "neutral",
+      "dmarc": "none",
+      "returnpath": "firstdata9857@gmx.co.uk",
+      "ipaddress": [
+        "2603:1096:c01:19c::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Dear valued member. More and more people are getting concerned with the problem of fake drugs sold on the Web. This letter is aimed at helping you choose a really reliable Internet drugstore. No matter how wide the choice of meds is, always try to cling to generic ones. Moreover, it would be better to purchase them from reliable pharmacies, such as USDrugs . Don’t forget that the pharmacy you shop at should be licensed. Don’t try to play Russian roulette with your health – choose reliable Web ph",
+      "links": [
+        "http://wgimja.superplusnob.com/?gmoilmrxyaix",
+        "http://www.w3.org/TR/REC-html40",
+        "http://wgimjasuperplusnob.com/?gmoilmrxyaix",
+        "http://www.w3.org",
+        "http://wgimja.superplusnob.com",
+        "http://townoflivingston.com",
+        "http://wgimjasuperplusnob.com"
+      ],
+      "domains": [
+        "wgimjasuperplusnob.com",
+        "townoflivingston.com",
+        "wgimja.superplusnob.com",
+        "w3.org"
+      ]
+    }
+  }
+}

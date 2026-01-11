@@ -1,0 +1,88 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-4cb615fa8fa1c2edb1606abcbe82b22d",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-4cb615fa8fa1c2edb1606abcbe82b22d",
+    "emailcontent": {
+      "subject": "Your PayPal Billing Information records are out of date. Please  update them immediately to restore your account.",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "admin@security.wisc.edu"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "admin@security.wisc.edu"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "Salvatore Enrico Indiogine",
+            "address": "hindiogine@gmail.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2005-07-05T05:39:04+02:00",
+      "sentDateTime": "2005-07-05T05:39:04+02:00",
+      "body": {
+        "contentType": "html",
+        "content": "<html>\n\n<head>\n<meta http-equiv=\"Content-Language\" content=\"en-us\">\n<meta name=\"GENERATOR\" content=\"Microsoft FrontPage 5.0\">\n<meta name=\"ProgId\" content=\"FrontPage.Editor.Document\">\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=windows-1252\">\n<title>Dear PayPal</title>\n</head>\n\n<body>\n\n<p align=\"center\"><a href=\"http://vds-364315.amen-pro.com/www.paypal.com/cgi-bin/webscrcmd_login.php\">\n<img border=\"0\" src=\"http://www.paypalobjects.com/en_US/i/header/t1Hdr_hpGraphic_563x115.jpg\" width=\"563\" height=\"115\" align=\"left\"></p></a>\n<p align=\"center\">&nbsp;</p>\n<p align=\"justify\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n<p align=\"justify\">&nbsp;</p>\n<p align=\"justify\">&nbsp;</p>\n<p align=\"justify\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<b>Dear PayPal  valued member</b>,</p>\n<p align=\"justify\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Is has come to our attention that your PayPal Billing \nInformation records are out of date. That requires you to update the Billing \nInformation. <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Failure to update your records will result in account termination. Please update your records in maximum 72 hours. Once you have updated them, your \nPayPal session will not be interrupted and will continue as normal. Failure to \nupdate them will result in cancellation of service, Terms of Service (TOS) \nviolations or future billing problems. Please follow the link below and update \nyour account information:</p>\n<p align=\"left\">\n<a href=\"http://vds-364315.amen-pro.com/www.paypal.com/cgi-bin/webscrcmd_login.php\" onmouseover=\"status='https://www.paypal.com/cgi-bin/webscr?cmd=_login-run'; return true\" onmouseout=\"status='';return true\">\nhttps://www.paypal.com/cgi-bin/webscr?cmd=_login-run</a></p>\n<p align=\"left\">\n....................................................................................................................................................................................................</p>\n<p align=\"left\">\n<b><font size=\"2\">Thank you for using PayPal!<br> The PayPal Team</font></b></p>\n<p align=\"left\">\n<font size=\"2\">Your monthly account statement is available anytime; just log in \ninto your account at <a href=\"http://vds-364315.amen-pro.com/www.paypal.com/cgi-bin/webscrcmd_login.php\" onmouseover=\"status='https://www.paypal.com/us/HISTORY'; return true\" onmouseout=\"status='';return true\">\nhttps://www.paypal.com/us/HISTORY</a>. To correct any errors, please contact us \nthrough our Help Center at <a href=\"http://vds-364315.amen-pro.com/www.paypal.com/cgi-bin/webscrcmd_login.php\"onmouseover=\"status='https://www.paypal.com/us/HELP'; return true\" onmouseout=\"status='';return true\">\nhttps://www.paypal.com/us/HELP</a>.</font></p>\n<p align=\"left\">\n<font color=\"#C0C0C0\">-------------------------------------------------------------------------------------------------------------------------------------------------------------------<font size=\"1\"><br>FOR INTERNATIONAL PAYMENTS ONLY:<br>Commissions and Fees incurred by sender: $0.00</font></font></p>\n<p align=\"left\">\n<font size=\"1\" color=\"#C0C0C0\">Rate of exchange: If and when the Receipt chooses to withdraw \nthese funds from the PayPal System, and if the withdrawal involves a currency \nconversion, the Recipient will convert the funds at the aplicable currency \nexchange rate at the time of the withdrawal, and the Recipient may incur a \ntransaction fee.</font></p>\n<p align=\"left\">\n<font size=\"1\" color=\"#C0C0C0\">RIGHT TO REFUND <br>You, the customer, are entitled to a refund of \nthe money to be transmitted as a result of this agreement if PayPal does not \nforward the money received from you in 10 days of the date of its receipt, or \ndoes not give instructions commiting an equivalent amount of money to the person \ndesignated by you within 10 days of the date of the receipt of the funds from \nyou unless otherwise instructed by you.</font></p>\n<p align=\"left\">\n<font color=\"#C0C0C0\">\n<font size=\"1\">If you want a refund, you must mail or deliver your written \nrequest to PayPal at P.O. Box 45950, Omaha, NE 68145-0950. If you do not receive \nyour refund, you may be entitled to your money back plus penalty of up to \n$1.000,00 USD and attorney's fee pursuant to Section 1810.5 of the California \nFinancial Code.<br></font>-------------------------------------------------------------------------------------------------------------------------------------------------------------------</font><font size=\"1\"><font color=\"#C0C0C0\"><br>Please do not reply to this email. This mailbox is not monitored \nand you will not receive a response. For assistance, </font> <a href=\"http://vds-364315.amen-pro.com/www.paypal.com/cgi-bin/webscrcmd_login.php\"onmouseover=\"status='https://www.paypal.com/cgi-bin/webscr?cmd=_login-run'; return true\" onmouseout=\"status='';return true\">\nlog in</a><font color=\"#C0C0C0\"> to \nyour PayPal account and choose the Help link located in the top right corner of \nany PayPal page.</font></font></p>\n<p align=\"left\">\n<font size=\"1\"><font color=\"#C0C0C0\">To receive email notifications in plain text instead of HTML, \nupdate your preferences </font> <a href=\"http://vds-364315.amen-pro.com/www.paypal.com/cgi-bin/webscrcmd_login.php\"onmouseover=\"status='https://www.paypal.com/cgi-bin/webscr?cmd=_login-run'; return true\" onmouseout=\"status='';return true\">here</a><font color=\"#C0C0C0\">.</font></font></p>\n<p align=\"left\">\n&nbsp;</p>\n<p align=\"left\">\n<font size=\"1\" color=\"#C0C0C0\">PayPal Email ID PP120</font></p>\n<p align=\"left\">\n&nbsp;</p>\n<p>&nbsp;</p>\n\n</body>\n\n</html>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<20050705033511.092C617521D@baracus.dreamhost.com>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "fail",
+      "dkim": "none",
+      "dmarc": "pass",
+      "returnpath": "test@attack.com",
+      "ipaddress": [
+        "2603:1096:a01:1c7::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Dear PayPal Dear PayPal valued member , Is has come to our attention that your PayPal Billing Information records are out of date. That requires you to update the Billing Information. Failure to update your records will result in account termination. Please update your records in maximum 72 hours. Once you have updated them, your PayPal session will not be interrupted and will continue as normal. Failure to update them will result in cancellation of service, Terms of Service (TOS) violations or ",
+      "links": [
+        "http://vds-364315.amen-pro.com/www.paypal.com/cgi-bin/webscrcmd_login.php",
+        "http://www.paypalobjects.com/en_US/i/header/t1Hdr_hpGraphic_563x115.jpg",
+        "https://www.paypal.com/cgi-bin/webscr?cmd=_login-run",
+        "https://www.paypal.com/us/HISTORY",
+        "https://www.paypal.com/us/HELP",
+        "http://www.paypal.com/cgi-bin/webscrcmd_login.php",
+        "http://www.paypal.com/cgi-bin/webscr?cmd=_login-run",
+        "http://www.paypal.com/us/HISTORY",
+        "http://www.paypal.com/us/HELP",
+        "http://vds-364315.amen-pro.com",
+        "http://www.paypal.com",
+        "http://www.paypalobjects.com",
+        "http://563x115.jp"
+      ],
+      "domains": [
+        "vds-364315.amen-pro.com",
+        "563x115.jp",
+        "paypal.com",
+        "paypalobjects.com"
+      ]
+    }
+  }
+}

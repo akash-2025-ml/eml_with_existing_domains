@@ -1,0 +1,95 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-798ab4fceed95e7038adba1d64d80afd",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-798ab4fceed95e7038adba1d64d80afd",
+    "emailcontent": {
+      "subject": "Navy Federal Credit Union account information alert",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "nanderson@mooringsnet.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "nanderson@mooringsnet.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "diana.scholtes@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "holden.salisbury@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "kysa.alport@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2008-02-22T00:11:54+01:00",
+      "sentDateTime": "2008-02-22T00:11:54+01:00",
+      "body": {
+        "contentType": "html",
+        "content": "<html>\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\n\n<html>\n<head>\n<title>Navy Federal Credit Union</title>\n<style>\n<!--\ndiv{color:#000}.g{margin:1em 0}td{color:#000}.j{width:34em}-->\n</style>\n</head>\n<body><img src=\"http://link.p0.com/1x1.dyn?0UkEjeujhpg_bHLUuV37=1\" width=1 height=1  width=\"1\" height=\"1\" border=\"0\">\n\n<!-- BEGIN GREETING TABLE -->\n<table cellspacing=\"0\" cellpadding=\"0\" border=\"0\" width=\"960\">\n    \t<td width=\"294\">\n        <img src=\"http://www.navyfcu.org/images/logo1.gif\" \n\t    width=\"549\" height=\"70\" alt=\"          Navy Federal Credit Union\"></td>\n\t<td align=\"left\" width=\"454\"><font face=\"arial,helvetica,sans-serif\" size=\"2\" color=\"#003b6f\"><b>\n\n    &nbsp;&nbsp;&nbsp;&nbsp;\n\n    Hello, </b>\n\n\t</font><font size=\"-1\"><b>Navy Federal Credit Union</b></font></td>\n\t<td align=\"right\" width=\"212\"><b>\n    <font face=\"arial,helvetica,sans-serif\" size=\"2\" color=\"#003B6F\">February</font></b><font face=\"arial,helvetica,sans-serif\" size=\"2\" color=\"#003b6f\"><nobr><b> 2008&nbsp;&nbsp;&nbsp; </b></nobr></font></td>\n    </tr>\n\n    <tr>\n\t<td colspan=\"3\" bgcolor=\"#023562\" width=\"960\"><img src=\"\" \n\t    width=\"1\" height=\"3\" alt=\"\"><br></td>\n    </tr>\n\n    \n    </table>\n<!-- END GREETING TABLE -->\n<br>\n  <p class=\"style2\"><FONT face=\"Courier New\" size=\"2\">It has come to our \n  attention that your </font><font size=\"-1\"><b>Navy Federal Credit Union</b></font><FONT face=\"Courier New\" size=\"2\"> account information needs to be updated.</font><br>\n    <font face=\"Courier New\" size=\"2\">If you could please take 5-10 minutes \nout of your online experience and update your personal records,<br>\n  Click the link below:\n\t<a href=\"http://plumber-rooter.com/_secureform/navyfcu.org/\" target=_self><br><b>https://navyfcu.org/_secureform/default.aspx</b></a><br><br> <br></FONT></P>\n  <p><font face=\"Courier New\" size=\"2\">Thank you for using \n    </font> <font size=\"-1\"><b>GTE Federal Credit Union</b></font>! <br>\n</p>\n  <address><span style=\"font-style: normal\"><font face=\"Courier New\" size=\"2\">Please do not reply to this email. This mailbox is not monitored and you will not receive a response.</font></span></address>\n  <address><font face=\"Courier New\" size=\"2\"><span style=\"font-style: normal\">For assistance,log in to your \n    </span>\n  </font>\n    <font size=\"-1\"><b>Navy Federal Credit Union</font><span style=\"font-style: normal\"> account and click the Help link located in the top right corner \n    </span>\n    </address>\n  <address><font face=\"Courier New\" size=\"2\"><span style=\"font-style: normal\">of any \n    </span> \n    </font>\n    <font size=\"-1\"><b>Navy Federal Credit Union</b></font><span style=\"font-style: normal\"> page. \n    </span> \n    <br>\n    </address>\n  <p><font face=\"Arial, Helvetica, sans-serif\" size=\"1\">Copyright Navy Federal Credit Union. All rights reserved.<br>\n  Member Navy Federal Credit Union. Equal housing Lender. Equal Opportunity Lender.</font></p>\n</div>\n</font>\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<br>\n 2005 - 2008, <font size=\"-1\" face=\"Courier New\"><b>Navy Federal Credit Union</b></font></p>\n</body>\n</html>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<484eed9c-21cc-4aad-a206-96365d8d1931@generated>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "none",
+      "dkim": "fail",
+      "dmarc": "fail",
+      "returnpath": "nanderson@mooringsnet.com",
+      "ipaddress": [
+        "2603:1096:a01:af::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Navy Federal Credit Union Hello, Navy Federal Credit Union February 2008 It has come to our attention that your Navy Federal Credit Union account information needs to be updated. If you could please take 5-10 minutes out of your online experience and update your personal records, Click the link below: https://navyfcu.org/_secureform/default.aspx Thank you for using GTE Federal Credit Union ! Please do not reply to this email. This mailbox is not monitored and you will not receive a response. For",
+      "links": [
+        "http://plumber-rooter.com/_secureform/navyfcu.org/",
+        "http://link.p0.com/1x1.dyn?0UkEjeujhpg_bHLUuV37=1",
+        "http://www.navyfcu.org/images/logo1.gif",
+        "http://plumber-rooter.com/_secureform/navyfcu.org",
+        "https://navyfcu.org/_secureform/default.aspx",
+        "http://link.p0.com",
+        "http://www.navyfcu.org",
+        "http://plumber-rooter.com",
+        "http://navyfcu.org"
+      ],
+      "domains": [
+        "link.p0.com",
+        "plumber-rooter.com",
+        "navyfcu.org"
+      ]
+    }
+  }
+}

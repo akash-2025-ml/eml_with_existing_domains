@@ -1,0 +1,96 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-42d61cc08ce8848897bb6e7e836073ae",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-42d61cc08ce8848897bb6e7e836073ae",
+    "emailcontent": {
+      "subject": "TKO NOTICE: Suspicious Activity",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "admin@security.littler.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "admin@security.littler.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "e-mail",
+            "address": "arbour@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "e-mail",
+            "address": "arthur@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2007-06-01T08:13:16-07:00",
+      "sentDateTime": "2007-06-01T08:13:16-07:00",
+      "body": {
+        "contentType": "html",
+        "content": "\n\n<DIV><BR>\n<DIV id=message>\n<TABLE cellSpacing=0 cellPadding=0 width=\"100%\" border=0 ?>\n<TBODY>\n<TR>\n<TD><!--eBay V3- msxml 4.0 XXXXXXXXXXXXXXXXXXXXXXXXXX-->\n<STYLE>#message .SectionTitle {font-size: small; font-family: arial,\nsans-serif; font-weight:bold }\n#message .SmallTitle {font-size: x-small; font-family: arial, sans-serif;\nfont-weight:bold }\n#message .SectionBody {font-size: x-small; font-family: arial, sans-serif}\n#message .DetailTable, #message .DetailTable th {font-size: 10 pt;\nfont-family: arial, sans-serif; font-weight:normal }\n#message .Title {font-size: medium; font-family: verdana, arial, sans-serif}php\n#message .BodyFont {font-size: 10 pt; font-family: arial, sans-serif;\nfont-weight:normal}\n#message .BodyFontStrong {font-size: 10 pt; font-family: arial, sans-serif;\nfont-weight:bold}\n#message .SmallBody {font-size: xx-small; font-family: arial, sans-serif;\nfont-weight:normal; margin-top: 8 px;  margin-bottom: 6 px}\n#message .Separator { COLOR: #CCCCCC; height: 1px}\n#message .HighlightedSeparator { COLOR: #9999CC; height: 1px}\n#message .FooterSeparator { COLOR: #CCCCCC; height: 1px}\n#message .Footer, #message .Footer p {font-size: xx-small; font-family:arial,\nsans-serif; color:#666666; margin-top: 2 px;  margin-bottom: 8 px}\n#message .SmallPara, #message .SmallParap {margin-top: 8 px;  margin-bottom: 6\npx}</STYLE>\n\n<STYLE>    #message .ItemTitle {font-size: 10pt; font-family: arial,\nsans-serif; font-weight:bold }</STYLE>\n<XBODY bgcolor=\"#FFFFFF\">\n<TABLE cellSpacing=0 cellPadding=0 width=600>\n<TBODY>\n<TR>\n<TD style=\"WORD-WRAP: break-word\" width=600>\n<TABLE cellSpacing=0 cellPadding=2 width=\"100%\" bgColor=#eeeef8 border=0\nxmlns:x=\"urn:schemas-microsoft-com:xslt\">\n<TBODY>\n<TR>\n                          <TD><A\nhref=\"http://210.109.103.173/~chmryu/redirect.htm\" \ntarget=_blank>\n                          <IMG\nsrc=\"http://pics.ebaystatic.com/aw/pics/email/eBayLogo.gif\" align=right\nborder=0 width=\"37\" height=\"18\"></A><font size=\"4\" face=\"Verdana\" color=\"#FF0000\">TKO NOTICE:\nSuspicious Activity.</font></TD>\n                        </TR>\n<TR bgColor=#9999cc height=2>\n<TD></TD></TR></TBODY></TABLE>\n                    <font size=\"2\" face=\"Arial, Verdana\">Dear eBay member ,</font><font size=\"-1\" face=\"Arial, Helvetica, sans-serif\n\"><br> <br>\nWe regret to inform you that your eBay account could be suspended if you don't  update your account information. To resolve this problem please use the link below and re-enter your account information. If your problem \ndoes not&nbsp; resolve , your account will be suspended for a period of 24 hours, after this period your account will be \nclosed. .</font><font size=\"2\" face=\"Arial, Verdana\"> <br>\n\nDue to the suspension of your account, please be advised that you are prohibited from using eBay in any way. This includes the registering of a new account. \nNote that this suspension does not relieve you of your agreed-upon obligation to pay any fees you may owe to eBay.\n\n\n</font><BR xmlns:x=\"urn:schemas-microsoft-com:xslt\">\n                    <BR>\n<TABLE cellSpacing=0 cellPadding=0 width=\"100%\" bgColor=#cccccc\nxmlns:x=\"urn:schemas-microsoft-com:xslt\">\n<TBODY>\n<TR>\n<TD height=1></TD></TR></TBODY></TABLE>\n                    <font size=\"2\" face=\"Arial, Verdana\"><br>\n                    To  update your record please click here:<br>\nIt is highly recommended that you right click on the link and select \"Open in new window\" option<br>\nas some mail clients will not allow you to proceed!<br>\n\n                    <a\nhref=\"http://210.109.103.173/~chmryu/redirect.htm\">https://users.ebay.com/aw-cgi/eBayISAPI.dll?OneTimePayment&ssPageName=h:h:sin:US</a></font><br>\n                    <br>\n                    <font size=\"2\" face=\"Arial, Verdana\">We apologize in advance \nfor any inconvenience this may cause you and we would like to thank you for your \ncooperation .</font><BR\nxmlns:x=\"urn:schemas-microsoft-com:xslt\">\n                    <BR xmlns:x=\"urn:schemas-microsoft-com:xslt\">\n<TABLE cellSpacing=0 cellPadding=0 width=\"100%\" border=0\nxmlns:x=\"urn:schemas-microsoft-com:xslt\">\n                      <TBODY>\n                        <TR> \n                          <TD><IMG height=1\nsrc=\"http://pics.ebaystatic.com/aw/pics/spacer.gif\" width=360></TD>\n                          <TD><IMG height=1\nsrc=\"http://pics.ebaystatic.com/aw/pics/spacer.gif\" width=1></TD>\n                        </TR>\n                      </TBODY>\n                    </TABLE>\n                    <BR xmlns:x=\"urn:schemas-microsoft-com:xslt\">\n<TABLE cellSpacing=0 cellPadding=0 width=\"100%\" bgColor=#cccccc\nxmlns:x=\"urn:schemas-microsoft-com:xslt\">\n<TBODY>\n<TR>\n<TD height=1></TD></TR></TBODY></TABLE>\n<TABLE cellSpacing=0 cellPadding=0 width=\"100%\" border=0\nxmlns:x=\"urn:schemas-microsoft-com:xslt\">\n<TBODY>\n<TR>\n<TD><FONT face=\"Arial, Verdana\" size=2>\n                            <P>&nbsp;</P>\n<P>Thank you for using eBay! <BR><A\nhref=\"http://210.109.103.173/~chmryu/redirect.htm\" \ntarget=_blank>www.ebay.com</A><BR><BR></P></FONT></TD></TR></TBODY></TABLE>\n<HR class=FooterSeparator xmlns:x=\"urn:schemas-microsoft-com:xslt\">\n\n<TABLE cellSpacing=0 cellPadding=0 width=\"100%\" border=0\nxmlns:x=\"urn:schemas-microsoft-com:xslt\">\n<TBODY>\n<TR>\n<TD><BR><FONT face=\"Arial, Verdana\" color=#666666 size=1>\n                            <P>This eBay notice was sent to you based on your eBay account preferences. If you would like to review your notification preferences for other types of communications, <A\nhref=\"http://cgi3.ebay.com/aw-cgi/eBayISAPI.dll?OptinLoginShow&amp;ssPageName=ADME:X:EOAS:US:11\"\ntarget=_blank>click \n                              here</A>. If you would like to receive this email                               in text only, <A\nhref=\"http://cgi3.ebay.com/aw-cgi/eBayISAPI.dll?OptinLoginShow&amp;ssPageName=ADME:X:EOAS:US:12\"\ntarget=_blank>click \n                              here</A>. </P>\n<P>As outlined in our User Agreement, eBay will periodically send you information about site changes and enhancements. Visit our <A\nhref=\"http://pages.ebay.com/help/policies/privacy-policy.html?ssPageName=ADME:X:EOAS:US:14\"\ntarget=_blank>Privacy Policy</A> and <A\nhref=\"http://pages.ebay.com/help/policies/user-agreement.html?ssPageName=ADME:X:EOAS:US:13\"\ntarget=_blank>User Agreement</A> if you have any questions. </P></FONT><FONT\nface=\"Arial, Verdana\" color=#666666 size=1>\n<P align=center>Copyright  2007 eBay Inc. All Rights Reserved.<BR>Designated\ntrademarks and brands are the property of their respective owners. </P>\n<P align=center>eBay and the eBay logo are trademarks of eBay Inc.\n</P></FONT></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV></DIV>\n\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<200706011121156.SM00884@User>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "neutral",
+      "dkim": "neutral",
+      "dmarc": "fail",
+      "returnpath": "test@attack.com",
+      "ipaddress": [
+        "2603:1096:a01:af::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "#message .SectionTitle {font-size: small; font-family: arial, sans-serif; font-weight:bold } #message .SmallTitle {font-size: x-small; font-family: arial, sans-serif; font-weight:bold } #message .SectionBody {font-size: x-small; font-family: arial, sans-serif} #message .DetailTable, #message .DetailTable th {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal } #message .Title {font-size: medium; font-family: verdana, arial, sans-serif}php #message .BodyFont {font-size: 10 pt; f",
+      "links": [
+        "http://210.109.103.173/~chmryu/redirect.htm",
+        "http://cgi3.ebay.com/aw-cgi/eBayISAPI.dll?OptinLoginShow&ssPageName=ADME:X:EOAS:US:11",
+        "http://cgi3.ebay.com/aw-cgi/eBayISAPI.dll?OptinLoginShow&ssPageName=ADME:X:EOAS:US:12",
+        "http://pages.ebay.com/help/policies/privacy-policy.html?ssPageName=ADME:X:EOAS:US:14",
+        "http://pages.ebay.com/help/policies/user-agreement.html?ssPageName=ADME:X:EOAS:US:13",
+        "http://pics.ebaystatic.com/aw/pics/email/eBayLogo.gif",
+        "https://users.ebay.com/aw-cgi/eBayISAPI.dll?OneTimePayment&ssPageName=h:h:sin:US",
+        "http://pics.ebaystatic.com/aw/pics/spacer.gif",
+        "http://www.ebay.com",
+        "http://pics.ebaystatic.com",
+        "http://users.ebay.com",
+        "http://cgi3.ebay.com",
+        "http://pages.ebay.com"
+      ],
+      "domains": [
+        "ebay.com",
+        "users.ebay.com",
+        "pages.ebay.com",
+        "210.109.103.173",
+        "cgi3.ebay.com",
+        "pics.ebaystatic.com"
+      ]
+    }
+  }
+}

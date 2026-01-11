@@ -1,0 +1,85 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-5b7fcdbb15df2ddbba3001865f2fd69f",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-5b7fcdbb15df2ddbba3001865f2fd69f",
+    "emailcontent": {
+      "subject": "the nicest prices for top quality drugs",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "admin@security.sanofi-aventis.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "admin@security.sanofi-aventis.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "Susie Ramos",
+            "address": "pabuhr@plg.uwaterloo.ca"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2007-06-25T15:28:38-02:00",
+      "sentDateTime": "2007-06-25T15:28:38-02:00",
+      "body": {
+        "contentType": "image/gif",
+        "content": "<html xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:w=\"urn:schemas-microsoft-com:office:word\" xmlns:st1=\"urn:schemas-microsoft-com:office:smarttags\" xmlns=\"http://www.w3.org/TR/REC-html40\">\n\n<head>\n<META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=us-ascii\">\n<meta name=Generator content=\"Microsoft Word 11 (filtered medium)\">\n<!--[if !mso]>\n<style>\nv\\:* {behavior:url(#default#VML);}\no\\:* {behavior:url(#default#VML);}\nw\\:* {behavior:url(#default#VML);}\nshape {behavior:url(#default#VML);}\n</style>\n<![endif]--><o:SmartTagType\n namespaceuri=\"urn:schemas-microsoft-com:office:smarttags\" name=\"City\"/>\n<o:SmartTagType namespaceuri=\"urn:schemas-microsoft-com:office:smarttags\"\n name=\"place\"/>\n<!--[if !mso]>\n<style>\nst1\\:*{behavior:url(#default#ieooui) }\n</style>\n<![endif]-->\n<style>\n<!--\n /* Style Definitions */\n p.MsoNormal, li.MsoNormal, div.MsoNormal\n    {margin:0cm;\n    margin-bottom:.0001pt;\n    font-size:12.0pt;\n    font-family:\"Times New Roman\";}\na:link, span.MsoHyperlink\n    {color:blue;\n    text-decoration:underline;}\na:visited, span.MsoHyperlinkFollowed\n    {color:purple;\n    text-decoration:underline;}\nspan.EmailStyle17\n    {mso-style-type:personal-compose;\n    font-family:Arial;\n    color:windowtext;}\n@page Section1\n    {size:595.3pt 841.9pt;\n    margin:2.0cm 42.5pt 2.0cm 3.0cm;}\ndiv.Section1\n    {page:Section1;}\n-->      \n</style>\n\n</head>\n\n<body lang=EN link=blue vlink=purple>\n\n<div class=Section1>\n\n<p class=MsoNormal><font size=2 face=Arial><span style='font-size:10.0pt;\nfont-family:Arial'><img width=287 height=252 id=\"_x0000_i1025\"\nsrc=\"cid:pic01.gif@01C7B73D.81147C80\"></span></font><font size=2 face=Arial><span\nlang=EN-US style='font-size:10.0pt;font-family:Arial'><o:p></o:p></span></font></p>\n\n<p class=MsoNormal><font size=2 face=Arial><span lang=EN-US style='font-size:10.0pt;font-family:Arial'>common depend choice pay lawfully antonym nonfree software. confused freeware<o:p></o:p></span></font></p>\n\n<p class=MsoNormal><font size=2 face=Arial><span lang=EN-US style='font-size:10.0pt;font-family:Arial'>Unique Visitors December Debuts Markets<o:p></o:p></span></font></p>\n\n</div>\n\n</body>\n\n</html>\n"
+      },
+      "hasAttachments": true,
+      "internetMessageId": "<6A21E86B256D2C4.1AD8CB39CF@od.ukrtelecom.net>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "neutral",
+      "dkim": "none",
+      "dmarc": "fail",
+      "returnpath": "test@attack.com",
+      "ipaddress": [
+        "2603:1096:c01:19c::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "v\\:* {behavior:url(#default#VML);} o\\:* {behavior:url(#default#VML);} w\\:* {behavior:url(#default#VML);} shape {behavior:url(#default#VML);} st1\\:*{behavior:url(#default#ieooui) } common depend choice pay lawfully antonym nonfree software. confused freeware Unique Visitors December Debuts Markets",
+      "links": [
+        "http://www.w3.org/TR/REC-html40",
+        "http://www.w3.org",
+        "http://span.Email",
+        "http://div.Se"
+      ],
+      "domains": [
+        "div.Se",
+        "span.Email",
+        "w3.org"
+      ]
+    },
+    "attachments": [
+      {
+        "name": "pic01.gif",
+        "contentBytes": "R0lGODdhHwH8AIcAAAAAAIAAAACAAICAAAAAgIAAgACAgMDAwMDcwKbK8EAgAGAgAIAgAKAgAMAgAOAgAABAACBAAEBAAGBAAIBAAKBAAMBAAOBAAABgACBgAEBgAGBgAIBgAKBgAMBgAOBgAACAACCAAECAAGCAAICAAKCAAMCAAOCAAACgACCgAECgAGCgAICgAKCgAMCgAOCgAADAACDAAEDAAGDAAIDAAKDAAMDAAODAAADgACDgAEDgAGDgAIDgAKDgAMDgAODgAAAAQCAAQEAAQGAAQIAAQKAAQMAAQOAAQAAgQCAgQEAgQGAgQIAgQKAgQMAgQOAgQABAQCBAQEBAQGBAQIBAQKBAQMBAQOBAQABgQCBgQEBgQGBgQIBgQKBgQMBgQOBgQACAQCCAQECAQGCAQICAQKCAQMCAQOCAQACgQCCgQECgQGCgQICgQKCgQMCgQOCgQADAQCDAQEDAQGDAQIDAQKDAQMDAQODAQADgQCDgQEDgQGDgQIDgQKDgQMDgQODgQAAAgCAAgEAAgGAAgIAAgKAAgMAAgOAAgAAggCAggEAggGAggIAggKAggMAggOAggABAgCBAgEBAgGBAgIBAgKBAgMBAgOBAgABggCBggEBggGBggIBggKBggMBggOBggACAgCCAgECAgGCAgICAgKCAgMCAgOCAgACggCCggECggGCggICggKCggMCggOCggADAgCDAgEDAgGDAgIDAgKDAgMDAgODAgADggCDggEDggGDggIDggKDggMDggODggAAAwCAAwEAAwGAAwIAAwKAAwMAAwOAAwAAgwCAgwEAgwGAgwIAgwKAgwMAgwOAgwABAwCBAwEBAwGBAwIBAwKBAwMBAwOBAwABgwCBgwEBgwGBgwIBgwKBgwMBgwOBgwACAwCCAwECAwGCAwICAwKCAwMCAwOCAwACgwCCgwECgwGCgwICgwKCgwMCgwOCgwADAwCDAwEDAwGDAwIDAwKDAwP/78KCgpICAgP8AAAD/AP//AAAA//8A/wD//////ywAAAAAHwH8AAcI/gD/CRxIsKDBgwgTKlzIsKHDhxAjSpxIsaLFixgzatzIsaPHjyBDihxJsqTJkygT+kvJsqXLlzBjypxJs6bNmzhz6tzJs6fPn0CDbuTHT6jRozaJKr1IFGFTgk+dFvUYNWLVgVcbZkXKVWDVqVTBOtyKkWxKs12Nfv3XdKlXt2yXRnV7tW1Rukqn5n3LNm5csHv/1r37tK1fwX7tAs6rV2zarlnxHrYLVS/fwX/5Hp5MWPHlxpoLSt5LGWvnz6ZDP07LOHTp0qoTO4ZdeDFq14Q1b52b+7Zv2qBXC//dWa7Y2sZF9+ZsmrTtz4F32+a9WXZq6tVv3hq+8Phy2Kpf/i8njlt5at/nzZP/+r0999XeN9OuLj478PJe5U8HHLs8dfb6cRbce0e1JhhvCPbWGmbYZYZYgLrB5WBzkkVIGXbJZUcgZI5teBBaGoHooVodjlgZSAaaqOKKLG6YTIswxijjjDTWaOONOOao44489ogjMj4GKeSQSFlB5JFIJrnaIko26eSTUEYp5ZRUVmnllVhmqeWWXHbp5ZdgegQAl/qUiZGZFo3Zkz8rCcTmP2+apGZBAMxJUJ141ilQnnZ6hOY/Zv7pZ5mCHvRnoQIRSihCiEbUJ58HQXpnnxrFCWebcuY5kKYL6annnpRudKg+IwlKakKjonoqo6tKJKmd/59uOuennHZk6Zu35somritJMdCuCnm656SdqhlrrIMOFOiqiyaqKKmBKouoqc42qyig1xpUqLXQjtqqQcL+Qymy4s4Ka6gZ8epmm+yulOulcbabULh0oisrqPeGtKyzifKbaranbvstttLya7ChrQbcrcIEAzrvmHb+QezE5VJsq7vyEqTuupceZGmkeIJrb8X4lgzSvg0X/O/AKUvLbcEpN3owQSgTLHO95JqcL8k6c7RxvLti/KvQQwMbbMgWizxprR+hjOazMXdLc7asRn3wzaZemyq2LOP8aKjHnhuS0R0D3THH754dLM9s1/twqSv7y6zUBm87tdV4Iwxzzf5ZMwSxuQiFnbTP75oNNNFnf0znsMg2DjjIkJNMq7Ejc60yw0/zzTDNd2+9td51023zzIuLK/m4f+/cNuGYHn542ZjCq7jX5nIq+NLoTl6y7go12zDUltfM9bRUA9+y73e7vGzxN4OKNJ+8S1ou0zLN7mqMzRNYOVdBx17R9o8Z3yL4YZZv/vnop6/++lXiMtIAA3xPYz/9gER//RfRfxH5OcHvv0DwQ0gAA+go2gUOadPLWUnup79/NNAg+ntgQhiIvwlWUIIDoWAFC4LB6+EObLWS3vviNxASJoSAjrLd4Mh1u5NIcIMH6SBCXqiQB8pQIDfEIQwh8qqkCU5sJP5B4T/ih8L/DZGIJDTiAU3HRB+iTnUL3GD9bNjACOLvfhCUog6x6EAsUjCGMOSiFS+Yw4oZS2kUy5kCPSJEACbRjUeMIwFNqDR7sfBVj3PhDquowy76kY8E6SAV+0hIMAayj2Kc4hXfZsevQXF1H2ljHAkyQCROslgKVCPgWmgSQYZRkX/cYQYZWMgqktGChhxkGWV1R03ujHohkeQc/WfJWdLxgHeM3OlgORJPbtGKfuyiKAMJSkIOcoZSJOUxuXi0TKIOlmvsiBBrmURqUvKWkeLZGjnZM5LQEJihDGYhcUhMcZpylKg0ZjHFyc7ArS6a7+SfRaYpx2rWc4hwdP+n6XhHLG46c3eUA2g30ZnBcIYzguN0YDmXeUpkEhScf0zonRgHsYnlsomQjCT8cmHPI/6vkm7EpgET+DzKIZCXpxNoSjP6yyu61IvFZCYxmfnFccqUoC0VJk1XKb2emvRcCHyPPNm3vyYNlajyQ6pSl8rUpjr1qVAF01F3BJ6HTHU4BzjARLIqEK5m5GtBdR7T4FmR/5QoRBI6kYiy+UGQhZWsN/FqReT6PRU+0qJhRWt6RsIPWEhFQ5iklQ/xCleb0LWrWdXqP7zK1cYmVquNHUhij8bEJy5xcBkxa3ModKHN/vVBFxpQHYfltrfddSeHZSxkFetYxEp2sot17RL+G2na05ZFQZaxDnRyS5b6hLY/96JtbVkqEjtQJLWsXa1rVfvagxzWa7pEI2Yzi1vzaNYgva3ubwHLShDi0pFBQe5jEcvcxSrWvAR57Hm/W9rLTve2zDlQgNiT1ussCLcioh5cHScU5BpkvOgNsIDLuzZutve9t93Pep6TXfvg96yLM3B0C1sT/3a1ubKVq4aTOy+KdlPC2wzoShMCF982xj3cnc991rZPEffTYhSmiXqTS9cNv1a5N35uW0nKz1bmNXoulgqDo7Pdt6Q1MKBFcTMnh0ex1i6vRl3RWuHrkKt6yco8SRFfIQyuqHr5y2AOs5jHTOaXFKAAKcFy+tT+nJMzD8TNbv5HnBlyhTSN9IP8Fck+9sznh+xZIn+WCVhDzGSUmiQbc4YzmuW86JA0eaD5MjRHAu3nfQDa0jDp4SPhGWOQJBrNij4zqEH95jiLOtSUPaOEe9bpilD6H3zGNKwDHWtM13ogfZ51rmMtkD/bmtez1jWucz1b0jqRsjH5NKMF8mlTM3vUz452sV8pXNtOWta0tjSte43tbgcb1twedrh5TWlfZ/vbr3ZbtZ1sWZgo29SNnjNBFC1teYushSGWrp69Hex0l9vb/ua3ucU9boD/esnQbW+ekx1vaC9b2s8W9cPhHViT5fvAIfk3sIn9b4JzvNvk5ne/DQ7/7If9M41AZHipJ97wlS+b4g8vcOoGevKRdPwg5w63znV+c4J/e+TiTnen4qnwPKo82jCPOcVhbu9/0IK0qbsdiHMnYiAvpOfa5rnIfa11n2t7618POrY73GKM6g7fbN7IqRfd7JgzWuJMb7Rbw3ZSo/MYjVYn7s91DXKC7LrkxBY233fO94NrXeh39qmTEVyjtLNEAjJy/JAkHybKD+fpZc68j8LAVD1o/vOgJ6rlfUIAAjSk9Kc3/YZGv5B8uN71Jxk01QsNZY+gfiC3X0juFbL7f5T+96rvfUSETxHiU8S7yLb2P2A/kHyQ5NFEH25Idm/8glSfIL3PPeqvzxDu/rPEp5yme+WYLxDnL//15ke/819PEPYz0sOsHlmrK0L94P9eINv3venvj/vbZ1/1+heA/Kd//rd/Bch/wId/+0eA21eAAqh9pZcIqWZsLDVzykd+zWd+57eBHMh86aeBo0VttNNuI1F/AfiADWh/+KeAJ9h/LoiABsiCMMiCNJiCMXiCDUiAMqiC04ZxmxJ/DKF+5aeBsOeBH1gQGHhveXRRbDN/9Ad89+eAEOiC2HeDVPiAL6iCU9iCUgiADoiFU/iF7OWDTcSEDVGERLh+R9iB6Fdx2gReTch6CGGCUGiFWwiFLaiACciFBpiAd+iFePiHO8iHDMh9+gVCIkRW/yCIhhnIhkPoiEPnKXaHdihBfcvgewlgfYCYhYNYhQYRhgBIgzi4iZ5Yg1poh1bYEBaod2Z4EIuoho1ohI8oi/oUdY8jiSJ4WXnHT58Yijm4gluIhcJ4hVf4i75HiMh4jIIIhpuofWS3igsHhK3XhkPofrRohO73XU92i2MlXLsYZJpYinsIgXtYiHl4jsg4jqSogwwoil+Yg39oiCEEfRYnQjQhh6GnTyuCj/nYZf34jwAZkCixAQJZkAZ5kAiZkAq5kAzZkA75kBAZkRI5kRRZkRZ5kRiZkS1BBRrZkR75kSAZkjw0Evy4EfhYkqUzUSqpIxWVck54RgvRCvq4av9J9RHbk3YVlZIUmCNvZXdVtpNWBZM5SXkn6Tcm6Y8/uCMtOVFLOT2MA4TzKFZspWoUOI8/ZWxDSZXd9ZROKZWz4jxmdFFfKTmVdZVlyZJdtpRfKVhmh5VMmZQqqZWw8oNrSZd2SZePgpduWZdcCXXPiFH71JZ1CZM+IpRlWIZBRZgmdZilI5crmZOB2ZdZCZlwCZl8GZmYyZhLI5nCspiDWXs4YpiXCTZ7KZn+6JiVeZijGZmUWZquiZmUOZdJiZpqaZqtWZiNyZZg+ZZQRy9gVY8J15VWOZmAmUBVKX5SKZxdyUpw6ZTEaVegGXqVg5MiiRPT+VXVCXpVkJ3c2Z3/3vmQRPl8OqmK5DkRKDl0TtKUbgmUbNWcSDmWZHeXqjme7sQ/hNmejgYlb5WaRmlV/Bmfpsme4DNU94mU+ZmemRmYlvmbKgRNCsqcD2qcDyqUJaWEEUp3ZqSZu5SSizmfQFU7YEmTBXGJ3EGaTXmf8KmeeXmiegmbTzmU89mWLyqacdmXfrmTMGqbeWmbflmgN1KbEjqbdgmfL1pZ8mmZRaqVLdY4Q7qVsqmkNwqYOeqi43KkRrqk5/kTQGpHHuqeW2qlY/mll/mYLtqcNFqjOHqlVPqeMQqlPEKkiembWNqeQLWeIcSftuNjmVlSSkqay7mSy6kpVdqbhlmWWToj/4dqE1eVqOjDqDOxqN8ZqZI6qZRaqWnhqGOGqS+hnjI6hv1pnhF2oI05kqCKneUZIz3pnhx6qhrBqInqqjlxCSDBqTm6n7OJoUxmo5/Zkh/KlbnqnApaoR2qX39qlTqTlU7apC4maSMyqCoKqEj6pC3Km9G6qmyJpJHWpjEqmGw6pmS5pjPao6raeMFlpry5p69JreJKpk8WpdsKo6sppOwqn1gZMqu5oHKKllaKp/SqmMXJmk3Ko0AZm2AqsJ0qm+D6n+9apuvJk3GppxCqnBLbreGias+zmXyqmidlqA27pGQaqNBaaF5pdiL7jz5aVEKhqVBleSp7fJYakqTwsv9XMmUfgRY0K7N7pVcMUVXA9SFchl1ndbMCKbRa8bM9e7RMEbRGO7QGomXQwVlGFhnJgRzVJWQQghdH5hyoUWL15WXX5WCggSElAiDgwbPWpWB9kWJD5iD1gRDGxVRfixnkAVhkOx5IRmLuIbdAex73URtjFrezgbbxpR5b6x1igQh/JbbPsbcU4h9O67WCq7crJh1qZbdde7Z75bc+Wxmaq1tlhhwQkh6TO7bxUbZKZl9GlradS7j44blLu1QZ8riKS19Au11aO7h8Kx7HcQiku7iMsRhEK7NSiyLxgbNDwbg1W7wWYQPG27xNpQXOG71dQQMbwYhJ6Iog2IjSmxL/1pu92OuKP7C9LsGI0/i9D0l+aciByxeLRKi9/5ANG0iN1biG6zuLapi+5Cu/7EuL6ouQ2Gi/1QjA50e/AfyIjvi/8XuNsEi+9ZuB+EvACYmGsGi/E5zAFey+Cay9EgyJANy9CYGBHtyQRbi+6Lt+JIy/J2wQIHy/1DjCE7zCGSzB1wvD+ruQLqy+N1zCJNy/BizASGjCL/yKMfyB2djDFuy9Ecx+8tuGS6zE2cjAGazCTsy/Q8zDskjDF2zD6dt+W+y+WMzFPdzFOmzAHrzFUJy/5tcEWozBOJy9Y+zDbQzDYSyEHUzEDwzGbyy+F3G9egwUfBy9GiAUf9zHhJwT/8VwErFQyIq8yIzcyI78yFA1D5DsVIdMZgBCZUn7ug8RvBzBySfyWSwSvJectJjcyZpsykg7FuORynjbIqNsEZ6cszp7FqJFEWbBybHMEorRIVxLtYmRusAsIUg2GspxYpUbzLlhGI37y2ybzMbczGmbusPsy8WsW7EbuCf2zMRcE0V2zL+ltSt2zPZVtw5mHd8szM58zuasYHfrt+o8ykVWVe8ctsWRFM5czPccz0SWs7q7yuuMufO8t32bz8FxX4wbWlOrvPostQktIGYbE90c0OEsuqVL0AI9Hi8AzeoM0Gj7u+LsuIX70fOVt4HrzaKVy8nruVG70ohBX6cxIXIs3dK9C1wIghW/wLP77FnxpRTUsNJia80NzblAXbWN27a3q1QoTct9nNQoccqTLKlO8NRSPdVUXdVWfdVYndVavdVc3dVe/dVgHdZiPdZkXT6N0NUxIBGfUNZs3dZu/dZwLbPxENd0Xdd2fdd4ndcOGRAAOw==",
+        "contentType": "image/gif"
+      }
+    ]
+  }
+}

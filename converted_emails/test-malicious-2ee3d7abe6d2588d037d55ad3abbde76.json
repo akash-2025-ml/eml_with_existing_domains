@@ -1,0 +1,108 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-2ee3d7abe6d2588d037d55ad3abbde76",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-2ee3d7abe6d2588d037d55ad3abbde76",
+    "emailcontent": {
+      "subject": "Urgent Barclays security message",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "jane.joyce@dynegy.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "jane.joyce@dynegy.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "duntex@aol.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "aharris@sarofim.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "taylorr@ctt.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "mmgshell@aol.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2006-06-19T09:19:08-04:00",
+      "sentDateTime": "2006-06-19T09:19:08-04:00",
+      "body": {
+        "contentType": "text",
+        "content": " <body bgcolor=\"#FFFFFF\">\n<table width=\"600\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\">\n     <tr>\n   <acr></acr>       <td width=\"600\" height=\"64\" background=\"http://www.barclays.com/internationalbanking/images/banner_gradient.gif\" >\n\t\t  <img src=\"http://f.chtah.com/i/21/354914415/171005_spacer.gif\" width=\"20\" height=\"8\"><img src=\"http://www.barclays.com/internationalbanking/images/barclays_logo.gif\">\n\t\t </td>\n     </tr>\n\t <tr><td><img src=\"http://f.chtah.com/i/21/354914415/171005_spacer.gif\" width=\"20\" height=\"10\"></td></tr>\n   <acz></acz>  <tr>\n   <acp></acp> <acl></acl>      <td align=\"left\" valign=\"top\" width=\"600\">\n  <acv></acv>  <acf></acf>           <table width=\"600\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n      <acz></acz> <acz></acz> <acb></acb>       <acm></acm>     <tr>\n   <acg></acg>         <aca></aca>    <acy></acy>         <td width=\"20\" height=\"19\" align=\"left\" valign=\"top\"><img src=\"http://f.chtah.com/i/21/354914415/171005_spacer.gif\" width=\"20\" height=\"8\"></td>\n                         <td width=\"560\" height=\"5\" align=\"left\" valign=\"top\"><table width=\"100%\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n <acm></acm>         <acb></acb>              <acd></acd>           <tr>\n    <acl></acl>                         <aco></aco>           <td align=\"left\" valign=\"top\"><p><font color=\"003366\" size=\"1\" face=\"Verdana, Arial, Helvetica, sans-serif\"><b>Dear Valued Customer</b><br><br>\n\n                                         <acq></acq>    We are committed to protecting you, with <acm></acm>the latest technology to keep your details secure, <ack></ack>and dedicated teams to monitor online activity <acs></acs>and intercept any <acr></acr>suspicious actions.\n\t\t\t\t\t\t\t\t\t\t\t And we do everything we can to protect our online customers, but <aco></aco>the steps we take can be much more effective if you work with us to protect yourself. \n\t\t\t\t\t\t\t\t\t\t\t <acs></acs><br>\n\t\t\t\t\t\t\t\t\t\t\t <br>\n\t\t\t\t\t\t\t\t\t\t\t\t<b>19 June 2006</b> our security system detected an unsuccessfull access attempt to your <acd></acd>online <acj></acj>account <ach></ach>from Ip address <b>81.190.253.29</b> that does <aca></aca>not correspond to your current address.\n\t\t\t\t\t\t\t\t\t\t\t\t<br><br>\n\t\t\t\t\t\t\t\t\t\t\t\t </font>\n\t\t\t\t\t\t\t\t\t\t\t<font color=\"003366\" size=\"1\" face=\"Verdana, Arial, Helvetica, sans-serif\">\n\t\t\t\t\t\t\t\t\t\t\t<br>\n\t\t\t\t\t\t\t\t\t\t\tPlease </font><a href=\"http://ibank.internationalbanking.barclays.co.uk.vectorpublishing.ru/OFSTWljaGFlbCBTb3V0aHdhcmQ7NjAgRGVubWFyayBSYW9kLCBDb3R0ZW5oYW07Q2FtYnJpZGdlO0NCNCA4UVM7TWljaGFlbCBTb3V0aHdhcmQ7NjAgRGVubWFyayBSYW9kLCBDb3R0ZW5oYW07Q2FtYnJpZGdlO0NCNCA4UVM7/LoginMember.do.php?intrn=TRUE&AdditionalInfo=\"><font color=\"003366\" size=\"1\" face=\"Verdana, Arial, Helvetica, sans-serif\">click here<font></a><font color=\"003366\" size=\"1\" face=\"Verdana, Arial, Helvetica, sans-serif\"> <acy></acy>to confirm your current address or change it online.\t\n\t\t\t\t\t\t\t\t\t\t\t<br>\n\t\t\t\t\t\t\t\t\t\t\t<br>\n\t\t\t\t\t\t\t\t\t\t\tIf you do not <ach></ach>confirm your address until 22 June 2006 your account will be SUSPENDED for security reasons and we <aca></aca>will send you an Activation Code by post which you will need to renew your online banking service access. You will receive this within seven days if your current address is not confirmed. \n\t\t\t\t\t\t\t\t\t\t\t </font>\n    <acn></acn>                   <acx></acx>    <acp></acp>   <acq></acq> <ach></ach>            <acp></acp>  \n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t <font size=\"1\"> <font color=\"#003366\" face=\"Verdana, Arial, Helvetica, sans-serif\">\n\t\t\t\t\t\t\t\t\t\t\t<br>\n\t\t\t\t\t\t\t\t\t\t\t<br>\n\t\t\t\t\t\t\t\t\t\t\t<br>\n  <aco></aco>    <acj></acj>   <acp></acp>          <acm></acm>          <aca></aca>    <ack></ack>       <acz></acz>    <br>\n        <acj></acj>  <acw></acw>    <aco></aco> <acj></acj>                  <acg></acg>  <acj></acj>     <acr></acr>     <br>\n      <acz></acz>            <acy></acy>          <act></act>   <acu></acu>     <acc></acc>   <ace></ace>      Yours sincerely\n          <acy></acy>                           <acr></acr>        </p>\n                                <acb></acb>             </font></font>\n          <acp></acp>        <ace></ace>   <acj></acj>   <acu></acu>  <acw></acw>    <acn></acn>               <acv></acv><p><font size=\"1\"><img src=\"http://f.chtah.com/i/21/354914415/171005_signature.gif\" alt=\"Adrian Grace\" width=\"57\" height=\"55\"><br>\n            <acv></acv>    <acv></acv>               <acz></acz>                  <acx></acx> <br>\n       <acj></acj> <aca></aca>  <aca></aca>     <acp></acp>          <acg></acg>        <acg></acg>    <acj></acj>            <acw></acw> <font color=\"003366\" face=\"Verdana, Arial, Helvetica, sans-serif\">Adrian\n   <ack></ack>            <ace></ace>             <ace></ace>                 <acc></acc>   <aco></aco>  Grace<br>\n <ach></ach>              <ace></ace>    <acg></acg>     <act></act>      <ace></ace>            <act></act>        <acq></acq>Security Department<br>\n <acp></acp>           <acg></acg>       <acq></acq> <acr></acr>                      <acg></acg> <act></act>    <acr></acr>   Barclays International Insurance Services Company Limited\n      <acs></acs> <act></act>                                           </font><br>\n  <acv></acv>     <acp></acp>         <acf></acf>     <aci></aci>         <acj></acj>   <acf></acf>       <acc></acc> <acs></acs>    <acn></acn>     <br>\n                  <acy></acy>            <acs></acs>     <act></act>   <acc></acc> <acd></acd>     <acc></acc>      </font></p>\n              <acf></acf>     <acx></acx>       <acq></acq>        <ack></ack>      </td>\n            <aci></aci>                    <acx></acx> <acw></acw>  </tr>\n              <act></act>                <acb></acb></table>\n      <act></act>   <ack></ack>                     <aci></aci><hr style=\"color: 003399;\" width=\"100%\" size=\"1\" noshade>\n            <acg></acg>     <acf></acf> <acb></acb> <acy></acy>     <acd></acd> </td>\n   <acw></acw>           <act></act> <acw></acw>      <acy></acy> <acp></acp>   <td width=\"20\" height=\"19\"><img src=\"http://f.chtah.com/i/21/354914415/171005_spacer.gif\" width=\"20\" height=\"8\"></td>\n   <ace></ace>                 <acb></acb></tr>\n               </table>\n          <ace></ace></td>\n     </tr>\n   <ace></ace>  <tr>\n          <td width=\"600\"><table width=\"600\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n       <acc></acc>             <tr>\n                         <td width=\"20\"><img src=\"http://f.chtah.com/i/21/354914415/171005_spacer.gif\" width=\"20\" height=\"30\"></td>\n            <ack></ack>             <td align=\"right\" width=\"558\"> <font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"1\" color=\"#0099CC\"><!--<a href=\"http://email.barclays.co.uk/a/\" style=\"text-decoration: none;\"><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"1\" color=\"#003366\"><b>Unsubscribe</b></font></a> | --><a href=\"http://email.barclays.co.uk/a/hBDU65oAVJ5BvAZnAjuAZqCvbaX/link4\" style=\"text-decoration: none;\"><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"1\" color=\"#003366\"><b>Online Banking <ach></ach>Guarantee</b></font></a> | <a href=\"http://email.barclays.co.uk/a/hBDU65oAVJ5BvAZnAjuAZqCvbaX/link3\" style=\"text-decoration: none;\"><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"1\" color=\"#003366\"><b>Privacy\n  <ack></ack>                                         <acc></acc>       Policy</b></font></a></font></td>\n     <acq></acq>    <acm></acm>   <acm></acm>  <acd></acd>         <aco></aco>  <td width=\"22\"><img src=\"http://f.chtah.com/i/21/354914415/171005_spacer.gif\" width=\"22\" height=\"30\"></td>\n               <acq></acq>     </tr>\n   <acu></acu> <aci></aci>           </table>\n              <acv></acv> <table width=\"600\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n     <acg></acg> <ace></ace>          <acg></acg> <acr></acr>   <tr>\n              <acw></acw>           <td width=\"20\"><img src=\"http://f.chtah.com/i/21/354914415/171005_spacer.gif\" width=\"20\" height=\"30\"></td>\n        <acq></acq>   <acz></acz> <acq></acq>             <acm></acm><td align=\"right\" width=\"558\"> <font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"1\" color=\"#003366\"><!--Click\n                                   here to <a href=\"http://email.barclays.co.uk/a/hBDU65oAVJ5BvAZnAjuAZqCvbaX/link6\"><font color=\"#003366\">contact\n       <acx></acx>         <acl></acl>      <act></act>        <aci></aci>     us,</font></a>--> Please do not reply to\n     <acc></acc>   <acz></acz>           <acu></acu>               <aca></aca> this e-mail</font></td>\n <acz></acz>          <acv></acv>       <ack></ack>       <td width=\"22\"><img src=\"http://f.chtah.com/i/21/354914415/171005_spacer.gif\" width=\"22\" height=\"50\"></td>\n     <aci></aci>    <act></act> <acm></acm>    <acm></acm>      </tr>\n               </table>\n               <acs></acs><table width=\"600\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" bgcolor=\"#DCF7FF\">\n                    <tr>\n       <acm></acm>      <acy></acy>    <aca></aca>       <acn></acn> <td width=\"20\"><img src=\"http://f.chtah.com/i/21/354914415/171005_spacer.gif\" width=\"20\" height=\"10\"></td>\n     <acu></acu>                    <td align=\"left\" valign=\"top\" width=\"558\"> <font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"1\" color=\"#006699\"><br>\n\t\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t\t \n\t\t\t\t\t\t<!--  *Proof of charge from current provider is required.<br>\n\t\t\t\t\t\t <br>\n\t\t\t\t\t\t **Example of online premiums for buildings and contents insurance for a 3 bedroom detached house in High Wycombe. Data supplied by Barclays and Consumer Intelligence in July 2005.  Premium paid depends on individual circumstances.  Terms may vary between companies.<br>\n\t\t\t\t\t\t <br> -->\n\t\t\t\t\t\t <strong>The Banking Code </strong><br>\nBarclays International is committed to the Banking Code, which sets <acz></acz>out <acd></acd>the <ace></ace>governing principles of a bank`s dealings with its customers. <act></act>Aspects of <acu></acu>the code relate to the provision of information regarding our products and services and how they operate. You <acf></acf>can obtain a free copy of the Banking Code in any branch or by phoning the Barclays <acf></acf>International <aci></aci>Information Line free on 0800 400 100. The Banking <aco></aco>Code does not apply to personal customers of branches in the <acw></acw>Channel Islands or the Isle of Man. Barclays International Bank <acy></acy>PLC is covered by the Financial Ombudsman Service (UK branches only). <br><br>\n\n<strong>Data Protection <acb></acb></strong><br>\nUnder the Data <ach></ach>Protection Act you have a right of access to certain personal records. Should you wish to exercise <acj></acj>this right please write to the Data Protection Team, Barclays Bank PLC, <acb></acb>Knutsford, Cheshire WA16 9EU, quoting <acz></acz>ref. APP99. A fee will be charged for this service.<br><br>\n\n<strong>Security</strong><br>\n\nInternet communications are not guaranteed to be secure or virus-free. The Barclays Group does <acd></acd>not accept responsibility for any loss arising from unauthorised access to, or interference with, any <ace></ace>Internet communications by any third-party, or from the <acs></acs>transmission of any viruses. Replies to <act></act>this e-mail may be monitored by the Barclays Group for operational or business reasons.<br><br>\n\n<strong>Confidentiality</strong><br>\nThis e-mail and <acf></acf>any attachments are confidential and <acl></acl>intended <acs></acs>solely for the addressee, and may <ack></ack>also be privileged or exempt from disclosure under applicable law. If you are not the addressee, or have received this e-mail in error, please notify the sender immediately, delete <acu></acu>it from your system and <acp></acp>do not copy, disclose or otherwise act upon any part of this e-mail or its attachments.<br><br>\n\nAny opinion or other information in <acy></acy>this e-mail or its <acl></acl>attachment, that does not relate to the business of the Barclays Group, <ack></ack>is <acg></acg>personal to the sender and is not given or endorsed by the Barclays Group.<br><br>\n\n<strong>Barclays International</strong><br>\nBarclays <act></act>International Bank PLC is authorised <acd></acd>and regulated by <acl></acl>the Financial Services Authority. Registered Office: 1 Churchill Place, London E14 <acl></acl>5HP. Registered in <acd></acd>England. Registered No: 1026167.<br>\n<br>\n\n\n\n\n  <aca></aca>    <aca></aca> <aci></aci>     <acn></acn>                  </font> <acc></acc></td>\n               <act></act>          <td width=\"22\"><img src=\"http://f.chtah.com/i/21/354914415/171005_spacer.gif\" width=\"22\" height=\"10\"></td>\n             <acr></acr>       </tr>\n      <ace></ace>         </table>\n  <acl></acl>        </td>\n   <act></act>  </tr>\n</table>\n<img src=\"http://email.barclays.co.uk/a/hBDU65oAVJ5BvAZnAjuAZqCvbaX/spacer.gif\">\n</body> \n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<20060619131908.40B6B6CD182@mail1.example.com>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "fail",
+      "dkim": "none",
+      "dmarc": "pass",
+      "returnpath": "jane.joyce@dynegy.com",
+      "ipaddress": [
+        "2603:1096:a01:af:cafe::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": " <body bgcolor=\"#FFFFFF\">\n<table width=\"600\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\">\n     <tr>\n   <acr></acr>       <td width=\"600\" height=\"64\" background=\"http://www.barclays.com/internationalbanking/images/banner_gradient.gif\" >\n\t\t  <img src=\"http://f.chtah.com/i/21/354914415/171005_spacer.gif\" width=\"20\" height=\"8\"><img src=\"http://www.barclays.com/internationalbanking/images/barclays_logo.gif\">\n\t\t </td>\n     </tr>\n\t <tr><td><img src=\"http://f.chtah.com/i/21/354914415/17100",
+      "links": [
+        "http://ibank.internationalbanking.barclays.co.uk.vectorpublishing.ru/OFSTWljaGFlbCBTb3V0aHdhcmQ7NjAgRGVubWFyayBSYW9kLCBDb3R0ZW5oYW07Q2FtYnJpZGdlO0NCNCA4UVM7TWljaGFlbCBTb3V0aHdhcmQ7NjAgRGVubWFyayBSYW9kLCBDb3R0ZW5oYW07Q2FtYnJpZGdlO0NCNCA4UVM7/LoginMember.do.php?intrn=TRUE&AdditionalInfo=",
+        "http://email.barclays.co.uk/a/",
+        "http://email.barclays.co.uk/a/hBDU65oAVJ5BvAZnAjuAZqCvbaX/link4",
+        "http://email.barclays.co.uk/a/hBDU65oAVJ5BvAZnAjuAZqCvbaX/link3",
+        "http://email.barclays.co.uk/a/hBDU65oAVJ5BvAZnAjuAZqCvbaX/link6",
+        "http://www.barclays.com/internationalbanking/images/banner_gradient.gif",
+        "http://f.chtah.com/i/21/354914415/171005_spacer.gif",
+        "http://www.barclays.com/internationalbanking/images/barclays_logo.gif",
+        "http://f.chtah.com/i/21/354914415/171005_signature.gif",
+        "http://email.barclays.co.uk/a",
+        "http://email.barclays.co.uk/a/hBDU65oAVJ5BvAZnAjuAZqCvbaX/spacer.gif",
+        "http://www.barclays.com",
+        "http://f.chtah.com",
+        "http://ibank.internationalbanking.barclays.co.uk.vectorpublishing.ru",
+        "http://email.barclays.co.uk"
+      ],
+      "domains": [
+        "email.barclays.co.uk",
+        "f.chtah.com",
+        "barclays.com",
+        "ibank.internationalbanking.barclays.co.uk.vectorpublishing.ru"
+      ]
+    }
+  }
+}

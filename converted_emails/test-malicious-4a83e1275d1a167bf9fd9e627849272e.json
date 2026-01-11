@@ -1,0 +1,75 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-4a83e1275d1a167bf9fd9e627849272e",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-4a83e1275d1a167bf9fd9e627849272e",
+    "emailcontent": {
+      "subject": "11th Convergence India 2003 exhibition & conference",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "ralee@rmi.net"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "ralee@rmi.net"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "amy@sdsc.edu"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2002-09-04T16:55:29+05:30",
+      "sentDateTime": "2002-09-04T16:55:29+05:30",
+      "body": {
+        "contentType": "html",
+        "content": "<HTML><HEAD>\n<META http-equiv=Content-Type content=\"text/html;\ncharset=iso-8859-1\">\n<META content=\"MSHTML 5.50.4134.600\" name=GENERATOR>\n<STYLE></STYLE>\n</HEAD>\n<BODY bgColor=#ffffff>\n<DIV><FONT face=Arial size=2>Dear Sir/Madam,</FONT></DIV>\n<DIV><FONT face=Arial size=2></FONT>&nbsp;</DIV>\n<DIV><FONT face=Arial size=2>I got this email id from your\nwebsite.</FONT></DIV>\n<DIV><FONT face=Arial size=2></FONT>&nbsp;</DIV>\n<DIV align=justify><FONT face=Arial size=2>Our organisation,\nExhibitions India \nPvt Ltd organises the annual Convergence India exhibition and\nconference in New \nDelhi, India during the month of March. <STRONG>Convergence\nIndia is the longest \nrunning international trade-show</STRONG> and the only forum\nin India to \nshowcase the convergence of voice and data networks, delivery\nof content, \ntelevision and entertainment applications, broadcast,\ntelecommunications, fixed \nand mobile networks, internet, computing etc.</FONT></DIV>\n<DIV><FONT face=Arial size=2></FONT>&nbsp;</DIV>\n<DIV align=justify><FONT face=Arial size=2>For the same, I\nwould like to contact \nthe concerned person in your organisation. Could you please\nadvise his/her \ncomplete contact details or please forward the following mail\nto him/her. In \ncase you are the decision&nbsp;maker about participation in\ninternational \nexhibitions, following this mail is some information on our\nannual \nevent.</FONT></DIV>\n<DIV><FONT face=Arial size=2></FONT>&nbsp;</DIV>\n<DIV><FONT face=Arial size=2>Thank you in\nadvance.</FONT></DIV>\n<DIV><FONT face=Arial size=2></FONT>&nbsp;</DIV>\n<DIV><FONT face=Arial size=2>Sincerely and with best\nregards,</FONT></DIV>\n<DIV><FONT face=Arial size=2></FONT>&nbsp;</DIV>\n<DIV><FONT face=Arial size=2>Deepak Kr. Nagpal</FONT></DIV>\n<DIV><FONT face=Arial size=2>Executive Marketing</FONT></DIV>\n<DIV><FONT face=Arial size=2></FONT>&nbsp;</DIV>\n<DIV><FONT face=Arial size=2>Exhibitions India Pvt.\nLtd.<BR>A-17 2nd \nFloor<BR>DDA SCO Complex<BR>Near Moolchand Flyover<BR>Defence\nColony<BR>New \nDelhi 110 024<BR>Tel:&nbsp; +91 11 463 8680-84<BR>Fax: +91 11\n463 3506, 462 \n3320<BR>email: <A \nhref=\"mailto:exhibitionsindia@vsnl.com\">exhibitionsindia@vsnl\n.com</A><BR>website: \n<A \nhref=\"http://www.exhibitionsindia.org\">www.exhibitionsindia.o\nrg</A></FONT></DIV>\n<DIV><FONT face=Arial size=2></FONT>&nbsp;</DIV>\n<DIV><FONT face=Arial size=2></FONT>&nbsp;</DIV>\n<DIV><FONT face=Arial size=2><STRONG>INFORMATION ABOUT THE \nEVENT</STRONG></FONT></DIV>\n<DIV><FONT face=Arial size=2></FONT>&nbsp;</DIV>\n<DIV>\n<DIV align=justify><FONT face=Arial>Exhibitions India\norganises the Convergence \nIndia &nbsp;exhibition &amp; conference, which is the\n<STRONG>longest running \ninternational trade-show</STRONG> and the only forum in India\nto showcase the \nconvergence of voice and data networks, delivery of content,\ntelevision and \nentertainment applications, broadcast, telecommunications,\nfixed and mobile \nnetworks, internet, computing etc.</FONT></DIV>\n<DIV align=justify><FONT face=Arial></FONT>&nbsp;</DIV>\n<DIV align=justify><FONT face=Arial>Exhibitions India invites\nyou to participate \nat the&nbsp;<STRONG>11th Convergence India 2003 exhibition\n&amp; \nconference</STRONG>, which will be at <STRONG>Pragati Maidan,\nNew Delhi, \nIndia</STRONG> during&nbsp;<STRONG>11-13 March\n2003.</STRONG></FONT></DIV>\n<DIV align=justify><FONT face=Arial></FONT>&nbsp;</DIV>\n<DIV align=justify><FONT face=Arial><FONT face=Arial\nsize=2><STRONG>The \nGovernment of India has recently mandated the Conditional\nAccess System for \ndistribution of satellite television channels. This has\ncreated a whole new \nmarketplace in the Indian cable industry. Once this bill is\nmade an act, it will \nbe mandatory for cable operators to distribute pay channels\nthrough a set-top \nbox.<BR><BR></STRONG><STRONG>India has an estimated 38\nmillion cable homes! The \nimplementation of this change will require massive\ninvestments in set-top boxes, \nconditional access software and the upgradation of headend\nnetworks - a great \noppotunity for you to tap this huge market!! Exhibiting your\nproducts at the \n11th Convergence India exhibition will give you an\nopportunity to meet \n<EM><U>all your</U></EM>&nbsp; targetted visitors under a\nsingle \nroof.<BR></STRONG><BR></FONT></FONT><FONT face=Arial>Other\nexhibits will be from \nvarious industries including high speed networking, internet\ntelephony, mobile \nand satellite communications, network infrastructure, optical\naccess networking, \nportable communication devices, t&amp;m and interactive\nmedia, VoIP, wireless \naccess, 3G, m-commerce, multimedia broadband services via\nsatellite, conditional \naccess technologies, satellite receivers and transmitters,\nencoders, decoders, \nand the latest in broadcast, cable and satellite\nequipment,&nbsp;mobile phone \naccesories&nbsp; etc.<BR><BR></FONT><FONT face=Arial><FONT\nface=Arial>We \nsuccessfully concluded the <STRONG>10th </STRONG>Convergence\nIndia 2002 \nexhibition and conference at New Delhi - the event\nhad&nbsp;176 exhibitors from \n17&nbsp;countries displaying their equipment and technologies\nto a discerning \naudience of&nbsp;16,093 visitors from the industry,\ngovernment, related trade \nassociations. The event got extensive coverage from\nthe&nbsp;media - both print \nand electronic. The three day high profile conference had\nover 1374 delegates. \nHighlights of the event were&nbsp;country pavilions from\n<STRONG>USA</STRONG>, \n<STRONG>FRANCE</STRONG>, <STRONG>CHINA </STRONG>&amp; the\n<STRONG>VoIP \n</STRONG>Technology Pavilion.</FONT></FONT></DIV>\n<DIV align=justify><STRONG><FONT face=Arial>More about the\nnext \nevent:</FONT></STRONG></DIV>\n<DIV align=justify><STRONG><FONT\nface=Arial></FONT></STRONG>&nbsp;</DIV>\n<DIV align=justify><STRONG><FONT face=Arial><U>Convergence\nIndia is certified by \nthe&nbsp;US Department of Commerce\nsince&nbsp;1994</U>.</FONT></STRONG></DIV>\n<DIV align=justify><STRONG><FONT\nface=Arial></FONT></STRONG>&nbsp;</DIV>\n<DIV align=justify><STRONG><FONT face=Arial><U>UK Group\nParticipation</U>&nbsp;: \nTrade Fairs Support,UK</FONT></STRONG></DIV>\n<DIV align=justify>\n<DIV>\n<P align=justify><FONT\nface=Arial><STRONG><U>Co-organisers</U>:<BR></STRONG>- \nMinistry of Communications &amp; IT, Government&nbsp;of\nIndia<BR>- Association \nof Basic Telecom Operators<BR>- Cellular Operators\nAssociation of India<BR>- \nIndo-American Chamber of Commerce<BR>- VSAT Services\nAssociation of India<BR>- \nTelecom Equipment Manufacturers Association of India\n(TEMA)<BR>- Internet \nService Providers Association of India (ISPAI</FONT></P>\n<DIV align=justify><STRONG><FONT \nface=Arial><U>Supports</U>:</FONT></STRONG></DIV>\n<DIV align=justify><FONT face=Arial>All India Aavishkar Dish\nAntenna Sangh, \nIndia, Cable Operators Federation of India,\nIndia,&nbsp;Economics, Finance &amp; \nTrade Commission of France (UBI France),&nbsp;Electronic\nComponent Industries \nAssociation, India,&nbsp;Global VSAT Forum,\nUK,&nbsp;International Broadcasting \nConvention (IBC), UK,&nbsp;National Association of\nBroadcasters (NAB), \nUSA,&nbsp;Swiss Multimedia Association,\nSwitzerland,&nbsp;Telecom Users Group of \nIndia, India,&nbsp;The Institution of Electronics and\nTelecommunication \nEngineers, India</FONT></DIV>\n<DIV align=justify><STRONG><FONT\nface=Arial></FONT></STRONG>&nbsp;</DIV>\n<DIV align=justify><STRONG><FONT face=Arial>Participation \nCost:</FONT></STRONG></DIV>\n<DIV align=justify>\n<DIV align=justify><STRONG><FONT face=Arial>Shell\nSpace:&nbsp;&nbsp;&nbsp; US $ \n250 per sqm (minimum 9 sqm)</FONT></STRONG></DIV>\n<DIV align=justify><STRONG><FONT face=Arial>Raw \nSpace:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;US $ 220 per\nsqm&nbsp;(minimum 18 \nsqm)</FONT></STRONG></DIV>\n<DIV align=justify><FONT face=Arial></FONT>&nbsp;</DIV>\n<DIV><STRONG><FONT face=Arial>Please visit our website (<A \nhref=\"http://www.exhibitionsindia.org\">www.exhibitionsindia.o\nrg</A>) for further \ndetails.&nbsp;</FONT></STRONG></DIV>\n<DIV><STRONG><FONT\nface=Arial></FONT></STRONG>&nbsp;</DIV></DIV></DIV></DIV>\n<DIV align=justify><STRONG><FONT face=Arial>We\nawait&nbsp;your \nconfirmation!!</FONT></STRONG></DIV></DIV></BODY></HTML>\n\n\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<37503.705196875002000.233756@localhost>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "none",
+      "dkim": "none",
+      "dmarc": "fail",
+      "returnpath": "ralee@rmi.net",
+      "ipaddress": [
+        "2603:1096:a04::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Dear Sir/Madam, I got this email id from your website. Our organisation, Exhibitions India Pvt Ltd organises the annual Convergence India exhibition and conference in New Delhi, India during the month of March. Convergence India is the longest running international trade-show and the only forum in India to showcase the convergence of voice and data networks, delivery of content, television and entertainment applications, broadcast, telecommunications, fixed and mobile networks, internet, computi",
+      "links": [
+        "http://www.exhibitionsindia.org",
+        "http://vsnl.com"
+      ],
+      "domains": [
+        "exhibitionsindia.org",
+        "vsnl.com"
+      ]
+    }
+  }
+}

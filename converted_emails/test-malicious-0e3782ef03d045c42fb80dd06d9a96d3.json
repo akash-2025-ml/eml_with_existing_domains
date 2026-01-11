@@ -1,0 +1,78 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-0e3782ef03d045c42fb80dd06d9a96d3",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-0e3782ef03d045c42fb80dd06d9a96d3",
+    "emailcontent": {
+      "subject": "No perscription needed to order pills at our site!",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "rick.bergsieker@enron.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "rick.bergsieker@enron.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "bernadette.dowling@conectiv.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2007-04-09T20:51:34-04:00",
+      "sentDateTime": "2007-04-09T20:51:34-04:00",
+      "body": {
+        "contentType": "text/html",
+        "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\">\n<HTML><HEAD>\n<META http-equiv=Content-Type content=\"text/html; charset=iso-8859-1\">\n<META content=\"MSHTML 6.00.5730.11\" name=GENERATOR>\n<STYLE></STYLE>\n</HEAD>\n<BODY bgColor=#ffffff>\n<DIV><FONT color=#008080 size=4><STRONG><EM>Buy MUST-HAVE PILLS and save upto\n75%.</EM></STRONG></FONT></DIV>\n<DIV><STRONG>- All popular drugs are available (Viagra, Cialis, Levitra, \nPropecia and many other)<BR>- Genuine & high-quality generics \navailable<BR>- Worldwide delivery directly to your home<BR>- No Doctor \nvisit, Prescription is not required.<BR>- Certified online pharmacy, 100% \nCustomer Satisfaction</STRONG></DIV>\n<DIV><STRONG><EM><FONT size=4><A href=\"http://wfuahq.ujzcnn.hk/?99325375\">MAKE an ORDER and GET YOUR\nPILLS instantly!</A></FONT></EM></STRONG></DIV>\n<DIV> </DIV>\n<DIV><A href=\"http://aauffl.easementzod.com/?35164857\">http://dktjpu.uucmmd.hk/?76296056</A></DIV>\n<DIV><FONT face=Arial size=2></FONT>&nbsp;</DIV>\n<DIV><FONT face=Arial size=2></FONT>&nbsp;</DIV>\n<DIV>We think a happy life consists in tranquility of mind.</DIV>\n<DIV>There is not any memory with less satisfaction than the memory of some temptation we resisted.</DIV>\n<DIV>The growth of affluence, the growth of education, has led to a shortage of morons.</DIV>\n<DIV>A novel must be exceptionally good to live as long as the average cat.</DIV></BODY></HTML>\n\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<32d0986c-ff59-4d99-ac2f-a668e0f1a647@generated>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "pass",
+      "dkim": "fail",
+      "dmarc": "pass",
+      "returnpath": "rick.bergsieker@enron.com",
+      "ipaddress": [
+        "2603:1096:a01:1c7::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Buy MUST-HAVE PILLS and save upto 75%. - All popular drugs are available (Viagra, Cialis, Levitra, Propecia and many other) - Genuine & high-quality generics available - Worldwide delivery directly to your home - No Doctor visit, Prescription is not required. - Certified online pharmacy, 100% Customer Satisfaction MAKE an ORDER and GET YOUR PILLS instantly! http://dktjpu.uucmmd.hk/?76296056 We think a happy life consists in tranquility of mind. There is not any memory with less satisfaction than",
+      "links": [
+        "http://wfuahq.ujzcnn.hk/?99325375",
+        "http://aauffl.easementzod.com/?35164857",
+        "http://dktjpu.uucmmd.hk/?76296056",
+        "http://aauffl.easementzod.com"
+      ],
+      "domains": [
+        "dktjpu.uucmmd.hk",
+        "aauffl.easementzod.com",
+        "wfuahq.ujzcnn.hk"
+      ]
+    }
+  }
+}

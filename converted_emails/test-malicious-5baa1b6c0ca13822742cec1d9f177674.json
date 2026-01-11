@@ -1,0 +1,75 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-5baa1b6c0ca13822742cec1d9f177674",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-5baa1b6c0ca13822742cec1d9f177674",
+    "emailcontent": {
+      "subject": "[ILUG] WILSON  KAMELA",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "klyn@pdq.net"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "klyn@pdq.net"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "Tory Ward",
+            "address": "mail@speedy.uwaterloo.ca"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2002-12-04T06:07:07",
+      "sentDateTime": "2002-12-04T06:07:07",
+      "body": {
+        "contentType": "text",
+        "content": "ATTN:SIR/MADAN      \n\n                      STRICTLY CONFIDENTIAL.\n\nI am pleased to introduce myself  to you.My name is Mr. Wilson Kamela a native of South Africa and a senior employee of mines and natural resources department currently on a trainning course in Holland for few months.\n\nI  am writing this letter to request your assistance in order to redeem an investment with the South African mining Corporation.The said investment, now valued at  ($15.5 million dollars ) Fifteen  million,five hundred thousand dollars only was purchased by Lucio Harper and contracted out to the South  African Mining Corporation in 1977 now recognised as mines and natural resources department.This redeemable investment interest,has now matured since March last year.\n\nSince MARCH last year, several attempts have been made to contact Lucio Harper without success and there is no way to contact any of his close relatives in whose favour the investment cash value can be paid.                                                    \n                                   \nSince we have access to all Lucio Harper's information,we can claim this money with the help of my partners with the South African Mines and natural resources department.All we have to do is to file claim using you as Lucio Harper's relative.\n\nI will like to assure you that there is absolutely nothing to worry about,because it is perfectly safe with no risk involved.Please ensure to keep this matter strictly confidential.My partner will file a claim for this money on your behalf from the SouthAfrican mining Corporation.When the claim is approved,you as the beneficiary \nwill be paid (25%) of the total amouth.\n\nSince this money can be paid directly into any bank account of your choice,you have responsibility to ensure that my partner and Ireceive(70%)of the total amouth.While the balance (5%) will be set aside for any unforseen expenses in the cause of transfering this money.\n\nI will appreciate if you can give your assurance and guarantee that our share will be well secured.Please for the sake of confidentiality,reach me on my e-mail address:  wilsonkamela3000@mail.com .  Please let me know if this proposal is acceptable to you. Kindly reach me immediately with any of the stated contact addresses so that better clearifications \nrelating to the transaction will be explained to you.\n\n\nTruly yours,\nWilson Kamela.\n\n\n\n \n\n\n-- \nIrish Linux Users' Group: ilug@linux.ie\nhttp://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.\nList maintainer: listmaster@linux.ie\n\n\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<7029b6de-fb8c-4fae-95e3-6de073335cdc@generated>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "pass",
+      "dkim": "neutral",
+      "dmarc": "none",
+      "returnpath": "klyn@pdq.net",
+      "ipaddress": [
+        "fe80::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "ATTN:SIR/MADAN      \n\n                      STRICTLY CONFIDENTIAL.\n\nI am pleased to introduce myself  to you.My name is Mr. Wilson Kamela a native of South Africa and a senior employee of mines and natural resources department currently on a trainning course in Holland for few months.\n\nI  am writing this letter to request your assistance in order to redeem an investment with the South African mining Corporation.The said investment, now valued at  ($15.5 million dollars ) Fifteen  million,five hu",
+      "links": [
+        "http://www.linux.ie/mailman/listinfo/ilug",
+        "http://mail.com "
+      ],
+      "domains": [
+        "linux.ie",
+        "mail.com"
+      ]
+    }
+  }
+}

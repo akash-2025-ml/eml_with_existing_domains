@@ -1,0 +1,106 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-4111913feb73dd4819b9d796b66bf48b",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-4111913feb73dd4819b9d796b66bf48b",
+    "emailcontent": {
+      "subject": "Lease Deal",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "info@sesystems.co.uk"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "info@sesystems.co.uk"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "jagah1@bloomberg.net"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "jarenzana@ecompany.net"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "peterbennborn@compuserve.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [
+        {
+          "emailAddress": {
+            "name": "SE Systems Ltd",
+            "address": "info@sesystems.co.uk"
+          }
+        }
+      ],
+      "receivedDateTime": "2002-09-19T18:24:11+01:00",
+      "sentDateTime": "2002-09-19T18:24:11+01:00",
+      "body": {
+        "contentType": "html",
+        "content": "<html xmlns:v=\"urn:schemas-microsoft-com:vml\"\nxmlns:o=\"urn:schemas-microsoft-com:office:office\"\nxmlns=\"http://www.w3.org/TR/REC-html40\">\n\n<head>\n<meta http-equiv=\"Content-Language\" content=\"en-gb\">\n<meta name=\"GENERATOR\" content=\"Microsoft FrontPage 5.0\">\n<meta name=\"ProgId\" content=\"FrontPage.Editor.Document\">\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=windows-1252\">\n<link rel=\"File-List\" href=\"Mercedesoffer_files/filelist.xml\">\n<title>Latest news and information</title>\n<!--[if !mso]>\n<style>\nv\\:*         { behavior: url(#default#VML) }\no\\:*         { behavior: url(#default#VML) }\n.shape       { behavior: url(#default#VML) }\n table.MsoNormalTable\n\t{mso-style-parent:\"\";\n\tfont-size:10.0pt;\n\tfont-family:\"Times New Roman\"}\n</style>\n<![endif]--><!--[if gte mso 9]>\n<xml><o:shapedefaults v:ext=\"edit\" spidmax=\"1027\"/>\n</xml><![endif]-->\n</head>\n\n<body>\n\n  <table border=\"1\" cellpadding=\"0\" cellspacing=\"0\"\nstyle=\"border-collapse: collapse\" bordercolor=\"#111111\" width=\"259\"\nheight=\"388\" id=\"AutoNumber1\">\n    <tr>\n      <td width=\"259\" height=\"388\" valign=\"top\">\n      <table height=\"842\" cellSpacing=\"0\" cellPadding=\"0\" width=\"100%\"\nborder=\"0\">\n        <tr>\n          <td vAlign=\"centre\" align=\"middle\" bgColor=\"#ffffff\" height=\"842\">\n          <table height=\"895\" cellSpacing=\"0\" cellPadding=\"0\" width=\"767\"\nborder=\"0\" style=\"border-left-width: 0; border-right-width: 0\">\n            <tr>\n              <td width=\"780\" bgColor=\"#C0C0C0\" colSpan=\"2\" height=\"112\"\nstyle=\"border-style: solid; border-width: 1\">\n              <p align=\"center\">\n              <span style=\"font-size: 26pt; font-family: Times New Roman\">\n              Leasing Deal of the Year<br>\n              </span><font size=\"6\"><span style=\"font-family: Times New\nRoman\">\n              Mercedes-Benz</span></font><span style=\"font-family: Times\nNew Roman\"><font size=\"6\"> \n              E240 (2.6) Elegance Auto</font></span></p>\n              </td>\n            </tr>\n            <tr>\n              <td align=\"left\" width=\"633\" bgColor=\"#ffffff\"\nheight=\"352\"><p>\n              <span style=\"font-size: 11.0pt; font-family: Dax\"><!--[if\ngte vml 1]><v:shapetype id=\"_x0000_t75\"\n coordsize=\"21600,21600\" o:spt=\"75\" o:preferrelative=\"t\"\npath=\"m@4@5l@4@11@9@11@9@5xe\"\n filled=\"f\" stroked=\"f\">\n <v:stroke joinstyle=\"miter\"/>\n <v:formulas>\n  <v:f eqn=\"if lineDrawn pixelLineWidth 0\"/>\n  <v:f eqn=\"sum @0 1 0\"/>\n  <v:f eqn=\"sum 0 0 @1\"/>\n  <v:f eqn=\"prod @2 1 2\"/>\n  <v:f eqn=\"prod @3 21600 pixelWidth\"/>\n  <v:f eqn=\"prod @3 21600 pixelHeight\"/>\n  <v:f eqn=\"sum @0 0 1\"/>\n  <v:f eqn=\"prod @6 1 2\"/>\n  <v:f eqn=\"prod @7 21600 pixelWidth\"/>\n  <v:f eqn=\"sum @8 21600 0\"/>\n  <v:f eqn=\"prod @7 21600 pixelHeight\"/>\n  <v:f eqn=\"sum @10 21600 0\"/>\n </v:formulas>\n <v:path o:extrusionok=\"f\" gradientshapeok=\"t\" o:connecttype=\"rect\"/>\n <o:lock v:ext=\"edit\" aspectratio=\"t\"/>\n</v:shapetype><v:shape id=\"_x0000_s1027\" type=\"#_x0000_t75\"\nstyle='width:463.5pt;\n height:246.75pt'>\n <v:imagedata src=\"Mercedesoffer_files/image001.jpg\" o:title=\"E240Merc\"/>\n</v:shape><![endif]--><![if !vml]><img border=0 width=618 height=329\nsrc=\"http://www.mercedes.co.uk/usedcars/Search/MTCarImages/P312GDW.jpg\"\nv:shapes=\"_x0000_s1027\"><![endif]><br>\n&nbsp;</span></p>\n              <div style=\"mso-shading: windowtext; mso-pattern: gray-10\nauto; width: 621; height: 232; border: 1.5pt double windowtext;\npadding-left: 4.0pt; padding-right: 4.0pt; padding-top: 5.0pt;\npadding-bottom: 7.0pt; background: #E5E5E5\">\n                <p class=\"MsoNormal\" align=\"center\" style=\"text-align:\ncenter; border: medium none; padding: 0in; background: #E5E5E5\">\n                <span style=\"font-family: Times New Roman\"><font size=\"4\">\n                Specification includes: Automatic, Metallic Paint, Alloy\nWheels, \n                Electric Windows, Remote Central Locking, Electric Folding \n                Mirrors, Trip computer, Air Conditioning, Headlamp Wash,\nRear \n                Head Restraints, Tinted Windows and Wood\nTrim</font></span></p>\n                <p class=\"MsoNormal\" align=\"center\" style=\"text-align:\ncenter; border: medium none; padding: 0in; background: #E5E5E5\">\n                <span style=\"font-size: 8.0pt; font-family: Times New\nRoman\">&nbsp;</span><font size=\"6\"><span style=\"font-family: Times New\nRoman\">299.00 \n                per month 2 years (3+23)<br>\n                276.70</span><span style=\"FONT-FAMILY: Times New Roman\">\nper \n                month</span><span style=\"font-family: Times New Roman\"><b>\n</b>3 \n                years (3+35)</span></font></p>\n                <p class=\"MsoNormal\" align=\"center\" style=\"text-align:\ncenter; border: medium none; padding: 0in; background: #E5E5E5\">\n                <b><span style=\"font-family: Times New Roman\">Used 2001 \n                Registered</span><font face=\"Times New Roman\"> 01 Y\n&amp;&nbsp; 01 51 \n                plates (sub12,000miles)<br>\n                </font></b><span style=\"font-size: 10.0pt; font-weight:\n700\">\n                10,000 miles per year, PCP, PCH, Contract Purchase and\nFinance \n                Lease are also available on request</span></div>\n              </td>\n              <td align=\"right\" width=\"147\" bgColor=\"#ffffff\" height=\"352\">\n              <p align=\"center\">\n              &nbsp;</p>\n              </td>\n            </tr>\n            <tr>\n              <td align=\"left\" width=\"633\" bgColor=\"#ffffff\" height=\"71\">\n              <p align=\"center\">\n              <font face=\"Arial, Helvetica, sans-serif\" color=\"#010098\"\nsize=\"5\">\n              <b>Telephone: 01702 530174</b> &nbsp;&nbsp;&nbsp; <b>Fax:\n01702 530200</b></font><font size=\"5\">\n              </font></td>\n              <td align=\"right\" width=\"147\" bgColor=\"#ffffff\" height=\"71\">\n              <a href=\"mailto:sales@sesystems.co.uk\">\n              <img border=\"0\"\nsrc=\"http://www.sesystems.co.uk/images/thumb/email4.gif\" width=\"45\"\nheight=\"52\"></a><font color=\"#010098\" face=\"Arial, Helvetica, sans-serif\"\nsize=\"2\"><a href=\"mailto:sales@sesystems.co.uk\">Email:\nsales@sesystems.co.uk</a></font></td>\n            </tr>\n            </table>\n          </td>\n        </tr>\n      </table>\n      </td>\n    </tr>\n  </table>\n\n</body>\n\n</html>\n\n\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<E17s52J-0006fZ-00@FUSMTA02-LRS>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "fail",
+      "dkim": "pass",
+      "dmarc": "pass",
+      "returnpath": "info@sesystems.co.uk",
+      "ipaddress": [
+        "fe80::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Latest news and information v\\:* { behavior: url(#default#VML) } o\\:* { behavior: url(#default#VML) } .shape { behavior: url(#default#VML) } table.MsoNormalTable {mso-style-parent:\"\"; font-size:10.0pt; font-family:\"Times New Roman\"} Leasing Deal of the Year Mercedes-Benz E240 (2.6) Elegance Auto Specification includes: Automatic, Metallic Paint, Alloy Wheels, Electric Windows, Remote Central Locking, Electric Folding Mirrors, Trip computer, Air Conditioning, Headlamp Wash, Rear Head Restraints, ",
+      "links": [
+        "http://www.w3.org/TR/REC-html40",
+        "http://www.mercedes.co.uk/usedcars/Search/MTCarImages/P312GDW.jpg",
+        "http://www.sesystems.co.uk/images/thumb/email4.gif",
+        "http://www.w3.org",
+        "http://image001.jp",
+        "http://www.mercedes.co.uk",
+        "http://P312GDW.jp",
+        "http://sesystems.co.uk\">\n              ",
+        "http://www.sesystems.co.uk",
+        "http://sesystems.co.uk"
+      ],
+      "domains": [
+        "mercedes.co.uk",
+        "w3.org",
+        "P312GDW.jp",
+        "sesystems.co.uk\">",
+        "image001.jp",
+        "sesystems.co.uk"
+      ]
+    }
+  }
+}

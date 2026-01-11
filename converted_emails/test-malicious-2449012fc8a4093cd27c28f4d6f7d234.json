@@ -1,0 +1,75 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-2449012fc8a4093cd27c28f4d6f7d234",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-2449012fc8a4093cd27c28f4d6f7d234",
+    "emailcontent": {
+      "subject": "Medications that you need",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "admin@security.enron.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "admin@security.enron.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "ken.lewchuk@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2007-06-29T00:27:46+05:00",
+      "sentDateTime": "2007-06-29T00:27:46+05:00",
+      "body": {
+        "contentType": "text/html",
+        "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\">\n<HTML><HEAD>\n<META http-equiv=Content-Type content=\"text/html; charset=us-ascii\">\n<META content=\"MSHTML 5.00.2919.6600\" name=GENERATOR>\n<STYLE></STYLE>\n</HEAD>\n<BODY>\n<html>\n<body bgcolor=\"#FFFFFF\">\n<style>\nWii bitte?DEBATTEN    * Polen: Der Geheimdienst und die Bisch&#246;fe    * DFB- Chefscout Siegenthaler: \"Ich werde bei der EM mit der Schweiz mitfiebern\"Koalitionspolitiker wollen Bundeswehr in den umk&#228;mpften S&#252;den entsenden    * Temperaturanstieg: Schweiz erw&#228;rmt sich doppelt so stark wie Nordhalbkugel    * Umfrage: Steinmeier h&#228;ngt Beck abWii bitte?Senat stoppt Bushs Einwanderungsgesetz    * DFB- Chefscout Siegenthaler: \"Ich werde bei der EM mit der Schweiz mitfiebern\"\n</style>\n<font size=\"+2\"><b>Cheap Pharmacy </b></font> \n<p><font size=\"+2\"></font><br>\n<style>Immer wieder haben Mediziner vergeblich versucht, den Aids-Erreger aus dem menschlichen K&#246;rper zu vertreiben. Jetzt aber ist es deutschen Forschern gelungen, das HI-Virus auszuschalten - mit einem speziell abgerichteten Molek&#252;l. Von Johann Grolle mehr...    * L&#246;sch-Aktion bei der Bundeswehr: Minister Jung k&#252;ndigt Aufkl&#228;rung an    * DFB- Chefscout Siegenthaler: \"Ich werde bei der EM mit der Schweiz mitfiebern\"    * Prinz William & Kate Middleton: Heimliche Treffen als Zeichen eines Neustarts    * Entlassung von Bundesanw&#228;lten: Bush verweigert Demokraten Akteneinsicht    *</style>\n  <br>\nNow you have the opportunity to save your time and money!\nWith Canada based online  store you can buy any pill you need!\nForget about prescriptions and doctors. Now you save your time.\nForget about high prices at local drug stores. Save your money now! \n</p>\n<style>\nSPIEGEL- DOSSIERSRatgeber \t\tH&#246;rbuch-      Viren: Alle Nachrichten zum Thema    *      Google Street View: Paradies der Gaffer und Spanner\tBu&#223;geld-\tLotto \t\tBanken-Ehrensenf      FLIX      Spontos Abenteuer bald gedruckt: Neben den Kolumnen von SPIEGEL ONLINE gibt es zus&#228;tzliche Texte, ein Glossar, eine Typologie der Bewohner von \"Second Life\" und praktische Tipps f&#252;r SL- Einsteiger. Ab Juli im Handel - oder im SPIEGEL SHOP erh&#228;ltlich.COM!X    *SILBERSCHEIBEN      Seitenwechsel- Comic: &#220;ber den Wolken    *      DVD- Filmbeileger: Solides Starkino    *    *      Schach: Mensch gegen Computer      Wirtschaft: Machen Sie mit beim weltweiten, virtuellen Gr&#252;nderwettbewerb!Vergleich \tSPIEGEL ONLINE \tRezensionen \t\tW&#228;hrungs-      Viren: Alle Nachrichten zum Thema      YesterTech: Was gestern Zukunft war      Spontos Abenteuer bald gedruckt: Neben den Kolumnen von SPIEGEL ONLINE gibt es zus&#228;tzliche Texte, ein Glossar, eine Typologie der Bewohner von \"Second Life\" und praktische Tipps f&#252;r SL- Einsteiger. Ab Juli im Handel - oder im SPIEGEL SHOP erh&#228;ltlich.    *      Zwiebelfisch 3: Der kleine E- Mail- Knigge      Wirtschaft: Machen Sie mit beim weltweiten, virtuellen Gr&#252;nderwettbewerb!      Zwiebelfisch 3: Der kleine E- Mail- Knigge\n</style>\n<p></p>\n<p></p>\n<style>\n      Viren: Alle Nachrichten zum Thema\tLotto \t\tBanken-      DVD- Filmbeileger: Verf&#252;hrerische Cowboys    *    *    *\n</style>\n<p><font color=\"#FF0000\"><a href=\"http://yilscu.spreadfront.hk/?444279797544\"><b><font size=\"+2\">CLICK \n  HERE FOR DETAILS!</font></b></a></font></p>\n<style>\n    *    *      Netzverwaltung: Wem geh&#246;rt das Internet?\tB&#252;cher bestellen \t\tStellenangebote \t\tImmobilien-      Virtueller Stra&#223;enkampf: Allein gegen die Polizei- Pixelh&#228;ufchen    *SPIEGEL ONLINE \tKredite onlineVergleiche \t\tAutomarkt    *      SPIEGEL ONLINE exklusiv: Die Anatomie der Schlapph&#252;te\n</style>\n\n</body>\n</html>\n\n\n</BODY></HTML>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<b368cbd6-6bde-4e1b-91f5-829b3d1724d5@generated>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "pass",
+      "dkim": "pass",
+      "dmarc": "none",
+      "returnpath": "test@attack.com",
+      "ipaddress": [
+        "2603:1096:c01:ec::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Wii bitte?DEBATTEN * Polen: Der Geheimdienst und die Bischöfe * DFB- Chefscout Siegenthaler: \"Ich werde bei der EM mit der Schweiz mitfiebern\"Koalitionspolitiker wollen Bundeswehr in den umkämpften Süden entsenden * Temperaturanstieg: Schweiz erwärmt sich doppelt so stark wie Nordhalbkugel * Umfrage: Steinmeier hängt Beck abWii bitte?Senat stoppt Bushs Einwanderungsgesetz * DFB- Chefscout Siegenthaler: \"Ich werde bei der EM mit der Schweiz mitfiebern\" Cheap Pharmacy Immer wieder haben Mediziner ",
+      "links": [
+        "http://yilscu.spreadfront.hk/?444279797544",
+        "http://ltlich.COM"
+      ],
+      "domains": [
+        "yilscu.spreadfront.hk",
+        "ltlich.COM"
+      ]
+    }
+  }
+}

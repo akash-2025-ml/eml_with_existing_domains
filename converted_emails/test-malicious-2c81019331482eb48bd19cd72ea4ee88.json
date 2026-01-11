@@ -1,0 +1,110 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-2c81019331482eb48bd19cd72ea4ee88",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-2c81019331482eb48bd19cd72ea4ee88",
+    "emailcontent": {
+      "subject": "The Best Critical Illness Policy on the Market",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "news-from-iir@iirny.rsc02.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "news-from-iir@iirny.rsc02.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "jeff.dasovich@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "susan.mara@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "richard.shapiro@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2002-08-27T19:04:28-04:00",
+      "sentDateTime": "2002-08-27T19:04:28-04:00",
+      "body": {
+        "contentType": "text/html",
+        "content": "<html>\n<head>\n<title>The Best Critical Illness Policy on the Market</title>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\">\n</head>\n<body bgcolor=\"#FFFFFF\" text=\"#000000\">\n<table width=\"550\" cellpadding=\"0\" cellspacing=\"0\" bgcolor=\"#ffffff\" border=\"1\" bordercolor=\"#000000\" align=\"center\">\n  <tr> \n    <td><img src=\"http://iiq.us/images/ntl/20020806-101.jpg\" alt=\"The best critical illness product on the market. Period.\" width=\"550\" height=\"93\"><br><img src=\"http://iiq.us/images/ntl/20020806-102.jpg\" alt=\"National Travelers Life Insurance Company\" width=\"550\" height=\"261\"><br><img src=\"http://iiq.us/images/ntl/20020806-103.gif\" width=\"550\" height=\"11\"><br>\n\t\t  <table width=\"100%\" cellpadding=\"2\" cellspacing=\"2\" border=\"0\" bgcolor=\"#ffffff\">\n        <tr> \n          <td align=\"center\">\n            <img src=\"http://iiq.us/images/ntl/20020514-6c.gif\" width=\"463\" height=\"60\" alt=\"Immediate Payment Upon Diagnosis!\"><br> \n            <img src=\"http://iiq.us/images/ntl/20020617-1.gif\" width=\"435\" height=\"105\" alt=\"15 valuable lifetime benefits\"><br> \n            <font face=\"Verdana, Arial, Helvetica, sans-serif\"> \n            <table width=\"100%\" border=\"1\" cellspacing=\"0\" cellpadding=\"2\" bordercolor=\"#000000\" bgcolor=\"#CCCCCC\">\n              <tr> \n                <td colspan=\"4\" bgcolor=\"#333366\" align=\"center\"><b><font size=\"2\" color=\"#FFFFFF\">100% of the Face Amount</font></b></td>\n              </tr>\n              <tr align=\"center\"> \n                <td height=\"22\"><b><font size=\"1\">Heart Attack</font></b></td>\n                <td height=\"22\"><b><font size=\"1\">Stroke</font></b></td>\n                <td height=\"22\"><b><font size=\"1\">Invasive Cancer</font></b></td>\n                <td height=\"22\"><b><font size=\"1\">HIV (for Medical Personnel)</font></b></td>\n              </tr>\n              <tr align=\"center\"> \n                <td><b><font size=\"1\">Paralysis</font></b></td>\n                <td><b><font size=\"1\">Organ Transplant</font></b></td>\n                <td><b><font size=\"1\">Severe Burns</font></b></td>\n                <td><b><font size=\"1\">Loss of Independent Living</font></b></td>\n              </tr>\n              <tr align=\"center\"> \n                <td><b><font size=\"1\">Terminal Illness</font></b></td>\n                <td><b><font size=\"1\">Kidney Failure</font></b></td>\n                <td><b><font size=\"1\">Blindness</font></b></td>\n                <td><b><font size=\"1\">Death By Any Cause</font></b></td>\n              </tr>\n              <tr> \n                <td colspan=\"4\" bgcolor=\"#FFFFFF\" align=\"center\"><img src=\"http://iiq.us/images/ntl/spacer.gif\" width=\"8\" height=\"8\"></td>\n              </tr>\n              <tr> \n                <td colspan=\"4\" bgcolor=\"#333366\" align=\"center\"><b><font size=\"2\" color=\"#FFFFFF\">25% of the Face Amount</font></b></td>\n              </tr>\n              <tr align=\"center\"> \n                <td colspan=\"2\"><b><font size=\"1\">Coronary Artery Bypass</font></b></td>\n                <td colspan=\"2\"><b><font size=\"1\">Non-invasive Cancer</font></b></td>\n              </tr>\n              <tr align=\"center\"> \n                <td colspan=\"4\" bgcolor=\"#FFFFFF\"><img src=\"http://iiq.us/images/ntl/spacer.gif\" width=\"8\" height=\"8\"></td>\n              </tr>\n              <tr align=\"center\"> \n                <td colspan=\"4\" bgcolor=\"#333366\"><b><font size=\"2\" color=\"#FFFFFF\">10% of the Face Amount</font></b></td>\n              </tr>\n              <tr align=\"center\"> \n                <td colspan=\"4\"><b><font size=\"1\">Coronary Angioplasty</font></b></td>\n              </tr>\n            </table>\n            &nbsp;<br>\n            <table width=\"100%\" cellpadding=\"2\" cellspacing=\"2\" border=\"0\">\n              <tr> \n                <td width=\"50%\" align=\"center\"><b><font size=\"4\" face=\"Arial, Helvetica, sans-serif\">Worksite Marketing</font></b></td>\n                <td width=\"50%\" align=\"center\"><b><font size=\"4\" face=\"Arial, Helvetica, sans-serif\">Individual Sales</font></b></td>\n              </tr>\n              <tr> \n                <td width=\"50%\" align=\"center\"><img src=\"http://iiq.us/images/ntl/spacer.gif\" width=\"240\" height=\"1\"></td>\n                <td width=\"50%\" align=\"center\"><img src=\"http://iiq.us/images/ntl/spacer.gif\" width=\"240\" height=\"1\"></td>\n              </tr>\n              <tr> \n                <td width=\"50%\"><font size=\"2\" face=\"Verdana, Arial, Helvetica, sans-serif\">&#149;&nbsp;Guaranteed Issue for Groups of 25+</font></td>\n                <td width=\"50%\"><font size=\"2\" face=\"Verdana, Arial, Helvetica, sans-serif\">&#149;&nbsp;Up to $1,000,000 maximum</font></td>\n              </tr>\n              <tr> \n                <td width=\"50%\"><font size=\"2\" face=\"Verdana, Arial, Helvetica, sans-serif\">&#149;&nbsp;Electronic Enrollment</font></td>\n                <td width=\"50%\"><font size=\"2\" face=\"Verdana, Arial, Helvetica, sans-serif\">&#149;&nbsp;Simplified Issue up to $100,000</font></td>\n              </tr>\n              <tr> \n                <td width=\"50%\"><font size=\"2\" face=\"Verdana, Arial, Helvetica, sans-serif\">&#149;&nbsp;Unlimited billing options</font></td>\n                <td width=\"50%\"><font size=\"2\" face=\"Verdana, Arial, Helvetica, sans-serif\">&#149;&nbsp;Up to 75% advance</font></td>\n              </tr>\n            </table>\n            &nbsp;</font>\n          </td>\n        </tr>\n        <tr> \n          <td align=\"center\"><img src=\"http://iiq.us/images/ntl/20020514-7.gif\" width=\"535\" height=\"57\" alt=\"Don't forget to ask about our matching retirement plan!\"></td>\n        </tr>\n        <tr> \n          <td align=\"center\">\n            <font face=\"Arial, Helvetica, sans-serif\" size=\"2\"><b>\n            To learn more, please call us today!<br>\n            <img src=\"http://iiq.us/images/ntl/20020514-3big.gif\" width=\"530\" height=\"64\" alt=\"800-626-7980\"><br>\n            &#151; or &#151;</b></font>\n          </td>\n        </tr>\n        <tr> \n          <td align=\"center\"><font face=\"Arial, Helvetica, sans-serif\" size=\"2\"><b> \n            <table width=\"95%\" bgcolor=\"#000000\">\n              <tr> \n                <form method=\"post\" action=\"http://65.217.159.103/response/response.asp\">\n                  <td> <table width=\"100%\" border=\"0\" cellspacing=\"0\" cellpadding=\"2\" align=\"center\" bgcolor=\"#CCCCCC\">\n                      <tr> \n                        <td colspan=\"6\" align=\"center\"><b><font size=\"2\">Please fill out the form below for more information</font></b></td>\n                      </tr>\n                      <tr> \n                        <td width=\"13%\" align=\"right\"><b><font size=\"2\">Name:</font></b></td>\n                        <td colspan=\"5\"> <input type=\"text\" name=\"contactname\" size=\"50\"></td>\n                      </tr>\n                      <tr> \n                        <td width=\"13%\" align=\"right\"><b><font size=\"2\">Address:</font></b></td>\n                        <td colspan=\"5\"> <input type=\"text\" name=\"address\" size=\"50\"></td>\n                      </tr>\n                      <tr> \n                        <td width=\"13%\" align=\"right\"><b><font size=\"2\">City:</font></b></td>\n                        <td width=\"29%\"> <input type=\"text\" name=\"city\" size=\"20\"></td>\n                        <td width=\"14%\" align=\"right\"><b><font size=\"2\">State:</font></b></td>\n                        <td width=\"9%\"> <input type=\"text\" name=\"state\" size=\"2\"></td>\n                        <td width=\"12%\" align=\"right\"><b><font size=\"2\">Zip:</font></b></td>\n                        <td width=\"23%\"> <input type=\"text\" name=\"zip\" size=\"5\"></td>\n                      </tr>\n                      <tr> \n                        <td width=\"13%\" align=\"right\"><b><font size=\"2\">E-mail:</font></b></td>\n                        <td colspan=\"5\"><input type=\"text\" name=\"email\" size=\"50\"></td>\n                      </tr>\n                      <tr> \n                        <td width=\"13%\" align=\"right\"><b><font size=\"2\">Phone:</font></b></td>\n                        <td colspan=\"5\"><input type=\"text\" name=\"phone\" size=\"50\"></td>\n                      </tr>\n                      <tr> \n                        <td align=\"right\" width=\"13%\"><b><font size=\"2\">Area of Interest:</font></b></td>\n                        <td colspan=\"3\"> <font size=\"2\"><b> \n                          <input type=\"checkbox\" name=\"Category\" value=\"Worksite\">\n                          Worksite&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \n                          <input type=\"checkbox\" name=\"Category\" value=\"Individual\">\n                          Individual Sales </b></font> </td>\n                        <td colspan=\"2\">  \n                          <input type=\"checkbox\" name=\"Category\" value=\"Both\">\n                          <b><font size=\"2\">Both </font></b> \n                        </td>\n                      </tr>\n                      <tr> \n                        <td width=\"13%\">&nbsp;</td>\n                        <td colspan=\"3\"> <font size=\"2\"><b> \n                          <input type=\"checkbox\" name=\"Category\" value=\"Agent\">\n                          Personal Producer&nbsp; &nbsp;&nbsp; \n                          <input type=\"checkbox\" name=\"Category\" value=\"Manager\">\n                          Manager </b></font> </td>\n                        <td colspan=\"2\">  \n                          <input type=\"text\" name=\"NumOfAgents\" size=\"2\">\n                          <b><font size=\"2\">Number of Agents </font></b> \n                        </td>\n                      </tr>\n                      <tr> \n                        <td colspan=\"5\">&nbsp;</td>\n                        <td rowspan=\"2\" align=\"center\" valign=\"middle\" width=\"23%\"><img src=\"http://iiq.us/images/q.gif\" width=\"43\" height=\"50\"></td>\n                      </tr>\n                      <tr> \n                        <td width=\"13%\">&nbsp;</td>\n                        <td width=\"29%\" colspan='3'> \n                          <input type=\"submit\" name=\"btnsubmit\" value=\"Submit\"> \n                          <input type=\"hidden\" name=\"hdnRecipientTxt\" value=\"marketing@ntlmail.com\"> \n                          <input type=\"hidden\" name=\"hdnSubjectTxt\" value=\"NTL Ad Inquiry\"> \n                        </td>\n                      </tr>\n                    </table>\n                  </td>\n                <input type='hidden' name='SentTo' value='304704'>\n</form>\n              </tr>\n            </table>\n            </b></font>\n          </td>\n        </tr>\n        <tr> \n          <td align=\"center\"><img src=\"http://iiq.us/images/ntl/20020514-4.gif\" width=\"128\" height=\"109\" alt=\"National Traveler's Life Co.\"></td>\n        </tr>\n      </table>\n    </td>\n  </tr>\n  <tr> \n    <td width=\"100%\" bgcolor=\"#cccccc\" align=\"center\"> \n      <p><font face=\"Arial, Helvetica, sans-serif\" size=\"1\"> We don't want anyone \n        to receive our mailings who does not wish to. This is professional communication \n        sent to insurance professionals. To be removed from this mailing list, \n        <b>DO NOT REPLY</b> to this message. Instead, go here: <a href=\"http://www.Insuranceiq.com/optout/\"> \n        http://www.Insuranceiq.com/optout</a></font></p>\n    </td>\n  </tr>\n</table>\n<center>\n  <font face=\"Arial, Helvetica, sans-serif\" size=\"1\"><a href=\"http://www.insuranceiq.com/legal.htm\">Legal Notice</a></font> \n</center>\n</body>\n</html>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<6337201c24e1e$187bff00$6b01a8c0@insuranceiq.com>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "neutral",
+      "dkim": "neutral",
+      "dmarc": "pass",
+      "returnpath": "news-from-iir@iirny.rsc02.com",
+      "ipaddress": [
+        "2a01:111:f403:c409::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "The Best Critical Illness Policy on the Market 100% of the Face Amount Heart Attack Stroke Invasive Cancer HIV (for Medical Personnel) Paralysis Organ Transplant Severe Burns Loss of Independent Living Terminal Illness Kidney Failure Blindness Death By Any Cause 25% of the Face Amount Coronary Artery Bypass Non-invasive Cancer 10% of the Face Amount Coronary Angioplasty Worksite Marketing Individual Sales • Guaranteed Issue for Groups of 25+ • Up to $1,000,000 maximum • Electronic Enrollment • S",
+      "links": [
+        "http://www.Insuranceiq.com/optout/",
+        "http://www.insuranceiq.com/legal.htm",
+        "http://iiq.us/images/ntl/20020806-101.jpg",
+        "http://iiq.us/images/ntl/20020806-102.jpg",
+        "http://iiq.us/images/ntl/20020806-103.gif",
+        "http://iiq.us/images/ntl/20020514-6c.gif",
+        "http://iiq.us/images/ntl/20020617-1.gif",
+        "http://iiq.us/images/ntl/spacer.gif",
+        "http://iiq.us/images/ntl/20020514-7.gif",
+        "http://iiq.us/images/ntl/20020514-3big.gif",
+        "http://65.217.159.103/response/response.asp",
+        "http://iiq.us/images/q.gif",
+        "http://iiq.us/images/ntl/20020514-4.gif",
+        "http://www.Insuranceiq.com/optout",
+        "http://iiq.us",
+        "http://20020806-101.jp",
+        "http://20020806-102.jp",
+        "http://ntlmail.com\"> \n                          ",
+        "http://www.Insuranceiq.com",
+        "http://www.insuranceiq.com"
+      ],
+      "domains": [
+        "iiq.us",
+        "20020806-102.jp",
+        "65.217.159.103",
+        "20020806-101.jp",
+        "ntlmail.com\">",
+        "Insuranceiq.com",
+        "insuranceiq.com"
+      ]
+    }
+  }
+}

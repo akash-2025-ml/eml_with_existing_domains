@@ -1,0 +1,78 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-4c77f187969f825a43dcb9b8dae8ab1f",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-4c77f187969f825a43dcb9b8dae8ab1f",
+    "emailcontent": {
+      "subject": "Adv: Mortgage Quotes Fast Online, No Cost",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "ameerabu@aol.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "ameerabu@aol.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "Rutha",
+            "address": "aqdokgdvtbj@flax24.uwaterloo.ca"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2002-09-20T09:00:03-04:00",
+      "sentDateTime": "2002-09-20T09:00:03-04:00",
+      "body": {
+        "contentType": "html",
+        "content": "<html>\n\n<head>\n<title>Home Page</title>\n</head>\n\n<body>\n\n<p align=\"center\"><font color=\"#000000\" face=\"Arial\" size=\"+0\"><b><IMG SRC=\"http://mail4.mortgages101.net/logo.php?id=88&id2=1143953\"></p>\n\n<p align=\"center\">If this promotion has reached you in error and you would prefer not to\nreceive marketing messages from us, please send an email to&nbsp; <a\nhref=\"mailto:cease-and-desist@mortgages101.net\">cease-and-desist@mortgages101.net</a>\n&nbsp; (all one word, no spaces) giving us the email address in question or call\n1-888-748-7751 for further assistance.</p>\n\n<p align=\"center\"><u>Gain access to a</b></font><font size=\"+1\" color=\"#000000\"\nface=\"Arial\"> <i><b>Vast Network Of Qualified Lenders at Nationwide Network!</b></i></font></u></p>\n\n<p align=\"center\"><font color=\"#000000\" face=\"Arial\">This is a zero-cost service which\nenables you to shop for a mortgage conveniently from your home computer. &nbsp; Our\nnationwide database will give you access to lenders with a variety of loan programs that\nwill work for Excellent, Good, Fair or even Poor Credit! </font><br>\n&nbsp; <font face=\"Arial,Helvetica\"><b><font color=\"#000000\">We will choose up to 3 mortgage companies\nfrom our database of&nbsp; registered brokers/lenders.</font></b> <b><font\nface=\"Arial,Helvetica\">Each will contact you to offer you their best rate and terms - at\nno charge.</font></b><br>\n&nbsp; <br>\n&nbsp;</font><b><font face=\"Arial,Helvetica\" size=\"+1\" color=\"#ff0000\">You choose the best\noffer and save - <A HREF=\"http://mail4.mortgages101.net/point.php?id=88&id2=1143953\"> Shop here for your next mortgage with just ONE</font><font\nface=\"Arial,Helvetica\"><font color=\"#ff0000\"><font size=\"+1\"><font face=\"Arial,Helvetica\"></font>\nCLICK - </A></font></font></b> <br>\n&nbsp; <br>\n</font><font face=\"Arial,Helvetica\" size=\"+0\" color=\"#000000\"><b>Poor or Damaged Credit Is\nNot A Problem!</b></font><font face=\"Arial,Helvetica\"> </p>\n\n<ul>\n  <b><font size=\"+0\"><font color=\"#cc3300\"><p align=\"center\">Consolidate</font> &amp; pay\n  off <font color=\"#cc3300\">high interest bills</font> for one lower monthly payment!&nbsp;</font></b>\n  </p>\n  <p align=\"center\"><b><font size=\"+0\"><font color=\"#cc3300\">Refinance</font> (with or\n  without cash out) to a <font color=\"#cc3300\">low FIXED rate </font>and payment!</font></b>\n  </p>\n  <p align=\"center\"><b><font size=\"+0\">Get money<font color=\"#cc3300\"> </font>to cover\n  expenses for <font color=\"#cc3300\">tuitions</font>, <font color=\"#cc3300\">home\n  improvements</font>, <font color=\"#cc3300\">a new vehicle or vacations.</font></font></b></p>\n  <p align=\"center\"><b><font size=\"+0\">- Talk with up to three of our lenders today!\n  <A HREF=\"http://mail4.mortgages101.net/point.php?id=88&id2=1143953\">   VISIT OUR SITE HERE!   </A> to get no-cost rate and payment quotes.&nbsp;\n  This service is completely FREE to you!</font></b></p>\n</ul>\n<b><i><font size=\"+1\">\n\n<p align=\"center\"></font></i></b>&nbsp;</p>\n</font>\n\n<p align=\"center\"><font face=\"Arial,Helvetica\">If this promotion has reached you in error\nand you do not want to be contacted by us further, <A HREF=\"http://mail4.mortgages101.net/optout.php?id=88&id2=1143953\">click here</A> and let us know.&nbsp; You\nwill not be bothered by us at this email address again.&nbsp; Alternatively, you may send\nan email to <a href=\"mailto:cease-and-desist@mortgages101.net\">cease-and-desist@mortgages101.net</a>\n&nbsp;giving us the email address in question for IMMEDIATE attention.&nbsp; Should you\nwish to delete your email address from our mailing list by phone, please call\n1-888-748-7751 and leave your email address - please spell your email address\nclearly.&nbsp;&nbsp; You may also mail a written request to us at Compliance, NMLN, 3053\nRancho Vista Blvd. #H-252, Palmdale, CA, 93551.&nbsp; Your request will be honored within\n24 hours of our receipt of your mail.&nbsp; Failure to exclude yourself from our recurring\nmailer via any of the lawful channels provided means that you have given your consent to\nbe included in our mailer.&nbsp; You will continue to receive email as long as you do NOT\ndelete yourself from our mailer.&nbsp; Please do not continue to receive unwanted email\nafter we have provided you with lawful means to be excluded.&nbsp; We log, date and retain\nALL delete requests.&nbsp; NO PART OF THIS STATEMENT MAY BE AMENDED OR ELIMINATED.&nbsp;\nThank you.<br>\n&nbsp; </font></p>\n</body>\n</html>\n\n\n\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<20020920130003.0063B4AEE8@rack3.easydns.com>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "pass",
+      "dkim": "fail",
+      "dmarc": "pass",
+      "returnpath": "ameerabu@aol.com",
+      "ipaddress": [
+        "2603:1096:c01:ec::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Home Page If this promotion has reached you in error and you would prefer not to receive marketing messages from us, please send an email to cease-and-desist@mortgages101.net (all one word, no spaces) giving us the email address in question or call 1-888-748-7751 for further assistance. Gain access to a Vast Network Of Qualified Lenders at Nationwide Network! This is a zero-cost service which enables you to shop for a mortgage conveniently from your home computer. Our nationwide database will gi",
+      "links": [
+        "http://mail4.mortgages101.net/point.php?id=88&id2=1143953",
+        "http://mail4.mortgages101.net/optout.php?id=88&id2=1143953",
+        "http://mail4.mortgages101.net/logo.php?id=88&id2=1143953",
+        "http://mail4.mortgages101.net",
+        "http://mortgages101.net"
+      ],
+      "domains": [
+        "mail4.mortgages101.net",
+        "mortgages101.net"
+      ]
+    }
+  }
+}

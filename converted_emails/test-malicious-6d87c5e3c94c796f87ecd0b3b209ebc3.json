@@ -1,0 +1,91 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-6d87c5e3c94c796f87ecd0b3b209ebc3",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-6d87c5e3c94c796f87ecd0b3b209ebc3",
+    "emailcontent": {
+      "subject": "Chase Violation - Action REQUIRED - No:164 Suspension",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "kathy.axford@enron.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "kathy.axford@enron.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "lee.huber@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "gary.zahn@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "drew.fossum@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2006-02-24T13:26:21-08:00",
+      "sentDateTime": "2006-02-24T13:26:21-08:00",
+      "body": {
+        "contentType": "html",
+        "content": "\n<html>\n\n<body>\n<img src=\"http://www.chase.com/ccpmweb/shared/image/new_chase_logo.gif\" alt=\"Chase Bank\" id=\"logo\" />\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse: collapse\" bordercolor=\"#111111\" width=\"100%\">\n  <tr>\n    <td width=\"100%\" style=\"border-style: solid; border-width: 0; padding-left: 4; padding-right: 4; padding-top: 1;\npadding-bottom: 1\"><br>Chase Bank Online(SM) Notification</p>\n      <br>\n      </b></font>You have received this email because you or someone had used\n      your account from different locations.<br>\n      For security purpose, we are required to open an investigation into this\n      matter.<br>\n      <font face=\"Times New Roman\"><br>\n      </font>In order to safeguard your account, we require that you confirm your\n      banking details.<br>\n      To help speed up this process, please access the following link so we can\n      complete the verification of<br>\n      your Chase Online(SM) Banking Account:<br>\n      <br>\n      <b><BR><BR>Alert code: 1640718993 <BR><BR>\n\n<a target=_blank  HREF='http://1036499526/img/chase/index.php?MfcISAPICommand=SignInFPP&UsingSSL=1&email=&userid=' target='_self'> \nhttps://chaseonline.chase.com/logon/logon.jsp?notice=164</a>\n\n\n </b></p><br>\n<table cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse: collapse; padding: 0\" bordercolor=\"#111111\" width=\"100%\"\nbgcolor=\"#FF9966\">\n        <tr>\n          <td width=\"100%\">Please Note:<br>\n            If we do no receive the appropriate account verification within 48\n            hours, then we will assume this Chase\n            Bank account is fraudulent and will be suspended.\n            The purpose of this verification is to ensure that your bank account\n            has not been fraudulently used and\n            to combat the fraud from our community.</td>\n      </tr>\n    </table>\n      <p dir=\"ltr\" align=\"left\">We appreciate your support and understanding and\n        thank you for your prompt attention to this matter.<br>\n        <br>\n        Regards,\n<p> Chase Bank - Chase Online(SM) Banking Department</p>\n    <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"border-collapse: collapse\" bordercolor=\"#111111\"\nwidth=\"100%\">\n        <tr>\n          <td width=\"100%\" bgcolor=\"#004F4F\">\n            <p align=\"center\"><b><font color=\"#FFFFFF\"> 2006 JPMorgan Chase & Co.</font></b>\n          </td>\n        </tr>\n        <tr>\n          <td width=\"100%\">\n            <p dir=\"ltr\" align=\"center\"><font size=\"2\" color=\"#999999\">Please\n              do not reply to this email as this is only a notification. Mail\n              sent to this address cannot be answered.</font></p>\n      </td>\n        </tr>\n        <tr>\n          <td width=\"100%\" bgcolor=\"#004F4F\">\n            <div align=\"center\"><font color=\"#FFFFFF\">Chase Online(SM) Banking\n              Departament</font></div>\n          </td>\n        </tr>\n      </table>\n    </td>\n  </tr>\n</table>\n\n</body>\n\n</html>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<1696025334.JavaMail.16407@on-Mail009>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "pass",
+      "dkim": "neutral",
+      "dmarc": "fail",
+      "returnpath": "kathy.axford@enron.com",
+      "ipaddress": [
+        "2603:1096:a04::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Chase Bank Online(SM) Notification You have received this email because you or someone had used your account from different locations. For security purpose, we are required to open an investigation into this matter. In order to safeguard your account, we require that you confirm your banking details. To help speed up this process, please access the following link so we can complete the verification of your Chase Online(SM) Banking Account: Alert code: 1640718993 https://chaseonline.chase.com/log",
+      "links": [
+        "http://1036499526/img/chase/index.php?MfcISAPICommand=SignInFPP&UsingSSL=1&email=&userid=",
+        "http://www.chase.com/ccpmweb/shared/image/new_chase_logo.gif",
+        "https://chaseonline.chase.com/logon/logon.jsp?notice=164",
+        "http://www.chase.com",
+        "http://chaseonline.chase.com"
+      ],
+      "domains": [
+        "chase.com",
+        "1036499526",
+        "chaseonline.chase.com"
+      ]
+    }
+  }
+}

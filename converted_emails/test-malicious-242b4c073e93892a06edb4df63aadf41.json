@@ -1,0 +1,89 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-242b4c073e93892a06edb4df63aadf41",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-242b4c073e93892a06edb4df63aadf41",
+    "emailcontent": {
+      "subject": "*Curso de Ajedrez para PC",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "dwpollardm@pollard.ca"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "dwpollardm@pollard.ca"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "perl6-internals@perl.org"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "allison@perl.org"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "jowi@midasconsulting.com.ar"
+          }
+        }
+      ],
+      "receivedDateTime": "2007-04-14T08:56:31+03:00",
+      "sentDateTime": "2007-04-14T08:56:31+03:00",
+      "body": {
+        "contentType": "html",
+        "content": "\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \n\"http://www.w3.org/TR/html4/loose.dtd\"> \n<html>\n\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=windows-1252\">\n<meta name=\"GENERATOR\" content=\"Microsoft FrontPage 5.0\">\n<meta name=\"ProgId\" content=\"FrontPage.Editor.Document\">\n<title>Combo Ajedrez</title>\n</head>\n\n<body>\n\n<div align=\"center\">\n  <b><font face=\"Times New Roman\" color=\"#000080\" size=\"4\">COMBO ABRIL 2007<br>\n  <br>\n  </font><font color=\"#000080\" face=\"Trebuchet MS\" size=\"6\">CURSO Y JUEGOS DE \n  AJEDREZ</font></b></div>\n\n<div align=\"center\">\n  <font face=\"Times New Roman\">&nbsp; </font>\n</div>\n<div align=\"center\">\n  <b>\n  <font face=\"Times New Roman\" color=\"#008000\" size=\"4\">TODO EL MATERIAL QUE\n  NECESITAS PARA APRENDER<br>\n  Y DISFRUTAR DE ESTE JUEGO MILENARIO!<br>\n  <br>\n  Desarrolle sus habilidades y mejore su Calidad de Juego<br>\n  <br>\n  EL MEJOR COMPILADO DE LA HISTORIA EN 5 CDs<br>\n  </font></b>\n  <font face=\"Times New Roman\">&nbsp; </font>\n</div>\n<div align=\"center\">\n  <font face=\"Times New Roman\">PRECIO DEL COMBO: $49 (pesos cuarenta y nueve)<i><b><br>\n  <br>\n  $49 (pesos treinta y nueve) Combo Lanzamiento 2007</b></i></font></div>\n<div align=\"center\">\n  &nbsp;</div>\n<div align=\"center\">\n  <b><font face=\"Times New Roman\" color=\"#CC0000\" size=\"4\">EL ENVO ES SIN CARGO \n  A TODO EL PAS.<br>\n&nbsp;</font></b></div>\n<div align=\"center\">\n  <b>\n  <font color=\"#CC0000\" size=\"5\" face=\"Times New Roman\">TODO AJEDREZ 2007<br>\n  </font>\n  <font size=\"5\" face=\"Times New Roman\">Pedidos a: </font>\n  <font color=\"#0033CC\" size=\"4\" face=\"Times New Roman\">\n  <a href=\"mailto:todoajedrez@gmail.com\">todoajedrez@gmail.com</a></font><font size=\"4\" face=\"Times New Roman\"><br>\n  </font>\n  <font color=\"#0033CC\" size=\"4\" face=\"Times New Roman\"><br>\n  <br>\n  </font>\n  <font color=\"#0033CC\" size=\"5\" face=\"Trebuchet MS\">Contenidos del Combo Ajedrez 2007 en \n  5 CDs.-</font></b></div>\n<div align=\"center\">\n  &nbsp;</div>\n<div align=\"center\">\n  <b>\n  <font face=\"Times New Roman\">\n  <br>\n  </font>\n  <font face=\"Trebuchet MS\" color=\"#CC0000\">\n  COMBO AJEDREZ 2007 - CD 1<br>\n  </font>\n  </b>\n  <font face=\"Times New Roman\">\n  <font color=\"#000000\" size=\"3\">- Aperturas</font> </font>\n</div>\n<div align=\"center\">\n  <font face=\"Times New Roman\" color=\"#000000\" size=\"3\">- Como derrotar a un\n  rival superior</font><font face=\"Times New Roman\"> </font>\n</div>\n<div align=\"center\">\n  <font face=\"Times New Roman\" color=\"#000000\" size=\"3\">- Tcnicas de juego</font><font face=\"Times New Roman\">\n  </font>\n</div>\n<div align=\"center\">\n  <font face=\"Times New Roman\" color=\"#000000\" size=\"3\">- Partidas Inmortales</font><font face=\"Times New Roman\">\n  </font>\n</div>\n<div align=\"center\">\n  <font face=\"Times New Roman\" color=\"#000000\" size=\"3\">- Galera de Campeones</font><font face=\"Times New Roman\">\n  </font>\n</div>\n<div align=\"center\">\n  <font face=\"Times New Roman\" color=\"#000000\" size=\"3\">- La pasin del Ajedrez\n  (curso de Gary Kasparov)</font><font face=\"Times New Roman\"> </font>\n</div>\n<div align=\"center\">\n  <font face=\"Times New Roman\" color=\"#000000\" size=\"3\">- Manual de Capablanca</font><font face=\"Times New Roman\">\n  </font>\n</div>\n<div align=\"center\">\n  <font face=\"Times New Roman\" color=\"#000000\" size=\"3\">- Curso para\n  principiantes</font><font face=\"Times New Roman\"> </font>\n</div>\n<div align=\"center\">\n  <font face=\"Times New Roman\" color=\"#000000\" size=\"3\">- Curso para intermedios</font><font face=\"Times New Roman\">\n  </font>\n</div>\n<div align=\"center\">\n  <font face=\"Times New Roman\" color=\"#000000\" size=\"3\">- Curso para avanzados\n  (master)</font><font face=\"Times New Roman\"> </font>\n</div>\n<div align=\"center\">\n  <font face=\"Times New Roman\" color=\"#000000\" size=\"3\">- Trucos y pistas</font><font face=\"Times New Roman\">\n  </font>\n</div>\n<div align=\"center\">\n  <font face=\"Times New Roman\" color=\"#000000\" size=\"3\">- Desmontando la\n  Siciliana</font><font face=\"Times New Roman\"> </font>\n</div>\n<div align=\"center\">\n  <font face=\"Times New Roman\" color=\"#000000\" size=\"3\">- Escuela de Ajedrez</font><font face=\"Times New Roman\">\n  </font>\n</div>\n<div align=\"center\">\n  <font face=\"Times New Roman\" color=\"#000000\" size=\"3\">- Ajedrez espectacular\n  (Fornasari)</font><font face=\"Times New Roman\"> </font>\n</div>\n<div align=\"center\">\n  <font face=\"Times New Roman\">\n  <font color=\"#000000\" size=\"3\">- El arte de la defensa (Ilia Kan)</font>\n  </font>\n</div>\n<div align=\"center\">\n  <font face=\"Times New Roman\">\n  <font color=\"#000000\" size=\"3\">- La estrategia del riesgo</font> </font>\n</div>\n<div align=\"center\">\n  <font color=\"#000000\" size=\"3\" face=\"Times New Roman\">- Y Mucho Ms</font></div>\n<div align=\"center\">\n  <font face=\"Times New Roman\">&nbsp; </font>\n</div>\n<div align=\"center\">\n  &nbsp;</div>\n<div align=\"center\">\n  <b><font face=\"Trebuchet MS\" color=\"#CC0000\">COMBO AJEDREZ 2007 - CD 2 + CD 3<br>\n  </font>\n  </b>\n  <font face=\"Times New Roman\">\n  <font color=\"#0033CC\"><b>ChessMaster 9.000 Completo<br>\n  </b></font>Con Base de Datos<br>\n  Con Torneos<br>\n  Con Clases educativas<br>\n  Con Librera<br>\n  Con Jugadas Clsicas<br>\n  Con control y grabacin de jugadas.<br>\n  EL LIDER EN LOS JUEGOS DE AJEDREZ</font></div>\n<div align=\"center\">\n  &nbsp;</div>\n<div align=\"center\">\n  &nbsp;</div>\n<div align=\"center\">\n  <b><font face=\"Trebuchet MS\" color=\"#CC0000\">COMBO AJEDREZ 2007 - CD 4<br>\n  </font>\n  </b>\n  <font face=\"Times New Roman\">\n  <font color=\"#0033CC\"><b>FX Chess<br>\n  </b></font>En Castellano total.<br>\n  Para instalar en su PC, en su Palm o en su Handheld.<br>\n  Para jugar en red.</font></div>\n<div align=\"center\">\n  <font face=\"Times New Roman\">3 Dimensiones<br>\n  Todas las opciones, el mejor juego del momento!<br>\n  <br>\n&nbsp;</font></div>\n<div align=\"center\">\n  <b><font face=\"Trebuchet MS\" color=\"#CC0000\">COMBO AJEDREZ 2007 - CD 5<br>\n  </font>\n  </b>\n  <font face=\"Times New Roman\">\n  <font color=\"#0033CC\"><b>Chess Tiger 14<br>\n  </b></font>En Castellano total.<br>\n  El ya conocido juego en su ltima versin!</font></div>\n<div align=\"center\">\n  <font face=\"Times New Roman\">\n  <br>\n&nbsp;</font></div>\n<div align=\"center\">\n  <font face=\"Times New Roman\">\n  -----------------------------------------------------------------------------------------------</font></div>\n<div align=\"center\">\n  &nbsp;</div>\n<div align=\"center\">\n  <font face=\"Times New Roman\">Son 5 CDs completos, con todos los manuales y los \n  mejores juegos de Ajedrez del 2007</font></div>\n<div align=\"center\">\n  <font face=\"Times New Roman\">&nbsp; </font>\n</div>\n<div align=\"center\">\n  <font color=\"#000000\" size=\"5\" face=\"Times New Roman\"><strong style=\"font-weight: 400\"><em>\n  CURSOS / MANUALES / INFORMACIN<br>\n  &nbsp;CHESSMASTER 9000<br>\n  FX CHESS</em></strong></font></div>\n<div align=\"center\">\n  <em><strong style=\"font-weight: 400\"><font face=\"Times New Roman\" size=\"5\">\n  CHESS TIGER 14</font></strong></em><font face=\"Times New Roman\"> </font>\n</div>\n<div align=\"center\">\n  &nbsp;</div>\n<div align=\"center\">\n  <font face=\"Times New Roman\">\n  -----------------------------------------------------------------------------------------------</font></div>\n<div align=\"center\">\n  <b>\n  <font face=\"Times New Roman\">&nbsp; </font>\n  </b>\n  <strong><em><font face=\"Times New Roman\" size=\"4\">Para encargar este producto solictelo\n  va mail a:</font></em></strong><font face=\"Times New Roman\"><b> <br>\n  <a href=\"mailto:todoajedrez@gmail.com\">todoajedrez@gmail.com</a><br>\n  </b> <br>\n  </font>\n  <font face=\"Times New Roman\" size=\"2\"><b><u>Por favor, indicar: <br>\n  </u></b>Nombre y Apellido<br>\n  Direccin<br>\n&nbsp;Cdigo Postal<br>\n&nbsp;Localidad<br>\n  Provincia<br>\n&nbsp;Telfono de contacto<br>\n&nbsp;</font></div>\n<div align=\"center\">\n  <font face=\"Times New Roman\">\n  -----------------------------------------------------------------------------------------------</font></div>\n<div align=\"center\">\n  <br>\n  <font face=\"Times New Roman\" size=\"2\"><font color=\"#0033CC\"><b>El costo del Producto es de $49 (CUARENTA \n  Y NUEVE \n  PESOS)<br>\n  </b></font>Incluimos costos de entrega en todo el pas.</font></div>\n<div align=\"center\">\n  <font face=\"Times New Roman\" size=\"2\">Para entregas en Capital Federal utilizamos un \n  servicio de mensajera en moto</font></div>\n<div align=\"center\">\n  <font face=\"Times New Roman\" size=\"2\">Su demora es 24hs.</font></div>\n<div align=\"center\">\n  &nbsp;</div>\n<div align=\"center\">\n  <font face=\"Times New Roman\" size=\"2\">Si no desea recibir mas informacin, enviar un \n  correo detallando &quot;RemAJ&quot;</font></div>\n\n</body>\n\n</html>\n\n\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<c44361e8-e8d4-4aba-963d-16baf89930ce@generated>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "none",
+      "dkim": "neutral",
+      "dmarc": "none",
+      "returnpath": "dwpollardm@pollard.ca",
+      "ipaddress": [
+        "2603:1096:c01:ec::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Combo Ajedrez COMBO ABRIL 2007 CURSO Y JUEGOS DE AJEDREZ TODO EL MATERIAL QUE NECESITAS PARA APRENDER Y DISFRUTAR DE ESTE JUEGO MILENARIO! Desarrolle sus habilidades y mejore su Calidad de Juego EL MEJOR COMPILADO DE LA HISTORIA EN 5 CDs PRECIO DEL COMBO: $49 (pesos cuarenta y nueve) $49 (pesos treinta y nueve) Combo Lanzamiento 2007 EL ENVO ES SIN CARGO A TODO EL PAS. TODO AJEDREZ 2007 Pedidos a: todoajedrez@gmail.com Contenidos del Combo Ajedrez 2007 en 5 CDs.- COMBO AJEDREZ 2007 - CD 1 - Aper",
+      "links": [
+        "http://www.w3.org/TR/html4/loose.dtd",
+        "http://www.w3.org",
+        "http://gmail.com"
+      ],
+      "domains": [
+        "gmail.com",
+        "w3.org"
+      ]
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-00b43448c20efbff7c3906149aa9a55c",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-00b43448c20efbff7c3906149aa9a55c",
+    "emailcontent": {
+      "subject": "Work offer form company.",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "schwerdtfegerm@kindermorgan.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "schwerdtfegerm@kindermorgan.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "jaeaston@christushealth.org"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "matthew.fleming@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "kim.harris@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2007-04-10T22:43:30-01:00",
+      "sentDateTime": "2007-04-10T22:43:30-01:00",
+      "body": {
+        "contentType": "text/html",
+        "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\">\n<HTML><HEAD>\n<META http-equiv=Content-Type content=\"text/html; charset=windows-1250\">\n<META content=\"MSHTML 6.00.2800.1506\" name=GENERATOR>\n<STYLE></STYLE>\n</HEAD>\n<BODY>\n<div style=\"width:700px;\">\n<p><strong>Our company is pleased to offer you the position of  the financial specialist</strong></p>\n<p><strong>Company’s activity:</strong><br />\n  <em>Our company was established in 1995 and is  one of the leading companies in the field of consulting service and</em> <em>audit by  now.</em><br />\n  <em>Our company invests our clients’ money in  the shares of various international companies.</em><br />\n  <em>We have branches in 3 countries, including  the most important ones in Western Europe (Great Britain, France, Finland).</em></p>\n<p><em>Every employee of our company gets the work  he can perform at home.</em><br />\n  <em>That’s the main advantage of working at  our company.</em><br />\n  <em>Every year the number of our employees  increases throughout the world.</em><br />\n  <em>We take care of every employee of our  company and see to his or her carrier growth.</em><br />\n  <em>Our  company's motto is</em> <em>friendly attitude and understanding.</em><br />\n  <em>The revenues of our company are steadily  growing, and, according to the growing revenues of the company, the wages of  every employee are growing too.</em></p>\n<p><strong><em>Vacant position of “financial consultant”:</em></strong><br />\n  <em>The specialist is responsible for in-line  processing of the private remittances cash flow. We offer high income and carrier  growth depending on the profit performances.</em><br />\n  <em>When you start working at our company you  will be able to earn 7000 euros a month + 5% from every amount of money you  process.</em></p>\n<p><strong><em>Working as a </em></strong><strong><em>financial consultant you get:</em></strong> <br />\n  <em>- Contract (based on favorable cooperation  terms)</em><br />\n  <em>- Freedom in your work scheduling</em><br />\n  <em>- Carrier growth and the growth of wages</em><br />\n  <em>- Opportunity to combine it with your main  work</em><br />\n  <em>- Opportunity to work at home if you have Internet</em><br />\n  <em>- High wages of 7000 euros a month + 5% (later  on you can earn up to 30 000 a month).</em></p>\n<p><strong><em>Requirements for the candidate:</em></strong><br />\n  <em>- Full  age </em><br />\n  <em>- Proficiency in PC, Internet, E-mail on  the advanced user level</em><br />\n  <em>- Capability to work 3 hours a day</em><br />\n  <em>- Capability to schedule and organize his  or her work.</em></p>\n<p><em>You can start your professional growth at  the company as a</em><strong> </strong><em>financial specialist. If you venture  to do it, you’ll get the perspective of quick carrier growth and long shillings.  Many employees of our company started their work as financial specialists.</em><br />\n  <em><br />\n  </em><br />\n  <em>Remember that when you start working at  our company you become an important link and a part of our crew…</em><br />\n  <em>The company is always happy to make  advances to every employee.</em><br />\n  <em>The main rule is work.</em><br />\n  <em>The more you work at our company – the  sooner you will be noticed and promoted…</em></p>\n<p><strong><em><hr noshade=\"noshade\" style=\"border:1px solid #000000;\" /></em></strong><strong></strong><br />\n  <strong><em>To get work at our company you should fill  in the form with your personal data.</em></strong></p>\n<p><strong><em>Form</em></strong><strong><em>:</em></strong><strong></strong><strong><em> www.tscfinance.biz </em></strong></p>\n<p><strong><em>After you fill in the form with your  personal data the operator of our company will contact you within 10 hours hereafter  by e-mail or the phone given in your form.</em></strong><strong></strong></p>\n<p><strong><em>Attention</em></strong><strong><em>:</em></strong><br />\n  <strong><em>Be careful when filling in the form.</em></strong><br />\n  <strong><em><hr noshade=\"noshade\" style=\"border:1px solid #000000;\" /></em></strong><br />\n  <em>Our company is growing steadily and has a demand  of new employees every year. We are always happy to get knew specialists.<strong></strong></em></p>\n<p><em>Company management<strong></strong></em></p>\n</div>\n</BODY></HTML>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<c5edd780-b05c-423d-96da-012f802c0c27@generated>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "neutral",
+      "dkim": "fail",
+      "dmarc": "fail",
+      "returnpath": "schwerdtfegerm@kindermorgan.com",
+      "ipaddress": [
+        "2603:1096:a01:af:cafe::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Our company is pleased to offer you the position of the financial specialist Company’s activity: Our company was established in 1995 and is one of the leading companies in the field of consulting service and audit by now. Our company invests our clients’ money in the shares of various international companies. We have branches in 3 countries, including the most important ones in Western Europe (Great Britain, France, Finland). Every employee of our company gets the work he can perform at home. Th",
+      "links": [
+        "http://www.tscfinance.biz",
+        "http://www.tscfinance.biz "
+      ],
+      "domains": [
+        "tscfinance.biz"
+      ]
+    }
+  }
+}

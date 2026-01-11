@@ -1,0 +1,83 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-2d3ec37fadbe0f2a0b27248ac3b2a948",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-2d3ec37fadbe0f2a0b27248ac3b2a948",
+    "emailcontent": {
+      "subject": "SOLO PARA JUGADORES DE GOLF",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "ellen.fowler@test.enron.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "ellen.fowler@test.enron.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "eprocurement.list@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "yzksmyki@ix.netcom.com"
+          }
+        }
+      ],
+      "receivedDateTime": "2007-05-01T15:00:51+02:00",
+      "sentDateTime": "2007-05-01T15:00:51+02:00",
+      "body": {
+        "contentType": "html",
+        "content": "\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \n\"http://www.w3.org/TR/html4/loose.dtd\"> \n<html>\n\n<head>\n<meta http-equiv=\"Content-Language\" content=\"es\">\n<meta name=\"GENERATOR\" content=\"Microsoft FrontPage 5.0\">\n<meta name=\"ProgId\" content=\"FrontPage.Editor.Document\">\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=windows-1252\">\n<title>Curso Golf</title>\n</head>\n\n<body>\n\n<p align=\"center\"><font color=\"#008000\" size=\"6\" face=\"Arial\">Quiere bajar su \nHandicap?<br>\n</font><font face=\"Arial Black, Arial\" color=\"#008000\" size=\"6\"><br>\n</font><font face=\"Arial Black, Arial\" color=\"#008000\" size=\"7\">GOLF 2007<br>\n</font><font color=\"#800080\" size=\"6\" face=\"Arial\">El mejor curso para \ndesarrollar su juego</font></p>\n<p align=\"center\"><font size=\"5\">Video-Cursos con todas las indicaciones y \nsecretos<br>\npara desarrollar su juego desde el Nivel Principiante.<br>\n<br>\n</font><font size=\"4\">COSTO DEL PRODUCTO: $49.-<br>\n</font><font size=\"5\">\n<br>\n<font color=\"#FF0000\">Disfrtelos en su DVD o PC</font><br>\n<br>\n</font><font size=\"4\">Pedidos:\n<a href=\"mailto:cursogolf@gmail.com\">cursogolf@gmail.com</a> <br>\n</font><font size=\"5\"> <br>\n</font>Videos instructivos con los mejores secretos de <font color=\"#ff6600\">David \nLeadbetter<br>\n</font>uno de los ms reconocidos instructores del mundo.&nbsp; <br>\n&nbsp;</p>\n<ul>\n  <li>\n  <p align=\"center\">Ejemplos</li>\n  <li>\n  <p align=\"center\">Tcnicas</li>\n  <li>\n  <p align=\"center\">Como sacarla del Bunker </li>\n  <li>\n  <p align=\"center\">Como respirar </li>\n  <li>\n  <p align=\"center\">Como curar el Slice </li>\n  <li>\n  <p align=\"center\">Como Eliminar Tops </li>\n  <li>\n  <p align=\"center\">Como entrar al green desde cerca </li>\n  <li>\n  <p align=\"center\">Posturas correctas</li>\n  <li>\n  <p align=\"center\">Como tener una buena salida </li>\n  <li>\n  <p align=\"center\">Curar el hook </li>\n  <li>\n  <p align=\"center\">Y todos los secretos de este maravilloso deporte.<br>\n&nbsp;</li>\n  <li>\n  <p align=\"center\">BUNKER</li>\n</ul>\n<ul>\n  <li>\n  <p align=\"center\">JUEGO CORTO<font size=\"5\"><br>\n&nbsp;</font></li>\n</ul>\n<p align=\"center\"><font size=\"5\">SON 3 VIDEOS DOBLADOS AL ESPAOL + 1 VIDEO EN INGLES<br>\n&nbsp;</font></p>\n<p align=\"center\"><font size=\"6\"><strong><font color=\"#ff0000\">DOBLADO AL \nESPAOL<br>\n</font></strong></font><strong><font color=\"#ff0000\" size=\"6\">Envos SIN CARGO<br>\n<br>\nPaga nicamente el producto<br>\n</font><font color=\"#800000\" size=\"5\"><br>\nCosto del Producto $49</font><font size=\"6\"><br>\n<br>\n</font>\n</strong><font face=\"Trebuchet MS\"><strong style=\"font-weight: 400\">\n<font size=\"4\">Realice su pedido por mail a:\n<a href=\"mailto:cursogolf@gmail.com\">cursogolf@gmail.com</a><br>\n</font>Indicando: <br>\nNombre y Apellido<br>\nDireccin:<br>\nLocalidad:<br>\nCd. Postal:<br>\nProvincia:<br>\nTelfono:<br>\n&nbsp;</strong></font></p>\n<p align=\"center\"><font face=\"Trebuchet MS\"><strong style=\"font-weight: 400\">\n<font size=\"4\">Y lo recibir en su domicilio sin costos extras!<br>\n<br>\n</font>Removerse de la lista indicando: &quot;removr&quot;</strong></font></p>\n\n</body>\n\n</html>\n\n\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<f5f0359b-0ea0-44a4-9672-a515d2b6a5be@generated>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "fail",
+      "dkim": "fail",
+      "dmarc": "none",
+      "returnpath": "test@attack.com",
+      "ipaddress": [
+        "2603:1096:c01:ec::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Curso Golf Quiere bajar su Handicap? GOLF 2007 El mejor curso para desarrollar su juego Video-Cursos con todas las indicaciones y secretos para desarrollar su juego desde el Nivel Principiante. COSTO DEL PRODUCTO: $49.- Disfrtelos en su DVD o PC Pedidos: cursogolf@gmail.com Videos instructivos con los mejores secretos de David Leadbetter uno de los ms reconocidos instructores del mundo. Ejemplos Tcnicas Como sacarla del Bunker Como respirar Como curar el Slice Como Eliminar Tops Como entrar al g",
+      "links": [
+        "http://www.w3.org/TR/html4/loose.dtd",
+        "http://www.w3.org",
+        "http://gmail.com"
+      ],
+      "domains": [
+        "gmail.com",
+        "w3.org"
+      ]
+    }
+  }
+}

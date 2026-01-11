@@ -1,0 +1,85 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-3d132b613292ad2d2228a5df20571f70",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-3d132b613292ad2d2228a5df20571f70",
+    "emailcontent": {
+      "subject": "Wed Like to Present You a Special Offer",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "cp-reply@clubphoto.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "cp-reply@clubphoto.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "pederleifkjeseth@hotmail.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "ralee@rmi.net"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "merlinm@uswest.net"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2007-07-02T06:07:16-05:30",
+      "sentDateTime": "2007-07-02T06:07:16-05:30",
+      "body": {
+        "contentType": "text/html",
+        "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\">\n<HTML><HEAD>\n<META http-equiv=Content-Type content=\"text/html; charset=Windows-1252\">\n<META content=\"MSHTML 6.00.3790.2663\" name=GENERATOR>\n<STYLE></STYLE>\n</HEAD>\n<BODY>\n<table align=\"center\" bgcolor=\"070101\" width=\"645\">\n<tr>\n<td>\n\n<table align=\"center\" bgcolor=\"F6F6F6\" cellspacing=\"2\" cellpadding=\"2\" border=\"0\" width=\"450\">\n<tr><td align=\"center\" colspan=\"3\"><a href=\"http://servefoot.hk\"><font color=\"0D6D82\" size=\"+1\">Forget About Fake Medicines</font></a></td></tr>\n<tr><td>\n<table align=\"center\" cellspacing=\"2\" cellpadding=\"2\" border=\"0\">\n<tr><td colspan=\"3\">Viagra</td><tr>\n<tr><td>10 pills x 100mg</td><td>$38.47</td><td>only $3.85 per pill</td></tr>\n<tr><td>30 pills x 100mg</td><td>$76.97</td><td>only $2.57 per pill</td></tr>\n<tr><td>60 pills x 100mg</td><td>$140.22</td><td>only $2.34 per pill</td></tr>\n<tr><td>60 pills x 50mg</td><td>$111.07</td><td>only $1.85 per pill</td></tr>\n<tr><td>90 pills x 100mg</td><td>$201.82</td><td>only $2.24 per pill</td></tr>\n<tr><td>30 pills x 50mg</td><td>$60.23</td><td>only $2.01 per pill</td></tr>\n<tr><td>10 pills x 50mg</td><td>$30.22</td><td>only $3.03 per pill</td></tr>\n   <tr><td colspan=\"3\">Cialis</td></tr>\n<tr><td>60 pills x 20mg</td><td>$180.15</td><td>only $3 per pill</td></tr>\n<tr><td>20 pills x 20mg</td><td>$76.68</td><td>only $3.83 per pill</td></tr>\n<tr><td>30 pills x 20mg</td><td>$104.66</td><td>only $3.49 per pill</td></tr>\n<tr><td>10 pills x 20mg</td><td>$39.19</td><td>only $3.92 per pill</td></tr>\n<tr><td>90 pills x 20mg</td><td>$242.06</td><td>only $2.69 per pill</td></tr>\n<tr><td colspan=\"3\">Levitra</td></tr>\n<tr><td>60 pills x 20mg</td><td>$285.42</td><td>only $4.76 per pill</td></tr>\n<tr><td>20 pills x 20mg</td><td>$98.99</td><td>only $4.95 per pill</td></tr>\n<tr><td>30 pills x 20mg</td><td>$142.98</td><td>only $4.77 per pill</td></tr>\n<tr><td>10 pills x 20mg</td><td>$50.59</td><td>only $5.06 per pill</td></tr>\n<tr><td>90 pills x 20mg</td><td>$423.26</td><td>only $4.7 per pill</td></tr>\n<tr><td colspan=\"3\">Soma</td></tr>\n<tr><td>60 pills x 350mg</td><td>$51.15</td><td>only $0.85 per pill</td></tr>\n<tr><td>30 pills x 350mg</td><td>$42.08</td><td>only $1.4 per pill</td></tr>\n<tr><td>90 pills x 350mg</td><td>$65.73</td><td>only $0.73 per pill</td></tr>\n\n\n</table>\n<tr><td align=\"center\" colspan=\"3\"><a href=\"http://servefoot.hk\"><font color=\"55FF02\" size=\"+1\">Low Price</font></a></td></tr>\n</table>\n\n</td></tr>\n</table>\n</BODY></HTML>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<1079cf7a-edd5-4aa0-b6c0-a5f57c494a41@generated>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "pass",
+      "dkim": "none",
+      "dmarc": "none",
+      "returnpath": "cp-reply@clubphoto.com",
+      "ipaddress": [
+        "2603:1096:a01:af::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Forget About Fake Medicines Viagra 10 pills x 100mg $38.47 only $3.85 per pill 30 pills x 100mg $76.97 only $2.57 per pill 60 pills x 100mg $140.22 only $2.34 per pill 60 pills x 50mg $111.07 only $1.85 per pill 90 pills x 100mg $201.82 only $2.24 per pill 30 pills x 50mg $60.23 only $2.01 per pill 10 pills x 50mg $30.22 only $3.03 per pill Cialis 60 pills x 20mg $180.15 only $3 per pill 20 pills x 20mg $76.68 only $3.83 per pill 30 pills x 20mg $104.66 only $3.49 per pill 10 pills x 20mg $39.19",
+      "links": [
+        "http://servefoot.hk"
+      ],
+      "domains": [
+        "servefoot.hk"
+      ]
+    }
+  }
+}

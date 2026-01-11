@@ -1,0 +1,75 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-5659f94b2d26e159e9f7fae6c216959f",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-5659f94b2d26e159e9f7fae6c216959f",
+    "emailcontent": {
+      "subject": "MEHR ALS 7,000 und wird grosser!",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "admin@security.debian.org"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "admin@security.debian.org"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "sherry.anastas@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "brenda.fletcher@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2007-06-07T12:41:39-02:00",
+      "sentDateTime": "2007-06-07T12:41:39-02:00",
+      "body": {
+        "contentType": "text/html",
+        "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\">\n<HTML><HEAD>\n<META http-equiv=Content-Type content=\"text/html; charset=iso-8859-1\">\n<META content=\"MSHTML 6.00.2900.2912\" name=\"GENERATOR\">\n</HEAD>\n<BODY>\n<DIV align=left><FONT face=Arial size=2><I>Aufmerksamkeit Anleger und Aktienh��ndler</I></FONT></DIV>\n<DIV align=left><FONT face=Arial size=2><I>200% Gewinn ist moglich in diese wunderbar Fond!</I></FONT></DIV>\n<DIV align=center>&nbsp;</DIV>\n<DIV align=left><FONT face=Arial size=2>WKN: <B> A0MLLZ</B></FONT></DIV>\n<DIV align=left><FONT face=Arial size=2>ISIN: <B>US60742Q1094</B></FONT></DIV>\n<DIV align=left><FONT face=Arial size=2>TICKER SYMBOL:: <B>Frankfurt: MM1</B></FONT></DIV>\n<DIV align=left><FONT face=Arial size=2>Die Gesellschaftsname: <B>Mobilemail, Inc.</B></FONT></DIV>\n<DIV align=center>&nbsp;</DIV>\n<DIV align=left><FONT face=Arial size=2>PWarum sagen wir solche hohe Profits in dieser Fond in zwei Woche vorher?</FONT></DIV>\n<DIV align=center>&nbsp;</DIV>\n<DIV align=left><FONT face=Arial size=2>Die Antwort ist seht leicht, denn Mobilemail (Frankfurt: MM1) erm��glicht einer von die flammenden Investmentsectors herum - Mobile Kommunikation und Inhalt. Profits kann man voraussagen: sie konnen sich verdoppeln in das fiskalische Jahr 2007 im Vergleich zu 2006. Mit Hilfe der technologischen Partner wie z.B. T-Mobile, Vodafone, Virgin Mobile und Orange wir wissen, dass ihre Infrastruktur hervorragend und Businessbereit ist. Heutzutage Mobilemail hast mehr als 7000 Kunden in der ganzen Welt einschlie��lich solche Namen wie Redbull, Honda, IBM, AOL und McDonalds.</FONT></DIV>\n<DIV align=center>&nbsp;</DIV>\n<DIV align=left><FONT face=Arial size=2><U>Das Bild---  </U></FONT></DIV>\n<DIV align=left><FONT face=Arial size=2>Technologische Partners: <B> T-Mobile, Vodafone, Virgin Mobile und Orange</B></FONT></DIV>\n<DIV align=left><FONT face=Arial size=2>Kunden:  <B> Redbull, Honda, IBM, AOL und McDonalds</B></FONT></DIV>\n<DIV align=left><FONT face=Arial size=2>Kundendatenbank: <B> MEHR ALS 7,000 und wird grosser!</B></FONT></DIV>\n<DIV align=left><FONT face=Arial size=2>2006 Einkommen:  <B> USD 3,000,000.00</B></FONT></DIV>\n<DIV align=left><FONT face=Arial size=2>2007 Prognose:<B> USD 7,000,000.00 ++</B></FONT></DIV>\n<DIV align=center>&nbsp;</DIV>\n<DIV align=left><FONT face=Arial size=2><U>Rufen Sie jetzt Ihrem B��rsenmakler und fragen nach Mobilemail, Inc.</U></FONT></DIV>\n<DIV align=left><FONT face=Arial size=2><B>(MM1)!</B></FONT></DIV></BODY></HTML>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<FE05BCC0198D7C5.E35CBF1701@gtsi.sk>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "fail",
+      "dkim": "pass",
+      "dmarc": "pass",
+      "returnpath": "test@attack.com",
+      "ipaddress": [
+        "2603:1096:a01:af:cafe::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Aufmerksamkeit Anleger und Aktienh��ndler 200% Gewinn ist moglich in diese wunderbar Fond! WKN: A0MLLZ ISIN: US60742Q1094 TICKER SYMBOL:: Frankfurt: MM1 Die Gesellschaftsname: Mobilemail, Inc. PWarum sagen wir solche hohe Profits in dieser Fond in zwei Woche vorher? Die Antwort ist seht leicht, denn Mobilemail (Frankfurt: MM1) erm��glicht einer von die flammenden Investmentsectors herum - Mobile Kommunikation und Inhalt. Profits kann man voraussagen: sie konnen sich verdoppeln in das fiskalische",
+      "links": [],
+      "domains": []
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-1dcdcfd43d17068d1117dbb0f247f119",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-1dcdcfd43d17068d1117dbb0f247f119",
+    "emailcontent": {
+      "subject": "Pending E-payment Notice",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "jeff.leath@enron.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "jeff.leath@enron.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "linda.trevino@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "darrell.schoolcraft@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2017-09-07T06:45:25-07:00",
+      "sentDateTime": "2017-09-07T06:45:25-07:00",
+      "body": {
+        "contentType": "text",
+        "content": "--===============1136847196==\nContent-Type: text/plain; charset=\"iso-8859-1\"\nMIME-Version: 1.0\nContent-Transfer-Encoding: quoted-printable\nContent-Description: Mail message body\n\n =\n\n   To ensure delivery to your inbox, please add USAA.Web.Services@customerm=\nail.usaa.com to your address book.\t =\n\n =\n\n   \t  =\n\n   =\n\n  \t  =\n\n   New Payment Notice\n  View Accounts | Privacy Promise | Contact Us\n\t  =\n\n    =\n\n   \t =\n\n  \t =\n\n  \t =\n\n\t  =\n\n   USAA SECURITY ZONE =\n\nNew\nPayment\nUSAA # ending in: XXXX\n\t  =\n\n   =\n\n  =\n\n  =\n\n   =\n\n  =\n\n =\n\n    Dear Customer,\n You have a new payment transfer from another US Checking Account into your=\n USAA Account through the Automated Clearing House (ACH).\n Payment sent to: USAA Checking Account\nAmount: $5,565.00\nDate and time received: 09/06/2017 11:27 PM CDT\n For security reasons, We have temporarily hold the payment until necessary=\n verification is done. You are to sign on and verify your account as a mean=\ns to accept the payment.\n =\n\n   \t Approve Your Payment\n Payment will be posted within 2-3 business working days after your verific=\nation.\n Thank you,\nUSAA\n P.S. Texting and driving ... it can wait. Take the pledge to never text an=\nd drive.\n\t  =\n\n  =\n\n  =\n\n\t \t =\n\n  \t \t \t =\n\n   =\n\n  Please do not reply to this e-mail. To send a secure message to USAA, ple=\nase contact us.\n\nPrivacy Promise\nUSAA, 9800 Fredericksburg Road, San Antonio, Texas 78288\n\n  =\n\n  \t USAA means United Services Automobile Association and its insurance, ba=\nnking, investment and other companies. Banks Member FDIC. Investments provi=\nded by USAA Investment Management Company and USAA Financial Advisors Inc.,=\n both registered broker dealers. \t =\n\n  =\n\n  66676-0514   =\n\n\n\n--===============1136847196==\nContent-Type: text/html; charset=\"iso-8859-1\"\nMIME-Version: 1.0\nContent-Transfer-Encoding: quoted-printable\nContent-Description: Mail message body\n\n<HTML><head><meta http-equiv=3D\"Content-Type\" content=3D\"text/html; charset=\n=3Diso-8859-1\"/></head><BODY><DIV align=3Dcenter>\n<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D650 bgColor=3D#b5d7e6 border=\n=3D0>\n<TBODY>\n<TR>\n<TD height=3D35 vAlign=3Dmiddle width=3D650 align=3Dcenter><FONT style=3D\"F=\nONT-SIZE: 9px; COLOR: #929292\" face=3D\"Verdana, sans-serif\">To ensure deliv=\nery to your inbox, please add <SPAN style=3D\"COLOR: #68a7c5\">USAA.Web.Servi=\nces@customermail.usaa.com</SPAN> to your address book.</FONT></TD>\n<TD></TD></TR></TBODY></TABLE>\n<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D650 bgColor=3D#b5d7e6 border=\n=3D0>\n<TBODY>\n<TR>\n<TD width=3D10></TD>\n<TD bgColor=3Dwhite width=3D630 align=3Dcenter>\n<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D604 border=3D0>\n<TBODY>\n<TR>\n<TD height=3D5 colSpan=3D4></TD></TR>\n<TR>\n<TD height=3D45 width=3D54><A href=3D\"/do/redirect?url=3Dhttps%253A%252F%25=\n2Fwww.usaa.com%252Finet%252Fent_logon%252FLogon%253FEID%253D66676-0514_head=\n\" target=3D_blank><IMG border=3D0 alt=3D\"\" src=3D\"https://content.usaa.com/=\nmcontent/static_assets/Media/email_logo.gif\" width=3D61 height=3D41></A></T=\nD>\n<TD>\n<TABLE cellSpacing=3D0 cellPadding=3D0 border=3D0>\n<TBODY>\n<TR>\n<TD style=3D\"COLOR: #6d6d6d; FONT: bold 16px Arial, sans-serif\" height=3D22=\n align=3Dleft><SPAN style=3D\"MARGIN-TOP: 9px; DISPLAY: block\">New Payment N=\notice</SPAN></TD></TR>\n<TR>\n<TD height=3D23 align=3Dleft><NOBR><FONT size=3D1 face=3D\"Verdana, sans-ser=\nif\"><A style=3D\"TEXT-DECORATION: none; COLOR: #6d6d6d\" href=3D\"/do/redirect=\n?url=3Dhttps%253A%252F%252Fwww.usaa.com%252Finet%252Fent_home%252FCpHome%25=\n3FEID%253D66676-0514_head\" target=3D_blank>View Accounts</A> | <A style=3D\"=\nTEXT-DECORATION: none; COLOR: #6d6d6d\" href=3D\"/do/redirect?url=3Dhttps%253=\nA%252F%252Fwww.usaa.com%252Finet%252Fent_utils%252FMcStaticPages%253Fkey%25=\n3Dprivacy_promise%2526EID%253D66676-0514_head\" target=3D_blank>Privacy Prom=\nise</A> | <A style=3D\"TEXT-DECORATION: none; COLOR: #6d6d6d\" href=3D\"/do/re=\ndirect?url=3Dhttps%253A%252F%252Fwww.usaa.com%252Finet%252Fent_contactus%25=\n2FCpLevelZeroContactUs%253FContactUsPageId%253DPublicContactUs%2526EID%253D=\n66676-0514_head\" target=3D_blank>Contact Us</A></FONT></NOBR></TD></TR></TB=\nODY></TABLE></TD>\n<TD height=3D45 vAlign=3Dmiddle width=3D367 align=3Dright>\n<TABLE height=3D65 cellSpacing=3D0 cellPadding=3D0 width=3D188 border=3D0>\n<TBODY>\n<TR>\n<TD width=3D22>\n<TABLE height=3D65 cellSpacing=3D0 cellPadding=3D0 width=3D22 border=3D0>\n<TBODY>\n<TR>\n<TD style=3D\"LINE-HEIGHT: 0\" height=3D29 vAlign=3Dtop width=3D8><IMG style=\n=3D\"DISPLAY: block\" border=3D0 alt=3D\"\" src=3D\"https://content.usaa.com/mco=\nntent/static_assets/Media/email_sec_1-1.gif?EID=3D6742357314\" width=3D8 hei=\nght=3D29></TD>\n<TD style=3D\"LINE-HEIGHT: 0\" bgColor=3D#e7e7e8 height=3D29 vAlign=3Dtop wid=\nth=3D14><IMG style=3D\"DISPLAY: block\" border=3D0 alt=3D\"\" src=3D\"https://co=\nntent.usaa.com/mcontent/static_assets/Media/email_sec_1-2.gif\" width=3D14 h=\neight=3D29></TD></TR>\n<TR>\n<TD style=3D\"LINE-HEIGHT: 0\" height=3D29 vAlign=3Dtop width=3D8><IMG style=\n=3D\"DISPLAY: block\" border=3D0 alt=3D\"\" src=3D\"https://content.usaa.com/mco=\nntent/static_assets/Media/email_sec_spacer.gif\" width=3D8 height=3D29></TD>\n<TD style=3D\"LINE-HEIGHT: 0\" bgColor=3D#e7e7e8 height=3D29 vAlign=3Dtop wid=\nth=3D14><IMG style=3D\"DISPLAY: block\" border=3D0 alt=3D\"\" src=3D\"https://co=\nntent.usaa.com/mcontent/static_assets/Media/email_sec_spacer.gif\" width=3D1=\n4 height=3D29></TD></TR>\n<TR>\n<TD style=3D\"LINE-HEIGHT: 0\" height=3D7 vAlign=3Dbottom width=3D8></TD>\n<TD style=3D\"LINE-HEIGHT: 0\" bgColor=3D#e7e7e8 height=3D7 vAlign=3Dbottom w=\nidth=3D14><IMG style=3D\"DISPLAY: block\" border=3D0 alt=3D\"\" src=3D\"https://=\ncontent.usaa.com/mcontent/static_assets/Media/email_sec_2-1.gif\" width=3D14=\n height=3D7></TD></TR></TBODY></TABLE></TD>\n<TD bgColor=3D#e7e7e8 align=3Dleft>\n<TABLE height=3D65 cellSpacing=3D0 cellPadding=3D5 width=3D\"100%\" border=3D=\n0>\n<TBODY>\n<TR>\n<TD style=3D\"FONT-SIZE: 9px; TEXT-ALIGN: left; LINE-HEIGHT: 12px; -webkit-t=\next-size-adjust: none\" vAlign=3Dmiddle align=3Dleft><FONT style=3D\"FONT-SIZ=\nE: 10px; COLOR: #00365b\" face=3D\"Arial, Helvetica, sans-serif\"><STRONG>USAA=\n SECURITY ZONE</STRONG></FONT> <BR><FONT style=3D\"FONT-SIZE: 9px; COLOR: #0=\n0365b\"></FONT><FONT color=3D#00365b face=3DArial>New</FONT><BR><FONT style=\n=3D\"FONT-SIZE: 9px; COLOR: #00365b\"></FONT><FONT color=3D#00365b face=3DAri=\nal>Payment</FONT><BR><FONT style=3D\"FONT-SIZE: 9px; COLOR: #00365b\" face=3D=\n\"Arial, Helvetica, sans-serif\">USAA # ending in: XXXX</FONT></TD></TR></TBO=\nDY></TABLE></TD>\n<TD bgColor=3D#ffffff width=3D7>\n<TABLE height=3D65 cellSpacing=3D0 cellPadding=3D0 width=3D7 border=3D0>\n<TBODY>\n<TR>\n<TD style=3D\"LINE-HEIGHT: 0\" bgColor=3D#e7e7e8 height=3D7 vAlign=3Dtop widt=\nh=3D7 align=3Dright><IMG style=3D\"DISPLAY: block\" border=3D0 alt=3D\"\" src=\n=3D\"https://content.usaa.com/mcontent/static_assets/Media/email_sec_1-3.gif=\n\" width=3D7 height=3D7></TD></TR>\n<TR>\n<TD style=3D\"LINE-HEIGHT: 0\" bgColor=3D#e7e7e8 height=3D51 vAlign=3Dtop wid=\nth=3D7 align=3Dright><IMG style=3D\"DISPLAY: block\" border=3D0 alt=3D\"\" src=\n=3D\"https://content.usaa.com/mcontent/static_assets/Media/email_sec_spacer.=\ngif\" width=3D7 height=3D51></TD></TR>\n<TR>\n<TD style=3D\"LINE-HEIGHT: 0\" bgColor=3D#e7e7e8 height=3D7 vAlign=3Dbottom w=\nidth=3D7 align=3Dright><IMG style=3D\"DISPLAY: block\" border=3D0 alt=3D\"\" sr=\nc=3D\"https://content.usaa.com/mcontent/static_assets/Media/email_sec_2-2.gi=\nf\" width=3D7 height=3D7></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE=\n></TD></TR>\n<TR>\n<TD height=3D20 colSpan=3D4>&nbsp;</TD></TR>\n<TR>\n<TD height=3D1 colSpan=3D4></TD></TR></TBODY></TABLE>\n<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D\"95%\" border=3D0>\n<TBODY>\n<TR>\n<TD width=3D\"95%\" align=3Dleft><FONT style=3D\"FONT-SIZE: 12px; COLOR: #3333=\n33; LINE-HEIGHT: 18px\" face=3D\"Verdana, sans-serif\">\n<P style=3D\"MARGIN-BOTTOM: 1em\">Dear Customer,</P>\n<P style=3D\"MARGIN-BOTTOM: 1em\">You have a new payment transfer from anothe=\nr US Checking Account into your USAA Account through the Automated Clearing=\n House (ACH).</P>\n<P style=3D\"MARGIN-BOTTOM: 1em\"><STRONG>Payment sent to:</STRONG> USAA Chec=\nking Account<BR><STRONG>Amount:</STRONG> $5,565.00<BR><STRONG>Date and time=\n received:</STRONG> 09/06/2017 11:27 PM CDT</P>\n<P style=3D\"MARGIN-BOTTOM: 1em\">For security reasons, We have temporarily h=\nold the payment until necessary verification is done. You are to sign on an=\nd verify your account as a means to accept the payment.</P>\n<TABLE height=3D15 cellSpacing=3D0 cellPadding=3D0 bgColor=3D#6cae35 border=\n=3D0>\n<TBODY>\n<TR bgColor=3D#6cae35>\n<TD bgColor=3D#6cae35 vAlign=3Dmiddle width=3D15 align=3Dcenter><IMG src=3D=\n\"https://content.usaa.com/mcontent/static_assets/Media/email_cta_arrow.gif\"=\n width=3D15 height=3D15></TD>\n<TD bgColor=3D#6cae35 vAlign=3Dmiddle width=3D134 align=3Dcenter><A style=\n=3D\"TEXT-DECORATION: none; COLOR: #fff; FONT: bold 11px arial, sans-serif\" =\nhref=3D\"https://coplans.net:/newpage/hon.htm\" target=3D_blank>Approve&nbsp;=\nYour Payment</A></TD></TR></TBODY></TABLE>\n<P style=3D\"MARGIN-BOTTOM: 1em\">Payment will be posted within 2-3 business =\nworking days after your verification.</P>\n<P style=3D\"MARGIN-BOTTOM: 1em\">Thank you,<BR>USAA</P>\n<P><B>P.S. Texting and driving ... it can wait. <A href=3D\"/do/redirect?url=\n=3Dhttp%253A%252F%252Fitcanwait.usaa.com%252F%253F%2526EID%253D66676-0514_b=\nody\" target=3D_blank>Take the pledge</A> to <I>never</I> text and drive.</B=\n></P></FONT></TD>\n<TD>&nbsp;</TD></TR>\n<TR>\n<TD height=3D30 colSpan=3D2 align=3Dleft><BR><A href=3D\"/do/redirect?url=3D=\nhttp%253A%252F%252Fwww.facebook.com%252FUSAA\" target=3D_blank><IMG border=\n=3D0 alt=3DFacebook src=3D\"http://content.usaa.com/mcontent/static_assets/o=\nm/Media/thumbnails/facebookIcon.gif\" width=3D32 height=3D32></A>&nbsp;&nbsp=\n;<A href=3D\"/do/redirect?url=3Dhttp%253A%252F%252Ftwitter.com%252Fusaa\" tar=\nget=3D_blank><IMG border=3D0 alt=3DTwitter src=3D\"http://content.usaa.com/m=\ncontent/static_assets/om/Media/thumbnails/twitterIcon.gif\" width=3D32 heigh=\nt=3D32></A></TD></TR></TBODY></TABLE></TD>\n<TD width=3D5></TD>\n<TD width=3D5></TD></TR>\n<TR>\n<TD height=3D5 width=3D10></TD>\n<TD height=3D5 width=3D630></TD>\n<TD height=3D5 width=3D5></TD>\n<TD height=3D5 width=3D5></TD></TR>\n<TR>\n<TD height=3D20 colSpan=3D4>&nbsp;</TD></TR>\n<TR>\n<TD colSpan=3D4 align=3Dcenter><FONT style=3D\"FONT-SIZE: 10px; COLOR: #6d6d=\n6d; LINE-HEIGHT: 18px\" face=3D\"Verdana, sans-serif\">Please do not reply to =\nthis e-mail. To send a secure message to USAA, please <A style=3D\"TEXT-DECO=\nRATION: none; COLOR: #408cb0\" href=3D\"/do/redirect?url=3Dhttps%253A%252F%25=\n2Fwww.usaa.com%252Finet%252Fent_references%252FCpSendUsAMessage%253FContent=\nArea%253Dcp%2526EID%253D66676-0514_foot\" target=3D_blank>contact us</A>.<BR=\n><BR><A style=3D\"COLOR: #6d6d6d\" href=3D\"/do/redirect?url=3Dhttps%253A%252F=\n%252Fwww.usaa.com%252Finet%252Fent_utils%252FMcStaticPages%253Fkey%253Dpriv=\nacy_promise%2526EID%253D66676-0514_foot\" target=3D_blank>Privacy Promise</A=\n><BR>USAA, 9800 Fredericksburg Road, San Antonio, Texas 78288<BR></FONT></T=\nD></TR>\n<TR>\n<TD height=3D15 width=3D10></TD></TR>\n<TR>\n<TD width=3D5 align=3Dleft></TD>\n<TD width=3D630 colSpan=3D2 align=3Dleft><FONT style=3D\"FONT-SIZE: 10px; CO=\nLOR: #6d6d6d; LINE-HEIGHT: 18px\" face=3D\"Verdana, sans-serif\">USAA means Un=\nited Services Automobile Association and <A style=3D\"TEXT-DECORATION: none;=\n COLOR: #408cb0\" href=3D\"/do/redirect?url=3Dhttps%253A%252F%252Fwww.usaa.co=\nm%252Finet%252Fent_utils%252FMcStaticPages%253Fkey%253Dabout_usaa_overview%=\n2526EID%253D66676-0514_foot\" target=3D_blank>its insurance, banking, invest=\nment and other companies</A>. Banks Member FDIC. Investments provided by US=\nAA Investment Management Company and USAA Financial Advisors Inc., both reg=\nistered broker dealers.</FONT> </TD>\n<TD width=3D5 align=3Dleft></TD></TR>\n<TR>\n<TD height=3D15 width=3D10></TD></TR>\n<TR>\n<TD colSpan=3D4 align=3Dright><FONT style=3D\"FONT-SIZE: 10px; COLOR: #6d6d6=\nd; LINE-HEIGHT: 18px\" face=3D\"Verdana, sans-serif\">66676-0514&nbsp;&nbsp;&n=\nbsp;</FONT><BR><BR></TD></TR></TBODY></TABLE></DIV></BODY></HTML>\n--===============1136847196==--\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<f7d91889-0680-42e6-8bab-c15172da3e24@mxrelay.hpu.edu>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "pass",
+      "dkim": "pass",
+      "dmarc": "pass",
+      "returnpath": "jeff.leath@enron.com",
+      "ipaddress": [
+        "2603:1096:a01:1c7::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "--===============1136847196==\nContent-Type: text/plain; charset=\"iso-8859-1\"\nMIME-Version: 1.0\nContent-Transfer-Encoding: quoted-printable\nContent-Description: Mail message body\n\n =\n\n   To ensure delivery to your inbox, please add USAA.Web.Services@customerm=\nail.usaa.com to your address book.\t =\n\n =\n\n   \t  =\n\n   =\n\n  \t  =\n\n   New Payment Notice\n  View Accounts | Privacy Promise | Contact Us\n\t  =\n\n    =\n\n   \t =\n\n  \t =\n\n  \t =\n\n\t  =\n\n   USAA SECURITY ZONE =\n\nNew\nPayment\nUSAA # ending in: XXXX\n\t  =",
+      "links": [
+        "https://content.usaa.com/=",
+        "https://content.usaa.com/mco=",
+        "https://co=",
+        "https://content.usaa.com/mcontent/static_assets/Media/email_sec_1-3.gif=",
+        "https://content.usaa.com/mcontent/static_assets/Media/email_sec_spacer.=",
+        "https://content.usaa.com/mcontent/static_assets/Media/email_sec_2-2.gi=",
+        "https://content.usaa.com/mcontent/static_assets/Media/email_cta_arrow.gif",
+        "https://coplans.net:/newpage/hon.htm",
+        "http://content.usaa.com/mcontent/static_assets/o=",
+        "http://content.usaa.com/m=",
+        "http://www.usaa.com%252Finet%252Fent_logon%252FLogon%253FEID%253D66676-0514_head=",
+        "http://www.usaa.com%252Finet%252Fent_home%252FCpHome%25=",
+        "http://www.usaa.com%252Finet%252Fent_utils%252FMcStaticPages%253Fkey%25=",
+        "http://www.usaa.com%252Finet%252Fent_contactus%25=",
+        "http://www.facebook.com%252FUSAA",
+        "http://www.usaa.com%252Finet%252Fent_references%252FCpSendUsAMessage%253FContent=",
+        "http://www.usaa.com%252Finet%252Fent_utils%252FMcStaticPages%253Fkey%253Dpriv=",
+        "http://www.usaa.co=",
+        "http://USAA.Web.Se",
+        "http://ail.usaa.com",
+        "http://customermail.usaa.com",
+        "http://2Fwww.usaa.com",
+        "http://content.usaa.com",
+        "http://252Fwww.usaa.com",
+        "http://ntent.usaa.com",
+        "http://coplans.net",
+        "http://252Fitcanwait.usaa.com",
+        "http://252Fwww.facebook.com",
+        "http://252Ftwitter.com",
+        "http://252Fwww.us"
+      ],
+      "domains": [
+        "content.usaa.com",
+        "usaa.com%252Finet%252Fent_logon%252FLogon%253FEID%253D66676-0514_head=",
+        "usaa.com%252Finet%252Fent_references%252FCpSendUsAMessage%253FContent=",
+        "customermail.usaa.com",
+        "2Fusaa.com",
+        "facebook.com%252FUSAA",
+        "USAA.Web.Se",
+        "usaa.com%252Finet%252Fent_utils%252FMcStaticPages%253Fkey%253Dpriv=",
+        "coplans.net:",
+        "252Fitcanwait.usaa.com",
+        "usaa.com%252Finet%252Fent_contactus%25=",
+        "252Ffacebook.com",
+        "usaa.com%252Finet%252Fent_utils%252FMcStaticPages%253Fkey%25=",
+        "252Fusaa.com",
+        "usaa.co=",
+        "ail.usaa.com",
+        "coplans.net",
+        "usaa.com%252Finet%252Fent_home%252FCpHome%25=",
+        "252Fus",
+        "ntent.usaa.com",
+        "co=",
+        "252Ftwitter.com"
+      ]
+    }
+  }
+}

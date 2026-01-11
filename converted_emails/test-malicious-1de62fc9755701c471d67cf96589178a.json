@@ -1,0 +1,104 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-1de62fc9755701c471d67cf96589178a",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-1de62fc9755701c471d67cf96589178a",
+    "emailcontent": {
+      "subject": "We Build The Internet. WebXperts.com (Design / Programming /  Consultation)",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "admin@security.yahoo.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "admin@security.yahoo.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "w.duran@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "scott.josey@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "jere.overdyke@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2002-09-25T14:25:38-04:00",
+      "sentDateTime": "2002-09-25T14:25:38-04:00",
+      "body": {
+        "contentType": "text/html",
+        "content": "<!-- If this flyer does not appear correctly and/or images do not appear, go to the following in your browser window www.webxperts.com -->\n<html>\n<head>\n<title>WebXperts Design, Inc.    We Build The Internet.</title>\n<style type=\"text/css\"><!--body{font-family: Verdana; font-size:10px; color:white;}td{font-family:  Verdana; font-size:10px; color:white;}a{font-family: Verdana; font-size:10px; color:cccccc;}a:hover{font-family: Verdana; font-size:10px; color:yellow;}--></style>\n</head>\n<body bgcolor=\"#666666\"><div align=\"center\">\n<table width=\"720\"><tr><td><hr>\nIf This Flyer does not appear correctly and/or images do not appear, please click the following link: <a href=\"http://www.webxperts.com\">http://www.webxperts.com</a>.<hr align=\"center\"></td></tr></table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"720\">\n  <tr>   <td><img src=\"http://www.eluxmedia.com/forms/spacer.gif\" width=\"94\" height=\"1\" border=\"0\"></td>   <td><img src=\"http://www.eluxmedia.com/forms/spacer.gif\" width=\"106\" height=\"1\" border=\"0\"></td>   <td><img src=\"http://www.eluxmedia.com/forms/spacer.gif\" width=\"47\" height=\"1\" border=\"0\"></td>   <td><img src=\"http://www.eluxmedia.com/forms/spacer.gif\" width=\"59\" height=\"1\" border=\"0\"></td>   <td><img src=\"http://www.eluxmedia.com/forms/spacer.gif\" width=\"119\" height=\"1\" border=\"0\"></td>   <td><img src=\"http://www.eluxmedia.com/forms/spacer.gif\" width=\"34\" height=\"1\" border=\"0\"></td>   <td><img src=\"http://www.eluxmedia.com/forms/spacer.gif\" width=\"73\" height=\"1\" border=\"0\"></td>   <td><img src=\"http://www.eluxmedia.com/forms/spacer.gif\" width=\"111\" height=\"1\" border=\"0\"></td>   <td><img src=\"http://www.eluxmedia.com/forms/spacer.gif\" width=\"77\" height=\"1\" border=\"0\"></td>   <td><img src=\"http://www.eluxmedia.com/forms/spacer.gif\" width=\"1\" height=\"1\" border=\"0\"></td>  </tr>\n  <tr>\n   <td>\n <form action=\"http://www.webxperts.com/webxflyer2002.asp\" method=\"post\"><input type=\"hidden\" name=\"email\" value=\"zzzz@spamassassin.taint.org\"><input type=\"hidden\" name=\"m\" value=\"sept2002\"><input type=\"hidden\" name=\"page\" value=\"webdesign\"><input type=\"hidden\" name=\"typeof\" value=\"homes and apartments\"><INPUT TYPE=\"image\" SRC=\"http://www.eluxmedia.com/forms/flyer2002_r1_c1.gif\" ALT=\"Web Design\" ></form>\n</td>\n   <td>\n <form action=\"http://www.webxperts.com/webxflyer2002.asp\" method=\"post\"><input type=\"hidden\" name=\"email\" value=\"zzzz@spamassassin.taint.org\"><input type=\"hidden\" name=\"m\" value=\"sept2002\"><input type=\"hidden\" name=\"page\" value=\"app_dev\"><input type=\"hidden\" name=\"typeof\" value=\"homes and apartments\"><INPUT TYPE=\"image\" SRC=\"http://www.eluxmedia.com/forms/flyer2002_r1_c2.gif\" ALT=\"Application Development\" ></form>\n</td>\n   <td colspan=\"2\">\n  <form action=\"http://www.webxperts.com/webxflyer2002.asp\" method=\"post\"><input type=\"hidden\" name=\"email\" value=\"zzzz@spamassassin.taint.org\"><input type=\"hidden\" name=\"m\" value=\"sept2002\"><input type=\"hidden\" name=\"page\" value=\"webmain\"><input type=\"hidden\" name=\"typeof\" value=\"homes and apartments\"><INPUT TYPE=\"image\" SRC=\"http://www.eluxmedia.com/forms/flyer2002_r1_c3.gif\" ALT=\"Website Maintenance\" ></form>\n</td>\n   <td>\n  <form action=\"http://www.webxperts.com/webxflyer2002.asp\" method=\"post\"><input type=\"hidden\" name=\"email\" value=\"zzzz@spamassassin.taint.org\"><input type=\"hidden\" name=\"m\" value=\"sept2002\"><input type=\"hidden\" name=\"page\" value=\"guaranteed\"><input type=\"hidden\" name=\"typeof\" value=\"homes and apartments\"><INPUT TYPE=\"image\" SRC=\"http://www.eluxmedia.com/forms/flyer2002_r1_c5.gif\" ALT=\"Guarenteed Site Placement\" ></form>\n </td>\n   <td colspan=\"2\">\n  <form action=\"http://www.webxperts.com/webxflyer2002.asp\" method=\"post\"><input type=\"hidden\" name=\"email\" value=\"zzzz@spamassassin.taint.org\"><input type=\"hidden\" name=\"m\" value=\"sept2002\"><input type=\"hidden\" name=\"page\" value=\"ecommerce\"><input type=\"hidden\" name=\"typeof\" value=\"homes and apartments\"><INPUT TYPE=\"image\" SRC=\"http://www.eluxmedia.com/forms/flyer2002_r1_c6.gif\" ALT=\"E-Commerce Solutions\" ></form>\n </td>\n   <td>\n  <form action=\"http://www.webxperts.com/webxflyer2002.asp\" method=\"post\"><input type=\"hidden\" name=\"email\" value=\"zzzz@spamassassin.taint.org\"><input type=\"hidden\" name=\"m\" value=\"sept2002\"><input type=\"hidden\" name=\"page\" value=\"wireless\"><input type=\"hidden\" name=\"typeof\" value=\"homes and apartments\"><INPUT TYPE=\"image\" SRC=\"http://www.eluxmedia.com/forms/flyer2002_r1_c8.gif\" ALT=\"Wireless Development\" ></form>\n</td>\n   <td>\n  <form action=\"http://www.webxperts.com/webxflyer2002.asp\" method=\"post\"><input type=\"hidden\" name=\"email\" value=\"zzzz@spamassassin.taint.org\"><input type=\"hidden\" name=\"m\" value=\"sept2002\"><input type=\"hidden\" name=\"page\" value=\"intranets\"><input type=\"hidden\" name=\"typeof\" value=\"homes and apartments\"><INPUT TYPE=\"image\" SRC=\"http://www.eluxmedia.com/forms/flyer2002_r1_c9.gif\" ALT=\"Intranets\" ></form>\n</td>\n   <td><img src=\"http://www.eluxmedia.com/forms/spacer.gif\" width=\"1\" height=\"33\" border=\"0\"></td>\n  </tr>\n  <tr>\n   <td colspan=\"9\"><img name=\"logoandmiddle\" src=\"http://www.eluxmedia.com/forms/logoandmiddle.gif\" width=\"720\" height=\"150\" border=\"0\"></td>\n   <td><img src=\"http://www.eluxmedia.com/forms/spacer.gif\" width=\"1\" height=\"150\" border=\"0\"></td>\n  </tr>\n  <tr>\n   <td colspan=\"3\">\n <form action=\"http://www.webxperts.com/webxflyer2002.asp\" method=\"post\"><input type=\"hidden\" name=\"email\" value=\"zzzz@spamassassin.taint.org\"><input type=\"hidden\" name=\"m\" value=\"sept2002\"><input type=\"hidden\" name=\"page\" value=\"webdesign\"><input type=\"hidden\" name=\"typeof\" value=\"homes and apartments\"><INPUT TYPE=\"image\" SRC=\"http://www.eluxmedia.com/forms/flyer2002_r3_c1.gif\" ALT=\"HTML Version\" ></form>\n</td>\n   <td colspan=\"3\">\n <form action=\"http://www.webxperts.com/webxflyer2002.asp\" method=\"post\"><input type=\"hidden\" name=\"email\" value=\"zzzz@spamassassin.taint.org\"><input type=\"hidden\" name=\"m\" value=\"sept2002\"><input type=\"hidden\" name=\"page\" value=\"mixedmedia\"><input type=\"hidden\" name=\"typeof\" value=\"homes and apartments\"><INPUT TYPE=\"image\" SRC=\"http://www.eluxmedia.com/forms/flyer2002_r3_c4.gif\" ALT=\"Mixed Media Version\" ></form>\n</td>\n   <td colspan=\"3\">\n <form action=\"http://www.webxperts.com/webxflyer2002.asp\" method=\"post\"><input type=\"hidden\" name=\"email\" value=\"zzzz@spamassassin.taint.org\"><input type=\"hidden\" name=\"m\" value=\"sept2002\"><input type=\"hidden\" name=\"page\" value=\"flash\"><input type=\"hidden\" name=\"typeof\" value=\"homes and apartments\"><INPUT TYPE=\"image\" SRC=\"http://www.eluxmedia.com/forms/flyer2002_r3_c7.gif\" ALT=\"Flash Version\" ></form>\n</td>\n   <td><img src=\"http://www.eluxmedia.com/forms/spacer.gif\" width=\"1\" height=\"277\" border=\"0\"></td>\n  </tr>\n</table>\n<table width=\"720\"<tr><td><br><br><hr align=\"center\">\nYour email address was obtained from a purchased list. You are receiving this from Eluxmedia LLC, and are a part of their mailing list. If you wish to unsubscribe from this list, please <a href=\"http://www.eluxmedia.com/unsub/unsubscribe.asp\">click here</a> and enter your name into the remove box.<br><br>If you have previously unsubscribed and are still receiving this message, you may email our <a href=\"mailto:solutions@eluxmedia.com\">Abuse Control Center</a>.</font><hr align=\"center\"></td></tr></table>\n</div>\n</body>\n</html>  "
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<20020925182858.9821F4BE98@rack3.easydns.com>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "pass",
+      "dkim": "fail",
+      "dmarc": "pass",
+      "returnpath": "test@attack.com",
+      "ipaddress": [
+        "2603:1096:a04::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "WebXperts Design, Inc. We Build The Internet. If This Flyer does not appear correctly and/or images do not appear, please click the following link: http://www.webxperts.com . Your email address was obtained from a purchased list. You are receiving this from Eluxmedia LLC, and are a part of their mailing list. If you wish to unsubscribe from this list, please click here and enter your name into the remove box. If you have previously unsubscribed and are still receiving this message, you may email",
+      "links": [
+        "http://www.webxperts.com",
+        "http://www.eluxmedia.com/unsub/unsubscribe.asp",
+        "http://www.eluxmedia.com/forms/spacer.gif",
+        "http://www.webxperts.com/webxflyer2002.asp",
+        "http://www.eluxmedia.com/forms/flyer2002_r1_c1.gif",
+        "http://www.eluxmedia.com/forms/flyer2002_r1_c2.gif",
+        "http://www.eluxmedia.com/forms/flyer2002_r1_c3.gif",
+        "http://www.eluxmedia.com/forms/flyer2002_r1_c5.gif",
+        "http://www.eluxmedia.com/forms/flyer2002_r1_c6.gif",
+        "http://www.eluxmedia.com/forms/flyer2002_r1_c8.gif",
+        "http://www.eluxmedia.com/forms/flyer2002_r1_c9.gif",
+        "http://www.eluxmedia.com/forms/logoandmiddle.gif",
+        "http://www.eluxmedia.com/forms/flyer2002_r3_c1.gif",
+        "http://www.eluxmedia.com/forms/flyer2002_r3_c4.gif",
+        "http://www.eluxmedia.com/forms/flyer2002_r3_c7.gif",
+        "http://www.eluxmedia.com",
+        "http://spamassassin.taint.org",
+        "http://eluxmedia.com"
+      ],
+      "domains": [
+        "webxperts.com",
+        "spamassassin.taint.org",
+        "eluxmedia.com"
+      ]
+    }
+  }
+}

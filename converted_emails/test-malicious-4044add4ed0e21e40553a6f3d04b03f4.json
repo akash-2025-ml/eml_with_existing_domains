@@ -1,0 +1,92 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-4044add4ed0e21e40553a6f3d04b03f4",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-4044add4ed0e21e40553a6f3d04b03f4",
+    "emailcontent": {
+      "subject": "Oh No! My Printer Died!",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "admin@security.aol.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "admin@security.aol.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "doug.leach@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "janet.wallis@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "frank.vickers@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2002-05-20T05:24:29+05:00",
+      "sentDateTime": "2002-05-20T05:24:29+05:00",
+      "body": {
+        "contentType": "text/html",
+        "content": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\r\n<html>\r\n<head>\r\n           \r\n  <meta http-equiv=\"content-type\" content=\"text/html; charset=ISO-8859-1\">\r\n  <title>Mighty Jet</title>\r\n</head>\r\n  <body>\r\n     \r\n<table cellpadding=\"2\" cellspacing=\"2\" border=\"0\" width=\"100%\">\r\n     <tbody>\r\n       <tr>\r\n         <td valign=\"Top\" bgcolor=\"black\">                     \r\n      <div align=\"Center\"><u><b><font color=\"red\" size=\"+3\">WARNING:</font></b></u></div>\r\n         <br>\r\n                       \r\n      <div align=\"Center\"><font color=\"#00cccc\" size=\"+2\">  Do not buy another\r\n  ink cartridge until you read this!<br>\r\n         </font></div>\r\n                       \r\n      <div align=\"Center\"><font color=\"#ffffff\"><br>\r\n         <font size=\"+2\">   Tired of paying $20, $30, $40 or even $50 for \r\ninkjet     cartridges?<br>\r\n             Tired of your printer running out of ink AGAIN?<br>\r\n                Tired of running from store to store looking for the right\r\n cartridge?<br>\r\n                Tired of having to wait until morning to get your printer \r\nworking?<br>\r\n                Just Tired of being Tired?</font><br>\r\n         </font></div>\r\n                       \r\n      <div align=\"Center\"><br>\r\n         <font size=\"+3\" color=\"#33ff33\">YOU NEED THE</font><br>\r\n         <br>\r\n         </div>\r\n                       \r\n      <table bgcolor=\"black\">\r\n                       \r\n      </table>\r\n                       \r\n      <table width=\"100%\" border=\"0\" cellspacing=\"2\" cellpadding=\"2\">\r\n           <tbody>\r\n             <tr>\r\n               <td width=\"50%\" valign=\"Top\"><img src=\"http://pheromone-labs.com/images/fill-jet.jpg\" alt=\"Fill-jet Picture\" width=\"452\" height=\"552\">\r\n               </td>\r\n               <td valign=\"Top\">                                       \r\n            <div align=\"Left\">                                       \r\n            <div align=\"Center\"><font color=\"red\"><u><b><font size=\"+3\"><br>\r\n               </font></b><br>\r\n               </u></font>                                       \r\n            <div align=\"Left\"><font color=\"red\"><u><font size=\"+3\"><b><br>\r\n               <br>\r\n            MIGHTY JET INK REFILL KIT</b></font></u></font><br>\r\n               </div>\r\n               <font color=\"red\"><font color=\"#ffffff\"><br>\r\n               </font></font>                                       \r\n            <div align=\"Left\"><font size=\"+2\" color=\"#ffffff\">* Refill Your \r\n Ink     Cartridge UP TO 10 TIMES! </font><font size=\"+2\" color=\"#ffffff\"><br>\r\n               </font><font size=\"+2\" color=\"#ffffff\">* Clean, Safe, and\r\nEasy    to  Use       <br>\r\n               </font><font size=\"+2\" color=\"#ffffff\">* Induction Sealed\r\nBottles     Preventing Messy Spills </font><font size=\"+2\" color=\"#ffffff\"><br>\r\n               </font><font size=\"+2\" color=\"#ffffff\">* Fully Illustrated \r\nInstruction      Guide <br>\r\n               </font><font size=\"+2\" color=\"#ffffff\">* Full Video Instructions \r\n    on  CD-ROM&nbsp; <br>\r\n               </font><font size=\"+3\" color=\"#ffffff\"><font size=\"+2\">* All \r\n  the   Tools  needed to Refill Any Type of Inkjet Cartridge <br>\r\n               </font><br>\r\n               </font></div>\r\n                                         \r\n            <div align=\"Center\"><br>\r\n               </div>\r\n               </div>\r\n               </div>\r\n               </td>\r\n             </tr>\r\n                             \r\n        </tbody>                     \r\n      </table>\r\n         <br>\r\n         <a href=\"http://pheromone-labs.com/fill-jet.htm\"><font size=\"+3\"><br>\r\n         </font></a>\r\n                       \r\n      <center><font color=\"#00cccc\" size=\"+3\">Let's Compare MIGHTY JET to Other \r\n Ink  Refill   Kits!</font><br>\r\n         </center>\r\n         <br>\r\n                       \r\n      <table cellpadding=\"2\" cellspacing=\"2\" border=\"1\" width=\"100%\">\r\n           <tbody>\r\n             <tr>\r\n               <td valign=\"Top\">                                       \r\n            <div align=\"Left\">                                       \r\n            <div align=\"Center\"><font size=\"+3\" color=\"red\">Generic Refill \r\n Kit<br>\r\n               </font><font color=\"#ffffff\"><br>\r\n               </font><font size=\"+1\" color=\"#ffffff\">Refills your Ink  Cartridge\r\n    2-3  Times.<br>\r\n               <br>\r\n            Messy and sometimes even DANGEROUS to use.<br>\r\n               <br>\r\n            Confusing to use, no instructions Included.<br>\r\n               <br>\r\n            Only refills your black ink.<br>\r\n               <br>\r\n            Works only on specific kinds of Ink Cartridges.<br>\r\n               <br>\r\n            Retails for $49.99+7.99 S&amp;H.</font><font color=\"#ffffff\"><br>\r\n               <br>\r\n               </font><font size=\"+1\" color=\"#ffffff\">      Usually Offers\r\n NO Guarantee,  tough luck if it won&#8217;t work!<br>\r\n               </font><br>\r\n               </div>\r\n               </div>\r\n               </td>\r\n               <td valign=\"Top\" width=\"50%\">                            \r\n          \r\n            <div align=\"Center\"><font color=\"red\" size=\"+3\">Mighty-Jet Refill \r\n Kit<br>\r\n               </font></div>\r\n               <br>\r\n                                         \r\n            <div align=\"Center\"><font size=\"+1\"><font color=\"#ffffff\">Refills \r\n your     Ink Cartridge <font color=\"#33ff33\">UP TO 10 TIMES!</font><br>\r\n               <br>\r\n            Clean, Safe, And <font color=\"#33ff33\">Easy To Use!</font><br>\r\n               <br>\r\n            Simple to use, comes with <font color=\"#33ff33\">illustrated instructions\r\n      and a CD-ROM!</font><br>\r\n               <br>\r\n            Refills <font color=\"#33ff33\">BOTH</font> your Black Ink AND\r\nyour   Color   Ink!<br>\r\n               <br>\r\n            Works on <font color=\"#33ff33\">ALL</font> Ink Cartridges!<br>\r\n               <br>\r\n               <font color=\"#33ff33\">     Only $29.99!</font><br>\r\n               <br>\r\n            We Offer a <font color=\"#33ff33\">LIFETIME</font> Guarantee! \r\nNo  Questions  Asked!</font><br>\r\n               <br>\r\n               <br>\r\n               </font></div>\r\n               </td>\r\n             </tr>\r\n                             \r\n        </tbody>                     \r\n      </table>\r\n         <br>\r\n         <br>\r\n                       \r\n      <div align=\"Center\"><font size=\"+3\" color=\"#00cccc\">Here Is What Our \r\n Previous Customers  Have To Say!</font><br>\r\n         <br>\r\n         </div>\r\n                       \r\n      <table cellpadding=\"2\" cellspacing=\"2\" border=\"1\" width=\"100%\">\r\n           <tbody>\r\n             <tr>\r\n               <td valign=\"Top\" width=\"50%\"><font color=\"#ffffff\">\"Thank\r\nyou  for offering such a great product. I've been using it now for 3 months, \r\nand  I have refilled my printer cartridge 6 times! And there is still some \r\nleft!  Thanks Again!       <b>- Robert Y. in Tuscon, AZ</b><br>\r\n               <br>\r\n      .\"To Whom It May Concern:&nbsp; I don't know much about printers or \r\nhow   to refill a cartridge, but I had no trouble refilling my HP cartridge \r\nwith   your product! The video CD-ROM was a great help, it explained everything! \r\n  Many Thanks! <b>-Leslie A. in Macon, GA.</b><br>\r\n               <br>\r\n      \"Hello, I am a small business owner and I print out 100-200 pages of\r\n text   a day. I had to buy 2 Ink Cartridges every week, each of which costed\r\n about   $40. Now all I do is order from your website once a month! I don't\r\n even have  to go to the store to buy it, it's sent right to my office! Thanks\r\n a Bunch!&nbsp;        <br>\r\n               <b>- Adam J. in Lubbock, TX. </b><br>\r\n               <br>\r\n               <br>\r\n               </font></td>\r\n               <td valign=\"Top\"><font color=\"#ffffff\">\"I can't believe I've \r\n been purchasing ink cartridge after ink cartridge for $30-$40 each! At your \r\n price each refill is costing me about $5! I'm going to use the money I saved \r\n to take my girlfriend out to dinner. Thank you.\"<br>\r\n               <b>&nbsp;- Carl L. in Indianapolis, IN.</b><br>\r\n               <br>\r\n      \"Dear Sirs,&nbsp; Boy was I surprised with the quality of your product\r\n  compared  to others on the market. The first time I refilled my cartridge\r\n  it only took  5 minutes,&nbsp; was 100% effective, and I didn't even have\r\n  to wash my hands  after! I have enclosed a check for an additional 4 refill\r\n  kits! <b>- Thomas  S. in Dayton, OH.</b><br>\r\n               <br>\r\n      \"Hey man this refill kit SAVED MY LIFE! I ordered your product, but \r\nwhen   it arrived I had a lot of ink in my cartridge.&nbsp; So I put it aside\r\n and   totally forgot about it. The night before my 20 page paper was due,\r\n I tried   to print it out, and I had no ink left! Boy was I worried, that\r\n was until   I remembered how I ordered your Refill Kit. I opened it up and\r\n was printing   my paper in seconds! Thanks!!!\"&nbsp;&nbsp; <b>- Timothy\r\nin  Lancaster, PA.<br>\r\n               </b><br>\r\n               </font></td>\r\n             </tr>\r\n                             \r\n        </tbody>                     \r\n      </table>\r\n         <font color=\"#ffffff\"><br>\r\n         </font><br>\r\n                       \r\n      <div align=\"Center\"><font color=\"#00cccc\" size=\"+3\">               \r\n     \r\n      <center>&nbsp;</center>\r\n         </font><br>\r\n         <font color=\"#00cccc\" size=\"+3\">WHAT'S INCLUDED?</font></div>\r\n         <br>\r\n                       \r\n      <table cellpadding=\"2\" cellspacing=\"2\" border=\"1\" width=\"100%\">\r\n           <tbody>\r\n             <tr>\r\n               <td valign=\"Top\"><br>\r\n               <br>\r\n               <br>\r\n                                         \r\n            <div align=\"Center\"><img src=\"http://pheromone-labs.com/images/fill-jet.jpg\" alt=\"FILL JET PICTURE\" width=\"250\" height=\"305\">\r\n               <br>\r\n               </div>\r\n               <br>\r\n               </td>\r\n               <td valign=\"Top\" width=\"70%\"><font size=\"+2\" color=\"#ffffff\">\r\n   *&nbsp;  1 Bottle of Black ink<br>\r\n               <br>\r\n      *&nbsp; 1 Bottle of Magenta ink<br>\r\n               <br>\r\n      *&nbsp; 1 Bottle of Cyan ink<br>\r\n               <br>\r\n      *&nbsp; 1 Bottle of Yellow ink<br>\r\n               <br>\r\n      *&nbsp; All the tools you need<br>\r\n               <br>\r\n      *&nbsp; A detailed instruction booklet<br>\r\n               <br>\r\n      *&nbsp; A Tutorial CD<br>\r\n               <br>\r\n      *&nbsp; 1 free bonus bottle of Black Ink <u><font color=\"#33ff33\">ABSOLUTELY\r\n   FREE<br>\r\n               </font></u><br>\r\n               </font></td>\r\n             </tr>\r\n                             \r\n        </tbody>                     \r\n      </table>\r\n         <br>\r\n                       \r\n      <div align=\"Left\"><font size=\"+2\"><br>\r\n         <font color=\"#ffffff\"><font color=\"#00cccc\">Refund Instructions: \r\n      </font></font></font><font color=\"#ffffff\">&nbsp;<font size=\"+2\">We\r\nare not like the other websites that offer a 30 day refund, which by law\r\nthey must offer; we offer you a</font></font><font size=\"+2\"><font color=\"#33ff33\">\r\n </font><u><font color=\"#33ff33\">LIFETIME  GUARANTEE!</font></u> </font><font color=\"#ffffff\" size=\"+2\">\r\nIf you do not like the product all you have to do is send it back for a</font><font size=\"+2\">\r\n <font color=\"#33ff33\">FULL REFUND!</font>.</font><br>\r\n         </div>\r\n         <br>\r\n         <font color=\"red\"><font size=\"+2\">SPECIAL <u>ONE-TIME</u> BONUS\r\nOFFER!!</font><br>\r\n         <br>\r\n         </font><font size=\"+2\" color=\"#00cccc\">... Purchase 2 Refill Kits\r\n and Shipping is FREE! <br>\r\n    .... or Purchase 3 Refill Kits and get the 4th one FREE! </font><br>\r\n         <br>\r\n         <br>\r\n                       \r\n      <table cellpadding=\"2\" cellspacing=\"2\" border=\"1\" width=\"100%\">\r\n           <tbody>\r\n             <tr>\r\n               <td valign=\"Top\"><img src=\"http://pheromone-labs.com/images/guarantee.gif\" alt=\"Guarantee!\" width=\"200\" height=\"202\">\r\n               <br>\r\n               </td>\r\n               <td valign=\"Top\">                                       \r\n            <div align=\"Center\"><a href=\"http://pheromone-labs.com/fill-jet.htm\"><font size=\"+3\"><br>\r\n      ORDER NOW!</font><br>\r\n               </a>\r\n               <br>\r\n               <br>\r\n               <br>\r\n               <font size=\"+2\" color=\"#ffffff\">Thank You For Your Time, And \r\n I Hope  To Hear From You Soon!</font><br>\r\n               <br>\r\n               </div>\r\n               </td>\r\n             </tr>\r\n                             \r\n        </tbody>                     \r\n      </table><br><br>\r\n<center>\r\n      <font face=\"Verdana\" color=\"#ffffff\" size=\"1\">You are receiving this \r\n      special offer because you have provided permission to receive email \r\n      communications regarding special online promotions or offers. If you feel \r\n      you have received this message in error, or wish to be removed from our \r\n      subscriber list,\r\n      <a style=\"color: #ff0000\" href=\"mailto:Affiliate1@btamail.net.cn?subject=Remove_Me_Vigoral\">Click HERE</a> and you will be removed within less than three business \r\n      days. Thank You and sorry for any inconvenience.</font></td>\r\n    </tr>\r\n \r\n</div>\r\n                       \r\n     \r\n     \r\n</body>\r\n</html>\r\n\r\n1309TJod3-370nwTp3706HQzl2-503gmWu4468Tjcu7-667ASsq7983TFdh2-2l58"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<b530e5cb-6e8a-4f74-a9b4-371847129e1f@generated>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "neutral",
+      "dkim": "fail",
+      "dmarc": "fail",
+      "returnpath": "test@attack.com",
+      "ipaddress": [
+        "2603:1096:c01:ec::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Mighty Jet WARNING: Do not buy another ink cartridge until you read this! Tired of paying $20, $30, $40 or even $50 for inkjet cartridges? Tired of your printer running out of ink AGAIN? Tired of running from store to store looking for the right cartridge? Tired of having to wait until morning to get your printer working? Just Tired of being Tired? YOU NEED THE MIGHTY JET INK REFILL KIT * Refill Your Ink Cartridge UP TO 10 TIMES! * Clean, Safe, and Easy to Use * Induction Sealed Bottles Preventi",
+      "links": [
+        "http://pheromone-labs.com/fill-jet.htm",
+        "http://pheromone-labs.com/images/fill-jet.jpg",
+        "http://pheromone-labs.com/images/guarantee.gif",
+        "http://pheromone-labs.com",
+        "http://fill-jet.jp",
+        "http://btamail.net.cn"
+      ],
+      "domains": [
+        "btamail.net.cn",
+        "pheromone-labs.com",
+        "fill-jet.jp"
+      ]
+    }
+  }
+}

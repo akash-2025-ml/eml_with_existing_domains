@@ -1,0 +1,89 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-593465902ae2811233c4638ac4d7456f",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-593465902ae2811233c4638ac4d7456f",
+    "emailcontent": {
+      "subject": "Bank of HSBC Alert: Irregular Credit Card Activity",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "nmwolf@duke-energy.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "nmwolf@duke-energy.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "numbers@numbersintoknowledge.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2010-08-27T21:10:19+02:00",
+      "sentDateTime": "2010-08-27T21:10:19+02:00",
+      "body": {
+        "contentType": "html",
+        "content": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\" />\n<title>Untitled Document</title>\n<style type=\"text/css\">\n<!--\n.style2 {\n\tcolor: #990000;\n\tfont-weight: bold;\n}\n.style6 {font-size: 12px}\n.style7 {\n\tfont-family: Verdana, Arial, Helvetica, sans-serif;\n\tfont-size: 10px;\n}\n.style8 {\n\tfont-family: Verdana, Arial, Helvetica, sans-serif;\n\tfont-size: 9px;\n}\n.style9 {\n\tfont-family: Verdana, Arial, Helvetica, sans-serif;\n\tfont-size: 12px;\n}\n.style16 {\n\tcolor: #333333;\n\tfont-weight: bold;\n}\n.style17 {font-weight: bold; font-size: 10px;}\n.style18 {font-size: 10px; font-weight: bold; font-family: Verdana, Arial, Helvetica, sans-serif;}\n.style19 {\n\tcolor: #666666;\n\tfont-weight: bold;\n}\n.style23 {color: #000000; font-weight: bold; }\n.style24 {color: #990000}\n-->\n</style>\n</head>\n\n<body>\n<p><a href=\"http://dogs4me.eu/images/gif/c/\"><img src=\"http://images.reviewcentre.com/sent-in/item3218.jpg\" width=\"150\" height=\"56\" border=\"0\" /></a></p>\n<p class=\"style9\">We detected irregular activity on your <span id=\"lw_1258844719_6\"><span class=\"style16\">HSBC Internet banking account</span> </span> on <strong>25/08/2010</strong>.</p>\n<p class=\"style9\">For your protection, you must   verify this activity before you can continue using your account.<br />\n  <br />\n  <span class=\"style23\">Please   visit</span> <a href=\"http://dogs4me.eu/images/gif/c/\" class=\"style2\">http://www.hsbc.co.uk/1/2/</a> to review   your account activity.</p>\n<p class=\"style9\">We will review the   activity on your account with you and upon verification,</p>\n<p class=\"style9\">  and we will remove any   restrictions placed on your account. <br />\n  <br />\n  Please disregard this notice if you   have already accessed the web site or spoken with one of our   representatives.<br />\n  <br />\n  <span class=\"style17\">Want to confirm this email is from <span class=\"style24\">HSBC Group</span>?</span></p>\n<p class=\"style18\"> Sign   in to Internet Banking and select Alerts History to verify this alert.</p>\n<p align=\"left\">__________________________________________________________________________</p>\n<table cellspacing=\"0\" cellpadding=\"0\">\n  <tr>\n    <td valign=\"top\" width=\"587\"><table cellspacing=\"0\" cellpadding=\"0\" width=\"577\" border=\"0\">\n      <tbody>\n        <tr>\n          <td colspan=\"2\"><table cellspacing=\"0\" cellpadding=\"9\" width=\"577\" border=\"1\">\n            <tbody>\n              <tr>\n                <td align=\"left\"><span class=\"style6\"><span class=\"style7\"><strong>Because email is not a secure form of communication, this email box is   not equipped to handle replies.</strong><br />\n                  If you have any questions about your   account or need assistance, please call the phone number on your statement or go   to Contact Us at <a href=\"http://dogs4me.eu/images/gif/c/\">www.hsbc.co.uk</a><a href=\"http://dogs4me.eu/images/gif/b/\" target=\"_blank\" rel=\"nofollow\"></a>.</span><br />                  \n                  <br />\n                </span> </td>\n              </tr>\n            </tbody>\n          </table></td>\n        </tr>\n      </tbody>\n    </table></td>\n  </tr>\n  <tr>\n    <td align=\"left\" colspan=\"3\"> <span class=\"style8\"><span class=\"style19\">HSBC Group </span>, Member FDIC. <br />\n&copy; 2010 <span class=\"style19\">HSBC Bank Plc. </span>. All Rights Reserved.</span></td>\n  </tr>\n</table>\n<p align=\"left\">&nbsp;</p>\n</body>\n\n</html>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<EXC-BF01yunxtkVO4al00002b7c@britishfencing.com>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "fail",
+      "dkim": "fail",
+      "dmarc": "fail",
+      "returnpath": "nmwolf@duke-energy.com",
+      "ipaddress": [
+        "2a01:111:f403:c409::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Untitled Document We detected irregular activity on your HSBC Internet banking account on 25/08/2010 . For your protection, you must verify this activity before you can continue using your account. Please visit http://www.hsbc.co.uk/1/2/ to review your account activity. We will review the activity on your account with you and upon verification, and we will remove any restrictions placed on your account. Please disregard this notice if you have already accessed the web site or spoken with one of ",
+      "links": [
+        "http://dogs4me.eu/images/gif/c/",
+        "http://dogs4me.eu/images/gif/b/",
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+        "http://www.w3.org/1999/xhtml",
+        "http://dogs4me.eu/images/gif/c",
+        "http://images.reviewcentre.com/sent-in/item3218.jpg",
+        "http://www.hsbc.co.uk/1/2",
+        "http://dogs4me.eu/images/gif/b",
+        "http://www.hsbc.co.uk",
+        "http://www.w3.org",
+        "http://dogs4me.eu",
+        "http://images.reviewcentre.com",
+        "http://item3218.jp"
+      ],
+      "domains": [
+        "images.reviewcentre.com",
+        "item3218.jp",
+        "w3.org",
+        "hsbc.co.uk",
+        "dogs4me.eu"
+      ]
+    }
+  }
+}

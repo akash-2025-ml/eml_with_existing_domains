@@ -1,0 +1,98 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-0354fc3cd61b168a96e6d1360523f42e",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-0354fc3cd61b168a96e6d1360523f42e",
+    "emailcontent": {
+      "subject": "TKO NOTICE: Suspicious Activity Account Suspended",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "admin@security.excambria.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "admin@security.excambria.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "kent.shoemaker@ae.ge.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2007-01-17T18:33:47+00:00",
+      "sentDateTime": "2007-01-17T18:33:47+00:00",
+      "body": {
+        "contentType": "html",
+        "content": "<br>\n\n<div><br>\n<div>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n<tbody>\n<tr>\n<td>\n\n\n\n\n<table cellpadding=\"0\" cellspacing=\"0\" width=\"600\">\n<tbody>\n<tr>\n<td style=\"\" width=\"600\">\n<table bgcolor=\"#eeeef8\" border=\"0\" cellpadding=\"2\" cellspacing=\"0\" width=\"100%\">\n<tbody>\n<tr>\n\n                          <td><a href=\"http://www.ebay.com\" target=\"_blank\" onclick=\"return top.js.OpenExtLink(window,event,this)\">\n                          <img src=\"http://pics.ebaystatic.com/aw/pics/email/eBayLogo.gif\" width=\"37\" height=\"18\" border=\"0\" align=\"right\"></a><font face=\"Verdana\" size=\"4\">TKO NOTICE: Suspicious Activity Account Suspended</font></td>\n                </tr>\n<tr bgcolor=\"#9999cc\" height=\"2\">\n<td></td></tr></tbody></table>\n                    <font face=\"Arial, Verdana\" size=\"2\">Dear user@example.com\n  ,<br>\n                    <br>\n\n\n\n\n\n\n</font><font face=\"Arial, Helvetica, sans-serif\" size=\"-1\">\nFor the User Agreement, Section 9, we may immediately issue a warning,\ntemporarily suspend, indefinitely suspend or terminate your membership\nand refuse to provide our services to you if we believe that your\nactions may cause financial loss or legal liability for you, our users\nor us. We may also take these actions if we are unable to verify or\nauthenticate any information you provide to us. <br> <br>\nWe regret to inform you that your eBay account could be suspended if\nyou don't re-update your account information. To resolve this problems\nplease use the link below and re-enter your account information. If\nyour problems could not be resolved your account will be suspended for\na period of 24 hours, after this period your account will be\nterminated.\n.</font><font face=\"Arial, Verdana\" size=\"2\"> <br>\nDue to the suspension of this account, please be advised you are\nprohibited from using eBay in any way. This includes the registering of\na new account. Please note that this suspension does not relieve you of\nyour agreed-upon obligation to pay any fees you may owe to eBay. </font><br>\n                    <br>\n\n<table bgcolor=\"#cccccc\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n<tbody>\n<tr>\n<td height=\"1\"></td></tr></tbody></table>\n            <font face=\"Arial, Verdana\" size=\"2\"><br>\n                    To  update your record please click here:<br>\nIt is highly recommended that you right click on the link and select \"Open in new window\" option<br>\nas some mail clients will not allow you to proceed!<br>\n\n            <a href=\"http://www.login.e3sll.com\" target=\"_blank\">https://signin.ebay.com/eBayISAPI.dllSignIn-ssPageName-hhsin.php</a><a href=\"https://https://https://https://www3.ssll2.us/\" target=\"_blank\" onclick=\"return top.js.OpenExtLink(window,event,this)\"></a></font><br>\n\n                    <br>\n                    <font face=\"Arial, Verdana\" size=\"2\">We apologize in advance for any inconvenience this \n                    may cause you and we would like to thank you for your cooperation \n                    as we review this matter.</font> <br>\n                    <br>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n                      <tbody>\n                        <tr> \n                          <td><img height=\"1\" width=\"360\"></td>\n                          <td><img height=\"1\" width=\"1\"></td>\n                        </tr>\n\n                      </tbody>\n            </table>\n                    <br>\n<table bgcolor=\"#cccccc\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n<tbody>\n<tr>\n<td height=\"1\"></td></tr></tbody></table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n<tbody>\n<tr>\n<td><font face=\"Arial, Verdana\" size=\"2\">\n                            <p>eBay will request personal data (password, credit \n                              card/bank numbers, and so on) in this email.</p>\n\n<p>Thank you for using eBay! <br><a href=\"http://signin.ebay.com.https://https://https://www3.ssll2.us\" target=\"_blank\" onclick=\"return top.js.OpenExtLink(window,event,this)\">www.ebay.com</a><br><br></p></font></td></tr></tbody></table>\n<hr>\n\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n<tbody>\n<tr>\n<td><br><font color=\"#666666\" face=\"Arial, Verdana\" size=\"1\">\n                            <p>This eBay notice was sent to you based on your \n                              eBay account preferences. If you would like to review \n                              your notification preferences for other types of \n                              communications, <a href=\"http://cgi3.ebay.com/aw-cgi/eBayISAPI.dll?OptinLoginShow&amp;ssPageName=ADME:X:EOAS:US:11\" target=\"_blank\" onclick=\"return top.js.OpenExtLink(window,event,this)\">click \n                              here</a>. If you would like to receive this email \n                              in text only, <a href=\"http://cgi3.ebay.com/aw-cgi/eBayISAPI.dll?OptinLoginShow&amp;ssPageName=ADME:X:EOAS:US:12\" target=\"_blank\" onclick=\"return top.js.OpenExtLink(window,event,this)\">click \n                              here</a>. </p>\n<p>As outlined in our User Agreement, eBay will periodically send you information about site changes and enhancements. Visit our <a href=\"http://pages.ebay.com/help/policies/privacy-policy.html?ssPageName=ADME:X:EOAS:US:14\" target=\"_blank\" onclick=\"return top.js.OpenExtLink(window,event,this)\">Privacy Policy</a> and <a href=\"http://pages.ebay.com/help/policies/user-agreement.html?ssPageName=ADME:X:EOAS:US:13\" target=\"_blank\" onclick=\"return top.js.OpenExtLink(window,event,this)\">User Agreement</a> if you have any questions. </p></font><font color=\"#666666\" face=\"Arial, Verdana\" size=\"1\">\n\n<p align=\"center\">Copyright  2007 eBay Inc. All Rights Reserved.<br>\n  Designated trademarks and brands are the property of their respective owners. </p>\n<p align=\"center\">eBay and the eBay logo are trademarks of eBay Inc.\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<543f93e71471749d0b53d17452f8de8d@e3slt.com>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "neutral",
+      "dkim": "none",
+      "dmarc": "none",
+      "returnpath": "test@attack.com",
+      "ipaddress": [
+        "2603:1096:a01:af::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "TKO NOTICE: Suspicious Activity Account Suspended Dear user@example.com , For the User Agreement, Section 9, we may immediately issue a warning, temporarily suspend, indefinitely suspend or terminate your membership and refuse to provide our services to you if we believe that your actions may cause financial loss or legal liability for you, our users or us. We may also take these actions if we are unable to verify or authenticate any information you provide to us. We regret to inform you that yo",
+      "links": [
+        "http://www.ebay.com",
+        "http://www.login.e3sll.com",
+        "https://https://https://https://www3.ssll2.us/",
+        "http://signin.ebay.com.https://https://https://www3.ssll2.us",
+        "http://cgi3.ebay.com/aw-cgi/eBayISAPI.dll?OptinLoginShow&ssPageName=ADME:X:EOAS:US:11",
+        "http://cgi3.ebay.com/aw-cgi/eBayISAPI.dll?OptinLoginShow&ssPageName=ADME:X:EOAS:US:12",
+        "http://pages.ebay.com/help/policies/privacy-policy.html?ssPageName=ADME:X:EOAS:US:14",
+        "http://pages.ebay.com/help/policies/user-agreement.html?ssPageName=ADME:X:EOAS:US:13",
+        "http://pics.ebaystatic.com/aw/pics/email/eBayLogo.gif",
+        "https://signin.ebay.com/eBayISAPI.dllSignIn-ssPageName-hhsin.php",
+        "https://https://https://https://www3.ssll2.us",
+        "http://pics.ebaystatic.com",
+        "http://example.com\n  ",
+        "http://signin.ebay.com",
+        "http://www3.ssll2.us",
+        "http://cgi3.ebay.com",
+        "http://pages.ebay.com"
+      ],
+      "domains": [
+        "ebay.com",
+        "signin.ebay.com",
+        "cgi3.ebay.com",
+        "login.e3sll.com",
+        "pages.ebay.com",
+        "signin.ebay.com.https:",
+        "example.com",
+        "www3.ssll2.us",
+        "https:",
+        "pics.ebaystatic.com"
+      ]
+    }
+  }
+}

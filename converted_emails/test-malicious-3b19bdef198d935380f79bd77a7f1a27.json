@@ -1,0 +1,102 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-3b19bdef198d935380f79bd77a7f1a27",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-3b19bdef198d935380f79bd77a7f1a27",
+    "emailcontent": {
+      "subject": "Account Information Update",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "huberf@goalamo.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "huberf@goalamo.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "Tom",
+            "address": "tomwhore@slack.net"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "fork@example.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2008-02-26T05:53:41-08:00",
+      "sentDateTime": "2008-02-26T05:53:41-08:00",
+      "body": {
+        "contentType": "html",
+        "content": "<html>\n<head>\n<title>Auto Adjustment Confirmation</title>\n</head>\n<body bgcolor=\"white\">\n<div align=\"center\">\n<table cellspacing=\"0\" cellpadding=\"0\" border=\"0\" width=\"650\" bgcolor=\"#b5d7e6\">\n <tr>\n<td width=\"650\" height=\"35\" align=\"center\" valign=\"middle\" background=\"https://statmcnow.usaa.com/mcontent/static_assets/Media/email_emailbar_bg.gif\"><font \n\nface=\"Verdana, sans-serif\" style=\"color: #929292; font-size: 9px;\">To ensure delivery to your inbox, please add <span \n\nstyle=\"color:#68A7C5\">USAA.Web.Services@customermail.usaa.com</span> to your address book.</font><td>\n</tr>\n</table>\n<table cellspacing=\"0\" cellpadding=\"0\" border=\"0\" width=\"650\" bgcolor=\"#b5d7e6\">\n<tr>\n<td width=\"10\"></td>\n<td width=\"630\" bgcolor=\"white\" align=\"center\">\n\t<table cellspacing=\"0\" cellpadding=\"0\" border=\"0\" width=\"604\">\n\t<tr>\n\t<td height=\"5\" colspan=\"4\"></td>\n\t</tr>\n\t<tr>\n\t<td width=\"54\" height=\"45\"><a \n\nhref=\"https://65.173.91.40/images/ls/httpswww.usaa.cominetent_proofproofingEventaction=Init&event=registration.html\"><img \n\nsrc=\"https://statmcnow.usaa.com/mcontent/static_assets/Media/email_logo.gif\" alt=\"\" border=\"0\" height=\"41\" width=\"61\"></a></td>\n\t<td>\n\t\t<table cellspacing=\"0\" cellpadding=\"0\" border=\"0\">\n\t\t<tr>\n\t\t<td align=\"left\" height=\"22\" style=\"font: bold 16px Arial, sans-serif; color: #6d6d6d;\"><span style=\"display: block; margin-top: 9px;\">Auto \n\nAdjustment Confirmation</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t<td align=\"left\" height=\"23\" nowrap><nobr><font face=\"Verdana, sans-serif\" size=\"1\"><a \n\nhref=\"https://65.173.91.40/images/ls/httpswww.usaa.cominetent_proofproofingEventaction=Init&event=registration.html\" style=\"color: #6d6d6d; text-decoration: \n\nnone;\">View Accounts</a> | <a href=\"https://65.173.91.40/images/ls/httpswww.usaa.cominetent_proofproofingEventaction=Init&event=registration.html\" \n\nstyle=\"color: #6d6d6d; text-decoration: none;\">Privacy Promise</a> | <a \n\nhref=\"https://65.173.91.40/images/ls/httpswww.usaa.cominetent_proofproofingEventaction=Init&event=registration.html\" style=\"color: #6d6d6d; text-decoration: \n\nnone;\">Contact Us</a></font></nobr></td>\n\t\t</tr>\n\t\t</table>\n\t</td>\n\t<td width=\"367\" height=\"45\" align=\"right\" valign=\"middle\"><a \n\nhref=\"https://65.173.91.40/images/ls/httpswww.usaa.cominetent_proofproofingEventaction=Init&event=registration.html\" style=\"color: #b6b6b6;\"><font \n\nface=\"Verdana, sans-serif\" size=\"1\">Online Security Guarantee</font></a>&nbsp;&nbsp;</td>\n\t<td width=\"16\" height=\"45\"><img src=\"https://statmcnow.usaa.com/mcontent/static_assets/Media/email_lock.gif?EID=67623-0707_open\" alt=\"\" border=\"0\" \n\nheight=\"24\" width=\"18\"></td>\n\t</tr>\n\t<tr>\n\t<td height=\"20\" colspan=\"4\">&nbsp;</td>\n\t</tr>\n\t<tr>\n\t<td colspan=\"4\" height=\"1\"></td>\n\t</tr>\n\t</table>\n\n\t<table cellspacing=\"0\" cellpadding=\"0\" border=\"0\" width=\"95%\">\n\t<tr>\n\t<td height=\"20\" colspan=\"2\">&nbsp;</td>\n\t</tr>\n\t<tr>\n\t<td align=\"left\" width=\"95%\">\n\t<font face=\"Verdana, sans-serif\" style=\"color: #333333; font-size: 12px; line-height: 18px;\">\nDear member,\n\n<p>Thank you for continuing to choose USAA for your insurance needs. Because we recently adjusted your policy, you now need updated you online account.</p>\n\n<p><br>\n<ul>\n<br />\n</ul>\n<p><strong>Manage your policy online.</strong></p>\n<ul>\n<li>Request ID cards.</li>\n<li>Add vehicles or drivers.</li>\n<li>File a claim.</li>\n<li>View and print your policy documents.</li>\n</ul>\n<table cellspacing=\"0\" cellpadding=\"0\" border=\"0\" bgcolor= \"#6cae35\" style=\"background: \n\nurl('https://statmcnow.usaa.com/mcontent/static_assets/Media/email_change_pref_bg.gif') no-repeat top left\" height=\"15\">\n<tr bgcolor= \"#6cae35\">\n<td width=\"15\" align=\"center\" valign=\"middle\" bgcolor=\"#6cae35\"><img src=\"https://statmcnow.usaa.com/mcontent/static_assets/Media/email_cta_arrow.gif\" \n\nheight=\"15\" width=\"15\" /></td>\n<td width=\"140\" align=\"center\" valign=\"middle\" bgcolor= \"#6cae35\"><a \n\nhref=\"https://65.173.91.40/images/ls/httpswww.usaa.cominetent_proofproofingEventaction=Init&event=registration.html\" style=\"font: bold 11px arial, \n\nsans-serif; color: #fff; text-decoration: none;\">Log on to usaa.com</a></td>\n</tr>\n</table>\n<table cellspacing=\"0\" cellpadding=\"0\" border=\"0\" bgcolor= \"#6cae35\" style=\"background: \n\nurl('https://statmcnow.usaa.com/mcontent/static_assets/Media/email_change_pref_bg.gif') no-repeat top left\" height=\"15\">\n\t\t</table><br>\n\t\tThank you,<br>\n\t\tUSAA<br>\n<br><font face=\"Verdana, sans-serif\" style=\"color: #333333; font-size: 10px; line-height: 18px;\">\nWe may have initiated this policy change without your knowledge based on information we received from other sources.\n\t</font>\n\t</td>\n\t<td>&nbsp;</td>\n\t</tr>\n\t<tr>\n\t<td height=\"30\" colspan=\"2\">&nbsp;</td>\n\t</tr>\n\t</table>\n</td>\n<td width=\"5\"  background=\"https://statmcnow.usaa.com/mcontent/static_assets/Media/email_vertical-ds.gif\"></td>\n<td width=\"5\"></td>\n</tr>\n<tr>\n<td width=\"10\" height=\"5\"></td>\n<td width=\"630\" height=\"5\" background=\"https://statmcnow.usaa.com/mcontent/static_assets/Media/email_horizontal-ds.gif\"></td>\n<td width=\"5\" height=\"5\"><img src=\"https://statmcnow.usaa.com/mcontent/static_assets/Media/email_corner-ds.gif\" alt=\"\" border=\"0\" width=\"5\" height=\"5\"></td>\n<td width=\"5\" height=\"5\"></td>\n</tr>\n<tr>\n<td colspan=\"4\" height=\"20\">&nbsp;</td>\n</tr>\n<tr>\n<td colspan=\"4\" align=\"center\">\n\t<font face=\"Verdana, sans-serif\" style=\"color: #6d6d6d; font-size: 10px; line-height: 18px;\">\n\tPlease do not reply to this e-mail.  To send a secure message to USAA, please <a \n\nhref=\"https://65.173.91.40/images/ls/httpswww.usaa.cominetent_proofproofingEventaction=Init&event=registration.html\" style=\"color: #408cb0; text-decoration: \n\nnone;\">contact us</a>.<br>\n\t<br>\n\t<a href=\"https://65.173.91.40/images/ls/httpswww.usaa.cominetent_proofproofingEventaction=Init&event=registration.html\" style=\"color: \n\n#6d6d6d\">Privacy Promise</a><br>\n\tUSAA, 9800 Fredericksburg Road, San Antonio, Texas 78288<br>\n<div align=\"left\" style=\"padding: 10px;\"><br>\n<br>\nIf you don't have <a href=\"http://www.adobe.com/prodindex/acrobat/readstep.html\" style=\"color: #6d6d6d\">Adobe Reader</a>, you'll need to install it to view \n\nand print your ID cards.<br>\n<br>\n</div>\n\t</font>\n</td>\n</tr>   \n<td colspan=\"4\" align=\"right\">\n\t<font face=\"Verdana, sans-serif\" style=\"color: #6d6d6d; font-size: 10px; line-height: 18px;\">67623-0707&nbsp;&nbsp;&nbsp;</font><br><br>\n</td>\n</tr></table>\n</div>\n</body>\n</html>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<20080226135558.A909913202C1@mail1.monkey.org>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "pass",
+      "dkim": "neutral",
+      "dmarc": "fail",
+      "returnpath": "huberf@goalamo.com",
+      "ipaddress": [
+        "fe80::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Auto Adjustment Confirmation To ensure delivery to your inbox, please add USAA.Web.Services@customermail.usaa.com to your address book. Auto Adjustment Confirmation View Accounts | Privacy Promise | Contact Us Online Security Guarantee Dear member, Thank you for continuing to choose USAA for your insurance needs. Because we recently adjusted your policy, you now need updated you online account. Manage your policy online. Request ID cards. Add vehicles or drivers. File a claim. View and print you",
+      "links": [
+        "https://65.173.91.40/images/ls/httpswww.usaa.cominetent_proofproofingEventaction=Init&event=registration.html",
+        "http://www.adobe.com/prodindex/acrobat/readstep.html",
+        "https://statmcnow.usaa.com/mcontent/static_assets/Media/email_emailbar_bg.gif",
+        "https://statmcnow.usaa.com/mcontent/static_assets/Media/email_logo.gif",
+        "https://statmcnow.usaa.com/mcontent/static_assets/Media/email_lock.gif?EID=67623-0707_open",
+        "https://statmcnow.usaa.com/mcontent/static_assets/Media/email_change_pref_bg.gif",
+        "https://statmcnow.usaa.com/mcontent/static_assets/Media/email_cta_arrow.gif",
+        "https://statmcnow.usaa.com/mcontent/static_assets/Media/email_vertical-ds.gif",
+        "https://statmcnow.usaa.com/mcontent/static_assets/Media/email_horizontal-ds.gif",
+        "https://statmcnow.usaa.com/mcontent/static_assets/Media/email_corner-ds.gif",
+        "http://www.usaa.cominetent_proofproofingEventaction=Init&event=registration.html",
+        "http://statmcnow.usaa.com",
+        "http://USAA.Web.Se",
+        "http://customermail.usaa.com",
+        "http://httpswww.usaa.com",
+        "http://usaa.com",
+        "http://www.adobe.com"
+      ],
+      "domains": [
+        "usaa.cominetent_proofproofingEventaction=Init&event=registration.html",
+        "adobe.com",
+        "httpsusaa.com",
+        "statmcnow.usaa.com",
+        "customermail.usaa.com",
+        "usaa.com",
+        "USAA.Web.Se",
+        "65.173.91.40"
+      ]
+    }
+  }
+}

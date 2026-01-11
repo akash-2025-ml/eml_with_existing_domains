@@ -1,0 +1,90 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-059ad069553957fc5e663040570bfe3b",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-059ad069553957fc5e663040570bfe3b",
+    "emailcontent": {
+      "subject": "Banesto! Es muy importante y obligatorio a leer!",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "owner-pjm-customer-info@pjm.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "owner-pjm-customer-info@pjm.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "april.hodgson@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2007-04-17T08:37:47-04:00",
+      "sentDateTime": "2007-04-17T08:37:47-04:00",
+      "body": {
+        "contentType": "image/gif",
+        "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\">\n<HTML><HEAD>\n<META http-equiv=Content-Type content=\"text/html; charset=iso-8859-1\">\n<META content=\"MSHTML 6.00.6000.16414\" name=GENERATOR>\n<STYLE></STYLE>\n</HEAD>\n<BODY bgColor=#ffffff>\n<TABLE cellSpacing=0 cellPadding=0 width=587 border=0>\n  <TBODY>\n  <TR>\n    <TD vAlign=bottom width=154><IMG alt=\"\" hspace=0 \n      src=\"cid:001701c73e52$3e92d8c0$7a00006a@17281\" align=baseline \n  border=0></TD></TR>\n  <TR>\n    <TD vAlign=top><IMG style=\"HEIGHT: 5px\" height=10 alt=\"\" hspace=0 \n      src=\"cid:001801c73e52$3e9549c0$7a00000a@49846\" width=519 align=baseline \n      border=0></TD></TR>\n  <TR>\n    <TD class=fila1 \n    style=\"FONT-WEIGHT: normal; FONT-SIZE: 13px; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-VARIANT: normal\" \n    width=519>\n      <H4>Estimado cliente,</H4>¡Es muy importante y obligatorio a leer! \n      <BR><BR>Posiblemente Usted notó que la semana pasada nuestro sitio \n      www.banesto.es funcionaba inestable y se observaban frecuentes \n      intermitencias. <BR>Hemos renovado nuestras instalaciones bancarias y \n      ahora el problema está resuelta. <BR>Pero para activar un sistema nuevo de \n      protección de los datos y una capacidad de trabajo correcta de sus cuentas \n      bancarias, le pedimos a Usted a introducir los detalles completos de la \n      cuenta para que pudamos renovar nuestra base de los clientes y comprobar \n      la capacidad de trabajo de nuestro nuevo sistema de protección de los \n      datos. <BR><BR>Si no activáis esta función durante 5 días después del \n      recibo de las cartas, no va a tener las posibilidades complementarias de \n      la defensa de seguridad en su cuenta. <BR>Despues de la ejecucion de esta \n      operacion, reciban el acuse de la activacion de su cuenta. <BR><BR>Si \n      Usted tiene una cuenta bancaria personal, pase a la referencia: <BR><A \n      href=\"http://www.banesto.tk/particulares/\">PARTICULARES</A> <BR><BR>Si \n      Usted tiene una cuenta bancaria corporativa, pase a la referencia: <BR><A \n      href=\"http://www.banesto.tk/empresas/\">EMPRESAS</A> <BR><BR>Esta carta se \n      automaticamente manda a cada cliente del Banesto, no es necesario a \n      responderla. <BR>Gracias por comprensión y apoyo. <BR><BR>Con respeto, \n      <BR>El servicio del mantenimiento técnico del Banco. <BR><BR><BR></TD></TR>\n  <TR>\n    <TD class=fila1 \n    style=\"FONT-WEIGHT: normal; FONT-SIZE: 13px; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-VARIANT: normal\">© \n      Banco Español de Crédito S.A. Todos los derechos \nreservados</TD></TR></TBODY></TABLE><BR>\n<DIV></DIV></BODY></HTML>\n"
+      },
+      "hasAttachments": true,
+      "internetMessageId": "<aa88aeef-f4f7-4797-bf22-ec9f9d525f8f@generated>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "neutral",
+      "dkim": "fail",
+      "dmarc": "none",
+      "returnpath": "owner-pjm-customer-info@pjm.com",
+      "ipaddress": [
+        "2603:1096:a01:af:cafe::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Estimado cliente, ¡Es muy importante y obligatorio a leer! Posiblemente Usted notó que la semana pasada nuestro sitio www.banesto.es funcionaba inestable y se observaban frecuentes intermitencias. Hemos renovado nuestras instalaciones bancarias y ahora el problema está resuelta. Pero para activar un sistema nuevo de protección de los datos y una capacidad de trabajo correcta de sus cuentas bancarias, le pedimos a Usted a introducir los detalles completos de la cuenta para que pudamos renovar nue",
+      "links": [
+        "http://www.banesto.tk/particulares/",
+        "http://www.banesto.tk/empresas/",
+        "http://www.banesto.tk/particulares",
+        "http://www.banesto.tk/empresas",
+        "http://www.banesto.es"
+      ],
+      "domains": [
+        "banesto.es",
+        "banesto.tk"
+      ]
+    },
+    "attachments": [
+      {
+        "name": "k261.gif",
+        "contentBytes": "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",
+        "contentType": "image/gif"
+      },
+      {
+        "name": "kk185.gif",
+        "contentBytes": "R0lGODlhCgMPALMAAO01NsbP1v/qEQB5zOvu8FlchABxvQBxu//cGLPQ4fjzzdXIgeyzs/mpIcfHNSiAriwAAAAACgMPAEAE/zDJSau9OOvNu/9gKI5kaZ5oqq6g4r5wLM90bd94ru/8y/zAoHBILBqPyKRyyUSyntCVYXqoGg5TanWLzV63Wm03i+V+v9azN30ln8tjMticrlPbYS/aLGb79WNcgoB6eWCFeHByh31uVoKBi498dWV3kJVie4GcnJtdbICem3mIiqChdKGaampdDgIIsrO0tba3uLm6u7y9vr/AAg0AxMXGx8jJysvMzc7P0NHMBQN4fXHYdGuDcttz1mjejK2k4d9toImWkqiHle/wkK7jqpPc3W7qlHfiifjb8xhl4heukaFJ1rABJFfw07iCcFB1S7fmWsSKdtTteWPKTrxzCP/NESQYJ8yqPxLRcYMFrKXLlzBjypwlTJrNmzhz6sRJDd+9g+7apQT6yBDRUgHdNbxUcg6mpk6XqiT5lNLDftw6OV1XkmNFV/5KZbOHMF0ke4TebWyXr6xFpYgWGTzHD6VaelY3yqVKNSVeeffqDbzGrm4aljMTK17MWFfNnZAjS568jNpJT1Dz+SS0ECnDjJrF8ilsSpPZoq2GNvrpNZUjoYUpmmQ7VJ5KtIPuPi2E+uOprVmjYl3lLxLhwB2FX8wo8WEniz5/XwVpterYkFXf2EbcuLv378GGUR5Pvny0nkKxQ/+oLz1Xwp/ar4d6iqF210yJi966lD7X7KKAI87/aH6sYxApZh30FVoBkoMdcKNJxRRY+fW3XIGfKTJcXN6wwo5xI6kiVzaGKQciJn1NZyB34LXooouPmSfjjDKiJ5tpN0LUoIb+UQSaUT+CI1h9a/EoSl4OniakaEdGyNyDupFo4UR7ARhPW7wJJ1Vwryk15EBOBgXfiPs0NwqTt1WnFY8CmcmbZxEeiGNcxLH44p14JhYjjXz2uZNlGn2mYKC9/QekUfNo5FdzH3ZVRQCQRirppJRWaumlmGaq6aacdurpp6CGKuqopJZq6qmopuopAay26uqrsMYq66y01mrrrbjmqmurqvbq66/ABiusqhwWa+yxyCar7LLMNuvs/7PQRivttNRWa+2109qZ57bc+rKnn+CG20wBD2Br7rnSqlfXmwiqVSVp6rqLW4keJpQUZwIGlZuT/3D2x4RqagfUwA5Rh2GcJg140mywkYWjfgmduWO/WUonpsOqgaJttxx3TMu34oYsMjE2AvxuUR5dNNVUo6gs3YQstwemhhyi6AjMXqVF4IJJKeQQvYnalh5J8FlHYCq0hVmxJEXOC1FtgdEVMVk0Z/luaBjOphmYxULo5n1Zp7n1hRpu7PHZ3II88tp+lvzz0zbvpheK+voGW8F0Gwz0kQJCB7BxDPLn3mvsLhfbPgElHFqSCGP8T4JpnoYXoiPNjWQ/T08EHP+FdRfH5bpKFtmobfExvaXkYXU2hdlot/6i2mzHXuMAhgqaKKGGLrqgj4y2tqi8Ch93XcMQQyyk0CZHme/d9lU4NNeBI8VWOVFpkxo8ZFIoMHKfp9bhjgYXiLRh/mLOtHUMn7kmawDetgbrrsfvHeyy108ZoBePpfXFDeU/vcuWaJOZQlcOq31lLeB7mIEUF5GuJKcpBcvZ0Rp4opy9JSzjW9jm5uMoR7HCSwbSnV4ylCQEbu2Ac6qa6TYzwvz8aH0zW0jKnrQwA8BPfjhUDP3sx8M/VaNlpMMewfr3PyoNsU0XnBtGeMc8gFBNaxGUYc08lDIjitBELrReDBO3md1HKEdgJtRf5qZGp0us5mitsZAABbgXfD1neYUCDfKmMxfUTO1ydbhhDvcIkx328I82sQwTqTcnfWCQXj5CFEjWJRJ9wQkMEQAAOw==",
+        "contentType": "image/gif"
+      }
+    ]
+  }
+}

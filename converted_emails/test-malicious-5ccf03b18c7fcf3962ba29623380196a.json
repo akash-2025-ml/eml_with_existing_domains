@@ -1,0 +1,82 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-5ccf03b18c7fcf3962ba29623380196a",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-5ccf03b18c7fcf3962ba29623380196a",
+    "emailcontent": {
+      "subject": "Make your prints beautiful & SAVE BIG!                 OYDQH",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "jjosborne@apex2000.net"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "jjosborne@apex2000.net"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "Jim Lemon",
+            "address": "jim@bitwrit.com.au"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "jrd110@hotmail.com"
+          }
+        }
+      ],
+      "receivedDateTime": "2002-08-28T20:22:21-16:00",
+      "sentDateTime": "2002-08-28T20:22:21-16:00",
+      "body": {
+        "contentType": "html",
+        "content": "<html>\n\n<head>\n<meta http-equiv=\"Content-Language\" content=\"en-us\">\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=windows-1252\">\n<meta name=\"GENERATOR\" content=\"Microsoft FrontPage 4.0\">\n<meta name=\"ProgId\" content=\"FrontPage.Editor.Document\">\n<title>Would You Like to Save up to 80</title>\n</head>\n\n<body>\n\n<div align=\"center\">\n  <center>\n\n<table border=\"0\" width=\"469\" height=\"83\" bgcolor=\"#000080\">\n  <tr>\n    <td width=\"100%\" height=\"48\" align=\"center\" bordercolor=\"#FFFFFF\"><font face=\"Tahoma\" color=\"#FFFFFF\" size=\"5\"> Would You Like to\n      <b> Save </b>up to<b> </b></font><b><font face=\"Tahoma\" size=\"5\" color=\"#FFFFCC\">80%</font></b><font face=\"Tahoma\" color=\"#FFFFFF\" size=\"5\">\n      on <b>Printer</b>, </font><b><font face=\"Tahoma\" size=\"5\" color=\"#FF3300\">Fax</font></b><font face=\"Tahoma\" color=\"#FFFFFF\" size=\"5\">\n      &amp; </font><b><font face=\"Tahoma\" size=\"5\" color=\"#FFFFCC\"> Copier</font></b><font face=\"Tahoma\" color=\"#FFFFFF\" size=\"5\"> Supplies?</font></td>\n  </tr>\n</table>\n  </center>\n</div>\n<div align=\"center\">\n  <center>\n  <table border=\"0\" width=\"469\" height=\"10\" bordercolor=\"#990033\">\n    <tr>\n      <td width=\"53\" height=\"4\" bordercolor=\"#FFFFFF\"><b><i><font face=\"Verdana\" color=\"#000099\" size=\"2\">On\n        Brands Like -&gt;</font></i></b></td>\n      <td width=\"81\" height=\"4\" bgcolor=\"#000099\" align=\"center\"><font face=\"Tahoma\" size=\"5\" color=\"#FFFFFF\">EPSON</font></td>\n      <td width=\"74\" height=\"4\" align=\"center\" bordercolor=\"#CC0000\" style=\"border-style: solid; border-width: 1\" bordercolorlight=\"#FF0000\" bordercolordark=\"#CC0000\"><font face=\"Palatino Linotype\" size=\"4\" color=\"#CC0000\"><b>Canon</b></font></td>\n      <td width=\"76\" height=\"4\" align=\"center\" bgcolor=\"#333399\"><i><b><font face=\"Arial\" color=\"#FFFFFF\" size=\"2\">HEWLETT\n        PACKARD</font></b></i></td>\n      <td width=\"101\" height=\"4\" bgcolor=\"#CC0000\" align=\"center\"><font face=\"Book Antiqua\" color=\"#FFFFFF\" size=\"5\">Lexmark</font></td>\n      <td width=\"46\" height=\"4\" align=\"center\" bordercolor=\"#FFFFFF\"><b><i><font face=\"Verdana\" color=\"#CC0000\" size=\"2\">&amp;\n        more!</font></i></b></td>\n    </tr>\n  </table>\n  </center>\n</div>\n<div align=\"center\">\n  <center>\n  <table border=\"0\" width=\"469\" height=\"105\">\n    <tr>\n      <td width=\"100%\" height=\"33\" bgcolor=\"#FFFFCC\" align=\"center\"><font color=\"#CC0000\" face=\"Impact\" size=\"3\">100%\n        Quality Satisfaction Guarantee or Your Money Back!</font></td>\n    </tr>\n    <tr>\n      <td width=\"100%\" height=\"33\" bgcolor=\"#CC0000\" align=\"center\"><font color=\"#FFFFFF\" face=\"Impact\" size=\"3\">FREE\n        Same Day shipping on all US Orders*</font></td>\n    </tr>\n    <tr>\n      <td width=\"100%\" height=\"33\" bgcolor=\"#000080\" align=\"center\"><font color=\"#FFFFCC\" face=\"Impact\" size=\"3\">BEST\n        Prices on the Internet - GUARANTEED!**</font></td>\n    </tr>\n  </table>\n  </center>\n</div>\n<div align=\"center\">\n  <center>\n  <table border=\"0\" width=\"469\" height=\"38\" bordercolor=\"#000080\">\n    <tr>\n      <td width=\"100%\" height=\"32\" align=\"center\" style=\"border: 1 solid #000080\"><b><font face=\"Tahoma\" size=\"5\" color=\"#FF0000\"><a href=\"http://www.yourinkjet.com/\" style=\"color: #FF0000\">Click\n        Here to ORDER NOW!</a></font></b></td>\n    </tr>\n  </table>\n  </center>\n</div>\n<div align=\"center\">\n  <center>\n  <table border=\"0\" width=\"465\" bgcolor=\"#000080\" height=\"14\">\n    <tr>\n      <td width=\"451\" align=\"center\" bordercolor=\"#FFFFFF\" height=\"10\"><font face=\"Verdana\" size=\"2\" color=\"#FFFFFF\"><b>OR\n        Call us Toll-Free at 1-800-758-8084!</b></font></td>\n    </tr>\n  </table>\n  </center>\n</div>\n<br>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<div align=\"center\">\n  <center>\n  <table border=\"1\" width=\"463\" bordercolor=\"#000080\" height=\"44\">\n    <tr>\n      <td width=\"100%\" bordercolor=\"#FFFFFF\" height=\"38\"><font color=\"#666666\" size=\"2\" face=\"Tahoma\"><b>*Free Shipping only on\n        orders of $40 or more.<br>**We beat any online retailer's price by 5%.\n        Call us with the URL (Website) advertising the lower price and once we\n        verify the price, we will beat it by 5%!</b></font></td>\n    </tr>\n  </table>\n  </center>\n</div>\n<div align=\"center\">\n  <center>\n  <table border=\"1\" width=\"463\" bordercolor=\"#000080\" height=\"77\">\n    <tr>\n      <td width=\"100%\" bordercolor=\"#FFFFFF\" align=\"center\" height=\"71\"><font face=\"Tahoma\" color=\"#666666\" size=\"1\">You\n        are receiving this special offer because you have provided permission to\n        receive email communications regarding special online promotions or\n        offers. If you feel you have received this message in error, or wish to\n        be removed from our subscriber list, <a href=\"http://www.yourinkjet.com/remove.asp\" style=\"COLOR: #ff0000\">Click\n        HERE</a> . Thank You and we apologize for ANY inconvenience.</font></td>\n    </tr>\n  </table>\n  </center>\n</div>\n</body>\n\n</html>\n\n\n\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<c600879c-b604-4335-a99f-31bb2d2931d5@generated>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "none",
+      "dkim": "fail",
+      "dmarc": "pass",
+      "returnpath": "jjosborne@apex2000.net",
+      "ipaddress": [
+        "2603:1096:a04::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Would You Like to Save up to 80 Would You Like to Save up to 80% on Printer , Fax & Copier Supplies? On Brands Like -> EPSON Canon HEWLETT PACKARD Lexmark & more! 100% Quality Satisfaction Guarantee or Your Money Back! FREE Same Day shipping on all US Orders* BEST Prices on the Internet - GUARANTEED!** Click Here to ORDER NOW! OR Call us Toll-Free at 1-800-758-8084! *Free Shipping only on orders of $40 or more. **We beat any online retailer's price by 5%. Call us with the URL (Website) advertisi",
+      "links": [
+        "http://www.yourinkjet.com/",
+        "http://www.yourinkjet.com/remove.asp",
+        "http://www.yourinkjet.com"
+      ],
+      "domains": [
+        "yourinkjet.com"
+      ]
+    }
+  }
+}

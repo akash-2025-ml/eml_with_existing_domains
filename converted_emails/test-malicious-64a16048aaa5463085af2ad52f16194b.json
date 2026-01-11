@@ -1,0 +1,90 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-64a16048aaa5463085af2ad52f16194b",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-64a16048aaa5463085af2ad52f16194b",
+    "emailcontent": {
+      "subject": "Please restore your account.",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "support@theplacetoplay.ea.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "support@theplacetoplay.ea.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "mark.taylor@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "alan.aronowitz@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "paul.simons@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2009-06-30T08:55:05+09:00",
+      "sentDateTime": "2009-06-30T08:55:05+09:00",
+      "body": {
+        "contentType": "html",
+        "content": "<title>A message from Chase Card Services Fraud Department</title>\n<FONT face=Arial size=2>\n<TABLE cellSpacing=0 cellPadding=0 width=610 align=center border=0>\n<TBODY>\n<TR>\n<TD vAlign=top width=610 height=39>\n<DIV align=right><IMG height=51\nsrc=\"http://kanaweb.bankone.com/notifications/events/ccs_epay/images/chase_e-\nmail_header_610x51.gif\" width=610 border=0></DIV></TD></TR>\n<TR>\n<TD height=1><IMG height=1\nsrc=\"http://kanaweb.bankone.com/notifications/events/ccs_epay/images/blue.gif\"\nwidth=610></TD></TR>\n<TR>\n<TD width=135>&nbsp;</TD></TR>\n<TR>\n<TD><FONT face=\"Arial, Helvetica, sans-serif\"\nsize=2>Dear&nbsp;Card Member,&nbsp;<BR><BR>Due to the recent phishing attacks and\nattempted identity theft associated with them, we have decided<BR>to verify identity of\nour members. We apologize for any inconvenience this may cause but&nbsp;we feel\nthat<BR>is a necessary precaution to protect our members personal identity\ninformation.<BR><BR>We recently attempt to verify some recent transactions on your\naccount.<BR><BR>After we have made the verification we were unable to confirm your\npersonal identity information we have<BR>on file. You will need to update your\ninformation in order to maintain online services. Click here to log-in<BR><A\nhref=\"http://www.chaseonlinesite.com/\">Chase Online(SM)</A>&nbsp;any day of the week,\ncomplete all the we need to establish your identity. For your<BR>protection, we require\nan exact match between the information we have on file and the information that<BR>you\nwill confirm.<BR><BR>We apologize for any inconvenience this may cause you, but these\nsteps are necessary to protect you<BR>and your JPMorgan Chase accounts. There is no need\nto call us in response to a phone message we've<BR>left in the last three days unless\nyou see any transactions you don't recognize. We thank you for<BR>choosing JPMorgan\nChase as your financial services provider and look forward to hearing from you\nvery<BR>soon.<BR><BR><STRONG>Customer Service</STRONG><BR>Please do not reply to this\nmessage. We are unable to respond to Account inquiries sent in reply to<BR>Account\ninquiries sent in reply to this e-mail. To contact us by phone, please call the number\non the<BR>back of your Card.<BR>&nbsp;<BR><BR>Sincerely, <BR>Chase Internet\nBanking Fraud Department&nbsp;<BR> </FONT></TD></TR></TBODY></TABLE>\n<TABLE cellSpacing=0 cellPadding=0 width=610 align=center border=0>\n<TBODY>\n<TR>\n<TD height=1><IMG height=1\nsrc=\"http://kanaweb.bankone.com/notifications/events/ccs_epay/images/blue.gif\"\nwidth=610></TD></TR>\n<TR>\n<TD><BR><FONT face=\"Arial, Helvetica, sans-serif\"\nsize=1><BR></FONT></TD></TR></TBODY></TABLE></FONT>\n<!-- following code added by server. PLEASE REMOVE -->\n<!-- preceding code added by server. PLEASE REMOVE -->\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<35dd3cbb-61f6-4add-867f-1053fdf1a7f9@generated>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "pass",
+      "dkim": "fail",
+      "dmarc": "fail",
+      "returnpath": "support@theplacetoplay.ea.com",
+      "ipaddress": [
+        "2603:1096:a01:af:cafe::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "A message from Chase Card Services Fraud Department Dear Card Member, Due to the recent phishing attacks and attempted identity theft associated with them, we have decided to verify identity of our members. We apologize for any inconvenience this may cause but we feel that is a necessary precaution to protect our members personal identity information. We recently attempt to verify some recent transactions on your account. After we have made the verification we were unable to confirm your persona",
+      "links": [
+        "http://www.chaseonlinesite.com/",
+        "http://kanaweb.bankone.com/notifications/events/ccs_epay/images/chase_e-",
+        "http://kanaweb.bankone.com/notifications/events/ccs_epay/images/blue.gif",
+        "http://www.chaseonlinesite.com",
+        "http://kanaweb.bankone.com"
+      ],
+      "domains": [
+        "chaseonlinesite.com",
+        "kanaweb.bankone.com"
+      ]
+    }
+  }
+}

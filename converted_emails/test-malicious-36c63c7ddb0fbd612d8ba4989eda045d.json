@@ -1,0 +1,82 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-36c63c7ddb0fbd612d8ba4989eda045d",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-36c63c7ddb0fbd612d8ba4989eda045d",
+    "emailcontent": {
+      "subject": "A True Money Machine",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "dmummery@milbank.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "dmummery@milbank.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "roths@orbitworld.net"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2007-04-12T19:40:48-05:00",
+      "sentDateTime": "2007-04-12T19:40:48-05:00",
+      "body": {
+        "contentType": "html",
+        "content": "<html lang='he'><body><table width='500' border='0' align='center' cellpadding='2' cellspacing='3' style='font-size:12px;'><tr> <td align='center'><p align='center'>If you haven't done so already, click to <a href='http://HEALTHINTERESTS.INFO/080E16111D001F1311193201021717160B5C0705130617001E1D1D5C11130E4146414A470E434146434B420E470E420E08.aspx.aspx'>confirm</a> your interest in receiving email campaigns from us.</p></td></tr></table><P>Wow, look at this amazing opportunity:</P>\n<P><A href=\"http://HEALTHINTERESTS.INFO/080E16111D001F1311193201021717160B5C0705130617001E1D1D5C11130E4146414A470E434146434B420E400E4442464A45450E08.aspx\">www.blitzhealth.net</A> </P>\n<P>Friends you have found health and wealth a simple click away.</P>\n<P>1. You do not have to sell this product.</P>\n<P>&nbsp;2.There is no investment or product inventory involved.</P>\n<P>&nbsp;3. Start Earning quickly.</P>\n<P>&nbsp;4. Work from home.</P>\n<P>&nbsp;5. Make money around the clock &nbsp;plus big residual incomes.</P>\n<P>&nbsp; 6. Excellent support and leads system.</P>\n<P>&nbsp;&nbsp;7. Worldwide marketing with 12 years of company history and a billion dollars plus&nbsp;in sales.</P>\n<P>&nbsp;&nbsp;&nbsp;&nbsp; Nothing to lose and everything to gain for info and to be in our next email campaign</P>\n<P>&nbsp;&nbsp;&nbsp;&nbsp; look here. <A href=\"http://HEALTHINTERESTS.INFO/080E16111D001F1311193201021717160B5C0705130617001E1D1D5C11130E4146414A470E434146434B420E400E4442464A45450E08.aspx\">www.blitzhealth.net</A> </P>\n<P>&nbsp;&nbsp;&nbsp;&nbsp; We are making wonderful incomes and you can too. It is a simple process. Just take a look.</P>\n<P>&nbsp;&nbsp;&nbsp;&nbsp; Best Regards,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <A href=\"http://HEALTHINTERESTS.INFO/080E16111D001F1311193201021717160B5C0705130617001E1D1D5C11130E4146414A470E434146434B420E400E4442464A45450E08.aspx\">www.blitzhealth.net</A> &nbsp;</P>\n<P>&nbsp;&nbsp;&nbsp; Jeffrey Rodd</P><!-- BEGIN OO -->\n<br><br>\n<table width='500' border='0' align='center' cellpadding='2' cellspacing='3'>\n<tr>\n <td align='center'><p align='center'>\n <a href='http://HEALTHINTERESTS.INFO/080E16111D001F1311193201021717160B5C0705130617001E1D1D5C11130E4146414A470E434146434B420E08.aspx'>  \n      <img alt=\"If you don't see this Image Click Here to Unsubscribe from our email List\" src='http://HEALTHINTERESTS.INFO/img.gif' width='531' height='80' border='0'></a>\n\t  <br>\n\t  <img src='http://HEALTHINTERESTS.INFO/080E16111D001F1311193201021717160B5C0705130617001E1D1D5C11130E4146414A470E434146434B420E430E420E08.aspx' width=\"10\" height=\"10\" border=\"0\">\n\t  <font color=\"#999999\" face=\"arial, verdana\" size=\"2\">\n\t  <br>\n\t  HealthInterests.info<br>32820 US Nwy 71 - Redwood Falls, MN 56283 US\n\t  </font>\n\t  \n\t  </p></td></tr></table>\n<!-- END OO --></body></html>\n\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<38ae0300-4c3c-4ef2-a43f-6ba080bb4033@generated>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "neutral",
+      "dkim": "neutral",
+      "dmarc": "fail",
+      "returnpath": "dmummery@milbank.com",
+      "ipaddress": [
+        "fe80::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "If you haven't done so already, click to confirm your interest in receiving email campaigns from us. Wow, look at this amazing opportunity: www.blitzhealth.net Friends you have found health and wealth a simple click away. 1. You do not have to sell this product. 2.There is no investment or product inventory involved. 3. Start Earning quickly. 4. Work from home. 5. Make money around the clock plus big residual incomes. 6. Excellent support and leads system. 7. Worldwide marketing with 12 years of",
+      "links": [
+        "http://HEALTHINTERESTS.INFO/080E16111D001F1311193201021717160B5C0705130617001E1D1D5C11130E4146414A470E434146434B420E470E420E08.aspx.aspx",
+        "http://HEALTHINTERESTS.INFO/080E16111D001F1311193201021717160B5C0705130617001E1D1D5C11130E4146414A470E434146434B420E400E4442464A45450E08.aspx",
+        "http://HEALTHINTERESTS.INFO/080E16111D001F1311193201021717160B5C0705130617001E1D1D5C11130E4146414A470E434146434B420E08.aspx",
+        "http://HEALTHINTERESTS.INFO/img.gif",
+        "http://HEALTHINTERESTS.INFO/080E16111D001F1311193201021717160B5C0705130617001E1D1D5C11130E4146414A470E434146434B420E430E420E08.aspx",
+        "http://www.blitzhealth.net",
+        "http://HEALTHINTERESTS.INFO",
+        "http://HealthInterests.info"
+      ],
+      "domains": [
+        "HEALTHINTERESTS.INFO",
+        "blitzhealth.net",
+        "HealthInterests.info"
+      ]
+    }
+  }
+}

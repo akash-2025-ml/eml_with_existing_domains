@@ -1,0 +1,97 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-5d5357648d58b8356edbb3531bb28f32",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-5d5357648d58b8356edbb3531bb28f32",
+    "emailcontent": {
+      "subject": "Security Alert: Protect Your Account Information",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "hallisey@wt.net"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "hallisey@wt.net"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "luckyemail",
+            "address": "admin05@supd.onmicrosoft.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "onlineservice@bankofamerica.com"
+          }
+        }
+      ],
+      "receivedDateTime": "2008-02-24T00:21:38+02:00",
+      "sentDateTime": "2008-02-24T00:21:38+02:00",
+      "body": {
+        "contentType": "html",
+        "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\">\n<HTML>\n<HEAD>\n\t<META HTTP-EQUIV=\"CONTENT-TYPE\" CONTENT=\"text/html; charset=windows-1256\">\n\t<TITLE>Bank of America Alert</TITLE>\n\t<META NAME=\"CREATED\" CONTENT=\"20080214;4481781\">\n\t<META NAME=\"CHANGED\" CONTENT=\"20080214;4524023\">\n\t<!-- embedded style sheet -->\n\t<!-- body -->\n\t<!-- table header -->\n\t<STYLE>\n\t<!--\n\t\tTD P { color: #222222; font-family: \"verdana\", \"arial\", \"geneva\", \"helvetica\", sans-serif }\n\t\tH1 { color: #222222; font-family: \"verdana\", \"arial\", \"geneva\", \"helvetica\", sans-serif }\n\t\tP { color: #222222; font-family: \"verdana\", \"arial\", \"geneva\", \"helvetica\", sans-serif }\n\t\tH1.font-title-red { background: #ffffff; color: #d4001a; font-family: \"verdana\", \"arial\", \"geneva\", \"helvetica\", sans-serif }\n\t\tTD P.paragraph-body { background: #ffffff; font-family: \"verdana\", \"arial\", \"geneva\", \"helvetica\", sans-serif }\n\t\tTD P.paragraph-dynamic { background: #ffffff; color: #405ebe; font-family: \"verdana\", \"arial\", \"geneva\", \"helvetica\", sans-serif }\n\t\tTD P.style1 { background: #ffffff; font-family: \"verdana\", \"arial\", \"geneva\", \"helvetica\", sans-serif; font-size: 7pt }\n\t\tA:link { color: #405ebe; background: #ffffff }\n\t-->\n\t</STYLE>\n</HEAD>\n<BODY LANG=\"zxx\" TEXT=\"#222222\" LINK=\"#405ebe\" BGCOLOR=\"#ffffff\" DIR=\"LTR\">\n<TABLE WIDTH=747 BORDER=0 CELLPADDING=0 CELLSPACING=0 STYLE=\"page-break-before: always\">\n\t<COL WIDTH=2>\n\t<COL WIDTH=207>\n\t<COL WIDTH=2>\n\t<COL WIDTH=210>\n\t<COL WIDTH=326>\n\t<TR>\n\t\t<TD COLSPAN=5 WIDTH=747>\n\t\t\t<P><IMG SRC=\"http://alert.bankofamerica.com/images/client/bankofamerica/em_logo.gif\" NAME=\"graphics1\" ALT=\"Bank of America Higher Standards\" ALIGN=BOTTOM WIDTH=317 HEIGHT=80 BORDER=0><!-- row 1 --><!-- row 1 cell 1-2 --></P>\n\t\t</TD>\n\t</TR>\n\t<TR>\n\t\t<TD COLSPAN=2 WIDTH=209>\n\t\t\t<P><IMG SRC=\"http://alert.bankofamerica.com/images/client/bankofamerica/em_photo.jpg\" NAME=\"graphics2\" ALT=\"Customer using a laptop for Online Banking\" ALIGN=BOTTOM WIDTH=160 HEIGHT=103 BORDER=0><!-- row 1 cell 3-4 --></P>\n\t\t</TD>\n\t\t<TD COLSPAN=3 WIDTH=538 BGCOLOR=\"#d4001a\">\n\t\t\t<P><IMG SRC=\"http://alert.bankofamerica.com/images/client/bankofamerica/em_title_red.gif\" NAME=\"graphics3\" ALT=\"Online Banking Alert\" ALIGN=BOTTOM WIDTH=193 HEIGHT=103 BORDER=0><!-- row 2 --><!-- row 2 cell 1-4 --></P>\n\t\t</TD>\n\t</TR>\n\t<TR>\n\t\t<TD COLSPAN=5 WIDTH=747>\n\t\t\t<P><!-- row 3 --><!-- row 3 cell 1 --><BR>\n\t\t\t</P>\n\t\t</TD>\n\t</TR>\n\t<TR>\n\t\t<TD ROWSPAN=5 WIDTH=2>\n\t\t\t<P><!-- row 3 cell 2 --><BR>\n\t\t\t</P>\n\t\t</TD>\n\t\t<TD ROWSPAN=5 WIDTH=207 VALIGN=TOP>\n\t\t\t<P><FONT FACE=\"times new roman\"><SPAN LANG=\"en-US\"><B>Remember:<BR>You\n\t\t\tare expected to complete this update not later than 2 working days\n\t\t\tfrom the receipt of this mail.<!-- row 3 cell 3 --> </B></SPAN></FONT>\n\t\t\t</P>\n\t\t</TD>\n\t\t<TD ROWSPAN=5 WIDTH=2>\n\t\t\t<P><!-- Overrideable Section Start --><!-- row 3 cell 4 --><BR>\n\t\t\t</P>\n\t\t</TD>\n\t\t<TD COLSPAN=2 WIDTH=537>\n\t\t\t<H1 CLASS=\"font-title-red\"><SPAN LANG=\"en-US\">Verification of your\n\t\t\tcurrent details. </SPAN>\n\t\t\t</H1>\n\t\t</TD>\n\t</TR>\n\t<TR>\n\t\t<TD WIDTH=210>\n\t\t\t<P><SPAN LANG=\"en-US\"><STRONG>Date:</STRONG> 14/02/2008</SPAN></P>\n\t\t</TD>\n\t\t<TD ROWSPAN=3 WIDTH=326 VALIGN=TOP></TD>\n\t</TR>\n\t<TR>\n\t\t<TD WIDTH=210>\n\t\t\t<P><BR>\n\t\t\t</P>\n\t\t</TD>\n\t</TR>\n\t<TR>\n\t\t<TD WIDTH=210>\n\t\t\t<P><SPAN LANG=\"en-US\"><STRONG>Dear Valued Customer :</STRONG></SPAN></P>\n\t\t</TD>\n\t</TR>\n\t<TR>\n\t\t<TD COLSPAN=2 WIDTH=537>\n\t\t\t<P><!-- row 4 --><!-- row 4 cell 1 --><BR>\n\t\t\t</P>\n\t\t</TD>\n\t</TR>\n\t<TR>\n\t\t<TD WIDTH=2>\n\t\t\t<P><!-- row 4 cell 2 --><BR>\n\t\t\t</P>\n\t\t</TD>\n\t\t<TD WIDTH=207>\n\t\t\t<P><!-- row 4 cell 3 --><BR>\n\t\t\t</P>\n\t\t</TD>\n\t\t<TD WIDTH=2>\n\t\t\t<P><!-- row 4 cell 4 --><BR>\n\t\t\t</P>\n\t\t</TD>\n\t\t<TD COLSPAN=2 WIDTH=537>\n\t\t\t<P CLASS=\"paragraph-body\"><SPAN LANG=\"en-US\">During our regular\n\t\t\tupdate and verification of the Bank of America Online Banking\n\t\t\tService, we could not verify your current information. Either your\n\t\t\tinformation has been changed or incomplete, as a result your\n\t\t\taccess to use our services has been limited. Please update your\n\t\t\tinformation.<!-- Overrideable Section Finish --><!-- row 5 --><!-- row 5 cell 1 --></SPAN></P>\n\t\t</TD>\n\t</TR>\n\t<TR>\n\t\t<TD WIDTH=2 HEIGHT=276>\n\t\t\t<P><!-- row 5 cell 2 --><BR>\n\t\t\t</P>\n\t\t</TD>\n\t\t<TD WIDTH=207 VALIGN=BOTTOM>\n\t\t\t<P><!-- row 5 cell 3 --><BR>\n\t\t\t</P>\n\t\t</TD>\n\t\t<TD WIDTH=2>\n\t\t\t<P><!-- row 5 cell 4 --><BR>\n\t\t\t</P>\n\t\t</TD>\n\t\t<TD COLSPAN=2 WIDTH=537>\n\t\t\t<P CLASS=\"paragraph-body\"><SPAN LANG=\"en-US\">To restore your\n\t\t\tonline banking access, kindly update your information. You can\n\t\t\tupdate your online banking details by following the link below.</SPAN></P>\n\t\t\t<P CLASS=\"paragraph-body\"><SPAN LANG=\"en-US\"><A HREF=\"http://ecweb-6.blueweb.co.kr/~chunmarc/shop/dataroom/product_img/update.bankofamerica.com/update.bankofamerica.com/update.bankofamerica.com/securedspot/verify/cmThkRqcUe5qBbIUMLTMUxjVXHuoiRBMC8Qg1BHav4pYFzembFoENcG1gf3H4PaiYU4h/securedpage/index.html\n\">Click\n\t\t\there to update your account!</A></SPAN></P>\n\t\t\t<P CLASS=\"paragraph-body\"><SPAN LANG=\"en-US\">Thank you for banking\n\t\t\twith Bank of America, the industry leader in safe and secure\n\t\t\tonline banking</SPAN></P>\n\t\t\t<P CLASS=\"paragraph-body\"><SPAN LANG=\"en-US\">Sincerely,<BR><STRONG>Bank\n\t\t\tof America Customer Service</STRONG></SPAN></P>\n\t\t\t<P CLASS=\"paragraph-dynamic\"><SPAN LANG=\"en-US\">Our paperless\n\t\t\tstatements securely store your statements online for you to view\n\t\t\tup to 18 months of activity. <A HREF=\"http://www.irca.org.au/store2/images/uploads/thumbs/.hesx/update.bankofamerica.com/update.bankofamerica.com/update.bankofameric\"><STRONG>Learn\n\t\t\tmore</STRONG>.<!-- row 6 --><!-- row 6 cell 1 --> </A></SPAN>\n\t\t\t</P>\n\t\t</TD>\n\t</TR>\n\t<TR>\n\t\t<TD WIDTH=2>\n\t\t\t<P><!-- row 6 cell 2 --><BR>\n\t\t\t</P>\n\t\t</TD>\n\t\t<TD WIDTH=207>\n\t\t\t<P><!-- row 6 cell 3 --><BR>\n\t\t\t</P>\n\t\t</TD>\n\t\t<TD WIDTH=2>\n\t\t\t<P><!-- row 6 cell 4 --><BR>\n\t\t\t</P>\n\t\t</TD>\n\t\t<TD COLSPAN=2 WIDTH=537>\n\t\t\t<HR>\n\t\t\t<P CLASS=\"style1\"><SPAN LANG=\"en-US\"><FONT SIZE=2><STRONG>*Important*</STRONG><BR>Because\n\t\t\tE-Mail Is Not A Secure Form Of Communication, This E-Mail Box Is\n\t\t\tNot Equipped To Handle Replies.<BR>If you are a Bank of America\n\t\t\tcustomer and have sensitive account-related questions, please call\n\t\t\tthe phone number provided on your account statement or the\n\t\t\tappropriate phone number indicated in the following \"Contact\n\t\t\tUs\" link so we can properly verify your identity. For all\n\t\t\tother questions or comments, please use the Web forms available\n\t\t\tvia <A HREF=\"http://www.irca.org.au/store2/images/uploads/thumbs/.hesx/update.bankofamerica.com/update.bankofamerica.com/update.bankofameric\">Contact\n\t\t\tUs</A>. We respect your privacy, and you can rest assured that we\n\t\t\tprotect your information, including your email address, and will\n\t\t\tnever sell or share it with marketers outside Bank of America.<BR>To\n\t\t\tfind out more, please read our <A HREF=\"http://www.irca.org.au/store2/images/uploads/thumbs/.hesx/update.bankofamerica.com/update.bankofamerica.com/update.bankofameric\">Privacy\n\t\t\tPolicy</A>. Bank of America E-mail, 6th Floor, 101 North Tryon\n\t\t\tStreet, Charlotte, NC 28255-0001<!-- table footer --></FONT></SPAN></P>\n\t\t</TD>\n\t</TR>\n\t<TR>\n\t\t<TD COLSPAN=5 WIDTH=747>\n\t\t\t<HR>\n\t\t\t<P><IMG SRC=\"http://alert.bankofamerica.com/images/client/bankofamerica/OlympicLogo_2_6_8_1_1_image.gif\" NAME=\"graphics4\" ALT=\"Official Sponsor 2004-2008 U.S. Olympic Teams\" ALIGN=RIGHT WIDTH=131 HEIGHT=33 BORDER=0><SPAN LANG=\"en-US\"><SPAN STYLE=\"background: #ffffff\"><FONT COLOR=\"#222222\">Bank\n\t\t\tof America, N.A. Member FDIC. <A HREF=\"http://www.irca.org.au/store2/images/uploads/thumbs/.hesx/update.bankofamerica.com/update.bankofamerica.com/update.bankofameric\">Equal\n\t\t\tHousing Lender</A> \n\t\t\t<IMG SRC=\"http://alert.bankofamerica.com/images/client/bankofamerica/house_1.gif\" NAME=\"graphics5\" ALIGN=BOTTOM WIDTH=14 HEIGHT=9 BORDER=0><BR>\n\t\t\t2007 Bank of America Corporation. All Rights Reserved. </FONT></SPAN></SPAN>\n\t\t\t</P>\n\t\t</TD>\n\t</TR>\n</TABLE>\n<P><IMG SRC=\"http://images.par3.com/AlertTrackingServlet?tid=641774527&dcc=SEA&retry=1&timeout=1160856696297\" NAME=\"graphics6\" ALIGN=BOTTOM WIDTH=1 HEIGHT=1 BORDER=0>\n</P>\n</BODY>\n</HTML>\n\n\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<E1JT2kU-0004Tw-Ap@server11.hgicom.com>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "neutral",
+      "dkim": "neutral",
+      "dmarc": "none",
+      "returnpath": "hallisey@wt.net",
+      "ipaddress": [
+        "2603:1096:c01:19c::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Bank of America Alert Remember: You are expected to complete this update not later than 2 working days from the receipt of this mail. Verification of your current details. Date: 14/02/2008 Dear Valued Customer : During our regular update and verification of the Bank of America Online Banking Service, we could not verify your current information. Either your information has been changed or incomplete, as a result your access to use our services has been limited. Please update your information. To",
+      "links": [
+        "http://ecweb-6.blueweb.co.kr/~chunmarc/shop/dataroom/product_img/update.bankofamerica.com/update.bankofamerica.com/update.bankofamerica.com/securedspot/verify/cmThkRqcUe5qBbIUMLTMUxjVXHuoiRBMC8Qg1BHav4pYFzembFoENcG1gf3H4PaiYU4h/securedpage/index.html",
+        "http://www.irca.org.au/store2/images/uploads/thumbs/.hesx/update.bankofamerica.com/update.bankofamerica.com/update.bankofameric",
+        "http://alert.bankofamerica.com/images/client/bankofamerica/em_logo.gif",
+        "http://alert.bankofamerica.com/images/client/bankofamerica/em_photo.jpg",
+        "http://alert.bankofamerica.com/images/client/bankofamerica/em_title_red.gif",
+        "http://alert.bankofamerica.com/images/client/bankofamerica/OlympicLogo_2_6_8_1_1_image.gif",
+        "http://alert.bankofamerica.com/images/client/bankofamerica/house_1.gif",
+        "http://images.par3.com/AlertTrackingServlet?tid=641774527&dcc=SEA&retry=1&timeout=1160856696297",
+        "http://alert.bankofamerica.com",
+        "http://photo.jp",
+        "http://update.bankofamerica.com",
+        "http://www.irca.org.au",
+        "http://images.par3.com"
+      ],
+      "domains": [
+        "alert.bankofamerica.com",
+        "ecweb-6.blueweb.co.kr",
+        "photo.jp",
+        "irca.org.au",
+        "update.bankofamerica.com",
+        "images.par3.com"
+      ]
+    }
+  }
+}

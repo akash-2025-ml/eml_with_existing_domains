@@ -1,0 +1,85 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-00a256617cdfdc6de574f6edc99e8556",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-00a256617cdfdc6de574f6edc99e8556",
+    "emailcontent": {
+      "subject": "Cialis can really help",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "darla.saucier@enron.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "darla.saucier@enron.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "chris.mallory@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "phillip.platter@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "stanley.cocke@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2007-04-16T06:20:45+03:00",
+      "sentDateTime": "2007-04-16T06:20:45+03:00",
+      "body": {
+        "contentType": "text/html",
+        "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\">\n<HTML><HEAD>\n<META http-equiv=Content-Type content=\"text/html; charset=iso-8859-1\">\n<META content=\"MSHTML 6.00.2900.2912\" name=\"GENERATOR\">\n</HEAD>\n<BODY text=#000000 bgColor=#ffffff>\n\n<font size=\"3\" face=\"Times New Roman\"><p class=\"subtextcialis\"><font face=\"Tahoma\" color=\"#333300\" size=\"5\"><strong>What is CIALIS?</strong></font></p>\n<p><font face=\"Tahoma\" size=\"2\">CIALIS is the only ED (Erectile Disfunction) tablet clinically proven to work both <br />up to 36 hours and in as fast as 30 minutes. </font><font face=\"Tahoma\" size=\"2\">And because CIALIS has an extended <br />period of effectiveness, you don&rsquo;t have the pressure to perform within a few hours. <br />You and your partner can relax and take your time choosing the moment that is right for both of you.</font></p>\n<p class=\"subtextcialis\"><font size=\"2\"><font face=\"Tahoma\"><font color=\"#003300\" size=\"5\"><strong>Benefits of CIALIS</strong></font> </font></font></p>\n<ul>\n    <li><font face=\"Tahoma\" size=\"2\">Works up to 36 hours </font></li>\n    <li><font face=\"Tahoma\" size=\"2\">Works fast </font></li>\n    <li><font face=\"Tahoma\" size=\"2\">Works Effectively </font></li>\n    <li><font face=\"Tahoma\" size=\"2\">Keeps you ready </font></li>\n    <li><font face=\"Tahoma\" size=\"2\">No need to plan around meals </font></li>\n    <li><font face=\"Tahoma\" size=\"2\">Used by millions of men </font></li>\n</ul>\n<p><font face=\"Tahoma\" color=\"#003300\" size=\"5\"><strong><a href=\"http://kelkszeyasafeverr.com\">Buy CIALIS online!</a></strong></font></p></font>\n</BODY>\n</HTML>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<5030f981-8ad1-425b-bbd8-4c2385b697c8@generated>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "fail",
+      "dkim": "pass",
+      "dmarc": "fail",
+      "returnpath": "darla.saucier@enron.com",
+      "ipaddress": [
+        "fe80::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "What is CIALIS? CIALIS is the only ED (Erectile Disfunction) tablet clinically proven to work both up to 36 hours and in as fast as 30 minutes. And because CIALIS has an extended period of effectiveness, you don’t have the pressure to perform within a few hours. You and your partner can relax and take your time choosing the moment that is right for both of you. Benefits of CIALIS Works up to 36 hours Works fast Works Effectively Keeps you ready No need to plan around meals Used by millions of me",
+      "links": [
+        "http://kelkszeyasafeverr.com"
+      ],
+      "domains": [
+        "kelkszeyasafeverr.com"
+      ]
+    }
+  }
+}

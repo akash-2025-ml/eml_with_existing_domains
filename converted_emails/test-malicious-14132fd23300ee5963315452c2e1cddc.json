@@ -1,0 +1,100 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-14132fd23300ee5963315452c2e1cddc",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-14132fd23300ee5963315452c2e1cddc",
+    "emailcontent": {
+      "subject": "Help with Mild to Moderate UC (Ulcerative Colitis)",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "murthy.rao@enron.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "murthy.rao@enron.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "stuart.zisman@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "ben.jacoby@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2007-04-23T18:30:35-04:00",
+      "sentDateTime": "2007-04-23T18:30:35-04:00",
+      "body": {
+        "contentType": "text/html",
+        "content": "<html>\n<head><title></title></head>\n<body>\n<img src=\"http://web.malisborack.net/alqki1qfyqfjptmjvuuer9ib.gif\">\n<html>\n<body link=\"#1c8384\" vlink=\"#00aeb0\" hlink=\"#cce152\" alink=\"#cce152\">\n<form name=\"name\" id=\"id\" action=\"action\">\n<table align=\"center\" width=\"550\" cellspacing=\"0\" cellpadding=\"0\" border=\"0\" bgcolor=\"#ffffff\">\n\t<tr>\n\t\t<td colspan=\"3\">\n\t\t\t<table width=\"550\" height=\"24\" cellspacing=\"0\" cellpadding=\"0\" border=\"0\" ID=\"Table1\">\n\t\t\t\t<tr>\n\t\t\t\t\t<td><a \n\nhref=\"http://web.malisborack.net/alqki1qfyqfjptmjvuuer9ib1\"><img \n\nsrc=\"http://images.malisborack.net/cure/shucm_eml_mast1.gif\" width=\"243\" height=\"128\" alt=\"Managing UC\" \n\nborder=\"0\"></a></td>\n\t\t\t\t\t<td><a \n\nhref=\"http://web.malisborack.net/alqki1qfyqfjptmjvuuer9ib1\"><img \n\nsrc=\"http://images.malisborack.net/cure/shucm_eml_mast2.jpg\" width=\"307\" height=\"128\" alt=\"\" \n\nborder=\"0\"></a></td>\n\t\t\t\t</tr>\n\t\t\t</table>\n\t\t</td>\n\t</tr>\n\t<tr>\n\t\t<td height=\"30\" colspan=\"3\"><img src=\"http://images.malisborack.net/cure/spacer.gif\" width=\"1\" \n\nheight=\"30\" \n\nalt=\"\" border=\"0\"></td>\n\t</tr>\n\t<tr>\n\t\t<td valign=\"top\" colspan=\"3\">\n\t\t\t<table width=\"550\" cellspacing=\"0\" cellpadding=\"0\" border=\"0\">\n\t\t\t\t<tr>\n\t\t\t\t\t<td width=\"15\" rowspan=\"2\"><img \n\nsrc=\"http://images.malisborack.net/cure/spacer.gif\" \n\nwidth=\"15\" height=\"1\" alt=\"\" border=\"0\"></td>\n\t\t\t\t\t<td>\n\t\t\t\t\t<!-- Main Content Area -->\n\t\t\t\t\t<p><img \n\nsrc=\"http://images.malisborack.net/cure/shucm_eml_subhdr_bullet.gif\" \n\nwidth=\"9\" height=\"9\" alt=\"\" border=\"0\"> \n\t\t\t\t\t<font face=\"Arial, Helvetica, Sans-Serif\" size=\"3\" \n\ncolor=\"#1c8384\"><b>Help gain \n\ncontrol of your condition<br>\n\t\t\t\t\t<img src=\"http://images.malisborack.net/cure/spacer.gif\" width=\"9\" \n\nheight=\"9\" alt=\"\" \n\nborder=\"0\"> \n\t\t\t\t\twith more information</b></font></p>\t\t    \t\n\t\t\t\t\t<font face=\"Arial, Helvetica, Sans-Serif\" size=\"2\" color=\"#505050\">\t\n\n\t\t\n\n\t\t\n\t\t\t\t\t<p>Did you know that approximately 500,000 Americans are currently \n\ndiagnosed with <a \n\nhref=\"http://web.malisborack.net/alqki1qfyqfjptmjvuuer9ib1\">ulcerative colitis</a>? \n\t\t\t\t\tLiving with this condition can, without a doubt, be physically and \n\nemotionally \n\ntaxing. The recurring \n\t\t\t\t\tabdominal pain, diarrhea and rectal bleeding are certainly challenging. \n\nBy \n\t\t\t\t\t<a \n\nhref=\"http://web.malisborack.net/alqki1qfyqfjptmjvuuer9ib1\">becoming more \n\ninformed</a> you \n\t\t\t\t\tcan take steps to help gain more control of your condition. Also, \n\nknowing more about \n\nulcerative colitis \n\t\t\t\t\tmay help make conversations with your doctor easier. A good place to \n\nstart is \n\t\t\t\t\tthe relationship between your emotions and your condition.</p></font>\t\n\n\t\t\n\n\t\n\n\t\n\t\t\t\t\t<img \n\nsrc=\"http://images.malisborack.net/cure/shucm_eml_subhdr_bullet.gif\" width=\"9\" \n\nheight=\"9\" alt=\"\" border=\"0\"> \n\t\t\t\t\t<font face=\"Arial, Helvetica, Sans-Serif\" size=\"3\" \n\ncolor=\"#1c8384\"><b>Learn more at \n\t\t\t\t\t<a \n\nhref=\"http://web.malisborack.net/alqki1qfyqfjptmjvuuer9ib1\">Managing \n\nUC</a></b></font>\n\t\t\t\t\t<font face=\"Arial, Helvetica, Sans-Serif\" size=\"2\" color=\"#505050\">\n\t\t\t\t\t<p>Managing UC was created to help you get the facts that you need to \n\npartner with \n\nyour doctor and/or healthcare teams. \n\t\t\t\t\tWhen you visit Managing UC, you will receive information about:\n\t\t\t\t\t<ul>\n\t\t\t\t\t<li>The relationship between stress and the condition\n\t\t\t\t\t<li>What you can do to help you stay in control\n\t\t\t\t\t<li>Where to go to get more help\n\t\t\t\t\t</ul>\n\t\t\t\t\t<p>If you are living with ulcerative colitis, go to Managing UC today \n\nto start taking \n\nan active role in gaining control of \n\t\t\t\t\tyour condition. <a \n\nhref=\"http://web.malisborack.net/alqki1qfyqfjptmjvuuer9ib1\">Visit \n\nThis Site</a> for information at \n\t\t\t\t\t<a \n\nhref=\"http://web.malisborack.net/alqki1qfyqfjptmjvuuer9ib1\">Managing \n\nUC</a>.</p></font>\n\t\t\t\t\t<br></td>\n\t\t\t\t\t<!-- //Main Content Area -->\n\t\t\t\t\t<td width=\"15\"><img src=\"http://images.malisborack.net/cure/spacer.gif\" \n\nwidth=\"15\" \n\nheight=\"1\" alt=\"\" border=\"0\"></td>\n\t\t\t\t\t<td width=\"154\" valign=\"top\">\n\t\t\t\t\t<a href=\"http://web.malisborack.net/alqki1qfyqfjptmjvuuer9ib1\"><img \n\nsrc=\"http://images.malisborack.net/cure/shucm_eml_btn1.gif\" width=\"154\" height=\"279\" alt=\"Visit this site to get \n\ninformation about how emotional factors may affect ulcerative colitis!\" border=\"0\"></a></td>\n\t\t\t\t\t<td width=\"15\" rowspan=\"2\"><img \n\nsrc=\"http://images.malisborack.net/cure/spacer.gif\" \n\nwidth=\"15\" height=\"1\" alt=\"\" border=\"0\"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr>\n\t\t\t\t\t<td colspan=\"3\"><font face=\"Arial, Helvetica, Sans-Serif\" size=\"2\" \n\ncolor=\"#505050\">\n\n\t\t\t\t\t<p><a href=\"http://web.malisborack.net/alqki1qfyqfjptmjvuuer9ib1\"><img \n\nsrc=\"http://images.malisborack.net/cure/shucm_eml_btn2.gif\" width=\"454\" height=\"46\" alt=\"learn about the \n\nemotional aspects which may affect the management ulcerative colitis.\" border=\"0\"></a></p>\n\n\t\t\t\t\t<p>If you prefer not to receive future Managing UC e-mails, <a \n\nhref=\"http://web.malisborack.net/alqki1qfyqfjptmjvuuer9ib2?c=shucm_eml_01_peak\">To stop \n\nreceiving \n\nannouncements</a>.</p>\n\n\t\t\t\t\t</font></td>\n\t\t\t\t\t</tr>\n\t\t\t</table>\n\t\t</td>\n\t</tr>\n\t<tr>\n\t\t<td height=\"20\" colspan=\"3\"><img src=\"http://images.malisborack.net/cure/spacer.gif\" width=\"1\" \n\nheight=\"20\" \n\nalt=\"\" border=\"0\"></td>\n\t</tr>\n\t<tr>\n\t\t<td align=\"center\" colspan=\"3\"><img \n\nsrc=\"http://images.malisborack.net/cure/shucm_eml_footer_line.gif\" \n\nwidth=\"520\" height=\"9\" alt=\"\" border=\"0\"></td>\n\t</tr>\n\t<tr>\n\t\t<td height=\"20\" colspan=\"3\"><img src=\"http://images.malisborack.net/cure/spacer.gif\" width=\"1\" \n\nheight=\"20\" \n\nalt=\"\" border=\"0\"></td>\n\t</tr>\n\t<tr>\n\t\t<td width=\"15\" rowspan=\"3\"><img src=\"http://images.malisborack.net/cure/spacer.gif\" width=\"15\" \n\nheight=\"1\" \n\nalt=\"\" border=\"0\"></td>\n\t\t<td><font face=\"Arial, Helvetica, Sans-Serif\" size=\"1\" color=\"#868B93\">\n\t\t<p>This site is strictly intended for U.S. residents and is governed solely by U.S. laws and \n\ngovernmental \n\t\tregulations. Please see our online <a \n\nhref=\"http://web.malisborack.net/alqki1qfyqfjptmjvuuer9ib3\">privacy policy</a> for more              \n\n              \n\n     information.</p>\n\t\t<p class=\"footer1\">While Shire US Inc. makes reasonable efforts to include accurate, up-to-date \n\ninformation \n\non the site, \n\t\tShire US Inc. makes no warranties or representations as to its accuracy. Shire US Inc. assumes \n\nno liability \n\nfor any errors or \n\t\tomissions in the content of the site.</p></font></td>\n\t\t<td width=\"15\" rowspan=\"3\"><img src=\"http://images.malisborack.net/cure/spacer.gif\" width=\"15\" \n\nheight=\"1\" \n\nalt=\"\" border=\"0\"></td>\n\t</tr>\n\t<tr>\n\t\t<td height=\"15\"><img src=\"http://images.malisborack.net/cure/spacer.gif\" width=\"1\" height=\"15\" \n\nalt=\"\" \n\nborder=\"0\"></td>\n\t</tr>\n\t<tr>\n\t\t<td>\n\t\t\t<table width=\"520\" cellspacing=\"0\" cellpadding=\"0\" border=\"0\" ID=\"Table2\">\n\t\t\t\t<tr>\n\t\t\t\t\t<td valign=\"middle\" width=\"95\"><img \n\nsrc=\"http://images.malisborack.net/cure/shucm_eml_shire_logo.gif\" width=\"95\" height=\"35\" alt=\"Shire\" \n\nborder=\"0\"></td>\n\t\t\t\t\t<td valign=\"middle\" align=\"right\"><font face=\"Arial, Helvetica, \n\nSans-Serif\" size=\"1\" \n\ncolor=\"#868B93\">(c) 2006 Shire US Inc. Wayne, PA 19087 (800) 828-2088. All rights reserved. GI158  \n\n06/06</font></td>\n\t\t\t\t</tr>\n\t\t\t</table>\n\t\t</td>\n\t</tr>\n\t<tr>\n\t\t<td height=\"10\" colspan=\"3\"><img src=\"http://images.malisborack.net/cure/spacer.gif\" width=\"1\" \n\nheight=\"10\" \n\nalt=\"\" border=\"0\"></td>\n\t</tr>\n</table>\n</form>\n</body>\n</html>\n<br><center>\n<table width=\"395\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\">\n<tr>\n<td>\n<div align=\"center\"><font face=\"Arial\" size=\"1\">You are subscribed to malisborack.net with the email address kahlia@speedy.uwaterloo.ca.<br>\nIf you wish to be excluded from future malisborack.net mailings,<br>\nplease <a href=\"http://web.malisborack.net/r/alqki1qfyqfjptmjvuuer9ib\">click here</a><br>\nor write us at:<br>\n287 S. Robertson Blvd., Suite #407, Beverly Hills, CA 90211\n</font></div>\n</td>\n</tr>\n</table>\n</td>\n</tr>\n</table></center>\n</body>\n</html>"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<03144614-700f-4fc4-b43b-e6604d641168@generated>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "fail",
+      "dkim": "none",
+      "dmarc": "pass",
+      "returnpath": "murthy.rao@enron.com",
+      "ipaddress": [
+        "2a01:111:f403:c409::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Help gain control of your condition with more information Did you know that approximately 500,000 Americans are currently diagnosed with ulcerative colitis ? Living with this condition can, without a doubt, be physically and emotionally taxing. The recurring abdominal pain, diarrhea and rectal bleeding are certainly challenging. By becoming more informed you can take steps to help gain more control of your condition. Also, knowing more about ulcerative colitis may help make conversations with yo",
+      "links": [
+        "http://web.malisborack.net/alqki1qfyqfjptmjvuuer9ib1",
+        "http://web.malisborack.net/alqki1qfyqfjptmjvuuer9ib2?c=shucm_eml_01_peak",
+        "http://web.malisborack.net/alqki1qfyqfjptmjvuuer9ib3",
+        "http://web.malisborack.net/r/alqki1qfyqfjptmjvuuer9ib",
+        "http://web.malisborack.net/alqki1qfyqfjptmjvuuer9ib.gif",
+        "http://images.malisborack.net/cure/shucm_eml_mast1.gif",
+        "http://images.malisborack.net/cure/shucm_eml_mast2.jpg",
+        "http://images.malisborack.net/cure/spacer.gif",
+        "http://images.malisborack.net/cure/shucm_eml_subhdr_bullet.gif",
+        "http://images.malisborack.net/cure/shucm_eml_btn1.gif",
+        "http://images.malisborack.net/cure/shucm_eml_btn2.gif",
+        "http://images.malisborack.net/cure/shucm_eml_footer_line.gif",
+        "http://images.malisborack.net/cure/shucm_eml_shire_logo.gif",
+        "http://web.malisborack.net",
+        "http://images.malisborack.net",
+        "http://mast2.jp",
+        "http://malisborack.net",
+        "http://speedy.uwaterloo.ca"
+      ],
+      "domains": [
+        "mast2.jp",
+        "malisborack.net",
+        "web.malisborack.net",
+        "images.malisborack.net",
+        "speedy.uwaterloo.ca"
+      ]
+    }
+  }
+}

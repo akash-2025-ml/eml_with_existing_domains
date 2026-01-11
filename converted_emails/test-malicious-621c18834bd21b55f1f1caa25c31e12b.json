@@ -1,0 +1,80 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-621c18834bd21b55f1f1caa25c31e12b",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-621c18834bd21b55f1f1caa25c31e12b",
+    "emailcontent": {
+      "subject": "Your Debit Card Transaction Refunds.",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "joanie.ngo@enron.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "joanie.ngo@enron.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "e-mail",
+            "address": "bill@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "e-mail",
+            "address": "chris@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2019-11-01T17:58:39+01:00",
+      "sentDateTime": "2019-11-01T17:58:39+01:00",
+      "body": {
+        "contentType": "text",
+        "content": "You will not see this in a MIME-aware mail reader.\n--===============2141330838==\nContent-Type: text/plain; charset=\"iso-8859-1\"\nMIME-Version: 1.0\nContent-Transfer-Encoding: quoted-printable\nContent-Description: Mail message body\n\n   Dear Valued Customer =\n\n\n =\n\n We discovered a duplicate charges on your recent transactions and a refund=\n process has been initiated. To begin, Please follow the link below our Ele=\nctronic proof of notificationand follow as instructed.\n  =\n\nClick Here to get a refund.\n\n =\n\n =\n\n\n =\n\n\n Chase Security | Terms of Use 2019\n ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n This service email gives you updates and information about your Chase rela=\ntionship.\n Your privacy is important to us. =A9 2019 JPMorgan Chase & Co.\n =\n\n\n=20\n\n--===============2141330838==\nContent-Type: text/html; charset=\"iso-8859-1\"\nMIME-Version: 1.0\nContent-Transfer-Encoding: quoted-printable\nContent-Description: Mail message body\n\n<HTML><head><meta http-equiv=3D\"Content-Type\" content=3D\"text/html; charset=\n=3Diso-8859-1\"/></head><BODY><DIV>\n<DIV style=3D\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana, Arial, Helvetica, sans=\n-serif\">\n<DIV style=3D\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana, Arial, Helvetica, sans=\n-serif\">\n<P style=3D\"WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; F=\nONT-WEIGHT: 400; FONT-STYLE: normal; MARGIN: 0px; LETTER-SPACING: normal; T=\nEXT-INDENT: 0px\"><SPAN class=3Dhighlight style=3D\"BACKGROUND-COLOR: rgb(255=\n,255,255)\"><SPAN class=3Dcolour style=3D\"COLOR: rgb(0,0,0)\"><SPAN class=3Df=\nont style=3D'FONT-FAMILY: \"Times New Roman\"'><SPAN class=3Dsize style=3D\"FO=\nNT-SIZE: 15px\">Dear Valued Customer&nbsp;</SPAN></SPAN></SPAN></SPAN><BR></=\nP>\n<DIV><SPAN class=3Dhighlight style=3D\"BACKGROUND-COLOR: rgb(255,255,255)\"><=\nSPAN class=3Dcolour style=3D\"COLOR: rgb(0,0,0)\"><SPAN class=3Dfont style=3D=\n'FONT-FAMILY: \"Times New Roman\"'><SPAN class=3Dsize style=3D\"FONT-SIZE: 15p=\nx\"><BR></SPAN></SPAN></SPAN></SPAN></DIV>\n<P style=3D\"WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; F=\nONT-WEIGHT: 400; FONT-STYLE: normal; MARGIN: 0px; LETTER-SPACING: normal; T=\nEXT-INDENT: 0px\"><SPAN class=3Dhighlight style=3D\"BACKGROUND-COLOR: rgb(255=\n,255,255)\"><SPAN class=3Dcolour style=3D\"COLOR: rgb(0,0,0)\"><SPAN class=3Df=\nont style=3D'FONT-FAMILY: \"Times New Roman\"'><SPAN class=3Dsize style=3D\"FO=\nNT-SIZE: 15px\">We discovered a duplicate charges on your recent transaction=\ns and a refund process has been initiated. To begin, Please&nbsp;follow the=\n link below&nbsp;our Electronic proof of notificationand follow as instruct=\ned.</SPAN></SPAN></SPAN></SPAN></P><SPAN class=3Dhighlight style=3D\"BACKGRO=\nUND-COLOR: rgb(255,255,255)\"><SPAN class=3Dcolour style=3D\"COLOR: rgb(0,0,0=\n)\"><SPAN class=3Dfont style=3D'FONT-FAMILY: \"Times New Roman\"'><SPAN class=\n=3Dsize style=3D\"FONT-SIZE: 15px\"></SPAN></SPAN></SPAN></SPAN></DIV>\n<DIV style=3D\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana, Arial, Helvetica, sans=\n-serif\"><SPAN class=3Dhighlight style=3D\"BACKGROUND-COLOR: rgb(255,255,255)=\n\"><SPAN class=3Dcolour style=3D\"COLOR: rgb(0,0,0)\"><SPAN class=3Dfont style=\n=3D'FONT-FAMILY: \"Times New Roman\"'><SPAN class=3Dsize style=3D\"FONT-SIZE: =\n15px\">\n<P style=3D\"WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; F=\nONT-WEIGHT: 400; FONT-STYLE: normal; MARGIN: 0px; LETTER-SPACING: normal; T=\nEXT-INDENT: 0px\"><BR><A href=3D\"https://hormoneimprovement.com/chase/\">Clic=\nk Here</A> to get a refund.<BR></P></SPAN></SPAN></SPAN></SPAN><SPAN class=\n=3Dhighlight style=3D\"BACKGROUND-COLOR: rgb(255,255,255)\"><SPAN class=3Dcol=\nour style=3D\"COLOR: rgb(0,0,0)\"><SPAN class=3Dfont style=3D'FONT-FAMILY: \"T=\nimes New Roman\"'><SPAN class=3Dsize style=3D\"FONT-SIZE: 15px\"></SPAN></SPAN=\n></SPAN></SPAN></DIV><SPAN class=3Dhighlight style=3D\"BACKGROUND-COLOR: rgb=\n(255,255,255)\"><SPAN class=3Dcolour style=3D\"COLOR: rgb(0,0,0)\"><SPAN class=\n=3Dfont style=3D'FONT-FAMILY: \"Times New Roman\"'><SPAN class=3Dsize style=\n=3D\"FONT-SIZE: 15px\"></SPAN></SPAN></SPAN></SPAN></DIV>\n<DIV style=3D\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana, Arial, Helvetica, sans=\n-serif\"><SPAN class=3Dhighlight style=3D\"BACKGROUND-COLOR: rgb(255,255,255)=\n\"><SPAN class=3Dcolour style=3D\"COLOR: rgb(0,0,0)\"><SPAN class=3Dfont style=\n=3D'FONT-FAMILY: \"Times New Roman\"'><SPAN class=3Dsize style=3D\"FONT-SIZE: =\n15px\"><BR>\n<P style=3D\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana, Arial, Helvetica, sans-s=\nerif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WE=\nIGHT: 400; FONT-STYLE: normal; MARGIN: 0px; LETTER-SPACING: normal; TEXT-IN=\nDENT: 0px\"><BR></P></SPAN></SPAN></SPAN></SPAN>\n<P style=3D\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana, Arial, Helvetica, sans-s=\nerif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WE=\nIGHT: 400; FONT-STYLE: normal; MARGIN: 0px; LETTER-SPACING: normal; TEXT-IN=\nDENT: 0px\"><SPAN class=3Dhighlight style=3D\"BACKGROUND-COLOR: rgb(255,255,2=\n55)\"><SPAN class=3Dcolour style=3D\"COLOR: rgb(0,0,0)\"><SPAN class=3Dfont st=\nyle=3D'FONT-FAMILY: \"Times New Roman\"'><SPAN class=3Dsize style=3D\"FONT-SIZ=\nE: 15px\"></SPAN></SPAN></SPAN></SPAN><BR></P>\n<DIV style=3D\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana, Arial, Helvetica, sans=\n-serif\">Chase Security | Terms of Use 2019<BR></DIV>\n<DIV style=3D\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana, Arial, Helvetica, sans=\n-serif\">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<BR></DIV>\n<DIV style=3D\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana, Arial, Helvetica, sans=\n-serif\">This service email gives you updates and information about your Cha=\nse relationship.<BR></DIV>\n<DIV style=3D\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana, Arial, Helvetica, sans=\n-serif\">Your privacy is important to us. =A9 2019 JPMorgan Chase &amp; Co.<=\nBR></DIV>\n<P style=3D\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana, Arial, Helvetica, sans-s=\nerif\"><BR></P>\n<DIV style=3D\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana, Arial, Helvetica, sans=\n-serif\"><BR></DIV></DIV></DIV></BODY></HTML>\n--===============2141330838==--\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<1iQaGR-0m7Hb60@fwd20.t-online.de>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "pass",
+      "dkim": "none",
+      "dmarc": "none",
+      "returnpath": "joanie.ngo@enron.com",
+      "ipaddress": [
+        "2603:1096:c01:ec::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "You will not see this in a MIME-aware mail reader.\n--===============2141330838==\nContent-Type: text/plain; charset=\"iso-8859-1\"\nMIME-Version: 1.0\nContent-Transfer-Encoding: quoted-printable\nContent-Description: Mail message body\n\n   Dear Valued Customer =\n\n\n =\n\n We discovered a duplicate charges on your recent transactions and a refund=\n process has been initiated. To begin, Please follow the link below our Ele=\nctronic proof of notificationand follow as instructed.\n  =\n\nClick Here to get a refu",
+      "links": [
+        "https://hormoneimprovement.com/chase",
+        "http://hormoneimprovement.com"
+      ],
+      "domains": [
+        "hormoneimprovement.com"
+      ]
+    }
+  }
+}

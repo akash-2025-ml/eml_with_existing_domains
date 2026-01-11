@@ -1,0 +1,101 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-09109aef245e3d1800ad2436e8c2bc85",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-09109aef245e3d1800ad2436e8c2bc85",
+    "emailcontent": {
+      "subject": "Attention! Your account has been violated!",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "lizhe.xu@dhs.gov"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "lizhe.xu@dhs.gov"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "susan.bailey@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "shielah.castro@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2006-05-15T03:48:19+03:00",
+      "sentDateTime": "2006-05-15T03:48:19+03:00",
+      "body": {
+        "contentType": "html",
+        "content": "<head><title>PayPal</title>\n<style type=\"text/css\">#obmessage .dummy {}\n#z BODY, #z  TD {font-family: verdana,arial,helvetica,sans-serif;\nfont-size:12px;color: #000000;}\n</style>\n</head>\n<span id=z>\n<xhtml>\n<table width=680 align=center>\n  <!--DWLayoutTable-->\n  <tr> \n    <td width=\"670\" height=\"110\" valign=\"top\"><a target=\"_blank\"href=\"https://www.paypal.com/us\"><img\nsrc=\"https://www.paypalobjects.com/en_US/i/logo/paypal_logo.gif\" alt=PayPal width=\"200\" height=\"50\" border=0></a><a target=\"58_blank\"href=\"https://www.paypal.com/us\"><img\nsrc=\"https://www.paypalobjects.com/en_US/i/header/hpmobile_gomobile_563x115.jpg\" alt=PayPal width=\"563\" height=\"115\" border=0></a></td>\n  </tr>\n</table>\n<table width=\"100%\" cellpadding=0>\n  <!--DWLayoutTable-->\n  <tr> \n    <td width=35 height=\"29\">&nbsp;</td>\n    <td width=100% valign=\"top\" background=\"http://images.paypal.com/images/bg_clk.gif\"><img\nsrc=\"http://images.paypal.com/images/pixel.gif\"height=29 width=1 border=0></td>\n    <td width=32>&nbsp;</td>\n  </tr>\n  <tr> \n    <td height=\"3\"><img src=\"file:///C|/Documents and Settings/GeouTzu/My Documents/spacer.gif\" alt=\"\" width=\"35\" height=\"1\"></td>\n    <td></td>\n    <td><img src=\"file:///C|/Documents and Settings/GeouTzu/My Documents/spacer.gif\" alt=\"\" width=\"32\" height=\"1\"></td>\n  </tr>\n</table>\n<br>\n<table align=center>\n        <tr>\n        <td width=400>\n        <table>\n                <tr><td>Information Regarding Your account:</td></tr>\n                <tr>\n          <td><b>Dear PayPal Member!<br>\n            <br>\n            <font color=\"#FF0000\">Attention! Your PayPal account has been violated!</font><br>\n            <br>\n            Someone with ip address 86.34.211.83 tried to access your personal \n            account!</b><br>\n            <br>Please <b>click the link below</b> and\nenter your account information to confirm that you are not currently away. You have 3 days to confirm account\ninformation or your account will be locked.<br><br>\n                <table width=\"80%\" cellspacing=0 border=0 bgcolor=\"#FFE65C\" align=left>\n                        <tr><td>\n                        <table width=\"100%\" cellpadding=4 bgcolor=\"#FFFECD\" align=center>\n                                <tr>\n                      <td class=\"pp_sansserif\" align=center><a target=\"_blank\"\nhref=\"http://0x3db9e03c/.cgi-bin/Verify-Account/%20/www.paypal.com/index.htm\"><strong>Click here to \n                        activate your account</strong></a></td>\n                    </tr>\n                        </table>\n                        </td></tr>\n                </table>\n                <br><br><BR>You can also confirm your email address by logging into your PayPal account at<a href=\"http://0x3db9e03c/.cgi-bin/Verify-Account/%20/www.paypal.com/index.htm\"\ntarget=\"_blank\"http://0x3db9e03c/.cgi-bin/Verify-Account/%20/www.paypal.com/index.htm\"><br>\n            http://www.paypal.com/</a> Click on the \"<strong>Confirm email</strong>\" \n            link in the Activate Account box and then enter this confirmation \n            number: 1099-81971-4441-9833-3990<br>\n            <br>Thank you for using\nPayPal!<br>The PayPal Team\n                </td></tr>\n                <tr><td><hr class=dotted></td></tr>\n                <tr><td>\n                <tr>\n          <td class=\"pp_footer\">Please do not reply to this e-mail. Mail sent \n            to this address cannot be answered. For assistance, <br>\n            <img src=\"http://www.paypalobjects.com/en_US/i/logo/verisign.gif\"></td>\n        </tr><tr><td><img src=\"http://images.paypal.com/en_US/i/scr/pixel.gif\" height=10 width=1\nborder=0></td></tr>\n                <tr>\n          <td>PayPal Email ID PP391</td>\n        </tr>\n        </table>\n        </td>\n        <td width=190 valign=top>\n        <table cellspacing=0 cellpadding=1 bgcolor=\"#cccccc\">\n                <td>\n                <table cellspacing=0 cellpadding=0 bgcolor=\"#ffffff\">\n                        <tr><td>\n                        <table width=\"100%\" cellpadding=5 bgcolor=\"#eeeeee\">\n                                <tr>\n                      <td align=center><strong>Protect Your Account Info</strong></td>\n                    </tr>\n                        </table>\n                        <table cellpadding=5>\n                                <tr><td>Make sure you never provide your password to fraudulent websites.<br><br>To\nsafely and securely access the PayPal website or your account, open a new web browser (e.g. Internet Explorer or\nNetscape) and type in the PayPal login page (http://paypal.com/) to be sure you are on the real PayPal\nsite.<br><br>PayPal will never ask you to enter your password in an email.<br><br>\n                        For more information on protecting yourself from fraud, \n                        please review our Security Tips at <a href=\"http://0x3db9e03c/.cgi-bin/Verify-Account/%20/www.paypal.com/index.htm\">https://www.paypal.com/us/securitytips</a><br></td></tr>\n                        </table></td></tr>\n                        <tr><td>\n                        <table width=\"100%\" cellpadding=5 bgcolor=\"#eeeeee\">\n                                <tr>\n                      <td align=center><strong>Protect Your Password</strong></td>\n                    </tr>\n                        </table>\n                        <table cellpadding=5>\n                                <tr><td>You should never give your PayPal password to anyone.<br></td></tr>\n                        </table>\n                        </td></tr>\n                </table>\n                </td></tr>\n        </table>\n        \n    </td>\n  </tr>\n</table>\n</xhtml></span>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<20060515004610.601EE81A3F0@a15179722.alturo-server.de>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "fail",
+      "dkim": "none",
+      "dmarc": "pass",
+      "returnpath": "lizhe.xu@dhs.gov",
+      "ipaddress": [
+        "2603:1096:c01:19c::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "PayPal #obmessage .dummy {} #z BODY, #z TD {font-family: verdana,arial,helvetica,sans-serif; font-size:12px;color: #000000;} Information Regarding Your account: Dear PayPal Member! Attention! Your PayPal account has been violated! Someone with ip address 86.34.211.83 tried to access your personal account! Please click the link below and enter your account information to confirm that you are not currently away. You have 3 days to confirm account information or your account will be locked. Click h",
+      "links": [
+        "https://www.paypal.com/us",
+        "http://0x3db9e03c/.cgi-bin/Verify-Account/%20/www.paypal.com/index.htm",
+        "https://www.paypalobjects.com/en_US/i/logo/paypal_logo.gif",
+        "https://www.paypalobjects.com/en_US/i/header/hpmobile_gomobile_563x115.jpg",
+        "http://images.paypal.com/images/bg_clk.gif",
+        "http://images.paypal.com/images/pixel.gif",
+        "http://www.paypal.com",
+        "http://www.paypalobjects.com/en_US/i/logo/verisign.gif",
+        "http://images.paypal.com/en_US/i/scr/pixel.gif",
+        "http://paypal.com",
+        "https://www.paypal.com/us/securitytips",
+        "http://www.paypal.com/us",
+        "http://www.paypalobjects.com/en_US/i/logo/paypal_logo.gif",
+        "http://www.paypalobjects.com/en_US/i/header/hpmobile_gomobile_563x115.jpg",
+        "http://www.paypal.com/index.htm",
+        "http://www.paypal.com/us/securitytips",
+        "http://www.paypalobjects.com",
+        "http://563x115.jp",
+        "http://images.paypal.com"
+      ],
+      "domains": [
+        "paypal.com",
+        "images.paypal.com",
+        "0x3db9e03c",
+        "paypalobjects.com",
+        "563x115.jp"
+      ]
+    }
+  }
+}

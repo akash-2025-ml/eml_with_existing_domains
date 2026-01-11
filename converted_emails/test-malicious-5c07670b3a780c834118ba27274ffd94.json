@@ -1,0 +1,99 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-5c07670b3a780c834118ba27274ffd94",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-5c07670b3a780c834118ba27274ffd94",
+    "emailcontent": {
+      "subject": "Dear Member,",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "mroger3@entergy.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "mroger3@entergy.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "lois.black@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "nicole.mendez@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "tammy.kovalcik@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2007-10-27T01:19:37-04:00",
+      "sentDateTime": "2007-10-27T01:19:37-04:00",
+      "body": {
+        "contentType": "html",
+        "content": "\n <table border=\"0\" width=\"100%\" id=\"table1\" style=\"border-collapse: \ncollapse\">\n\t<tr>\n\t\t<td>\n        <img border=\"0\" \nsrc=\"http://images.paypal.com/en_US/i/logo/email_logo.gif\" alt=\"\" width=\"255\" height=\"35\"></td>\n\t</tr>\n\t<tr>\n\t\t<td \nbackground=\"http://img26.exs.cx/img26/2232/ppborderemailpage1aa.gif\" height=\"19\">\n\t\t<span style=\"font-size: 5pt\"> </span></td>\n\t</tr>\n\t<tr>\n\t\t<td height=\"33\" align=\"center\">\n\t\t<table border=\"0\" width=\"88%\" id=\"table2\" style=\"border-collapse: \ncollapse\">\n\t\t\t<tr>\n\t\t\t\t<td>\n\t\t\t\t<div>\n\t<div id=\"xptContentOuter\">\n\t\t<div align=\"center\">\n\t\t<table id=\"table1\" cellSpacing=\"0\" cellPadding=\"0\" border=\"0\" \nwidth=\"100%\">\n\t\t\t<tr vAlign=\"top\">\n\t\t\t\t<td class=\"righty\">\n\t\t\t\t<div id=\"xptTitle\">\n\t\t\t\t\t<div align=\"center\">\n\t\t\t\t\t<table class=\"main\" cellSpacing=\"0\" cellPadding=\"0\" border=\"0\" \nid=\"table2\" width=\"100%\">\n\t\t\t\t\t\t<tr>\n\t\t\t\t\t\t\t<td class=\"heading\" width=\"100%\" height=\"25\">\n\t\t\t\t\t\t\t<font face=\"Arial Black\" color=\"#003063\" size=\"4\">Important \n\t\t\t\t\t\t\tAlert</font></td>\n\t\t\t\t\t\t</tr>\n\t\t\t\t\t\t<tr>\n\t\t\t\t\t\t\t<td>\n\t\t\t\t\t\t\t<img height=\"2\" alt=\"\" \nsrc=\"http://www.paypal.com/en_US/i/scr/pixel.gif\" width=\"1\" border=\"0\"></td>\n\t\t\t\t\t\t</tr>\n\t\t\t\t\t\t<tr>\n\t\t\t\t\t\t\t<td><hr></td>\n\t\t\t\t\t\t</tr>\n\t\t\t\t\t</table>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div id=\"xptContentMain\">\n\t\t\t\t\t<font face=\"Verdana\" size=\"2\">Dear Member,</font><p>\n\t\t\t\t\t<font face=\"Verdana\" size=\"2\">Founded in 1998, PayPal, an \n\t\t\t\t\teBay Company, enables any individual or<br>\n\t\t\t\t\tbusiness with an email address to securely, easily and \n\t\t\t\t\tquickly send and<br>\n\t\t\t\t\treceive payments online.</font></p>\n\t\t\t\t\t<p><font face=\"Verdana\" size=\"2\">PayPal always look forward \n\t\t\t\t\tfor the security purpose of their clients.<br>\n\t\t\t\t\tTherefore, PayPal is proud to announce about their new \n\t\t\t\t\tupdated secure<br>\n\t\t\t\t\tsystem. We updated are new SSL servers to give our customers \n\t\t\t\t\ta better,<br>\n\t\t\t\t\tfast and secure service.</font></p>\n\t\t\t\t\t<p><font face=\"Verdana\" size=\"2\">Due to the recent update of \n\t\t\t\t\tthe servers, you are requested to please<br>\n\t\t\t\t\tupdate your account info at the following link.<br>\n\t\t\t\t\t </font></p>\n\t\t\t\t\t<table border=\"2\" width=\"59%\" id=\"table3\" bgcolor=\"#FFFFCC\" \nstyle=\"border-collapse: collapse\" bordercolor=\"#FFDFBF\">\n\t\t\t\t\t\t<tr>\n\t\t\t\t\t\t\t<td>\n\t\t\t\t\t\t\t<p align=\"center\"><span style=\"font-size: 5pt\"> <br>\n\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t<a \nhref=\"http://www.drewskynetworks.com/MURPHY/index.htm\">\n\t\t\t\t\t\t\t<font color=\"#0033CC\">\n\t\t\t\t\t\t\t<font face=\"Arial\" color=\"#0033CC\" style=\"font-size: 9pt\">\n\t\t\t\t\t\t\t<span style=\"text-decoration: none\">Click here to \n\t\t\t\t\t\t\tupdate your account.</span></font><font size=\"2\" face=\"Arial\" \ncolor=\"#0033CC\"><span style=\"text-decoration: none\"><br>\n\t\t\t\t\t\t\t</span></font></font>\n\t\t\t\t\t\t\t<font face=\"Arial\" color=\"#0033CC\" style=\"font-size: \n5pt\"> </font><span style=\"font-size: 5pt\">\n\t\t\t\t\t\t\t</span></a></td>\n\t\t\t\t\t\t</tr>\n\t\t\t\t\t</table>\n\t\t\t\t\t<p><font face=\"Verdana\" size=\"2\">\n\t\t\t\t\t<br>\n\t\t\t\t\t<a href=\"http://www.paypal.com/accounts/infoupdate.php\">\n\t\t\t\t\t<font color=\"#0033CC\">\n\t\t\t\t\t<a \nhref=\"http://216.40.213.84/~administrator/pay/midred.htm\">\n\t\t\t\t\t</a>\n\t\t\t\t\t</font></p>\n\t\t\t\t\t<p> <p><b>Edward A. Wrick</b><br>\n\t\t\t\t\t<i>Security Advisor<br>\n\t\t\t\t\tPayPal.com </i>\n\t\t\t\t\t<p>Thank you for using PayPal!<br>\n\t\t\t\t\tThe PayPal Team</font><font face=\"Verdana\" size=\"1\"> <br>\n\t\t\t\t\t<br>\n\t\t\t\t\t<font color=\"#808080\">\n\t\t\t\t\t\n--------------------------------------------------------------------------------<br>\n\t\t\t\t\t<br>\n\t\t\t\t\tPlease do not reply to this e-mail. Mail sent to this \n\t\t\t\t\taddress cannot be answered. For assistance, log in to your \n\t\t\t\t\tPayPal account and choose the \"Help\" link in the footer of \n\t\t\t\t\tany page.<br>\n\t\t\t\t\t<br>\n\t\t\t\t\tTo receive email notifications in plain text instead of \n\t\t\t\t\tHTML, update your preferences here. <br>\n\t\t\t\t\t<br>\n\t\t\t\t\t<br>\n\t\t\t\t\t<br>\n\t\t\t\t\tPayPal Email ID PP059</font><font color=\"#C0C0C0\"><br>\n </font></div>\n\t\t\t\t</td>\n\t\t\t</tr>\n\t\t</table>\n\t\t\t<p><font face=\"Verdana\" size=\"2\"><b><font color=\"#0033CC\"><u>PayPal, \n\t\t\tan eBay company<br>\n\t\t\t</u></font></b><br>\n\t\t\t</font><font face=\"Verdana\" style=\"font-size: 8pt\">Copyright  \n            1999-2007 PayPal. All rights reserved.<br>\n\t\t\t<u><font color=\"#0033CC\">Information about FDIC pass-through \n\t\t\tinsurance</font></u></font></div>\n\t</div>\n</div>\n\n\t\t\t\t</td>\n\t\t\t</tr>\n\t\t</table>\n\t\t</td>\n\t</tr>\n</table>\n</div>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<20071027075708.0D9E3131FC97@mail1.monkey.org>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "none",
+      "dkim": "pass",
+      "dmarc": "fail",
+      "returnpath": "mroger3@entergy.com",
+      "ipaddress": [
+        "2603:1096:a01:1c7::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Important Alert Dear Member, Founded in 1998, PayPal, an eBay Company, enables any individual or business with an email address to securely, easily and quickly send and receive payments online. PayPal always look forward for the security purpose of their clients. Therefore, PayPal is proud to announce about their new updated secure system. We updated are new SSL servers to give our customers a better, fast and secure service. Due to the recent update of the servers, you are requested to please u",
+      "links": [
+        "http://www.drewskynetworks.com/MURPHY/index.htm",
+        "http://www.paypal.com/accounts/infoupdate.php",
+        "http://216.40.213.84/~administrator/pay/midred.htm",
+        "http://images.paypal.com/en_US/i/logo/email_logo.gif",
+        "http://img26.exs.cx/img26/2232/ppborderemailpage1aa.gif",
+        "http://www.paypal.com/en_US/i/scr/pixel.gif",
+        "http://images.paypal.com",
+        "http://www.paypal.com",
+        "http://www.drewskynetworks.com",
+        "http://PayPal.com "
+      ],
+      "domains": [
+        "paypal.com",
+        "PayPal.com",
+        "216.40.213.84",
+        "images.paypal.com",
+        "img26.exs.cx",
+        "drewskynetworks.com"
+      ]
+    }
+  }
+}

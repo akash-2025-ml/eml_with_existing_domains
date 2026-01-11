@@ -1,0 +1,98 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-611350d5e6edbda12b187443e5efc15f",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-611350d5e6edbda12b187443e5efc15f",
+    "emailcontent": {
+      "subject": "high risk",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "jesse@fsck.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "jesse@fsck.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "michelle.cash@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "w.duran@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "andrew.kelemen@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2020-10-30T09:58:46+00:00",
+      "sentDateTime": "2020-10-30T09:58:46+00:00",
+      "body": {
+        "contentType": "html",
+        "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">\n\n<HTML><HEAD>\n<META name=GENERATOR content=\"MSHTML 11.00.10570.1001\"></HEAD>\n<body style=\"MARGIN: 0.5em\">\n<P><BR>\n<table style=\"FONT-SIZE: 15px; FONT-FAMILY: Tahoma,Arial,sans-serif,serif,EmojiFont; COLOR: rgb(33,33,33); LINE-HEIGHT: 25px\" cellspacing=\"0\" cellpadding=\"0\" width=\"500\" bgcolor=\"#446cb3\">\n<TBODY>\n<TR>\n<td style=\"FONT-FAMILY: arial,sans-serif; TEXT-ALIGN: center\" align=\"center\">\n<P style=\"FONT-SIZE: 35px; MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; COLOR: white; PADDING-BOTTOM: 18px; PADDING-TOP: 18px; PADDING-LEFT: 18px; PADDING-RIGHT: 18px\">&nbsp;ACCOUNT SHUT-DOWN</P></TD></TR></TBODY></TABLE><BR style=\"FONT-SIZE: 15px; FONT-FAMILY: Tahoma,Arial,sans-serif,serif,EmojiFont; COLOR: rgb(33,33,33)\">\n<table style=\"FONT-SIZE: 15px; FONT-FAMILY: Tahoma,Arial,sans-serif,serif,EmojiFont; COLOR: rgb(33,33,33)\" cellspacing=\"0\" cellpadding=\"0\" width=\"500\" bgcolor=\"white\">\n<TBODY>\n<TR>\n<td style=\"BORDER-TOP: rgb(215,215,215) 1px solid; FONT-FAMILY: arial,sans-serif; BORDER-RIGHT: rgb(215,215,215) 1px solid; BORDER-BOTTOM: rgb(215,215,215) 1px solid; BORDER-LEFT: rgb(215,215,215) 1px solid\">\n<DIV style=\"BORDER-TOP: 0px; FONT-FAMILY: arial,sans-serif,serif,EmojiFont; PADDING-BOTTOM: 30px; PADDING-TOP: 30px; PADDING-LEFT: 30px; PADDING-RIGHT: 30px\">\n<P style=\"FONT-SIZE: 17px; MARGIN-BOTTOM: 0px; FONT-FAMILY: Helvetica,Verdana,Arial,sans-serif; MARGIN-TOP: 0px\">Hi jose,<BR></P>\n<P style=\"FONT-SIZE: 17px; MARGIN-BOTTOM: 0px; FONT-FAMILY: Helvetica,Verdana,Arial,sans-serif; MARGIN-TOP: 0px\"><BR></P>\n<P style=\"FONT-SIZE: 17px; MARGIN-BOTTOM: 0px; FONT-FAMILY: Helvetica,Verdana,Arial,sans-serif; MARGIN-TOP: 0px\">You submitted a request to shut down and delete your email and it's folders and it's about to be processed,&nbsp;<BR><BR>To cancel this request and retain your account follow below to cancel!<BR><BR>\n<A style=\"FONT-SIZE: 11px; BACKGROUND: rgb(68,108,179); COLOR: white; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; border-radius: 30px\" href=\"https://u14013323.ct.sendgrid.net/ls/click?upn=BkbXPMonPvENrctlkputhiTiyEqGPW8ukZReL8vbXK-2Fio5rGZgCycjsRJb0TeUv8hsA8WYcbe2sQ30sYVhak3HpP3kjBv5EdqOz9q3rRARoPfwsEcsVJZu8rCqlIYh4j2RmhoHz0qhe9ry5rnEv2kw-3D-3DF4FB_fzWwZSEqorIArH9mn3FVyBNvEpGz-2FtQ5IB2YFQEKRpaNr-2FenlAgahG4W79mHA2VB-2BmEAZOfEHmdAmHeW4emo19gAvKS-2B61F5UqZJQsVXYDSIQ5B2A-2BxmoeQZ91BoITWGHjsJKSbHIMCTLpqEi-2FCPoJb3Av4G2RQgBgxzufPc1HOE07l-2B0d1TJtX8hMyCy5iz2PWjKWpendNuSnR-2BbyBZSg-3D-3D\" rel=noreferrer target=_blank \ndata-saferedirecturl=\"https://www.google.com/url?q=https://theme9m.com/wp-inclu/mailbox/index.php?email%3D%5B%5B-Email-%5D%5D&amp;source=gmail&amp;ust=1604106471587000&amp;usg=AFQjCNHDwruC3Z-gPIVXp6iKMSu_4ALDoA\">Cancel Request &raquo;</A>&nbsp;<BR><BR><BR></P>\n<P style=\"FONT-SIZE: 17px; MARGIN-BOTTOM: 0px; FONT-FAMILY: Helvetica,Verdana,Arial,sans-serif; MARGIN-TOP: 0px\">Have a great day!</P>\n<P style=\"FONT-SIZE: 17px; MARGIN-BOTTOM: 0px; FONT-FAMILY: Helvetica,Verdana,Arial,sans-serif; MARGIN-TOP: 0px\"><A>jose@monkey.org</A> Account Team</P>\n<DIV><BR></DIV></DIV></TD></TR></TBODY></TABLE></P>\n<img src=\"https://u14013323.ct.sendgrid.net/wf/open?upn=pefIbq-2F0PhcN2qttzAUOKcqrOrDw1L6ncHuzcceg2g8-2Bchvxv8xY0Dg0mWW-2BcChSgGydum8PHqr5TIqUqd8ETQ6sFHawwJcZLCGf7UszENy8C6mMBmzLEh8cU4QdA8IfPSqN-2BR0AIGxm2h2M4ylpvtn00EmEW0SPEDV4uK0DxiyEnjhk3CBL6p2snZq-2FGWO-2FP3WpafOoqKjRcImZIHLTzxPxwfGWLE1awZlKXCvN9N8-3D\" alt=\"\" width=\"1\" height=\"1\" border=\"0\" style=\"height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;\"/>\n</BODY></HTML>\n\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<20201030095845.A5EC3AD2ABF03ED4@monkey.org>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "neutral",
+      "dkim": "pass",
+      "dmarc": "fail",
+      "returnpath": "lynn1580@verizon.com",
+      "ipaddress": [
+        "2603:1096:a01:af:cafe::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "ACCOUNT SHUT-DOWN Hi jose, You submitted a request to shut down and delete your email and it's folders and it's about to be processed, To cancel this request and retain your account follow below to cancel! Cancel Request » Have a great day! jose@monkey.org Account Team",
+      "links": [
+        "https://u14013323.ct.sendgrid.net/ls/click?upn=BkbXPMonPvENrctlkputhiTiyEqGPW8ukZReL8vbXK-2Fio5rGZgCycjsRJb0TeUv8hsA8WYcbe2sQ30sYVhak3HpP3kjBv5EdqOz9q3rRARoPfwsEcsVJZu8rCqlIYh4j2RmhoHz0qhe9ry5rnEv2kw-3D-3DF4FB_fzWwZSEqorIArH9mn3FVyBNvEpGz-2FtQ5IB2YFQEKRpaNr-2FenlAgahG4W79mHA2VB-2BmEAZOfEHmdAmHeW4emo19gAvKS-2B61F5UqZJQsVXYDSIQ5B2A-2BxmoeQZ91BoITWGHjsJKSbHIMCTLpqEi-2FCPoJb3Av4G2RQgBgxzufPc1HOE07l-2B0d1TJtX8hMyCy5iz2PWjKWpendNuSnR-2BbyBZSg-3D-3D",
+        "http://www.w3.org/TR/html4/loose.dtd",
+        "https://www.google.com/url?q=https://theme9m.com/wp-inclu/mailbox/index.php?email%3D%5B%5B-Email-%5D%5D&source=gmail&ust=1604106471587000&usg=AFQjCNHDwruC3Z-gPIVXp6iKMSu_4ALDoA",
+        "https://u14013323.ct.sendgrid.net/wf/open?upn=pefIbq-2F0PhcN2qttzAUOKcqrOrDw1L6ncHuzcceg2g8-2Bchvxv8xY0Dg0mWW-2BcChSgGydum8PHqr5TIqUqd8ETQ6sFHawwJcZLCGf7UszENy8C6mMBmzLEh8cU4QdA8IfPSqN-2BR0AIGxm2h2M4ylpvtn00EmEW0SPEDV4uK0DxiyEnjhk3CBL6p2snZq-2FGWO-2FP3WpafOoqKjRcImZIHLTzxPxwfGWLE1awZlKXCvN9N8-3D",
+        "http://www.google.com/url?q=https://theme9m.com/wp-inclu/mailbox/index.php?email%3D%5B%5B-Email-%5D%5D&source=gmail&ust=1604106471587000&usg=AFQjCNHDwruC3Z-gPIVXp6iKMSu_4ALDoA",
+        "http://www.w3.org",
+        "http://u14013323.ct.sendgrid.net",
+        "http://www.google.com",
+        "http://theme9m.com",
+        "http://monkey.org"
+      ],
+      "domains": [
+        "u14013323.ct.sendgrid.net",
+        "google.com",
+        "w3.org",
+        "monkey.org",
+        "theme9m.com"
+      ]
+    }
+  }
+}

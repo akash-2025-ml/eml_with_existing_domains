@@ -1,0 +1,83 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-28921ba6bb8aec4e80937dbcee06255d",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-28921ba6bb8aec4e80937dbcee06255d",
+    "emailcontent": {
+      "subject": "Imperdible compilado de yoga, masajes y mucho mas...",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "admin@security.hotmail.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "admin@security.hotmail.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "steve.leppard@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "jaozo@caramail.com"
+          }
+        }
+      ],
+      "receivedDateTime": "2007-05-05T05:57:46+06:00",
+      "sentDateTime": "2007-05-05T05:57:46+06:00",
+      "body": {
+        "contentType": "html",
+        "content": "\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \n\"http://www.w3.org/TR/html4/loose.dtd\"> \n<html>\n\n<head>\n<meta http-equiv=\"Content-Language\" content=\"es\">\n<meta name=\"GENERATOR\" content=\"Microsoft FrontPage 5.0\">\n<meta name=\"ProgId\" content=\"FrontPage.Editor.Document\">\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=windows-1252\">\n<title>Yoga, Masajes y Tcnicas de Relax</title>\n</head>\n\n<body>\n\n<p align=\"center\"><font face=\"Arial Narrow\"><b><font size=\"4\">Combatir el Stress \n- Disfrutar de la Vida<br>\n</font></b><font size=\"5\" color=\"#CC0000\">Yoga // Masajes // Tcnicas de \nRelajacin&nbsp; // Feng Shui // Aromaterapia<br>\n</font><font size=\"5\" color=\"#0099CC\">TODOS ESTOS TEMAS Y MUCHO MS<br>\nEN UN COMBO COMPLETO</font><font size=\"5\" color=\"#CC0000\"><br>\n<br>\n</font><b><font color=\"#CC0000\" size=\"6\">6 CDs COMPLETOS A $59.-<br>\n&nbsp;</font></b></font></p>\n<p align=\"center\"><font face=\"Arial Narrow\"><font size=\"5\">UN COMPILADO QUE HACE \nHISTORIA</font></font><font face=\"Arial Narrow\" size=\"5\"><br>\nLOS 6 CDs a un precio nico: $59.-</font><font face=\"Arial Narrow\" color=\"#0099CC\" size=\"4\"><br>\n<br>\n</font><font face=\"Arial Narrow\" size=\"6\" color=\"#FF0000\">TODO SE PUEDE IMPRIMIR</font><font face=\"Arial Narrow\"><font size=\"5\"><br>\n</font><font size=\"4\">Realice su pedido por E-mail:\n<a href=\"mailto:combocompleto6@gmail.com\">combocompleto6@gmail.com</a><br>\n<br>\n</font><font size=\"5\"> <br>\n</font><b>CONTENIDOS<br>\n<br>\n<font color=\"#CC0000\">CD 1: YOGA MASAJES Y TCNICAS DE RELAJACIN<br>\n</font></b>Curso Introductorio de Yoga: <br>\nQU ES YOGA?<br>\nCMO FUNCIONA EL YOGA?<br>\nALGUNAS RECOMENDACIONES Y PREVENCIONES<br>\nDNDE PRCTICAR YOGA?<br>\nCMO PREPARAR EL SITIO PARA NUESTROS EJERCICIOS?<br>\nCUNDO PRCTICAR NUESTROS EJERCICIOS?<br>\nCMO RESPIRAR COMO UN YOGI?<br>\nLOS EJERCICIOS Y SU PRCTICA<br>\nLOS EJERCICIOS CON EXPLICACIONES ACERCA DE LA TCNICA Y LOS BENEFICIOS DE CADA \nUNO<br>\nQU ES MEDITACIN?<br>\nQU ES UN MANTRA?<br>\nSU SALUD<br>\nEL YO SUPERIOR Y EL YO INFERIOR<br>\nDIETA RECOMENDADA<br>\nBREVE COMENTARIO ACERCA DE LA INDIA<br>\nYOGA Y CONOCIMIENTO<br>\nULTIMAS PALABRAS<br>\n<br>\nAprender A Meditar (5 Pgs..)<br>\nCurso de relajacin Bsico (9 Pgs..)<br>\nEl Libro Del Masaje (158 Pgs..)<br>\nTcnicas de relajacin (5 Pgs..)<br>\n<br>\n<br>\n<b><font color=\"#CC0000\">CD 2: FENG SHUI Y ACUPUNTURA<br>\n</font><br>\n*** FENG SHUI ***<br>\n</b>FENG SHUI BSICO<br>\nBAO<br>\nBOUTIQUE<br>\nCOLORES<br>\nCOMEDOR<br>\nComo construir una fuente de agua<br>\ncomo elegir una casa<br>\ncuarto de nios<br>\nestar<br>\nFeng Shui para conseguir empleo<br>\nFeng Shui para oficina<br>\nFeng Shui y Agua<br>\nFeng Shui y amor<br>\nmascotas<br>\n<b><br>\nLA PRACTICA DEL FENG SHUI EN CASA<br>\n</b>Posicin del escritorio<br>\nPalier<br>\nTest para evaluar la comunicacin en el hogar<br>\nTest para Parejas<br>\nVentanas<br>\n<br>\nIntroduccin al FENG SHUI<br>\n4 pilares<br>\nFENG SHUI para espacios comerciales<br>\nEL FENG SHUI<br>\n<br>\nCasa Fengshui<br>\nDecora al modo FENG SHUI<br>\nEL LIBRO DEL FENG SHUI (49 PGS..)<br>\nEL LIBRO DEL FENG SHUI 2(25 PGS..)<br>\nFENG SHUI en el amor<br>\nFENG SHUI Y Sus Beneficios<br>\nFENG SHUI. Curso avanzado de FENG SHUI<br>\nFundamentos Del FENG SHUI<br>\nHemisferios<br>\nLin yun - fengshui y el arte del color<br>\n<br>\n<b>****** EXTRAS CD 2********</b><br>\n<br>\n<b>** ACUPUNTURA **<br>\n</b>Acupuntura<br>\nAcupuntura Cinco Movimientos<br>\nAcupuntura Curso<br>\nAcupuntura-meridianos<br>\nAcupuntura-meridianos(2)<br>\nManual de Acupuntura - Medicina<br>\n<br>\n<b>** MSICA PARA FENG SHUI **<br>\n</b>Mas de 40 temas distintos para escuchar en la PC<br>\n<br>\n<br>\n<font color=\"#CC0000\"><b>CD 3: MASAJES ORIENTALES: CABEZA Y CUELLO<br>\n</b></font>IMPERDIBLE VIDEO CON EXPLICACIONES DE DIVERSOS TIPOS DE MASAJES EN \nTODAS LAS&nbsp; ZONAS DEL CUERPO!!!<br>\nPARA VER EN LA PC <u><b>O EN REPRODUCTORES DE DVD</b></u> CON SOPORTE PARA VCD \n!!!<br>\n<br>\n<br>\n<font color=\"#CC0000\"><b>CD 4: AROMATERAPIA Y MASAJES: RESTO DEL CUERPO<br>\n</b></font>IMPERDIBLE VIDEO CON EXPLICACIONES DE DIVERSOS TIPOS DE MASAJES EN \nDIVERSAS ZONAS DEL CUERPO!!!<br>\nPARA VER EN LA PC <u><b>O EN REPRODUCTORES DE DVD</b></u> CON SOPORTE PARA VCD \n!!!<br>\n<br>\n<br>\n<b><font color=\"#CC0000\">CD 5: AROMATERAPIA Y MASAJES (PREPARAR EL CD !!!)<br>\n</font></b>Alivia la tensin con masajes relajantes<br>\nCurso De Masaje Ertico<br>\nLos masajes contra el estrs y las dolencias musculares<br>\n<br>\n<br>\n<font color=\"#CC0000\"><b>CD 6: ENCICLOPEDIA DE YOGA INTERACTIVA<br>\n<br>\n</b></font><b>FSICO<br>\n</b>FOTOS<br>\nTCNICA<br>\nTIEMPO<br>\nCONCENTRACIN<br>\nEFECTOS<br>\nOBSERVACIONES<br>\nPOSTURA DE LA PINZA<br>\nLA POSTURA DEL SASTRE<br>\nLA POSTURA PERFECTA<br>\nPOSTURA DEL HROE<br>\nPOSTURA DE LA COBRA<br>\nMEDIA POSTURA DEL SALTAMONTES<br>\nPOSTURAS DE LA TORSIN<br>\nY MUCHSIMAS MAS!!<br>\n<br>\n<b>MENTAL<br>\n</b>LA MENTE: FABRICA DE DOLOR O BIENESTAR<br>\nLA ATENCIN MENTAL: FARO O GUA<br>\nTCNICAS PSICOMENTALES<br>\nCONOCER - TRANSFORMAR Y PURIFICAR LA MENTE, MAS ALL DE LA NEUROSIS<br>\n<br>\nOTROS YOGAS<br>\nEL YOGA DEL SONIDO<br>\nMANTRA-YOGA<br>\nKARMA-YOGA<br>\nMAHA-YOGA<br>\nGNANA-YOGA<br>\nBHAKTI-YOGA<br>\nKUNDALINI-YOGA<br>\nY MUCHOS MAS!!<br>\n<br>\nFBULAS<br>\nSE COMO UN MUERTO<br>\nUNA CAA DE BAMB PARA EL MAS TONTO<br>\nEL PEZ PREGUNTA A LA TORTUGA<br>\nEL HOMBRE ECUNIME<br>\nLOS SUEOS DE UN REY Y MUCHSIMO MAS!!!<br>\n<br>\nADEMS: &quot;GLOSARIO DE TRMINOS&quot;<br>\n&nbsp;</font></p>\n<p align=\"center\"><font size=\"5\" face=\"Arial Narrow\">MATERIAL 100% EN ESPAOL<br>\n&nbsp;</font></p>\n<p align=\"center\"><font face=\"Arial Narrow\"><strong><font color=\"#ff0000\" size=\"6\">\nLos envos son SIN CARGO EXTRA<br>\nPaga nicamente el producto a $59.-<br>\n</font><font color=\"#800000\" size=\"5\"><br>\nEnvos por Moto (Capital Federal): 24hs sin costo extra<br>\nEnvos por Correo Argentino (Interior y GBA): 3 a 6 das, sin costo extra.<br>\n<br>\n</font>\n</strong><font size=\"4\"><strong style=\"font-weight: 400\">Pedidos por e-mail:\n<a href=\"mailto:combocompleto6@gmail.com\">combocompleto6@gmail.com</a><br>\n</strong></font><strong style=\"font-weight: 400\">\nIndicando: <br>\nNombre y Apellido<br>\nDireccin:<br>\nLocalidad:<br>\nCd. Postal:<br>\nProvincia:<br>\nTelfono:<br>\n&nbsp;</strong></font></p>\n<p align=\"center\"><font face=\"Arial Narrow\"><strong style=\"font-weight: 400\">\nRemoverse de la lista indicando: &quot;rem07&quot;</strong></font></p>\n\n</body>\n\n</html>\n\n\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<27adfbb2-53f0-4c6f-97b0-c0fc8336dd79@generated>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "pass",
+      "dkim": "fail",
+      "dmarc": "fail",
+      "returnpath": "test@attack.com",
+      "ipaddress": [
+        "fe80::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Yoga, Masajes y Tcnicas de Relax Combatir el Stress - Disfrutar de la Vida Yoga // Masajes // Tcnicas de Relajacin // Feng Shui // Aromaterapia TODOS ESTOS TEMAS Y MUCHO MS EN UN COMBO COMPLETO 6 CDs COMPLETOS A $59.- UN COMPILADO QUE HACE HISTORIA LOS 6 CDs a un precio nico: $59.- TODO SE PUEDE IMPRIMIR Realice su pedido por E-mail: combocompleto6@gmail.com CONTENIDOS CD 1: YOGA MASAJES Y TCNICAS DE RELAJACIN Curso Introductorio de Yoga: QU ES YOGA? CMO FUNCIONA EL YOGA? ALGUNAS RECOMENDACIONES",
+      "links": [
+        "http://www.w3.org/TR/html4/loose.dtd",
+        "http://www.w3.org",
+        "http://gmail.com"
+      ],
+      "domains": [
+        "gmail.com",
+        "w3.org"
+      ]
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-7a6a4ef099f1daf9948895b03851635d",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-7a6a4ef099f1daf9948895b03851635d",
+    "emailcontent": {
+      "subject": "Jetzt bestellen und ein blaues Wunder erleben",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "ozlemipekci@gmail.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "ozlemipekci@gmail.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "carol.clair@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "marie.heard@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2007-06-22T10:02:54-01:00",
+      "sentDateTime": "2007-06-22T10:02:54-01:00",
+      "body": {
+        "contentType": "image/gif",
+        "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\">\n<HTML><HEAD><TITLE></TITLE>\n<META content=\"text/html; charset=us-ascii\" http-equiv=Content-Type>\n<META content=\"MSHTML 4.72.2106.4\" name=GENERATOR></HEAD>\n<BODY>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\">\n<style type=\"text/css\">\n<!--\nStil5 {font-size: 18px}\nStil8 {color: #FFFFFF}\n-->\n</style>\n</head><DIV>\n  <p><strong>\nDie Pille ist ein wahres Gluck, die Vorhaut geht von selbst zuruck!</strong><br>\n&#220;berraschen Sie doch Ihre Partnerin!<br>\nLust &#252;ber zwei Stunden nicht zu kommen?<br>\nNie mehr zu fr&#252;h kommen!</p>\n  <p><strong>- ohne Rezept<br>\n  - blitzschnelle Lieferung weltweit<br>\n  - diskreter Versand<br>\n  - Visa verifizierter Onlineshop</strong></p><br>\n    <span class=\"Stil5\">Jetzt bestellen - und bis zu 85% sparen</span></strong><br>\n<DIV><IMG src=\"cid:006901c7b4b4$80a728a0$0d5b8e54@1ZHU0B\" alt=\"\" hspace=0 align=baseline border=0></DIV></p>\n<p class=\"Stil8\">decision on the you feel that , and status inquiry  recommendations , which it. such an attitude  FOS with reference  In my investigation  against the firm and and status inquiry  2000 (letter to FSA dated 14 investment advisory service  the Firm to the. and credible investigation data,  provided, this letter sets   </p>\n    </DIV>\n\n</BODY></HTML>\n"
+      },
+      "hasAttachments": true,
+      "internetMessageId": "<01c7b4b4$80a728a0$0d5b8e54@dariuspukowitz>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "none",
+      "dkim": "fail",
+      "dmarc": "fail",
+      "returnpath": "ozlemipekci@gmail.com",
+      "ipaddress": [
+        "2603:1096:a01:1c7::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Die Pille ist ein wahres Gluck, die Vorhaut geht von selbst zuruck! Überraschen Sie doch Ihre Partnerin! Lust über zwei Stunden nicht zu kommen? Nie mehr zu früh kommen! - ohne Rezept - blitzschnelle Lieferung weltweit - diskreter Versand - Visa verifizierter Onlineshop Jetzt bestellen - und bis zu 85% sparen decision on the you feel that , and status inquiry recommendations , which it. such an attitude FOS with reference In my investigation against the firm and and status inquiry 2000 (letter t",
+      "links": [],
+      "domains": []
+    },
+    "attachments": [
+      {
+        "name": "file_name.gif",
+        "contentBytes": "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",
+        "contentType": "image/gif"
+      }
+    ]
+  }
+}

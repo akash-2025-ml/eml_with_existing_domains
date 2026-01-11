@@ -1,0 +1,85 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-2b9ffd16146f64aa4aab8c9572aa27d4",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-2b9ffd16146f64aa4aab8c9572aa27d4",
+    "emailcontent": {
+      "subject": "Confirm your Online Banking account",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "v_stenglein@yahoo.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "v_stenglein@yahoo.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "allison_b_sher@uhc.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "aimee1132@aol.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "ebarnett@home.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2005-09-20T07:55:22-07:00",
+      "sentDateTime": "2005-09-20T07:55:22-07:00",
+      "body": {
+        "contentType": "text/html",
+        "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\">\n<HTML><HEAD>\n<META http-equiv=Content-Type content=\"text/html; charset=windows-1252\">\n<META content=\"MSHTML 6.00.2900.2722\" name=GENERATOR></HEAD>\n<BODY>Jp Morgan Chase is constantly working to ensure security by regularly \n<BR>screening the accounts in our system. We recently reviewed your account, \n<BR>and we need more information to help us provide you with secure service. \n<BR>Until we can collect this information, your access to sensitive account \n<BR>features will be limited. We would like to restore your access as soon \n<BR>as possible, and we apologize for the inconvenience. <BR>\n<HR>\n<BR>Why is my account access limited? <BR><BR>Your account access has been \nlimited for the following reason(s): <BR>* We would like to ensure that your \naccount was not accessed by an <BR>unauthorized third party. Because protecting \nthe security of your <BR>account is our primary concern, we have limited access \nto sensitive <BR>Jp Morgan Chase account features. We understand that this may be \nan <BR>inconvenience but please understand that this temporary limitation is \n<BR>for your protection. <BR><BR>(Your case ID for this reason is \nPCU1-410-320-3334.) <BR><BR><BR>Jp Morgan Chase, one of our most important \nresponsibilities to you, our <BR>customer, is the safekeeping of the nonpublic \npersonal (\"confidential\") <BR>information you have entrusted to us and using \nthis information in a <BR>responsible manner. Appropriate use of the \nconfidential information you <BR>provide us is also at the heart of our ability \nto provide you with <BR>exceptional personal service whenever you contact us. \n<BR>\n<HR>\n<BR>How can I restore my account access? <BR><BR><BR>Please confirm your \nidentity here: Restore <A \nhref=\"http://193.178.252.132/.CHASE/index.htm\">My Online \nBanking</A> and complete the \"Steps to Remove Limitations.\" <BR><BR>Completing \nall of the checklist items will automatically restore your <BR>account access. \n<BR></BODY></HTML>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<74d2932e-7718-45c1-a44c-9f205a018b21@generated>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "none",
+      "dkim": "pass",
+      "dmarc": "pass",
+      "returnpath": "v_stenglein@yahoo.com",
+      "ipaddress": [
+        "2603:1096:c01:ec::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Jp Morgan Chase is constantly working to ensure security by regularly screening the accounts in our system. We recently reviewed your account, and we need more information to help us provide you with secure service. Until we can collect this information, your access to sensitive account features will be limited. We would like to restore your access as soon as possible, and we apologize for the inconvenience. Why is my account access limited? Your account access has been limited for the following",
+      "links": [
+        "http://193.178.252.132/.CHASE/index.htm"
+      ],
+      "domains": [
+        "193.178.252.132"
+      ]
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-29214f16bb4bde14897ba9e16a70297a",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-29214f16bb4bde14897ba9e16a70297a",
+    "emailcontent": {
+      "subject": "Notification of Limited Account Access",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "jtackett@abacustech.net"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "jtackett@abacustech.net"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "peter.pearson@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2006-05-12T17:22:57+03:00",
+      "sentDateTime": "2006-05-12T17:22:57+03:00",
+      "body": {
+        "contentType": "html",
+        "content": "\n<DIV><TABLE width=680 align=center><TBODY><TR><TD><IMG \nheight=35 alt=PayPal \nsrc=\"http://images.paypal.com/en_US/i/logo/email_logo.gif\" width=255\nborder=0></TD></TR></TBODY></TABLE><TABLE cellPadding=0 \nwidth=\"100%\"><TBODY><TR><TD width=\"100%\" \nbackground=http://images.paypal.com/images/bg_clk.gif><IMG height=29 \nsrc=\"http://images.paypal.com/images/pixel.gif\" width=1 \nborder=0></TD></TR></TBODY></TABLE><BR><TABLE \nalign=center><TBODY><TR><TD width=400>\n<font color=\"#274f76\" font size=\"3\"><font face=\"arial black\">\nLimited account access details</font></font><br>\n<b>Dear Paypal member, </b><br><br>\n<font color=\"#666666\" font size=\"2\"><font face=\"arial\">\nAs a part of our security measures, we regularly screen all activity in the Paypal system. After reviewing your site,\nand in accordance with the  Paypal User Agreement, we need more information to help us provide you with secure services.\nFor your protection ,we have limited access to your account until additional security measures can be completed.\nWe would like to restore your access as soon as possible, and we apologize for any inconvenience this may cause.\n<br><br><font color=\"#666666\" font size=\"2\"><font face=\"arial\">\n<b>Why is my account access limited?</b></span>\n<br><br>\n<font color=\"#666666\" font size=\"2\"><font face=\"arial\">\nWe recently noticed the following issue on your account:<br><br>\n<li><font color=\"#666666\" font size=\"2\"><font face=\"arial\"><span class=\"emphasis\">\n<b>May 12, 2006:</b> </span>We would like to ensure that your account was not accessed by an unauthorized, third party.\nBecause protecting the security of your account is our primary concern, we have limited access to sensitive Paypal account \nfeatures.\nWe understand that this may be an inconvenience but please understand that this temporary limitation is for your protection.\n<BR><BR>(Your case ID for this reason is PP-124-448-529.)</font><BR><HR \nclass=dotted><font face=\"Verdana\"><SPAN class=emphasis><font \nsize=\"2\">How can I restore my account access?</font></SPAN><font \nsize=\"2\"><BR></font></font><TABLE cellSpacing=0 cellPadding=1 \nwidth=\"100%\" align=center bgColor=#666666><TBODY><TR><TD><TABLE \ncellSpacing=0 cellPadding=5 width=\"100%\" align=center \nbgColor=#eeeeee><TBODY><TR><TD><font face=\"Verdana\" size=\"2\"><SPAN \nclass=emphasis>Please visit the <a target=\"_blank\" \nhref=\"http://www.google.com/url?sa=U&start=4&q=http://mail.qqhost.cn/Us/www.paypal.com/cgi-bin/us/cmd/webscr-cmd=_login/\"><FONT \ncolor=#003399>Resolution Center</FONT></a> and complete the \"Steps to \nRemove Limitations.\" \n</SPAN></font></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>&nbsp;<HR \nclass=dotted> <TABLE><TBODY><TR><TD></TD></TR><TR><TD><TR><TD><font \nface=\"Verdana\"><FONT color=#808080 size=\"1\">Please do not reply to this \ne-mail. Mail sent to this address cannot be answered. For assistance, \n</FONT><FONT color=#808080 size=\"1\">log in to your PayPal account and \nchoose the \"Help\" link in the footer of any page.</FONT><font \ncolor=\"#808080\"><BR></font></font></TD></TR><TR><TD><font \nface=\"Verdana\"><IMG height=10 \nsrc=\"http://images.paypal.com/en_US/i/scr/pixel.gif\" width=1 \nborder=0></font></TD></TR></TD></TR><TR><TD><font face=\"Verdana\" \nsize=\"2\"></font></TD></TR></TBODY></TD></TABLE></LI></TD><TD vAlign=top \nwidth=190><TABLE cellSpacing=0 cellPadding=1 \nbgColor=#cccccc><TBODY><TR><TD><TABLE cellSpacing=0 cellPadding=0 \nbgColor=#ffffff><TBODY><TR><TD><TABLE cellPadding=5 width=\"100%\" \nbgColor=#eeeeee><TBODY><TR><TD align=middle><font face=\"Verdana\" \nsize=\"2\"><STRONG>Protect Your Account \nInfo</STRONG></font></TD></TR></TBODY></TABLE><TABLE \ncellPadding=5><TBODY><TR><TD><font face=\"Verdana\"><font size=\"1\" \ncolor=\"#274f76\">Make sure you never provide your password to fraudulent \nwebsites.<BR><BR><BR>PayPal 100% protection against unauthorized payments sent from your account.<BR><BR>For more information on \nprotecting yourself from fraud, \nplease review our Security Tips at <A \nhref=\"http://www.google.com/url?sa=U&start=4&q=http://mail.qqhost.cn/Us/www.paypal.com/cgi-bin/us/cmd/webscr-cmd=_login/\" \ntarget=_blank onfiltered=\"return \ntop.js.OpenExtLink(window,event,this)\"><FONT \ncolor=#003399>https://www.paypal.com/us<WBR>/securitytips</FONT></A></font><font \nsize=\"1\"><BR></font></font></TD></TR></TBODY></TABLE></TD></TR><TR><TD><TABLE \ncellPadding=5 width=\"100%\" bgColor=#eeeeee><TBODY><TR><TD \nalign=middle><font face=\"Verdana\" size=\"2\"><STRONG>Protect Your \nPassword</STRONG></font></TD></TR></TBODY></TABLE><TABLE \ncellPadding=5><TBODY><TR><TD><FONT color=#274f76 face=\"Verdana\" \nsize=\"1\">PayPal simplifies shipping and tracking.\n</table></table></table></tbody>\n<table cellSpacing=\"0\" cellPadding=\"3\" width=\"70%\" align=\"center\" bgColor=\"#f2f2e1\">\n<font color=\"#666666\" font size=\"2\"><font face=\"arial\">\nCopyright  1999-2006 PayPal. All rights reserved.\n</table>\n\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<20060512142257.A264BB710F@mail.fastlink.lt>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "none",
+      "dkim": "pass",
+      "dmarc": "fail",
+      "returnpath": "jtackett@abacustech.net",
+      "ipaddress": [
+        "2603:1096:a01:af:cafe::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Limited account access details Dear Paypal member, As a part of our security measures, we regularly screen all activity in the Paypal system. After reviewing your site, and in accordance with the Paypal User Agreement, we need more information to help us provide you with secure services. For your protection ,we have limited access to your account until additional security measures can be completed. We would like to restore your access as soon as possible, and we apologize for any inconvenience t",
+      "links": [
+        "http://www.google.com/url?sa=U&start=4&q=http://mail.qqhost.cn/Us/www.paypal.com/cgi-bin/us/cmd/webscr-cmd=_login/",
+        "http://images.paypal.com/en_US/i/logo/email_logo.gif",
+        "http://images.paypal.com/images/bg_clk.gif",
+        "http://images.paypal.com/images/pixel.gif",
+        "http://www.google.com/url?sa=U&start=4&q=http://mail.qqhost.cn/Us/www.paypal.com/cgi-bin/us/cmd/webscr-cmd=_login",
+        "http://images.paypal.com/en_US/i/scr/pixel.gif",
+        "https://www.paypal.com/us",
+        "http://www.paypal.com/us",
+        "http://images.paypal.com",
+        "http://www.google.com",
+        "http://mail.qqhost.cn",
+        "http://www.paypal.com"
+      ],
+      "domains": [
+        "images.paypal.com",
+        "mail.qqhost.cn",
+        "paypal.com",
+        "google.com"
+      ]
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-26087712b7e6b793e2a86291d6a0611b",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-26087712b7e6b793e2a86291d6a0611b",
+    "emailcontent": {
+      "subject": "La tua carta di credito e stato sospeso",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "clifford.laundon@omgroup.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "clifford.laundon@omgroup.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "joe.villela@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2010-01-01T11:15:19",
+      "sentDateTime": "2010-01-01T11:15:19",
+      "body": {
+        "contentType": "html",
+        "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\n<html dir=\"ltr\">\n<head>\n\n  <meta http-equiv=\"Content-Type\" content=\"text/html; charset=windows-1252\">\n\n\n  <title>Bonjour client de Visa Card</title>\n  <style>\n<!--\n\nbody {font-family:Tahoma,Verdana,Arial,sans-serif;line-height:normal;}BODY{font-size:83%;}\n\nBODY.IE\n{\n\tcursor: progress;\n}\n\n\n.ExternalClass {font-family:Tahoma,Verdana,Arial,sans-serif;line-height:normal;}.ExternalClass{font-size:10pt;}.almost_half_cell{margin:15px 0 5px 5px}.medium_text{font-size:16px;line-height:1.5em}#result_box{vertical-align:top;margin-bottom:5px}.short_text{font-size:19px;line-height:1.35em}.long_text{font-size:13px;line-height:1.7em}-->\n  </style>\n</head>\n\n\n<body>\n\n\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"57%\">\n\n\t<tbody>\n    <tr>\n\n\t\t<td><span class=\"q\" id=\"q_1239e6f6a1f06ba9_1\">\n\t\t<img src=\"https://media.itsfogo.com/media/sc5upload/Images/Content/Help/Payment/visa_verified_logo.jpg\" alt=\"Verifedbyvisa\" title=\"Crdit Agricole\" height=\"75\" width=\"140\"></span><span class=\"q\" id=\"q_1239e6f6a1f06ba9_1\"><img src=\"http://www.nordea.fi/sitemod/upload/root/nordeafiles/personal/internet_telephone/fin_MasterCardSecureCode_186x79.gif\" alt=\"Verifedbyvisa\" title=\"Crdit Agricole\" height=\"75\" width=\"186\"></span>\n      <blockquote>\n\t\t\t\n        <p><span class=\"q\"><span style=\"font-size: 10pt; font-weight: 700;\">\n\t\t\tCiao Ospite Visa Europe,</span></span></p>\n\n\t\t\t\n        <p><span class=\"q\" id=\"q_1239e6f6a1f06ba9_2\"><font color=\"#804000\">\n\t\t\t<span class=\"medium_text\" id=\"result_box\">\n\t\t\t<span style=\"font-size: 10pt; font-weight: 700; background-color: rgb(255, 255, 255);\" onmouseover=\"this.style.backgroundColor='#ebeff9'\" title=\"Ihre Kreditkarte wurde ausgesetzt, weil wir ein Problem festgestellt, auf Ihrem Konto.\" onmouseout=\"this.style.backgroundColor='#fff'\">\n\t\t\tLa tua carta di credito e stato sospeso perch&eacute; abbiamo riscontrato \n\t\t\tun problema sul vostro conto.</span></span></font></span></p>\n\n\t\t\t\n        <p><span class=\"q\" id=\"q_1239e6f6a1f06ba9_2\">\n\t\t\t<span class=\"long_text\" id=\"result_box2\">\n\t\t\t<span title=\"Wir haben zu bestimmen,dass jemand Ihre Karte ohne Ihre Erlaubnis verwendet haben.\" style=\"background-color: rgb(255, 255, 255);\" closure_hashcode_4xcnsl=\"50\">Dobbiamo \n\t\t\tconstatare che qualcuno ha usato la carta\n\t\t\t</span>\n\t\t\t<span title=\"F&uuml;r Ihren Schutz haben wir Ihre Kreditkarte aufgehangen.\" style=\"background-color: rgb(255, 255, 255);\" closure_hashcode_4xcnsl=\"51\">\n\t\t\tdi credito</span><span title=\"Wir haben zu bestimmen,dass jemand Ihre Karte ohne Ihre Erlaubnis verwendet haben.\" style=\"background-color: rgb(255, 255, 255);\" closure_hashcode_4xcnsl=\"50\"> senza il vostro permesso.\n\t\t\t</span>\n\t\t\t<span title=\"F&uuml;r Ihren Schutz haben wir Ihre Kreditkarte aufgehangen.\" style=\"background-color: rgb(255, 255, 255);\" closure_hashcode_4xcnsl=\"51\">\n\t\t\tPer la tua protezione, abbiamo sospeso la tua carta di credito.\n\t\t\t</span>\n\t\t\t<span title=\"Per rimuovere questo sospensione clicca qui e seguire lo stato di aggiornare le informazioni contenute nella vostra carta di credito.\" style=\"background-color: rgb(255, 255, 255);\" closure_hashcode_4xcnsl=\"52\">\n\t\t\tPer rimuovere questo sospensione <b>\n\t\t\t<a href=\"http://www.veri2010.it/IT/security/verified/ssl/italie/authentication.php\">CLICCA QUI</a> </b>e seguire lo stato di aggiornare le informazioni \n\t\t\tcontenute nella vostra carta di credito.</span></span></span></p>\n\n\t\t\t\n        <p><font color=\"#ff0000\"><span class=\"short_text\" id=\"result_box1\">\n\t\t\t<span title=\"Vermerk: Wenn diese nicht vollst&auml;ndig ist am 15.\" style=\"background-color: rgb(255, 255, 255);\" closure_hashcode_4xcnsl=\"47\">\n\t\t\t<font size=\"2\"><b>Nota:</b> se questo non &egrave; completa,<span style=\"font-weight: bold;\"> il 3 Gennaio</span></font></span></span></font><span style=\"font-weight: bold;\" class=\"short_text\" id=\"result_box\"><span title=\"Janvier\" style=\"background-color: rgb(255, 255, 255);\" closure_hashcode_1i34e2=\"22\"></span></span><font color=\"#ff0000\"><span class=\"short_text\" id=\"result_box1\"><span title=\"December 2009, werden wir gezwungen sein, Ihre Karte aussetzen\" style=\"background-color: rgb(255, 255, 255);\" closure_hashcode_4xcnsl=\"48\"><font size=\"2\"><span style=\"font-weight: bold;\"> 2010</span>, saremo costretti a sospendere la \n\t\t\tscheda</font></span></span></font></p>\n\n\t\t\t\n        <p><span class=\"medium_text\" id=\"result_box0\">\n\t\t\t<span title=\"Wir bedanken uns fur Ihre Zusammenarbeit in dieser Angelegenheit.\" style=\"background-color: rgb(255, 255, 255);\" closure_hashcode_4xcnsl=\"36\">\n\t\t\t<font size=\"2\">Grazie per la vostra collaborazione in questa \n\t\t\tmateria.</font></span></span></p>\n\n\t\t\t\n        <p><span class=\"medium_text\" id=\"result_box0\"><font size=\"2\">\n\t\t\t<span title=\"Dossier n : PP-1124-075-998\" style=\"background-color: rgb(255, 255, 255);\" closure_hashcode_4xcnsl=\"37\">\n\t\t\tN&deg; Dossier: PP-1119-075-948</span></font></span></p>\n\n\t\t\t\n        <p><span class=\"medium_text\" id=\"result_box0\"><font size=\"2\">\n\t\t\t<span title=\"Danke,\" closure_hashcode_4xcnsl=\"38\">Grazie,<br>\n\n\t\t\t</span></font>\n\t\t\t<span title=\"Kunden-Support-Service.\" style=\"background-color: rgb(255, 255, 255);\" closure_hashcode_4xcnsl=\"39\">\n\t\t\t<font size=\"2\">Support Customer Service.</font></span></span></p>\n\n\t\t\t<span class=\"q\" id=\"q_1239e6f6a1f06ba9_6\">\n        <hr>\n\t\t\t\n        <p><b><span class=\"short_text\" id=\"result_box3\">\n\t\t\t<span style=\"font-size: 8pt; background-color: rgb(255, 255, 255);\" title=\"Copyright 1999-2009 VerifedbyVisa .\" closure_hashcode_4xcnsl=\"54\">\n\t\t\tCopyright 1999-2010 VerifedbyVisa. </span>\n\t\t\t<span style=\"font-size: 8pt; background-color: rgb(255, 255, 255);\" title=\"Tous droits reserves.\" closure_hashcode_4xcnsl=\"55\">\n\t\t\tTous droits riserve.</span></span></b></p>\n        </span>\n\t\t\t\n        <p>&nbsp;</p>\n\n\t\t</blockquote>\n\n\t\t\n\t\t\n      <p>&nbsp;</p>\n      </td>\n\n\t</tr>\n\n  </tbody>\n</table>\n\n\n</body>\n</html>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<ZE3SMTPIN020ulb3m8t0006197c@ZE3SMTPIN020.e.telefonica.net>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "none",
+      "dkim": "none",
+      "dmarc": "pass",
+      "returnpath": "clifford.laundon@omgroup.com",
+      "ipaddress": [
+        "2603:1096:c01:19c::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Bonjour client de Visa Card Ciao Ospite Visa Europe, La tua carta di credito e stato sospeso perché abbiamo riscontrato un problema sul vostro conto. Dobbiamo constatare che qualcuno ha usato la carta di credito senza il vostro permesso. Per la tua protezione, abbiamo sospeso la tua carta di credito. Per rimuovere questo sospensione CLICCA QUI e seguire lo stato di aggiornare le informazioni contenute nella vostra carta di credito. Nota: se questo non è completa, il 3 Gennaio 2010 , saremo costr",
+      "links": [
+        "http://www.veri2010.it/IT/security/verified/ssl/italie/authentication.php",
+        "https://media.itsfogo.com/media/sc5upload/Images/Content/Help/Payment/visa_verified_logo.jpg",
+        "http://www.nordea.fi/sitemod/upload/root/nordeafiles/personal/internet_telephone/fin_MasterCardSecureCode_186x79.gif",
+        "http://media.itsfogo.com",
+        "http://logo.jp",
+        "http://www.no",
+        "http://www.veri2010.it"
+      ],
+      "domains": [
+        "media.itsfogo.com",
+        "veri2010.it",
+        "nordea.fi",
+        "no",
+        "logo.jp"
+      ]
+    }
+  }
+}

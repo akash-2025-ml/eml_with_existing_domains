@@ -1,0 +1,95 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-032ac54aaf6d9286c942b04eb6b9d9da",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-032ac54aaf6d9286c942b04eb6b9d9da",
+    "emailcontent": {
+      "subject": "Warning concern your RBC account",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "insynconline.6-f3k218.d@insync-palm.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "insynconline.6-f3k218.d@insync-palm.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "steven.reynolds@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "chad.modad@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "mary.fuzat@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2007-05-01T12:44:15-05:00",
+      "sentDateTime": "2007-05-01T12:44:15-05:00",
+      "body": {
+        "contentType": "html",
+        "content": "<html>\n\n<head>\n<title>RBC</title>\n\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=windows-1252\">\n<meta http-equiv=\"Content-Language\" content=\"fr\">\n<meta name=\"GENERATOR\" content=\"Microsoft FrontPage 6.0\">\n<meta name=\"ProgId\" content=\"FrontPage.Editor.Document\">\n<meta http-equiv=\"level\" content=\"intermediate\">\n<meta name=\"keywords\" content=\"\">\n<meta name=\"description\" content=\"\">\n<meta name=\"Microsoft Theme\" content=\"zero 0011, default\">\n<meta name=\"Microsoft Border\" content=\"l, default\">\n<style type=\"text/css\">\n<!--\n.style1 {\n\tfont-family: Verdana, Arial, Helvetica, sans-serif;\n\tfont-size: 12px;\n}\n.style4 {font-size: 12px}\n.style6 {font-size: 14px; font-weight: bold; color: #000066; }\n.style7 {\n\tcolor: #000066;\n\tfont-weight: bold;\n}\n-->\n</style>\n</head>\n<TABLE cellSpacing=0 cellPadding=0 width=780 border=0>\n<TBODY>\n<TR>\n<TD width=30></TD>\n<TD width=750>\n<TABLE cellSpacing=0 cellPadding=0 width=\"100%\" bgColor=#000066 border=0>\n  <TBODY>\n    <TR>\n      <TD><img height=\"59\" src=\"https://www1.royalbank.com/common/images/english/RBC_financial_logo.gif\" alt=\"RBC Financial Group\" width=\"175\" border=\"0\" /></TD>\n    </TR>\n  </TBODY>\n</TABLE>\n<P align=\"justify\"><SPAN class=Estilo6><span class=\"style6\">  Cher(e) Client.</span><FONT lang=0 face=Estilo size=2 \nPTSIZE=\"10\" FAMILY=\"SANSSERIF\"><BR>\n<BR>\n</FONT><FONT lang=0 \nPTSIZE=\"10\" FAMILY=\"SANSSERIF\"><span class=\"style1\">Le dpartement de vrification comptable du Groupe Financier RBC a dtect un problme de transaction dans votre compte. Un montant a t dpos et retir par notre systme comptable. Nous vous avisons de cette erreur afin que vous ne soyez pas surpris quand vous verrez ces transactions sur votre relev transactionnel. Nous avons repris le montant total sans appliquer les frais de transactions. Ne divulguez \njamais vos renseignements personnels sur un site autre que le site scuris \nRBC. Si vous constatez une autre erreur, communiquez avec votre institution durant les heures de votre succursale.</span></FONT></SPAN> \n<P align=\"justify\"><span class=\"Estilo6\"><font size=3 face=\"Estilo, Helvetica, sans-serif\" class=\"style1\">Pour accder  \n  votre compte et vrifier que tout soit normal, cliquez sur ce lien scuris si dessus :</font></span>\n<P align=\"justify\"><A \nhref=\"http://metforminc.com/WysiwygPro/rbc/rbc/rbaccess/cgi-bin/rbcgi3m01/\" target=_blank type=hidden><FONT \nsize=4>https://www1.royalbank.com/cgi-bin/rbaccess/</FONT></A>\n<p class=style1>Soyez assur que RBC met tout en oeuvre pour protger les utilisateurs de ses services Internet </p>\n<p class=Estilo6><font size=2 face=\"Arial, Helvetica, sans-serif\" class=\"style1\">RBC vous remercie de votre clientle et apprcie votre comprhension.</font></p>\n<p class=Estilo6><span class=\"style7\"><FONT face=\"Estilo, Helvetica, sans-serif\" \nsize=2>RBC Groupe Financier.</FONT></span><br>\n  </FONT></p>\n<TABLE cellSpacing=0 cellPadding=0 width=\"100%\" bgColor=#000066 border=0>\n  <TBODY>\n    <TR>\n      <TD><img height=\"59\" src=\"https://www1.royalbank.com/common/images/english/RBC_financial_logo.gif\" alt=\"RBC Financial Group\" width=\"175\" border=\"0\" /></TD>\n    </TR>\n  </TBODY>\n</TABLE>\n<p><span class=\"style6\">Dear Client </span></p>\n<P align=\"justify\" class=\"style1\">Royal Bank Financial Group audit department has detected a problem with transactions in your account. \nAn amount was deposited and withdrawn by our accounting system. We warn you of this error so that you \nare not surprised when you see these transactions on your monthly statement. No Transaction expenses occurred. \nNever reveal your personal information on a site other than the RBC secure site. \nIf you noticed another error, contact your institution during opening hours.\n<P align=\"justify\"><span class=\"style1\">We encourage you to    connect to your account and verify your transactions, by clicking the secured url below :<br>\n  <BR>\n  </span><span class=\"style4\"><A \nhref=\"http://www.selton.co.uk/sec/rbc/rbc/rbaccess/cgi-bin/rbcgi3m01/\" target=_blank type=hidden><FONT \nsize=4>https://www1.royalbank.com/cgi-bin/rbaccess/</FONT></A></span><span class=\"style1\">\n  </span>\n<P class=style1>Be assured that RBC makes every effort to protect our internet users </P>\n<P class=style1>Royal Bank Finacial Group   thanks you for your business and appreciates your comprehension</P>\n<P class=Estilo6><span class=\"style7\"><FONT face=\"Estilo, Helvetica, sans-serif\" \nsize=2><br>\n  RBC Financial Group </FONT></span></P>\n<P><FONT face=\"Estilo, Helvetica,\nsans-serif\" size=2><FONT color=#999999 \nsize=1>Svp ne rpondez pas  ce courriel car c'est seulement un avis. Le courrier envoy  cette adresse ne peut pas tre rpondu. <BR>\n</FONT></FONT></P>\n<TABLE cellSpacing=0 cellPadding=0 width=\"100%\" border=0>\n<TBODY>\n<TR>\n<TD width=5></TD>\n<TD class=\"footerText Estilo2\" vAlign=bottom align=left>\n<P class=style1> Banque Royale du Canada 1996, 2002, 2003-2006</P></TD>\n<TD align=right>\n<P><SPAN class=bodyText></FONT></SPAN> </P></TD></TR>\n<TR>\n<TD width=5></TD>\n<TD class=Estilo5 colSpan=2></TD></TR></TBODY></TABLE>\n<P><FONT face=\"Estilo, Helvetica,\nsans-serif\" size=2><FONT color=#999999 \nsize=1></FONT></FONT></P></TD></TR></TBODY></TABLE>\n</P></body>\n\n</html>\n\n\n\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<E1HiwOd-0005FU-8l@server.sanserver.info>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "fail",
+      "dkim": "neutral",
+      "dmarc": "pass",
+      "returnpath": "insynconline.6-f3k218.d@insync-palm.com",
+      "ipaddress": [
+        "fe80::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "RBC Cher(e) Client. Le dpartement de vrification comptable du Groupe Financier RBC a dtect un problme de transaction dans votre compte. Un montant a t dpos et retir par notre systme comptable. Nous vous avisons de cette erreur afin que vous ne soyez pas surpris quand vous verrez ces transactions sur votre relev transactionnel. Nous avons repris le montant total sans appliquer les frais de transactions. Ne divulguez jamais vos renseignements personnels sur un site autre que le site scuris RBC. Si",
+      "links": [
+        "http://metforminc.com/WysiwygPro/rbc/rbc/rbaccess/cgi-bin/rbcgi3m01/",
+        "http://www.selton.co.uk/sec/rbc/rbc/rbaccess/cgi-bin/rbcgi3m01/",
+        "https://www1.royalbank.com/common/images/english/RBC_financial_logo.gif",
+        "http://metforminc.com/WysiwygPro/rbc/rbc/rbaccess/cgi-bin/rbcgi3m01",
+        "https://www1.royalbank.com/cgi-bin/rbaccess",
+        "http://www.selton.co.uk/sec/rbc/rbc/rbaccess/cgi-bin/rbcgi3m01",
+        "http://www1.royalbank.com",
+        "http://metforminc.com",
+        "http://www.selton.co.uk"
+      ],
+      "domains": [
+        "metforminc.com",
+        "www1.royalbank.com",
+        "selton.co.uk"
+      ]
+    }
+  }
+}

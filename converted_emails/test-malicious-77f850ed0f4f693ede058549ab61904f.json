@@ -1,0 +1,103 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-77f850ed0f4f693ede058549ab61904f",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-77f850ed0f4f693ede058549ab61904f",
+    "emailcontent": {
+      "subject": "[spam] (100) Wamu Security Notification !",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "pofjpehq2247@cyberbase.email"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "pofjpehq2247@cyberbase.email"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "barry.tycholiz@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "jonathan.horne@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "jay.reitmeyer@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2006-05-31T16:25:05-04:00",
+      "sentDateTime": "2006-05-31T16:25:05-04:00",
+      "body": {
+        "contentType": "html",
+        "content": "<html>\n\n<head>\n<meta http-equiv=\"Content-Language\" content=\"en-us\">\n<meta name=\"GENERATOR\" content=\"Namo WebEditor v5.0(Trial)\">\n<meta name=\"ProgId\"\ncontent=\"FrontPage.Editor.Document\">\n<meta http-equiv=\"Content-Type\" content=\"text/html;\ncharset=windows-1252\">\n<title>New Page 3</title>\n<style>\n<!--\n#message td {font-family:\nverdana,arial,helvetica,sans-serif;font-size:\n12px;color: #000000;}\n#message .pp_heading {font-family:\nverdana,arial,helvetica,sans-serif;font-size:\n18px;font-weight: bold;color: #003366;}\n#message .pp_sansserif{font-family:\nverdana,arial,helvetica,sans-serif; font-size:\n16px;color: #000000;}\n#message hr.dotted {width: 100%; margin-top: 0px;\nmargin-bottom: 0px; border-left:\n#fff; border-right: #fff; border-top: #fff;\nborder-bottom: 2px dotted #ccc;}\n#message .pp_footer {font-family:\nverdana,arial,helvetica,sans-serif;font-size:\n11px;color: #aaaaaa;}\n-->\n</style>\n<style type=\"text/css\">\n#message .dummy {}\n#message td {font-family:\nverdana,arial,helvetica,sans-serif;font-size:\n12px;color: #000000;}\n#message {font-family:\nverdana,arial,helvetica,sans-serif;font-size:\n12px;color: #000000;}\n#message LI {line-height: 120%;}\n#message UL.ppsmallborder {margin:10px 5px 10px 20px;}\n#message LI.ppsmallborderli {margin:0px 0px 5px 0px;}\n#message UL.pp_narrow {margin:10px 5px 0px 40px;}\n#message hr.dotted {width: 100%; margin-top: 0px;\nmargin-bottom: 0px; border-left:\n#fff; border-right: #fff; border-top: #fff;\nborder-bottom: 2px dotted #ccc;}\n#message .pp_label {font-family:\nverdana,arial,helvetica,sans-serif;font-size:\n10px;font-weight: bold;color: #000000;}\n#message .pp_serifbig {font-family: serif;font-size:\n20px;font-weight: bold;color:\n#000000;}\n#message .pp_serif{font-family: serif;font-size:\n16px;color: #000000;}\n#message .pp_sansserif{font-family:\nverdana,arial,helvetica,sans-serif; font-size:\n16px;color: #000000;}\n#message .pp_heading {font-family:\nverdana,arial,helvetica,sans-serif;font-size:\n18px;font-weight: bold;color: #003366;}\n#message .pp_subheadingeoa {font-family:\nverdana,arial,helvetica,sans-serif;font-size:\n15px;font-weight: bold;color:\n#000000;}\n#message .pp_subheading {font-family:\nverdana,arial,helvetica,sans-serif;font-size:\n16px;font-weight: bold;color: #003366;}\n#message .pp_sidebartext {font-family:\nverdana,arial,helvetica,sans-serif;font-size:\n11px;color: #003366;}\n#message .pp_sidebartextbold {font-family:\nverdana,arial,helvetica,sans-serif;font-size:\n11px;font-weight: bold;color:\n#003366;}\n#message .pp_footer {font-family:\nverdana,arial,helvetica,sans-serif;font-size:\n11px;color: #aaaaaa;}\n#message .pp_button {font-size: 13px; font-family:\nverdana,arial,helvetica,sans-serif; font-weight: 400;\nborder-style:outset;\ncolor:#000000; background-color: #cccccc;}\n#message .pp_smaller {font-family:\nverdana,arial,helvetica,sans-serif;font-size:\n10px;color: #000000;}\n#message .pp_smallersidebar {font-family:\nverdana,arial,helvetica,sans-serif;font-size:\n10px;color: #003366;}\n#message .ppem106 {font-weight: 700;}\n  </style>\n</head>\n\n<body>\n\n<table class=\"messageheader\" cellSpacing=\"0\"\ncellPadding=\"0\" width=\"100%\" border=\"0\">\n  <tr>\n    <td>&nbsp;</td>\n  </tr>\n</table>\n<div id=\"message\" style=\"font-family:\nverdana,arial,helvetica,sans-serif; font-size: 12px;\ncolor: #000000\">\n  <xmeta Content=\"Microsoft DHTML Editing Control\"\nNAME=\"GENERATOR\" />\n  <xbody />\n    <table cellSpacing=\"0\" cellPadding=\"0\" width=\"600\"\nalign=\"center\" border=\"0\">\n    <tr vAlign=\"top\">\n      <td style=\"font-family:\nverdana,arial,helvetica,sans-serif; font-size: 12px;\ncolor:\n#000000\">\n      \n      <a\nhref=\"https://login.personal.wamu.com/logon/logon.asp?dd=1\"\ntarget=\"_blank\"><img alt=\"wamu.com\"\nsrc=\"https://login.personal.wamu.com/images/wamucom_logo.gif\"\nborder=\"0\"\nwidth=\"255\" height=\"35\"></a>\n      </td>\n    </tr>\n  </table>\n  <table cellSpacing=\"0\" cellPadding=\"0\" width=\"100%\"\nborder=\"0\">\n    <tr>\n      <td width=\"100%\" style=\"font-family:\nverdana,arial,helvetica,sans-serif; font-size: 12px;\ncolor:\n#000000\">\n      <img height=\"10\"\nsrc=\"http://images.paypal.com/images/pixel.gif\"\nwidth=\"1\"\nborder=\"0\"></td>\n    </tr>\n  </table>\n  <table cellSpacing=\"0\" cellPadding=\"0\" width=\"600\"\nalign=\"center\" border=\"0\">\n    <tr vAlign=\"top\">\n      <td width=\"400\" style=\"font-family:\nverdana,arial,helvetica,sans-serif; font-size: 12px;\ncolor: #000000\">\n      <table cellSpacing=\"0\" cellPadding=\"5\"\nwidth=\"100%\" border=\"0\">\n        <tr vAlign=\"top\">\n          <td style=\"font-family:\nverdana,arial,helvetica,sans-serif; font-size: 12px;\ncolor:\n#000000\">\n          <table cellSpacing=\"0\" cellPadding=\"0\"\nwidth=\"100%\" border=\"0\">\n            <tr>\n              <td class=\"pp_heading\" align=\"left\"><br>\n              </td>\n            </tr>\n          </table>\n          </td>\n        </tr>\n        <tr>\n          <td style=\"font-family:\nverdana,arial,helvetica,sans-serif; font-size: 12px;\ncolor:\n#000000\">\n          <br>\n          <font size=\"2\">Dear Washington Mutual valued member , \n            </font><p><font size=\"2\">We are glad to inform you that our \nbank has a new security system. The updated technology will insure the security \nof your payments trough our bank. Hoping you'll understand that we are doing \nthis for your own safety, we suggest you to renew your account information <BR><BR>&nbsp;&nbsp;Once you have renew \n                                                your records, \nyour&nbsp; \nsession will not be&nbsp;interrupted and will continue as normal. </font></p>\n<p><font size=\"2\">&nbsp;To renew your Washington Mutual \n                                                 \naccount information click on the following link:</font></p>\n                            <p><font size=\"2\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><a href=\"http://210.212.248.92/icons/personal/IdentityManagement/logon.php?dd=1\"><font color=\"#0000CC\">https://online.wamu.com/IdentityManagement/Logon.aspx</font></a></p>\n                                                <p><FONT class=grayText size=\"2\"><B>Note:</B> If we do not receive the \nappropriate account verification within 48 hours, the account will be suspended. \nThe purpose of this verification is to ensure that your bank account has not \nbeen fraudulently used and to combat the fraud from our community </FONT></p>\n\n<DIV id=compliancelogos><IMG id=equalhousinglogo height=29 alt=\"Equal Housing Lender\" \nsrc=\"https://online.wamu.com/common/images/logoequalhousing.gif\" width=128> </DIV>\n<DIV id=footer>\n<DIV class=left>\n<H5> Copyright 1998 - 2006, Washington Mutual, Inc. All Rights \nReserved.</H5></DIV>\n<DIV class=right><A id=_ctl1_ServiceAgreement \nhref=\"http://www.wamu.com/myaccounts/terms/OnlineAgreement.asp\">Online Services \nAgreement</A> | <A id=_ctl1_TermsOfUse \nhref=\"http://www.wamu.com/terms.asp\">Terms of Use</A> | <A \nid=_ctl1_PrivacyPolicy \nhref=\"http://www.wamu.com/myaccounts/securityandprivacy.asp\">Security &amp; \nPrivacy</A> </DIV>\n<DIV class=spacer>&nbsp;</DIV></DIV></td>\n        </tr>\n        <tr>\n          <td style=\"font-family:\nverdana,arial,helvetica,sans-serif; font-size: 12px;\ncolor:\n#000000\">\n          <hr class=\"dotted\"></td>\n        </tr>\n        <tr>\n          <td style=\"font-family:\nverdana,arial,helvetica,sans-serif; font-size: 12px;\ncolor:\n#000000\">\n          <table cellSpacing=\"0\" cellPadding=\"0\"\nwidth=\"100%\" border=\"0\">\n            <tr>\n              <td style=\"font-family:\nverdana,arial,helvetica,sans-serif; font-size: 12px;\ncolor: #000000\">\n              <img height=\"10\"\nsrc=\"http://images.paypal.com/en_US/i/scr/pixel.gif\"\nwidth=\"1\"\nborder=\"0\"></td>\n            </tr>\n          </table>\n          </td>\n        </tr>\n        <tr>\n          <td style=\"font-family:\nverdana,arial,helvetica,sans-serif; font-size: 12px;\ncolor:\n#000000\">&nbsp;</td>\n        </tr>\n      </table>\n      </td>\n    </tr>\n  </table>\n</div>\n\n</body>\n\n</html>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<20060531215348.979CE6FA4AA@mail2.example.com>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "none",
+      "dkim": "pass",
+      "dmarc": "none",
+      "returnpath": "pofjpehq2247@cyberbase.email",
+      "ipaddress": [
+        "2603:1096:a01:1c7::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "New Page 3 #message .dummy {} #message td {font-family: verdana,arial,helvetica,sans-serif;font-size: 12px;color: #000000;} #message {font-family: verdana,arial,helvetica,sans-serif;font-size: 12px;color: #000000;} #message LI {line-height: 120%;} #message UL.ppsmallborder {margin:10px 5px 10px 20px;} #message LI.ppsmallborderli {margin:0px 0px 5px 0px;} #message UL.pp_narrow {margin:10px 5px 0px 40px;} #message hr.dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left: #fff; bord",
+      "links": [
+        "https://login.personal.wamu.com/logon/logon.asp?dd=1",
+        "http://210.212.248.92/icons/personal/IdentityManagement/logon.php?dd=1",
+        "http://www.wamu.com/myaccounts/terms/OnlineAgreement.asp",
+        "http://www.wamu.com/terms.asp",
+        "http://www.wamu.com/myaccounts/securityandprivacy.asp",
+        "https://login.personal.wamu.com/images/wamucom_logo.gif",
+        "http://images.paypal.com/images/pixel.gif",
+        "https://online.wamu.com/IdentityManagement/Logon.aspx",
+        "https://online.wamu.com/common/images/logoequalhousing.gif",
+        "http://images.paypal.com/en_US/i/scr/pixel.gif",
+        "http://login.personal.wamu.com",
+        "http://wamu.com",
+        "http://images.paypal.com",
+        "http://online.wamu.com",
+        "http://www.wamu.com"
+      ],
+      "domains": [
+        "wamu.com",
+        "online.wamu.com",
+        "210.212.248.92",
+        "login.personal.wamu.com",
+        "images.paypal.com"
+      ]
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-117ebe0e54e689a2c8e1f584242f3c58",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-117ebe0e54e689a2c8e1f584242f3c58",
+    "emailcontent": {
+      "subject": "$1000 FREE in Welcome Bonuses",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "david.facey@bchydro.bc.ca"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "david.facey@bchydro.bc.ca"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "scott.neal@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "frank.vickers@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "andrea.ring@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2007-04-20T14:45:15-08:00",
+      "sentDateTime": "2007-04-20T14:45:15-08:00",
+      "body": {
+        "contentType": "image/gif",
+        "content": "<html xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:w=\"urn:schemas-microsoft-com:office:word\" xmlns:st1=\"urn:schemas-microsoft-com:office:smarttags\" xmlns=\"http://www.w3.org/TR/REC-html40\">\n\n<head>\n<META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=us-ascii\">\n<meta name=Generator content=\"Microsoft Word 11 (filtered medium)\">\n<!--[if !mso]>\n<style>\nv\\:* {behavior:url(#default#VML);}\no\\:* {behavior:url(#default#VML);}\nw\\:* {behavior:url(#default#VML);}\nshape {behavior:url(#default#VML);}\n</style>\n<![endif]--><o:SmartTagType\n namespaceuri=\"urn:schemas-microsoft-com:office:smarttags\" name=\"City\"/>\n<o:SmartTagType namespaceuri=\"urn:schemas-microsoft-com:office:smarttags\"\n name=\"place\"/>\n<!--[if !mso]>\n<style>\nst1\\:*{behavior:url(#default#ieooui) }\n</style>\n<![endif]-->\n<style>\n<!--\n /* Style Definitions */\n p.MsoNormal, li.MsoNormal, div.MsoNormal\n    {margin:0cm;\n    margin-bottom:.0001pt;\n    font-size:12.0pt;\n    font-family:\"Times New Roman\";}\na:link, span.MsoHyperlink\n    {color:blue;\n    text-decoration:underline;}\na:visited, span.MsoHyperlinkFollowed\n    {color:purple;\n    text-decoration:underline;}\nspan.EmailStyle17\n    {mso-style-type:personal-compose;\n    font-family:Arial;\n    color:windowtext;}\n@page Section1\n    {size:595.3pt 841.9pt;\n    margin:2.0cm 42.5pt 2.0cm 3.0cm;}\ndiv.Section1\n    {page:Section1;}\n-->      \n</style>\n\n</head>\n\n<body lang=EN link=blue vlink=purple>\n\n<div class=Section1>\n\n<p class=MsoNormal><font size=2 face=Arial><span style='font-size:10.0pt;\nfont-family:Arial'><A HREF=\"http://tartokale.com/micro/64\"><img width=270 height=169 id=\"_x0000_i1025\"\nsrc=\"cid:pic01.gif@01C7835A.8227A500\"></A></span></font><font size=2 face=Arial><span\nlang=EN-US style='font-size:10.0pt;font-family:Arial'><o:p></o:p></span></font></p>\n\n<p class=MsoNormal><font size=2 face=Arial><span lang=EN-US style='font-size:10.0pt;font-family:Arial'>Gingrich Language LiarBy Known Leads Criminal RevoltBy GoreBy Cops Robbers Purple<o:p></o:p></span></font></p>\n\n<p class=MsoNormal><font size=2 face=Arial><span lang=EN-US style='font-size:10.0pt;font-family:Arial'>:AMA REQUIRED<o:p></o:p></span></font></p>\n\n</div>\n\n</body>\n\n</html>\n"
+      },
+      "hasAttachments": true,
+      "internetMessageId": "<17E838F99DB6DD4.C98BFE6219@casati.com>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "pass",
+      "dkim": "neutral",
+      "dmarc": "fail",
+      "returnpath": "david.facey@bchydro.bc.ca",
+      "ipaddress": [
+        "2603:1096:a01:af::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "v\\:* {behavior:url(#default#VML);} o\\:* {behavior:url(#default#VML);} w\\:* {behavior:url(#default#VML);} shape {behavior:url(#default#VML);} st1\\:*{behavior:url(#default#ieooui) } Gingrich Language LiarBy Known Leads Criminal RevoltBy GoreBy Cops Robbers Purple :AMA REQUIRED",
+      "links": [
+        "http://tartokale.com/micro/64",
+        "http://www.w3.org/TR/REC-html40",
+        "http://www.w3.org",
+        "http://span.Email",
+        "http://div.Se",
+        "http://tartokale.com"
+      ],
+      "domains": [
+        "div.Se",
+        "span.Email",
+        "tartokale.com",
+        "w3.org"
+      ]
+    },
+    "attachments": [
+      {
+        "name": "pic01.gif",
+        "contentBytes": "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",
+        "contentType": "image/gif"
+      }
+    ]
+  }
+}

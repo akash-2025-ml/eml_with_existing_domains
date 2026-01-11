@@ -1,0 +1,102 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-6fcfe1531f7b0be0e610bfa91584fc27",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-6fcfe1531f7b0be0e610bfa91584fc27",
+    "emailcontent": {
+      "subject": "Adf, Have an extra hour or two to make extra cash?",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "alerts@ec-hasslefreeoffers.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "alerts@ec-hasslefreeoffers.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "melody.gray@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "a.smith@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "lynn.blair@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "alerts@ec-hasslefreeoffers.com"
+          }
+        }
+      ],
+      "receivedDateTime": "2007-05-26T09:27:25-07:00",
+      "sentDateTime": "2007-05-26T09:27:25-07:00",
+      "body": {
+        "contentType": "text/html",
+        "content": "<TABLE cellSpacing=0 cellPadding=0\n width=600 align=center border=0>\t<TBODY>\t<TR>\t\t<TD align=middle>\t\t<TABLE cellSpacing=0 cellPadding=0\n width=600 border=0>\t\t\t<TBODY>\t\t\t<TR>\t\t\t\t<TD align=left width=\"50%\"></TD>\t\t\t\t<TD align=right width=\"50%\"><FONT\n face=verdana color=#666666 size=1>Didn't\n expect this email? <A href=\"http://pocketcowboylinks.com/knl/stlrwgssrh.r9o8sn.f9nn.f9nsmsszujfumhnourz0ocjn.f9nfl_neinowdizwnn.f9nerhusz0rgrenlrw_0_3fmessage_id_0_3d5541a0a83118a42702298a376_0_26lliinnkkIDD_0_3d0000/___0a0a0a0a0___5541a0a83118a42702298a376\">Report\n as Spam</A></FONT></TD>\t\t\t</TR>\t\t\t</TBODY>\t\t</TABLE>\t\t\t\t\t<BR>\t\t<TABLE cellSpacing=0 cellPadding=0\n width=600 border=0>\t\t\t<TBODY>\t\t\t<TR>\t\t\t\t<TD vAlign=bottom>\t\t\t\t\t\t\t\t\t<TABLE cellSpacing=0 cellPadding=0\n width=600 border=0>\t\t\t\t\t<TBODY>\t\t\t\t\t<TR>\t\t\t\t\t\t<TD align=left><img src=\"http://pocketcowboylinks.com/gmi/stlrwaaa0njuwszwqecszn0ocjn.f9nznn.f9nswdbbzwj.m9n8djubznn.f9ngncj.m9n8gzuhzwbdysenlrw___5541a0a83118a42702298a376\"\n alt=\"HassleFreeOffers\" width=\"156\"\n height=\"18\"></TD>\t\t\t\t\t\t<TD width=5></TD>\t\t\t\t\t\t<TD vAlign=bottom align=right><FONT\n face=Arial color=#666666 size=1>Prepared\n For: <B>Adf _</B>,\n   CA</FONT></TD>\t\t\t\t\t</TR>\t\t\t\t\t</TBODY>\t\t\t\t\t</TABLE>\t\t\t\t\t</TD>\t\t\t\t</TR>\t\t\t\t</TBODY>\t\t\t</TABLE>\t\t\t</TD>\t\t</TR>\t\t</TBODY>\t</TABLE><CENTER><TABLE cellSpacing=0\n cellPadding=0 width=600 border=0><TR><TD\n bgColor=#8696cf colSpan=3 height=1></TD></TR><TR><TD\n width=1 bgColor=#8696cf></TD><TD\n width=598 bgColor=#8696cf height=75><A\n href=\"http://pocketcowboylinks.com/knl/stlrwgssrh.r9o8sn.f9nn.f9nfuemog0wcdwcovzs0ocjn.f9npn.f9n.5476n.f9nCD5376n.f9n_0_26hr_0_3d919784enlrw_0_3flliinnkkIDD_0_3d697/___5541a0a83118a42702298a376\"><IMG\n height=75 src=\"http://pocketcowboylinks.com/gmi/stlrwaaa0njuwszwqecszn0ocjn.f9nznn.f9nsgdwhruwsxn.f9nrrscr.trbsenlrw___5541a0a83118a42702298a376\"\n width=598 border=0></A></TD><TD\n width=1 bgColor=#8696cf></TD></TR><TR><TD\n bgColor=#8696cf colSpan=3 height=1></TD></TR></TABLE><TABLE\n cellSpacing=0 cellPadding=0 width=600\n border=0><TR><TD width=1 bgColor=#8696cf></TD><TD\n width=8 bgColor=#fde9e9></TD><TD\n vAlign=top align=left width=582\n bgColor=#fde9e9><BR><FONT face=arial\n size=2><B>Adf</B>, there\n are lots of ways to make money online\n - but <I>most of them require a\n big investment</I> of either time\n and/or money... and that just doesn't\n work so well for most people. <P>That's\n why we were really excited when\n we learned more about <B>Project\n Payday</B>. It doesn't have any\n of these problems. Unlike all of\n the ridiculous \"Make $1,000 a day\"\n ads you see all over the Net, Project\n Payday is the real deal. <P><CENTER><A\n href=\"http://pocketcowboylinks.com/knl/stlrwgssrh.r9o8sn.f9nn.f9nfuemog0wcdwcovzs0ocjn.f9npn.f9n.5476n.f9nCD5376n.f9n_0_26hr_0_3d919784enlrw_0_3flliinnkkIDD_0_3d697/___5541a0a83118a42702298a376\">Learn\n More About the Project Payday Strategy</A><P><TABLE\n cellSpacing=0 cellPadding=5 width=400\n border=0><TR><TD vAlign=top align=left><FONT\n color=#185113><B><LI>It's fun and\n stress-free <LI>It's super easy\n and <U>anyone</U> can do it <LI>You\n can start making money in <I>under\n an hour</I></B></FONT></LI></TD></TR></TABLE></CENTER><P>Get\n started today at ZERO COST to you.\n You won't \"get rich\" but their test\n students have proven it's a realistic\n extra income system for the average\n Joe. We have never seen anything\n like it before, and I know you haven't\n either. <P><CENTER>This is a totally\n new strategy for making realistic\n extra income online. <BR><B>&gt;&gt;\n <A href=\"http://pocketcowboylinks.com/knl/stlrwgssrh.r9o8sn.f9nn.f9nfuemog0wcdwcovzs0ocjn.f9npn.f9n.5476n.f9nCD5376n.f9n_0_26hr_0_3d919784enlrw_0_3flliinnkkIDD_0_3d697/___5541a0a83118a42702298a376\">Check\n it out and let us know what you\n think.</A>&lt;&lt;</B></CENTER><P><FONT\n face=arial color=#737373 size=1>If\n you do not want to receive emails\n about this offer, follow <A href=\"http://pocketcowboylinks.com/knl/stlrwgssrh.r9o8sn.f9nn.f9naaa0hmzfdns0ocjn.f9nen.f9n2iiio5iu7yu1zu95oh.465ih3697yo4u452enlrw_0_3flliinnkkIDD_0_3d698/___5541a0a83118a42702298a376\">this\n link</A> to unsubscribe. To submit\n your request via postal mail, please\n send it to: Project Payday, 350\n Parker Square #244, Flower Mound,\n TX 75028</FONT><BR><BR></P></FONT></TD><TD\n width=8 bgColor=#fde9e9></TD><TD\n width=1 bgColor=#8696cf></TD></TR></TABLE><TABLE\n cellSpacing=0 cellPadding=0 width=600\n border=0><TR><TD bgColor=#8696cf\n height=1></TD></TR></TABLE><P></P></CENTER></TD></TR></TABLE><CENTER></CENTER><P><CENTER><TABLE cellSpacing=0 cellPadding=0\n width=600 border=0>\t<TBODY>\t<TR>\t\t<TD>\t\t\t\t<TABLE cellSpacing=0 cellPadding=2\n width=600>\t\t\t<TBODY>\t\t\t<TR align=middle>\t\t\t\t<TD align=left colSpan=2><CENTER><FONT\n face=\"Arial, Helvetica, sans-serif\"\n color=#666666 size=1>Message Sent\n To:<B>producttestpanel@speedy.uwaterloo.ca</B>&nbsp;|&nbsp;Valued\n HFO Subscriber Since:<B>2007-03-27</B></FONT></CENTER></TD>\t\t\t</TR>\t\t\t<TR>\t\t\t\t<TD align=left bgColor=#eeeeee\n colSpan=2><P><FONT face=Arial color=#666666\n size=1>Adf, you are part\n of our exclusive <B>List Rewards\n Program</B>, which rewards you simply\n for being a Free HassleFreeOffers\n List Subscriber. Each week you remain\n active you'll automatically receive\n <B>(1) additional entry</b> into\n our quarterly <b><font color=green>$10,000</font>\n CASH sweepstakes</b>, as well as\n other great drawings. (<A href=\"http://pocketcowboylinks.com/knl/stlrwgssrh.r9o8sn.f9nn.f9naaa0njuwszwqecszn0ocjn.f9nwzauwhnn.f9n.1vbdkzuauxenlrw_0_3flliinnkkIDD_0_3d533/___5541a0a83118a42702298a376\">details\n here</A>)</FONT></P><P align=center><FONT\n face=Arial color=#666666 size=1><FONT\n color=#000000>Congratulations to\n our 2006 <FONT color=green>$10K\n Winners: Rachel C of South Pittsburg,\n TN. & Margaret S of Girrad, OH.</FONT></TD>\t\t\t</TR>\t\t\t<TR>\t\t\t\t<TD align=middle bgColor=#dddddd\n colSpan=2><FONT face=verdana color=#737373\n size=1>HassleFreeOffers Network\n | 218 Main Street, #372 | Kirkland,\n WA 98033 | <A href=\"http://pocketcowboylinks.com/knl/stlrwgssrh.r9o8sn.f9nn.f9naaa0njuwszwqecszn0ocjn.f9njzjizwnn.f9nrwdkuox0unrenlrw_0_3flliinnkkIDD_0_3d431/___5541a0a83118a42702298a376\">Privacy\n Policy</A></FONT></TD>\t\t\t</TR>\t\t\t<TR>\t\t\t\t<TD align=middle colSpan=2><BR><FONT\n face=verdana color=#000000 size=1><I>No\n longer interested in our free list\n rewards program? Please follow the\n link below.</I><BR><A href=\"http://pocketcowboylinks.com/knl/stlrwgssrh.r9o8sn.f9nn.f9nsmsszujfumhnourz0ocjn.f9nfl_neinowdizwnn.f9nerhusz0rgrenlrw_0_3fmessage_id_0_3d5541a0a83118a42702298a376_0_26lliinnkkIDD_0_3d0000/___0a0a0a0a0___5541a0a83118a42702298a376/\">Please\n cancel my free rewards program subscription</A></FONT></TD>\t\t\t</TR>\t\t\t<TR>\t\t\t\t<TD vAlign=bottom align=left\n width=\"50%\"><BR><FONT face=verdana\n color=#cccccc size=1><B>MG.ID:</B>5541a0a83118a42702298a376</FONT></FONT></TD>\t\t\t\t<TD vAlign=center align=right\n width=\"50%\"><FONT face=verdana color=#cccccc\n size=1>Copyright&copy; HFO Network\n 2002-Current.</FONT></TD>\t\t\t</TR>\t\t\t<TR>\t\t\t\t<TD align=left colSpan=2>\t\t\t\t\t\t\t\t\t\t<TABLE cellSpacing=0 cellPadding=2\n align=center border=0>\t\t\t\t\t\t<TBODY>\t\t\t\t\t\t<TR>\t\t\t\t\t\t\t<TD vAlign=top align=middle\n width=200><P><FONT face=verdana\n color=#000000 size=1>Powered by\n EmailLaunch</FONT></TD>\t\t\t\t\t\t</TR>\t\t\t\t\t\t</TBODY>\t\t\t\t\t</TABLE>\t\t\t\t\t\t\t\t\t\t</TD>\t\t\t\t</TR>\t\t\t\t</TBODY>\t\t\t</TABLE>\t\t\t\t\t\t</TD>\t\t</TR>\t\t</TBODY>\t</TABLE>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<5541a0a83118a42702298a376@sqlistrewards.net>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "neutral",
+      "dkim": "fail",
+      "dmarc": "fail",
+      "returnpath": "alerts@ec-hasslefreeoffers.com",
+      "ipaddress": [
+        "2603:1096:c01:ec::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Didn't expect this email? Report as Spam Prepared For: Adf _ , CA Adf , there are lots of ways to make money online - but most of them require a big investment of either time and/or money... and that just doesn't work so well for most people. That's why we were really excited when we learned more about Project Payday . It doesn't have any of these problems. Unlike all of the ridiculous \"Make $1,000 a day\" ads you see all over the Net, Project Payday is the real deal. Learn More About the Project",
+      "links": [
+        "http://pocketcowboylinks.com/knl/stlrwgssrh.r9o8sn.f9nn.f9nsmsszujfumhnourz0ocjn.f9nfl_neinowdizwnn.f9nerhusz0rgrenlrw_0_3fmessage_id_0_3d5541a0a83118a42702298a376_0_26lliinnkkIDD_0_3d0000/___0a0a0a0a0___5541a0a83118a42702298a376",
+        "http://pocketcowboylinks.com/knl/stlrwgssrh.r9o8sn.f9nn.f9nfuemog0wcdwcovzs0ocjn.f9npn.f9n.5476n.f9nCD5376n.f9n_0_26hr_0_3d919784enlrw_0_3flliinnkkIDD_0_3d697/___5541a0a83118a42702298a376",
+        "http://pocketcowboylinks.com/knl/stlrwgssrh.r9o8sn.f9nn.f9naaa0hmzfdns0ocjn.f9nen.f9n2iiio5iu7yu1zu95oh.465ih3697yo4u452enlrw_0_3flliinnkkIDD_0_3d698/___5541a0a83118a42702298a376",
+        "http://pocketcowboylinks.com/knl/stlrwgssrh.r9o8sn.f9nn.f9naaa0njuwszwqecszn0ocjn.f9nwzauwhnn.f9n.1vbdkzuauxenlrw_0_3flliinnkkIDD_0_3d533/___5541a0a83118a42702298a376",
+        "http://pocketcowboylinks.com/knl/stlrwgssrh.r9o8sn.f9nn.f9naaa0njuwszwqecszn0ocjn.f9njzjizwnn.f9nrwdkuox0unrenlrw_0_3flliinnkkIDD_0_3d431/___5541a0a83118a42702298a376",
+        "http://pocketcowboylinks.com/knl/stlrwgssrh.r9o8sn.f9nn.f9nsmsszujfumhnourz0ocjn.f9nfl_neinowdizwnn.f9nerhusz0rgrenlrw_0_3fmessage_id_0_3d5541a0a83118a42702298a376_0_26lliinnkkIDD_0_3d0000/___0a0a0a0a0___5541a0a83118a42702298a376/",
+        "http://pocketcowboylinks.com/gmi/stlrwaaa0njuwszwqecszn0ocjn.f9nznn.f9nswdbbzwj.m9n8djubznn.f9ngncj.m9n8gzuhzwbdysenlrw___5541a0a83118a42702298a376",
+        "http://pocketcowboylinks.com/gmi/stlrwaaa0njuwszwqecszn0ocjn.f9nznn.f9nsgdwhruwsxn.f9nrrscr.trbsenlrw___5541a0a83118a42702298a376",
+        "http://pocketcowboylinks.com",
+        "http://speedy.uwaterloo.ca"
+      ],
+      "domains": [
+        "pocketcowboylinks.com",
+        "speedy.uwaterloo.ca"
+      ]
+    }
+  }
+}

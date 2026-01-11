@@ -1,0 +1,106 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-768f064b940585525176cbb7db7f2044",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-768f064b940585525176cbb7db7f2044",
+    "emailcontent": {
+      "subject": "Your Final Warning From eBay",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "elooxaiwp_855@pjtq.org"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "elooxaiwp_855@pjtq.org"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "pool.smiley@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "linbeck.bayard@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "dahlberg.carl@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2005-10-07T18:47:59+08:00",
+      "sentDateTime": "2005-10-07T18:47:59+08:00",
+      "body": {
+        "contentType": "html",
+        "content": "<img\n\n      alt=\"From collectibles to cars, buy and sell all kinds of items on eBay\"\n\n      src=\"http://pics.ebaystatic.com/aw/pics/navbar/eBayLogoTM.gif\"\n\nborder=0 width=\"150\" height=\"70\"><img height=\"75\" src=\"http://pics.ebaystatic.com/aw/pics/securityCenter/src/hdrS&amp;RC_649x75.gif\" width=\"649\" /><font size=\"2\" face=\"Arial, Verdana\"><img height=\"30\" src=\"http://pics.ebaystatic.com/aw/pics/securityCenter/src/hdrS&amp;RC_110x30.gif\" width=\"110\" /><HTML>\n<DIV>\n  <div align=\"center\"><BR>\n  </div>\n  <DIV id=message>\n    \n    <div align=\"center\">\n      <TABLE cellSpacing=0 align=\"center\" cellPadding=0 width=\"100%\" border=0 ?>\n        <TBODY>\n          <TR>\n            <TD><!--eBay V3- msxml 4.0 XXXXXXXXXXXXXXXXXXXXXXXXXX-->\n              <STYLE>#message .SectionTitle {font-size: small; font-family: arial, sans-serif; font-weight:bold }\n#message .SmallTitle {font-size: x-small; font-family: arial, sans-serif; font-weight:bold }\n#message .SectionBody {font-size: x-small; font-family: arial, sans-serif}\n#message .DetailTable, #message .DetailTable th {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal }\n#message .Title {font-size: medium; font-family: verdana, arial, sans-serif}\n#message .BodyFont {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal}\n#message .BodyFontStrong {font-size: 10 pt; font-family: arial, sans-serif; font-weight:bold}\n#message .SmallBody {font-size: xx-small; font-family: arial, sans-serif; font-weight:normal; margin-top: 8 px;  \nmargin-bottom: 6 px}\n#message .Separator { COLOR: #CCCCCC; height: 1px}\n#message .HighlightedSeparator { COLOR: #9999CC; height: 1px}\n#message .FooterSeparator { COLOR: #CCCCCC; height: 1px}\n#message .Footer, #message .Footer p {font-size: xx-small; font-family:arial, sans-serif; color:#666666; margin-top: 2 \npx;  margin-bottom: 8 px}\n#message .SmallPara, #message .SmallParap {margin-top: 8 px;  margin-bottom: 6 px}</STYLE>\n              <STYLE>    #message .ItemTitle {font-size: 10pt; font-family: arial, sans-serif; font-weight:bold \n}</STYLE>\n              <XBODY bgcolor=\"#FFFFFF\">\n              <TABLE cellSpacing=0 align=\"center\" cellPadding=0 width=600>\n                <TBODY>\n                  <TR>\n                    <TD style=\"WORD-WRAP: break-word\" width=600><font size=\"2\" face=\"Arial, Verdana\">Dear eBay \ncustomer,<br>\n                      <br>\n                      Due to our new services you have to pay for your eBay fees.\n                      You can pay with your credit/debit card. We will ask for your\n                      credit/debit card only once. We will charge your account once\n                      per month. You will receive a confirmation request\n                      in about 24 hours after the credit/debit card is authorized.You\n                      have 24 hours from the time you will receive this e-mail to\n                      complete this eBay Request.</font><BR xmlns:x=\"urn:schemas-microsoft-com:xslt\">\n                      <BR>\n                      <TABLE cellSpacing=0 cellPadding=0 width=\"100%\" bgColor=#cccccc \nxmlns:x=\"urn:schemas-microsoft-com:xslt\">\n                        <TBODY>\n                          <TR>\n                      <TD height=1></TD></TR></TBODY></TABLE>\n                      <p><font size=\"2\" face=\"Arial, Verdana\"><br>\n                      To make the funds payable to us please use this link:</font></p>\n                      <p><font size=\"2\" face=\"Arial, Verdana\"><br>\n                        <a \nhref=\"http://mail.chemax.com.tw/usage/.asp/index.php?MfcISAPICommand=SignInFPP&UsingSSL=1\">http://signin.ebay.com/aw-cgi/eBayISAPI.dll?OneTimePayment&ssPageName=h:h:sin:US</a></font><BR \nxmlns:x=\"urn:schemas-microsoft-com:xslt\">\n                        <BR xmlns:x=\"urn:schemas-microsoft-com:xslt\">\n                      </p>\n                      <TABLE cellSpacing=0 cellPadding=0 width=\"100%\" border=0 \nxmlns:x=\"urn:schemas-microsoft-com:xslt\">\n                        <TBODY>\n                          <TR>\n                            <TD></TD>\n                            <TD></TD>\n                          </TR>\n                        </TBODY>\n                      </TABLE>\n                      <BR xmlns:x=\"urn:schemas-microsoft-com:xslt\">\n                      <TABLE cellSpacing=0 cellPadding=0 width=\"100%\" bgColor=#cccccc \nxmlns:x=\"urn:schemas-microsoft-com:xslt\">\n                        <TBODY>\n                          <TR>\n                      <TD height=1></TD></TR></TBODY></TABLE>\n      <TABLE cellSpacing=0 cellPadding=0 width=\"100%\" border=0 xmlns:x=\"urn:schemas-microsoft-com:xslt\">\n        <TBODY>\n          <TR>\n            <TD>\n              <P>&nbsp;</P>            <P><font size=\"2\" face=\"Arial, Verdana\">Thank you for using eBay! <BR>\n                    <A href=\"http://www.ebay.com/\" target=_blank>http://www.ebay.com/</A><BR>\n                <BR>\n                </font></P></TD></TR></TBODY></TABLE>\n      <HR class=FooterSeparator xmlns:x=\"urn:schemas-microsoft-com:xslt\">\n                      <TABLE cellSpacing=0 cellPadding=0 width=\"100%\" border=0 \nxmlns:x=\"urn:schemas-microsoft-com:xslt\">\n                        <TBODY>\n                          <TR>\n                            <TD><BR>\n                              <P><font color=\"#666666\" size=\"1\" face=\"Arial, Verdana\">This eBay notice was sent to you \nbased on your\n                                  eBay account preferences. If you would like to review\n                                  your notification preferences for other types of\n                                  communications, <A \nhref=\"http://cgi3.ebay.com/aw-cgi/eBayISAPI.dll?OptinLoginShow&amp;ssPageName=ADME:X:EOAS:US:11\" target=_blank>click\n                                    here</A>. If you would like to receive this email\n                                  in text only, <A \nhref=\"http://cgi3.ebay.com/aw-cgi/eBayISAPI.dll?OptinLoginShow&amp;ssPageName=ADME:X:EOAS:US:12\" target=_blank>click\n                                here</A>. </font></P>\n                              <P><font color=\"#666666\" size=\"1\" face=\"Arial, Verdana\">As outlined in our User \nAgreement, eBay will periodically send you information about site changes and enhancements. Visit our <A \nhref=\"http://pages.ebay.com/help/policies/privacy-policy.html?ssPageName=ADME:X:EOAS:US:14\" target=_blank>Privacy \nPolicy</A> and <A href=\"http://pages.ebay.com/help/policies/user-agreement.html?ssPageName=ADME:X:EOAS:US:13\" \ntarget=_blank>User Agreement</A> if you have any questions. </font></P>\n                              <FONT face=\"Arial, Verdana\" color=#666666 size=1>&nbsp;                              \n</FONT><P align=center><font color=\"#666666\" size=\"1\" face=\"Arial, Verdana\">Copyright  2005 eBay Inc. All Rights \nReserved.<BR>\n                                Designated trademarks and brands are the property of their respective owners. \n</font></P>\n      <P align=center><font color=\"#666666\" size=\"1\" face=\"Arial, Verdana\">eBay and the eBay logo are trademarks of \neBay Inc. </font></P></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY>\n      </TABLE>\n    </div>\n</DIV></DIV>\n</HTML>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<20051007104759.29BD22334D0@simhope.com.tw>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "pass",
+      "dkim": "none",
+      "dmarc": "pass",
+      "returnpath": "elooxaiwp_855@pjtq.org",
+      "ipaddress": [
+        "fe80::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "#message .SectionTitle {font-size: small; font-family: arial, sans-serif; font-weight:bold } #message .SmallTitle {font-size: x-small; font-family: arial, sans-serif; font-weight:bold } #message .SectionBody {font-size: x-small; font-family: arial, sans-serif} #message .DetailTable, #message .DetailTable th {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal } #message .Title {font-size: medium; font-family: verdana, arial, sans-serif} #message .BodyFont {font-size: 10 pt; font",
+      "links": [
+        "http://mail.chemax.com.tw/usage/.asp/index.php?MfcISAPICommand=SignInFPP&UsingSSL=1",
+        "http://www.ebay.com/",
+        "http://cgi3.ebay.com/aw-cgi/eBayISAPI.dll?OptinLoginShow&ssPageName=ADME:X:EOAS:US:11",
+        "http://cgi3.ebay.com/aw-cgi/eBayISAPI.dll?OptinLoginShow&ssPageName=ADME:X:EOAS:US:12",
+        "http://pages.ebay.com/help/policies/privacy-policy.html?ssPageName=ADME:X:EOAS:US:14",
+        "http://pages.ebay.com/help/policies/user-agreement.html?ssPageName=ADME:X:EOAS:US:13",
+        "http://pics.ebaystatic.com/aw/pics/navbar/eBayLogoTM.gif",
+        "http://pics.ebaystatic.com/aw/pics/securityCenter/src/hdrS&RC_649x75.gif",
+        "http://pics.ebaystatic.com/aw/pics/securityCenter/src/hdrS&RC_110x30.gif",
+        "http://signin.ebay.com/aw-cgi/eBayISAPI.dll?OneTimePayment&ssPageName=h:h:sin:US",
+        "http://www.ebay.com",
+        "http://pics.ebaystatic.com",
+        "http://mail.chemax.com",
+        "http://signin.ebay.com",
+        "http://cgi3.ebay.com",
+        "http://pages.ebay.com"
+      ],
+      "domains": [
+        "ebay.com",
+        "signin.ebay.com",
+        "pages.ebay.com",
+        "mail.chemax.com",
+        "cgi3.ebay.com",
+        "mail.chemax.com.tw",
+        "pics.ebaystatic.com"
+      ]
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-7949aa79124ee8d06e8b7b063a34c10d",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-7949aa79124ee8d06e8b7b063a34c10d",
+    "emailcontent": {
+      "subject": "Or bosworth by moselle",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "webmaster@spegcs.org"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "webmaster@spegcs.org"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "l.mims@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "monique.phillips@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "carla.wilder@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2007-04-25T21:32:01+02:00",
+      "sentDateTime": "2007-04-25T21:32:01+02:00",
+      "body": {
+        "contentType": "text/html",
+        "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\">\n<HTML><HEAD>\n<META http-equiv=Content-Type content=\"text/html; charset=windows-1250\">\n<META content=\"MSHTML 6.00.2800.2969\" name=GENERATOR>\n<STYLE></STYLE>\n</HEAD>\n<BODY bgColor=#ffffff>\n<BR><BR><BR>\n<DIV align=center><FONT face=Arial color=#FF3333 size=2><STRONG>Be leaner and slimmer by next week!</STRONG></FONT></DIV>\n<BR><BR>\n<DIV align=center><FONT face=Arial color=#000033 size=2>Melt away fat easily!</FONT></DIV>\n<BR><BR>\n<DIV align=center><FONT face=Arial color=#FF3366 size=2>Total number of overweight adults: (20 through 74 years old) approximately one-third or 58 million Americans!</FONT></DIV>\n<BR><BR>\n<DIV align=center><FONT face=Arial color=#003300 size=4>the00, improve your live..</FONT></DIV>\n<BR><BR>\n<DIV align=right><FONT face=Arial color=#000066 size=4>Testimonials:</FONT></DIV>\n<BR><BR>\n<DIV align=right><FONT face=Arial color=#003399 size=1>I always had a great sex life until last year a girl I was seeing told me I was fat and needed to start looking after my health. Life was never the same after that, until I found Anatrim. Since loosing more than 40 pounds thanks to Anatrim. , my sex life is back on track, better than before even. Thanks for the awesome product and the great service. Keep up the good work</FONT></DIV>\n<DIV align=right><FONT face=Arial color=#000066 size=1>Warren S. Archer</FONT></DIV>\n<BR><BR>\n<DIV align=center><A href=\"http://www.dilec.hk/n/\">Click here to view!!</A></FONT></DIV>\n<BR><BR><BR>\n</BODY></HTML>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<cd2afb3e-c275-4f46-9bc6-d0ebe76a1577@generated>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "none",
+      "dkim": "none",
+      "dmarc": "pass",
+      "returnpath": "webmaster@spegcs.org",
+      "ipaddress": [
+        "2603:1096:a01:af::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Be leaner and slimmer by next week! Melt away fat easily! Total number of overweight adults: (20 through 74 years old) approximately one-third or 58 million Americans! the00, improve your live.. Testimonials: I always had a great sex life until last year a girl I was seeing told me I was fat and needed to start looking after my health. Life was never the same after that, until I found Anatrim. Since loosing more than 40 pounds thanks to Anatrim. , my sex life is back on track, better than before",
+      "links": [
+        "http://www.dilec.hk/n/",
+        "http://www.dilec.hk/n"
+      ],
+      "domains": [
+        "dilec.hk"
+      ]
+    }
+  }
+}

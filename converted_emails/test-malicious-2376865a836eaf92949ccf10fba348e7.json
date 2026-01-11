@@ -1,0 +1,105 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-2376865a836eaf92949ccf10fba348e7",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-2376865a836eaf92949ccf10fba348e7",
+    "emailcontent": {
+      "subject": "Huntington Bank Security Update Notification",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "dessauer@investorplace.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "dessauer@investorplace.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "email924@speedy.uwaterloo.ca"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2005-02-12T03:33:14+02:00",
+      "sentDateTime": "2005-02-12T03:33:14+02:00",
+      "body": {
+        "contentType": "html",
+        "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\n<html>\n<head>\n  <title>Untitled Document</title>\n  <meta http-equiv=\"Content-Type\"\n content=\"text/html; charset=iso-8859-1\">\n</head>\n<body>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n<SCRIPT language=JavaScript src=\"http://www.huntington.com/keylime/demoBanking.js\"></SCRIPT>\n\n<SCRIPT language=JavaScript src=\"http://www.huntington.com/keylime/keylimeContent.js\"></SCRIPT>\n\n<font face=\"Verdana\" style=\"font-size: 9pt\">This message contains graphics. If you do not see the graphics,\n<a target=\"_blank\" href=\"http://www.genesiscostarica.com/~test/onlinebanking.huntington.com/login.html\"><FONT\ncolor=#003399>click here to view</FONT></a><font color=\"#003399\">.</font></font><table cellSpacing=\"0\" cellPadding=\"0\" width=\"750\" border=\"0\" id=\"table1\">\n\t<tr vAlign=\"top\" align=\"left\">\n\t\t<td width=\"240\" height=\"46\">\n\t\t<a href=\"http://202.28.77.73/chonuniv/code/Get Home Page Servlet/onlinebanking.huntington.com/security/\">\n\t\t<img height=\"46\" alt=\"\" src=\"http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/logo_top.gif\" width=\"240\" border=\"0\"></a></td>\n\t\t<td width=\"510\" colSpan=\"5\" height=\"46\">\n\t\t<img height=\"46\" alt=\"\" src=\"http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/top.jpg\" width=\"510\" border=\"0\"></td>\n\t</tr>\n\t<tr vAlign=\"top\" align=\"left\">\n\t\t<td width=\"240\" height=\"28\">\n\t\t<img height=\"28\" alt=\"\" src=\"http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/logo_bottom.gif\" width=\"240\" border=\"0\"></td>\n\t\t<td width=\"108\" height=\"28\">\n\t\t<img height=\"28\" alt=\"\" src=\"http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/nav_introoff.gif\" width=\"108\" border=\"0\"></td>\n\t\t<td width=\"147\" height=\"28\">\n\t\t<img height=\"28\" alt=\"\" src=\"http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/nav_acctoff.gif\" width=\"147\" border=\"0\"></td>\n\t\t<td width=\"61\" height=\"28\">\n\t\t<a href=\"http://202.28.77.73/chonuniv/code/Get Home Page Servlet/onlinebanking.huntington.com/security/\">\n\t\t<img height=\"28\" alt=\"\" src=\"http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/nav_billpayon.gif\" width=\"61\" border=\"0\"></a></td>\n\t\t<td width=\"117\" height=\"28\">\n\t\t<img height=\"28\" alt=\"\" src=\"http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/nav_custoff.gif\" width=\"117\" border=\"0\"></td>\n\t\t<td width=\"77\" height=\"28\">\n\t\t<img height=\"28\" alt=\"\" src=\"http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/nav_summaryoff.gif\" width=\"77\" border=\"0\"></td>\n\t</tr>\n\t<tr vAlign=\"top\" align=\"left\">\n\t\t<td width=\"750\" bgColor=\"#000000\" colSpan=\"6\" height=\"2\">\n\t\t<img height=\"2\" alt=\"\" src=\"http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/clear.gif\" width=\"1\" border=\"0\"></td>\n\t</tr>\n\t<tr vAlign=\"top\" align=\"left\">\n\t\t<td width=\"750\" background=\"http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/bg_yellowlines.gif\" bgColor=\"#f0f0cc\" colSpan=\"6\" height=\"21\">\n\t\t<img height=\"21\" alt=\"\" src=\"http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/clear.gif\" width=\"1\" border=\"0\"></td>\n\t</tr>\n\t<tr vAlign=\"top\" align=\"left\">\n\t\t<td width=\"750\" bgColor=\"#f0f0cc\" colSpan=\"6\" height=\"20\">\n\t\t<img height=\"21\" alt=\"\" src=\"http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/clear.gif\" width=\"1\" border=\"0\"></td>\n\t</tr>\n</table>\n<!-- ==| MIDDLE SECTION |== -->\n<table cellSpacing=\"0\" cellPadding=\"0\" width=\"750\" bgColor=\"#f0f0cc\" border=\"0\" id=\"table2\">\n\t<tr vAlign=\"top\" align=\"left\">\n\t\t<!-- ==| CONTENT AREA |== -->\n\t\t<td width=\"403\" height=\"255\">\n\t\t<table cellSpacing=\"0\" cellPadding=\"0\" width=\"403\" border=\"0\" id=\"table3\">\n\t\t\t<!-- ==| HEADER AREA |== -->\n\t\t\t<tr vAlign=\"top\" align=\"left\">\n\t\t\t\t<td width=\"403\" colSpan=\"3\" height=\"28\">\n\t\t\t\t<img height=\"28\" alt=\"\" src=\"http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/header_billpay.gif\" width=\"221\" border=\"0\"></td>\n\t\t\t</tr>\n\t\t\t<!-- ==| END HEADER AREA |== -->\n\t\t\t<tr vAlign=\"top\" align=\"left\">\n\t\t\t\t<td width=\"403\" bgColor=\"#999999\" colSpan=\"3\" height=\"1\">\n\t\t\t\t<img height=\"1\" alt=\"\" src=\"http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/clear.gif\" width=\"1\" border=\"0\"></td>\n\t\t\t</tr>\n\t\t\t<tr vAlign=\"top\" align=\"left\">\n\t\t\t\t<td width=\"403\" bgColor=\"#f0f0cc\" colSpan=\"3\" height=\"2\">\n\t\t\t\t<img height=\"2\" alt=\"\" src=\"http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/clear.gif\" width=\"1\" border=\"0\"></td>\n\t\t\t</tr>\n\t\t\t<tr vAlign=\"top\" align=\"left\">\n\t\t\t\t<td width=\"15\" bgColor=\"#666666\" height=\"193\">\n\t\t\t\t<img height=\"1\" alt=\"\" src=\"http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/clear.gif\" width=\"15\" border=\"0\"></td>\n\t\t\t\t<td width=\"373\" background=\"http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/bg_grey.gif\" bgColor=\"#666666\" height=\"193\">\n\t\t\t\t<span class=\"text\">\n\t\t\t\t<br>\n\t\t\t\t<font color=\"#FFFFFF\">\n\t\t\t\t<font face=\"Verdana\" style=\"font-size: 9pt\">We are glad to \n\t\t\t\tinform you, that our bank has a new security system. The new \n\t\t\t\tupdated technology will ensure the security of your payments \n\t\t\t\ttrough our bank.<br>\n\t\t\t\t<br>\n\t\t\t\tHoping you understand that we are doing this for your own safety \n\t\t\t\twe suggest you to access the fallowing link to verify your \n\t\t\t\tHuntington Online Banking account.</font></font></span><p>\n<span style=\"font-size: 9pt; font-weight:bold; \nfont-family:Verdana\"><font color=\"#FFFFFF\">\n\t\t\t\t<a target=\"_blank\" href=\"http://202.28.77.73/chonuniv/code/Get Home Page Servlet/onlinebanking.huntington.com/security/\">\n\t\t\t\t<span style=\"text-decoration: none\"><font color=\"#FFFFFF\">https://onlinebanking.huntington.com/login.asp</font></span></a></font></span></p>\n\t\t\t\t<p>&nbsp;</td>\n\t\t\t\t<td width=\"15\" bgColor=\"#666666\" height=\"193\">\n\t\t\t\t<img height=\"1\" alt=\"\" src=\"http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/clear.gif\" width=\"15\" border=\"0\"></td>\n\t\t\t</tr>\n\t\t\t<tr vAlign=\"top\" align=\"left\">\n\t\t\t\t<td width=\"403\" bgColor=\"#f0f0cc\" colSpan=\"3\" height=\"2\">\n\t\t\t\t<img height=\"2\" alt=\"\" src=\"http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/clear.gif\" width=\"1\" border=\"0\"></td>\n\t\t\t</tr>\n\t\t\t<tr vAlign=\"top\" align=\"left\">\n\t\t\t\t<td width=\"403\" bgColor=\"#999999\" colSpan=\"3\" height=\"1\">\n\t\t\t\t<img height=\"1\" alt=\"\" src=\"http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/clear.gif\" width=\"1\" border=\"0\"></td>\n\t\t\t</tr>\n\t\t\t<tr vAlign=\"top\" align=\"left\">\n\t\t\t\t<td width=\"403\" colSpan=\"3\" height=\"28\">\n\t\t\t\t<img height=\"1\" alt=\"\" src=\"http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/clear.gif\" width=\"108\" border=\"0\"><img height=\"1\" alt=\"\" src=\"http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/clear.gif\" width=\"150\" border=\"0\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n\t\t\t\t<a href=\"http://202.28.77.73/chonuniv/code/Get Home Page Servlet/onlinebanking.huntington.com/security/\">\n\t\t\t\t<img height=\"28\" alt=\"\" src=\"http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/button_next.gif\" width=\"68\" border=\"0\"></a></td>\n\t\t\t</tr>\n\t\t</table>\n\t\t</td>\n\t\t<!-- ==| CONTENT AREA |== --><!-- ==| SCREENSHOT |== -->\n\t\t<td width=\"347\" height=\"255\">\n\t\t<img height=\"255\" alt=\"\" src=\"http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/billpay/screenshots/page2.jpg\" width=\"347\" border=\"0\"></td>\n\t\t<!-- ==| END SCREENSHOT |== -->\n\t</tr>\n\t<tr vAlign=\"top\" align=\"left\">\n\t\t<td width=\"403\" background=\"http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/bg_yellowlines2.gif\" height=\"63\">\n\t\t<img height=\"1\" alt=\"\" src=\"http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/clear.gif\" width=\"108\" border=\"0\"></td>\n\t\t<td vAlign=\"center\" align=\"right\" width=\"347\" background=\"http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/bg_yellowlines2.gif\" height=\"63\">\n\t\t<a target=\"new\" href=\"http://202.28.77.73/chonuniv/code/Get Home Page Servlet/onlinebanking.huntington.com/security/\">\n\t\t<img height=\"28\" alt=\"\" src=\"http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/button_signup.gif\" width=\"110\" border=\"0\"></a></td>\n\t</tr>\n</table>\n<!-- ==| END MIDDLE SECTION |== --><!-- ==| BOTTOM |== -->\n<table cellSpacing=\"0\" cellPadding=\"0\" width=\"750\" border=\"0\" id=\"table4\">\n\t<tr vAlign=\"center\" align=\"left\">\n\t\t<td width=\"750\" bgColor=\"#ffffff\" height=\"28\">\n\t\t<img height=\"28\" alt=\"\" src=\"http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/bottom.gif\" width=\"750\" border=\"0\"></td>\n\t</tr>\n</table>\n</body>\n</html>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<20050212012532.5A31285ABF4@mail1.domain.com>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "none",
+      "dkim": "fail",
+      "dmarc": "pass",
+      "returnpath": "dessauer@investorplace.com",
+      "ipaddress": [
+        "2603:1096:a04::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Untitled Document This message contains graphics. If you do not see the graphics, click here to view . We are glad to inform you, that our bank has a new security system. The new updated technology will ensure the security of your payments trough our bank. Hoping you understand that we are doing this for your own safety we suggest you to access the fallowing link to verify your Huntington Online Banking account. https://onlinebanking.huntington.com/login.asp",
+      "links": [
+        "http://www.genesiscostarica.com/~test/onlinebanking.huntington.com/login.html",
+        "http://202.28.77.73/chonuniv/code/Get Home Page Servlet/onlinebanking.huntington.com/security/",
+        "http://www.huntington.com/keylime/demoBanking.js",
+        "http://www.huntington.com/keylime/keylimeContent.js",
+        "http://202.28.77.73/chonuniv/code/Get",
+        "http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/logo_top.gif",
+        "http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/top.jpg",
+        "http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/logo_bottom.gif",
+        "http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/nav_introoff.gif",
+        "http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/nav_acctoff.gif",
+        "http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/nav_billpayon.gif",
+        "http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/nav_custoff.gif",
+        "http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/nav_summaryoff.gif",
+        "http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/clear.gif",
+        "http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/bg_yellowlines.gif",
+        "http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/header_billpay.gif",
+        "http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/bg_grey.gif",
+        "https://onlinebanking.huntington.com/login.asp",
+        "http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/button_next.gif",
+        "http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/billpay/screenshots/page2.jpg",
+        "http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/bg_yellowlines2.gif",
+        "http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/button_signup.gif",
+        "http://www.huntington.com/online_demo/webbank/Corillian/htmldemo/images/bottom.gif",
+        "http://www.huntington.com",
+        "http://www.genesiscostarica.com",
+        "http://onlinebanking.huntington.com",
+        "http://top.jp",
+        "http://page2.jp"
+      ],
+      "domains": [
+        "page2.jp",
+        "202.28.77.73",
+        "top.jp",
+        "onlinebanking.huntington.com",
+        "huntington.com",
+        "genesiscostarica.com"
+      ]
+    }
+  }
+}

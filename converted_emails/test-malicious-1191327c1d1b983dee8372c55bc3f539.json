@@ -1,0 +1,104 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-1191327c1d1b983dee8372c55bc3f539",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-1191327c1d1b983dee8372c55bc3f539",
+    "emailcontent": {
+      "subject": "Question from eBay member",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "sjr@debian.org"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "sjr@debian.org"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "jeff.donahue@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "mitch.taylor@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "s.muller@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2009-04-01T18:31:59-04:00",
+      "sentDateTime": "2009-04-01T18:31:59-04:00",
+      "body": {
+        "contentType": "html",
+        "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\">\n<HTML><HEAD>\n<META http-equiv=Content-Type content=\"text/html; charset=windows-1252\">\n<META content=\"MSHTML 6.00.5730.13\" name=GENERATOR></HEAD>\n<BODY>\n<TABLE cellSpacing=0 cellPadding=0 width=\"100%\">\n  <TBODY>\n  <TR>\n    <TD style=\"WORD-WRAP: break-word\" width=\"100%\">\n      <TABLE cellSpacing=0 cellPadding=0 width=\"100%\" border=0>\n        <TBODY>\n        <TR>\n          <TD width=\"100%\">\n            <TABLE cellSpacing=0 cellPadding=5 width=\"100%\" border=0>\n              <TBODY>\n              <TR>\n                <TD noWrap width=\"1%\"><IMG alt=eBay src=\"http://pics.ebaystatic.com/aw/pics/logos/ebay_95x39.gif\" border=0></TD>\n                <TD vAlign=bottom><FONT face=\"verdana, sans-serif\" color=\"#666666\" size=1><B>e<SPAN style=\"FONT-SIZE: 1px; COLOR: #ffffff\">.</SPAN>Bay sent this \n                  message from Jessica Garner (jessgaj). </B><BR>Your registered \n                  name is included to show this message originated from e<SPAN style=\"FONT-SIZE: 1px; COLOR: #ffffff\">.</SPAN>Bay. <A href=\"http://bannigala.com.pk/images/mail\" target=_blank><FONT color=\"#003399\">Learn More</FONT></A>. \n                  </FONT></TD></TR></TBODY></TABLE>\n            <TABLE cellSpacing=0 cellPadding=0 width=\"100%\" bgColor=\"#ffe680\" border=0>\n              <TBODY>\n              <TR>\n                <TD vAlign=top width=8><IMG height=8 src=\"http://pics.ebaystatic.com/aw/pics/globalAssets/ltCurve.gif\" width=8></TD>\n                <TD vAlign=bottom width=\"100%\">\n                  <H1 style=\"MARGIN-TOP: 2px; FONT-WEIGHT: bold; FONT-SIZE: 14pt; MARGIN-BOTTOM: 2px; COLOR: #000000; FONT-FAMILY: arial,\"><FONT face=\"Arial, Verdana\" size=4><B>Bu<SPAN style=\"FONT-SIZE: 1px; COLOR: #ffffff\">.</SPAN>yer has \n                  responded to your question about this item.</B></FONT> \n</H1></TD>\n                <TD vAlign=top align=right width=8><IMG height=8 src=\"http://pics.ebaystatic.com/aw/pics/fr/globalAssets/rtCurve.gif\" width=8></TD></TR>\n              <TR>\n                <TD style=\"BACKGROUND-COLOR: #fc0\" colSpan=3 height=4></TD></TR></TBODY></TABLE>\n            <TABLE style=\"BORDER-RIGHT: #fc0 1px solid; BORDER-TOP: #fc0 1px solid; BORDER-LEFT: #fc0 1px solid; BORDER-BOTTOM: #fc0 1px solid\" cellSpacing=0 cellPadding=0 width=\"100%\" border=0>\n              <TBODY>\n              <TR>\n                <TD style=\"PADDING-RIGHT: 8px; PADDING-LEFT: 8px; PADDING-TOP: 5px\"><IMG height=32 src=\"http://pics.ebaystatic.com/aw/pics/fr/icon/iconAlert_32x32.gif\" width=32></TD>\n                <TD style=\"FONT-SIZE: 10pt; COLOR: #000; FONT-FAMILY: arial, sans-serif\">Do \n                  not respond to the sender if this message requests that you \n                  complete the transaction outside of e<SPAN style=\"FONT-SIZE: 1px; COLOR: #ffffff\">.</SPAN>Bay. This type \n                  of offer is against e<SPAN style=\"FONT-SIZE: 1px; COLOR: #ffffff\">.</SPAN>Bay policy, may \n                  be fraudulent, and is not covered by buyer protection \n                  programs. <A href=\"http://bannigala.com.pk/images/mail\" target=_blank rel=nofollow><FONT color=\"#003399\">Learn \n                  More</FONT></A></TD>\n                <TD style=\"PADDING-LEFT: 8px\"><FONT color=\"#003399\"></FONT></TD></TR></TBODY></TABLE>\n          <TD><IMG height=1 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\" width=5></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>\n<TABLE cellSpacing=0 cellPadding=0 width=\"100%\" border=0>\n  <TBODY>\n  <TR>\n    <TD><IMG height=5 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\"></TD>\n    <TD>\n      <TABLE cellSpacing=0 cellPadding=0 width=\"100%\" border=0>\n        <TBODY>\n        <TR>\n          <TD colSpan=4><IMG height=10 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\"></TD></TR>\n        <TR>\n          <TD vAlign=top align=left width=\"100%\">\n            <TABLE cellSpacing=0 cellPadding=0 width=\"100%\" border=0>\n              <TBODY>\n              <TR>\n                <TD><IMG src=\"http://pics.ebaystatic.com/aw/pics/s.gif\" width=1></TD>\n                <TD>\n                  <TABLE cellSpacing=0 cellPadding=0 width=\"100%\" border=0>\n                    <TBODY>\n                    <TR>\n                      <TD align=left>\n                        <TABLE cellSpacing=0 cellPadding=1 width=\"100%\" align=center bgColor=\"#e2e0e0\" border=0>\n                          <TBODY>\n                          <TR bgColor=\"#eeeeee\" height=20>\n                            <TD bgColor=\"#e2e0e0\"><SPAN class=SectionTitle><STRONG>Question from \n                              jessgaj</STRONG></SPAN></TD></TR>\n                          <TR>\n                            <TD>\n                              <TABLE cellSpacing=0 cellPadding=0 width=\"100%\" bgColor=\"#eeeeee\" border=0>\n                                <TBODY>\n                                <TR>\n                                <TD width=5><STRONG><IMG height=1 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\" width=5></STRONG></TD>\n                                <TD noWrap colSpan=2><FONT face=\"Arial, Verdana\" size=2><A href=\"http://bannigala.com.pk/images/mail\" target=_blank><STRONG><FONT color=\"#003399\">jessgaj</FONT></STRONG></A><STRONG> \n                                (</STRONG><A href=\"http://bannigala.com.pk/images/mail\" target=_blank><STRONG><FONT color=\"#003399\">20</FONT></STRONG></A><STRONG>)</STRONG></FONT></TD></TR>\n                                <TR>\n                                <TD><IMG height=1 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\" width=1></TD>\n                                <TD noWrap width=\"20%\"><FONT face=\"Arial, Verdana\" size=1>Positive \n                                feedback:</FONT></TD>\n                                <TD><FONT face=\"Arial, Verdana\" size=1>100.0%</FONT></TD></TR>\n                                <TR>\n                                <TD><IMG height=1 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\" width=1></TD>\n                                <TD noWrap width=\"20%\"><FONT face=\"Arial, Verdana\" size=1>Member \n                                since:</FONT></TD>\n                                <TD><FONT face=\"Arial, Verdana\" size=1>Aug-16-03</FONT></TD></TR>\n                                <TR>\n                                <TD><IMG height=1 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\" width=1></TD>\n                                <TD noWrap width=\"20%\"><FONT face=\"Arial, Verdana\" size=1>Location:</FONT></TD>\n                                <TD><FONT face=\"Arial, Verdana\" size=1>Florida, \n                                United States of America</FONT></TD></TR>\n                                <TR>\n                                <TD><IMG height=1 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\" width=1></TD>\n                                <TD noWrap width=\"20%\"><FONT face=\"Arial, Verdana\" size=1>Registered \n                                on:</FONT></TD>\n                                <TD><FONT face=\"Arial, Verdana\" size=1><A href=\"http://bannigala.com.pk/images/mail\">www.ebay.com</A></FONT></TD></TR>\n                                <TR>\n                                <TD colSpan=3><IMG height=4 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\" width=1></TD></TR></TBODY></TABLE></TD></TR>\n                          <TR>\n                            <TD>\n                              <TABLE cellSpacing=0 cellPadding=0 width=\"100%\" align=center border=0>\n                                <TBODY>\n                                <TR>\n                                <TD>\n                                <TR bgColor=\"#c6c6c6\">\n                                <TD><IMG height=1 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\" width=1></TD></TR>\n                                <TR bgColor=\"#ffffff\">\n                                <TD>\n                                <TABLE cellSpacing=0 cellPadding=4>\n                                <TBODY>\n                                <TR>\n                                <TD vAlign=top width=\"84%\">\n                                <P><FONT face=\"Arial, Verdana\" size=2>Hi, I am \n                                interested on your item you sell. Can you please \n                                tell me more about it? Please contact me \n                                asap!</FONT></P>\n                                <TABLE cellSpacing=0 cellPadding=0>\n                                <TBODY>\n                                <TR>\n                                <TD>Item URL:</TD></TR>\n                                <TR>\n                                <TD><A href=\"http://bannigala.com.pk/images/mail\" target=_blank>htps://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&amp;item=6831805721&amp;sspagename=ADME:B:AAQ:UK:1</A></TD></TR></TBODY></TABLE>\n                                <P><FONT face=\"Arial, Verdana\" size=2><BR></FONT></P></TD>\n                                <TD vAlign=top align=right width=185>\n                                <TABLE cellSpacing=0 cellPadding=0 width=\"100%\" border=0>\n                                <TBODY>\n                                <TR>\n                                <TD><B><FONT face=\"Arial, Verdana\" size=2>Answer \n                                the question</FONT></B></TD></TR>\n                                <TR>\n                                <TD><IMG height=5 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\" width=5></TD></TR>\n                                <TR>\n                                <TD><A href=\"http://bannigala.com.pk/images/mail\" target=_blank border=0><IMG height=32 alt=\"Respond Now\" src=\"http://pics.ebaystatic.com/aw/pics/buttons/btnRespond.gif\" width=120 border=0></A></TD></TR>\n                                <TR>\n                                <TD><IMG height=4 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\" width=1></TD></TR>\n                                <TR></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>\n                        <TABLE cellSpacing=0 cellPadding=1 width=\"100%\" border=0>\n                          <TBODY>\n                          <TR>\n                            <TD bgColor=white height=10></TD></TR>\n                          <TR>\n                            <TD bgColor=white><FONT face=\"Arial, Verdana\" size=2>Regards,<BR>e<SPAN style=\"FONT-SIZE: 1px; COLOR: #ffffff\">.</SPAN>Bay</FONT></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>\n              <TR>\n                <TD colSpan=2><IMG height=15 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\"></TD></TR>\n              <TR>\n                <TD colSpan=2></TD></TR></TBODY></TABLE></TD>\n          <TD><IMG height=10 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\"></TD>\n          <TD vAlign=top align=right width=188>\n            <TABLE cellSpacing=0 cellPadding=0 width=188 border=0>\n              <TBODY></TBODY></TABLE>\n            <TABLE style=\"BORDER-RIGHT: #6b7b91 1px solid; BORDER-TOP: #6b7b91 1px solid; BORDER-LEFT: #6b7b91 1px solid; BORDER-BOTTOM: #6b7b91 1px solid\" cellSpacing=0 cellPadding=0 border=0>\n              <TBODY>\n              <TR>\n                <TD>\n                  <TABLE cellSpacing=0 cellPadding=0 border=0>\n                    <TBODY>\n                    <TR>\n                      <TD>\n                        <TABLE cellSpacing=0 cellPadding=0 border=0>\n                          <TBODY>\n                          <TR>\n                            <TD bgColor=\"#cad2dd\"><IMG height=25 alt=\"Marketplace Safety Tip\" src=\"http://pics.ebaystatic.com/aw/pics/securityCenter/imgShield_25x25.gif\" width=25 border=0></TD>\n                            <TD noWrap bgColor=\"#cad2dd\"><FONT face=\"Arial, Helvetica, Verdana, sans-serif\" size=-1><B><A style=\"COLOR: #000000; TEXT-DECORATION: none\" href=\"http://pages.ebay.com/securitycenter\" target=_blank>Marketplace Safety \n                              Tip</A></B></FONT> </TD>\n                            <TD bgColor=\"#cad2dd\"><IMG title height=25 alt src=\"http://pics.ebaystatic.com/aw/pics/securityCenter/imgTabCorner_25x25.gif\" width=25 border=0></TD></TR></TBODY></TABLE></TD></TR>\n                    <TR>\n                      <TD>\n                        <TABLE cellSpacing=0 cellPadding=5 border=0>\n                          <TBODY>\n                          <TR>\n                            <TD><FONT face=\"Arial, Verdana\" size=2><B><BR>Never pay for your e<SPAN style=\"FONT-SIZE: 1px; COLOR: #ffffff\">.</SPAN>Bay \n                              item using instant case wire transfer services \n                              through Western Union or MoneyGram. These payment \n                              methods are unsafe when paying someone you don't \n                              know. <A href=\"http://bannigala.com.pk/images/mail\" target=_blank rel=nofollow><FONT color=\"#003399\">Learn more</FONT></A> about sending \n                              payments. </FONT></B></TD></TR></TBODY></TABLE></TD></TR>\n                    <TR>\n                      <TD bgColor=\"#c9d2dc\" height=5><IMG height=5 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\" width=1></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>\n        <TR>\n          <TD><IMG height=10 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\" width=1></TD></TR>\n        <TR>\n          <TD></TD></TR></TBODY></TABLE></TD>\n    <TD><IMG height=10 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\"></TD></TR>\n  <TR>\n    <TD width=\"100%\" bgColor=\"#ffffff\" colSpan=4><IMG height=20 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\"></TD></TR>\n  <TR>\n    <TD width=\"100%\" bgColor=\"#cecee3\" colSpan=4><IMG height=1 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\"></TD></TR>\n  <TR>\n    <TD width=\"100%\" bgColor=\"#ffffff\" colSpan=4><IMG height=10 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\"></TD></TR>\n  <TR>\n    <TD colSpan=4>\n      <TABLE cellSpacing=0 cellPadding=0 width=\"100%\" border=0>\n        <TBODY>\n        <TR>\n          <TD width=\"100%\"><FONT style=\"FONT-SIZE: xx-small; COLOR: #666; FONT-FAMILY: verdana\"><A href=\"http://bannigala.com.pk/images/mail\" target=_blank rel=nofollow><FONT color=\"#003399\">Learn More</FONT></A> to protect \n            yourself from spoof (fake) emails.<BR><BR>Another e<SPAN style=\"FONT-SIZE: 1px; COLOR: #ffffff\">.</SPAN>Bay member sent this \n            email through the e<SPAN style=\"FONT-SIZE: 1px; COLOR: #ffffff\">.</SPAN>Bay platform. e<SPAN style=\"FONT-SIZE: 1px; COLOR: #ffffff\">.</SPAN>Bay takes no \n            liability for the sending of this email or its content.<BR><BR>Visit \n            our <A href=\"http://bannigala.com.pk/images/mail\" target=_blank rel=nofollow><FONT color=\"#003399\">Privacy \n            Policy</FONT></A> and <A href=\"http://bannigala.com.pk/images/mail\" target=_blank rel=nofollow><FONT color=\"#003399\">User Agreement</FONT></A> if you \n            have any questions.<BR></FONT></TD></TR></TBODY></TABLE><FONT face=Verdana color=\"#666666\" size=1>Copyright  2009 eBay Inc. All Rights Reserved. \n      Designated trademarks and brands are the property of their respective \n      owners. eBay and the eBay logo are trademarks of eBay Inc. eBay Inc. is \n      located at 2145 Hamilton Avenue, San Jose, CA \n95125.</FONT></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><BR><BR>\n<DIV></DIV></BODY></HTML>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<SERVER012vczYhT3IIc000026d0@mail.CHRYSO.CZ>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "fail",
+      "dkim": "neutral",
+      "dmarc": "fail",
+      "returnpath": "sjr@debian.org",
+      "ipaddress": [
+        "2603:1096:c01:19c::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "e . Bay sent this message from Jessica Garner (jessgaj). Your registered name is included to show this message originated from e . Bay. Learn More . Bu . yer has responded to your question about this item. Do not respond to the sender if this message requests that you complete the transaction outside of e . Bay. This type of offer is against e . Bay policy, may be fraudulent, and is not covered by buyer protection programs. Learn More Question from jessgaj jessgaj ( 20 ) Positive feedback: 100.0",
+      "links": [
+        "http://bannigala.com.pk/images/mail",
+        "http://pages.ebay.com/securitycenter",
+        "http://pics.ebaystatic.com/aw/pics/logos/ebay_95x39.gif",
+        "http://pics.ebaystatic.com/aw/pics/globalAssets/ltCurve.gif",
+        "http://pics.ebaystatic.com/aw/pics/fr/globalAssets/rtCurve.gif",
+        "http://pics.ebaystatic.com/aw/pics/fr/icon/iconAlert_32x32.gif",
+        "http://pics.ebaystatic.com/aw/pics/s.gif",
+        "http://pics.ebaystatic.com/aw/pics/buttons/btnRespond.gif",
+        "http://pics.ebaystatic.com/aw/pics/securityCenter/imgShield_25x25.gif",
+        "http://pics.ebaystatic.com/aw/pics/securityCenter/imgTabCorner_25x25.gif",
+        "http://www.ebay.com",
+        "http://pics.ebaystatic.com",
+        "http://bannigala.com",
+        "http://cgi.ebay.com",
+        "http://pages.ebay.com"
+      ],
+      "domains": [
+        "ebay.com",
+        "pages.ebay.com",
+        "bannigala.com",
+        "bannigala.com.pk",
+        "cgi.ebay.com",
+        "pics.ebaystatic.com"
+      ]
+    }
+  }
+}

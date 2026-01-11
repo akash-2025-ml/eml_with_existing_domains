@@ -1,0 +1,91 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-6a1cc70a9aded60a0c4670019a433c40",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-6a1cc70a9aded60a0c4670019a433c40",
+    "emailcontent": {
+      "subject": "Mitteilung von dem Postbank - Sicherheitsdienst.  [Ref:451]",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "mnewsletter@mtlnh.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "mnewsletter@mtlnh.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "'Bert Freudenberg'",
+            "address": "bert@freudenbergs.de"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "mlj@laptop.org"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2005-10-12T20:24:27+00:00",
+      "sentDateTime": "2005-10-12T20:24:27+00:00",
+      "body": {
+        "contentType": "image/gif",
+        "content": "<html><head><TITLE>Postbank Online-Banking</TITLE></head><body leftmargin=\"0\" topmargin=\"0\" marginwidth=\"0\" marginheight=\"0\"><div style=\"width: 500px;height: 110px;background-color:#002566;cursor:pointer;\"><a href=\"http://www.postbank.de/\" target=\"_parent\"><img src=\"cid:cc28499b8441$c4ec24f2$1bbf92e6@postbank.de\" alt=\"Homepage\" border=\"0\" height=\"88\" vspace=\"10\" width=\"140\"></a></div><table width=\"500\" height=\"100\" border=\"0\" cellpadding=\"5\" cellspacing=\"0\" align=\"left\"><td valign=\"top\" class=\"text\"><strong><hr noshade color=\"#E4E4E4\"></strong><div style=\"margin: 0px 25px 0px 20px;padding: 3px 0px 1px 0px; font-weight: normal; font-size: 13px;\">Sehr geehrter Kunde,<br><br>- Unser neues Schutzystem  kann Ihnen helfen, &ouml;ftere betr&uuml;gerischen Transaktionen zu vermeiden und Ihre Mittel sicher zu halten.<br><br>- Im Zusammenhang mit der technischen Modernisierung empfehlen wir Ihnen eine wiederholte Aktivierung von Ihrem Bankkonto durchzumachen.<br><br>Daf&uuml;r m&uuml;s\n sen Sie unser Link verfolgen: <b><a href=\"http://www.post-banken.com:8081/postbank/privat/app/welcome.do.htm?ref=9997\">Login</a></b><p><br>Wir sch&auml;tzen Ihr Business ein. F&uuml;r uns ist eine gro&szlig;e Ehre, Sie zu bedienen.<br>Die Abteilung mit der Arbeit f&uuml;r die Kunden von der <em><strong>Deutsche Postbank AG</strong></em><br><br>Dieses E-Mail ist nur f&uuml;r die Mitteilung. Damit haben Sie keine Antwort zu machen.<br><br>msg-id:9424887<br><hr size=\"1\" noshade class=\"text\"><font color=\"#FFFFF3\">Wed, 12 Oct 200520:33:00epochal</font></td></tr><tr><td height=\"25\" align=\"center\" bgcolor=\"#FFCC00\"><font color=\"#002566\">Copyright &copy; 2005&nbsp;&nbsp;<strong>Deutsche Postbank AG.</strong>&nbsp;&nbsp;Alle Rechte sind vorbehalten.</font></td></tr></table><br></div></body></html>\n"
+      },
+      "hasAttachments": true,
+      "internetMessageId": "<732b36d5-5e09-4669-a82e-ffdb58dcdd57@generated>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "pass",
+      "dkim": "fail",
+      "dmarc": "pass",
+      "returnpath": "mnewsletter@mtlnh.com",
+      "ipaddress": [
+        "2a01:111:f403:c409::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Postbank Online-Banking Sehr geehrter Kunde, - Unser neues Schutzystem kann Ihnen helfen, öftere betrügerischen Transaktionen zu vermeiden und Ihre Mittel sicher zu halten. - Im Zusammenhang mit der technischen Modernisierung empfehlen wir Ihnen eine wiederholte Aktivierung von Ihrem Bankkonto durchzumachen. Dafür müs sen Sie unser Link verfolgen: Login Wir schätzen Ihr Business ein. Für uns ist eine große Ehre, Sie zu bedienen. Die Abteilung mit der Arbeit für die Kunden von der Deutsche Postba",
+      "links": [
+        "http://www.postbank.de/",
+        "http://www.post-banken.com:8081/postbank/privat/app/welcome.do.htm?ref=9997",
+        "http://www.postbank.de",
+        "http://postbank.de",
+        "http://www.post-banken.com"
+      ],
+      "domains": [
+        "postbank.de",
+        "post-banken.com"
+      ]
+    },
+    "attachments": [
+      {
+        "name": "lfcavro.gif",
+        "contentBytes": "R0lGODlhjABYALMAAP/MAPC+BtesEP+GBL+ZGq+MIJl6KX9mM/8ACVpIQkAzTDAmUyAaWQ8OXwAAZv4BAiH5BAUUAA8ALAAAAACMAFgAAAT/EMhJq7046827/2AojmRpnmiqrmzrvnAsz3Rt33iu73zv/8CgcEgsGo/IpHLJbDqf0Kh0Sq1ar9isdsvter/gsHhMLpvP6LR6zW67Y4GEwkGv2x2HwJslaNz/DAJ7LAZ/fwl6gyqFhnYHiisCjXYGSgIKCo8vl5iRfpMOBgEDCKWmCAMZBpisB6IvBHQKMLF0K3OgeaemA4kYB4YNlScFCQkTtbOwdSrAoIi7pakbzg0Kn3SCJcnIsrTMKJKgDKPR09TeAIx4EwIEBNoVAvPxANwS9/MXAe8EvhUB5v2r5SAFrkkESO1KlaDOgnoTnCkDgGtWHDsNNEm4ZGcBQTvv/2Qd+MSgQLsE2DJGpFOsTiB84AgO+/DRELSFABrSWfCPgsQJuBAtsLkR286adEI2MgnA2R1N1e400EMQQB86x0IMnTQ1GoIA63hm+KmujgGdwgg4feSsJIECBgQc0MngwAF3dYQZYECHgYQDDAy8c/rXYQGnlapuFQsC6VOFpwZcddAAYgWnUsU5ILDSgV+dWSncs1eHs9U6ggT8w8W5WiKdjwii7dnhYLByu3LWYTrWUKBaDShoFrCOQQLTpB1MrLWAwtZhalnx3dwUa+dZNSuL0NxI10LNE3tTznSAKdkJpQNsrZN19GiKdB7p/NM6/vXkeWlzmN9IAGRTuiXFwf95EzDi1wQBoCbBWdhw5l46EuBiACMZvaNTfewUphx+04XngVF/NGcOACR1QOBGCi4IDoLTxbZTN3QkkmBSOs20FYYa/UQQQRp1UAAooQQQDT919CiehxJMJ9Zkx7y10XSJKYiXLAFcRFmAUJVWXYZbYseMU8gNCKR/0WxJnZgbWuAYZYK0lZc2Rh2wJjvrNGAUjvdVFcB0U3mA2R/B/YcKAAswYGiYR2JQAIgPaZgXb+vgUUsC09nnqAML1Lhljt5UdRqEG6xnyCwjbveOZQgaYFd5FRCgqpwWEOeKaqfCNWsFtprEDzxWndqOr7si5847HgCJKCTIJqvsssw26+wrs9BGK+201FZr7bXYZqvtttx26+234IYr7rjklmvuueimq+667LbrLrsRAAA7",
+        "contentType": "image/gif"
+      }
+    ]
+  }
+}

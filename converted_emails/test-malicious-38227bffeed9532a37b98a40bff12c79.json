@@ -1,0 +1,87 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-38227bffeed9532a37b98a40bff12c79",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-38227bffeed9532a37b98a40bff12c79",
+    "emailcontent": {
+      "subject": "Re:",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "sunil.misser@us.pwcglobal.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "sunil.misser@us.pwcglobal.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "helpdesk@admiin.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2007-07-01T16:31:17-01:20",
+      "sentDateTime": "2007-07-01T16:31:17-01:20",
+      "body": {
+        "contentType": "text/html",
+        "content": "<html xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:w=\"urn:schemas-microsoft-com:office:word\" xmlns=\"http://www.w3.org/TR/REC-html40\">\n\n<head>\n<META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=us-ascii\">\n<meta name=Generator content=\"Microsoft Word 11 (filtered medium)\">\n</head>\n<body>\n<body bgColor=#ffffff>\n\n\n<p>\n\n<strong>Downloadable Software\n</strong>(DS) is a fast-paced company providing \n<strong>high quality software\n\n\n</strong>. You've come to the right place if you need professionally implemented programming solutions for your usage. Thousands of \n\n<strong>satisfied customers\n</strong> have   already benefited from our software and solutions. Hundreds are <strong>joining this community\n\n</strong> every day.\n\n\n<font color=\"#FFFFFF\">plenty of time </font><br>We deliver superior software products and services that empower our partners and   customers to dramatically improve their development, deployment, integration and   management of quality applications all over the world.<font color=\"#FFFFFF\">for your kids if you</font></p>\n\n\n\n<p>\n\n<a href=\"http://whencompare.hk/\">\n<strong>VIEW ALL PRODUCTS\n</strong>\n\n\n</a>\n\n<font color=\"#FFFFFF\">where safe </font></p>\n<p>\n\n<strong>Most popular products\n</strong>:\n\n\n<font color=\"#FFFFFF\">bugs, romping </font></p>\n\n\n<p>\n\n\n<strong><A title=\"Click Here to see information about this software\" href=\"http://whencompare.hk/item.php?id=3442\">Microsoft Office 2007 Enterprise</A>\n\n</strong>\n<font color=\"#FFFFFF\">Many parents</font><br>\n  \n\n\n<em>Retail Price $899.00</em><font color=\"#FFFFFF\">beneficial but should not be viewed </font><br>\n  <strong>Our       $79.95</strong><font color=\"#FFFFFF\">in the shuffle, </font></p>\n\n\n\n\n<p>\n\n<strong><A title=\"Click Here to see information about this software\" href=\"http://whencompare.hk/item.php?id=3480\">Microsoft Windows Vista Business</A>\n\n\n</strong> <font color=\"#FFFFFF\">bugs, romping </font><br>\n  \n\n<em>Retail Price $299.00\n\n\n</em><font color=\"#FFFFFF\">report says.</font><br>\n  <strong>Our       $79.95\n\n</strong>\n<font color=\"#FFFFFF\">The efforts often</font></p>\n\n\n\n<p>\n<strong><A title=\"Click Here to see information about this software\" href=\"http://whencompare.hk/item.php?id=3441\">Adobe Acrobat 8.0 Professional</A>\n</strong>\n\n\n<font color=\"#FFFFFF\"> load their </font><br>\n  \n\n\n<em>Retail Price $449.00</em>\n\n<font color=\"#FFFFFF\">activities they </font><br>\n  <strong>Our       $79.95\n\n</strong>\n\n\n<font color=\"#FFFFFF\">healthy, development </font></p>\n\n\n\n\n<p><strong><A title=\"Click Here to see information about this software\" href=\"http://whencompare.hk/item.php?id=3186\">Adobe Photoshop CS2 V 9.0</A></strong> <font color=\"#FFFFFF\">annual meeting in </font><br>\n  \n\n\n<em>Retail Price $3750.00\n\n</em>\n\n\n<font color=\"#FFFFFF\">academy report says.</font><br>\n  \n\n<strong>Our       $99.95\n</strong>\n<font color=\"#FFFFFF\">The efforts often</font></p>\n\n<p><strong><A title=\"Click Here to see information about this software\" href=\"http://whencompare.hk/item.php?id=3266\">Autodesk AutoCAD 2006</A></strong><font color=\"#FFFFFF\"> a lack of playtime </font><br>\n  \n<em>Retail Price $550.00\n\n\n</em><font color=\"#FFFFFF\">develop problem-solving </font><br>\n  <strong>Our       $69.95\n\n</strong>\n<font color=\"#FFFFFF\">It says enrichment tools </font></p>\n\n\n\n\n<p>\n\n<strong><A title=\"Click Here to see information about this software\" href=\"http://whencompare.hk/item.php?id=3048\">Microsoft Office 2003 Professional with Business Contact   Manager for Outlook</A> \n\n\n</strong>\n\n<font color=\"#FFFFFF\">successful children. Above all, </font><br>\n  \n\n<em>Retail Price $550.00\n\n\n</em><font color=\"#FFFFFF\">one day a week. </font><br>\n  \n\n\n<strong>Our       $69.95 </strong><font color=\"#FFFFFF\">you almost </font></p>\n\n\n\n<p>\n<strong><A title=\"Click Here to see information about this software\" href=\"http://whencompare.hk/item.php?id=3251\">Microsoft Windows XP Professional with SP2</A> \n</strong>\n<font color=\"#FFFFFF\">medicine for </font><br>\n  \n\n\n<em>Retail Price $269.99\n\n</em>\n\n\n<font color=\"#FFFFFF\">resists </font><br>\n  \n\n\n<strong>Our       $49.95 </strong><font color=\"#FFFFFF\">overscheduled </font></p>\n\n\n\n<p>\n\n\n<strong><A title=\"Click Here to see information about this software\" href=\"http://whencompare.hk/item.php?id=3348\">Macromedia Studio 8</A></strong>\n\n<font color=\"#FFFFFF\">It says enrichment tools </font><br>\n  \n\n\n<em>Retail Price $999.00\n\n</em>\n<font color=\"#FFFFFF\">in low-income, violence-prone</font><br>\n  \n<strong>Our       $99.95 \n</strong>\n\n\n<font color=\"#FFFFFF\">old-fashioned playtime. </font></p>\n\n\n\n<p>\n\n\n<strong><A title=\"Click Here to see information about this software\" href=\"http://whencompare.hk/item.php?id=3033\">Microsoft Office XP Professional</A></strong><font color=\"#FFFFFF\">For now, </font><br>\n  \n\n<em>Retail Price  499.00\n\n\n</em><font color=\"#FFFFFF\">and marketing pitches </font><br>\n  \n\n<strong>Our        49.95 \n\n\n</strong><font color=\"#FFFFFF\">Academy </font></p>\n\n\n\n\n<p>\n\n<strong><A title=\"Click Here to see information about this software\" href=\"http://whencompare.hk/item.php?id=3246\">Adobe Creative Suite 2 Premium for Windows</A> \n\n\n</strong><font color=\"#FFFFFF\"> classes in a </font><br>\n  <em>Retail Price $1199.00</em><font color=\"#FFFFFF\">a pediatrician at The Children's Hospital </font><br>\n  \n<strong>Our       $149.95\n</strong>\n<font color=\"#FFFFFF\">front of get-smart </font></p>\n\n<p><a href=\"http://whencompare.hk/\">\n\n<strong>VIEW ALL PRODUCTS\n\n\n</strong>\n\n</a>\n<font color=\"#FFFFFF\">\"I hope it will have some effect,\"</font></p>\n</body>\n</body>\n</html>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<01c7bbfd$3ff52960$6c822ecf@dandyfracases>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "fail",
+      "dkim": "neutral",
+      "dmarc": "pass",
+      "returnpath": "sunil.misser@us.pwcglobal.com",
+      "ipaddress": [
+        "2603:1096:a01:af::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Downloadable Software (DS) is a fast-paced company providing high quality software . You've come to the right place if you need professionally implemented programming solutions for your usage. Thousands of satisfied customers have already benefited from our software and solutions. Hundreds are joining this community every day. plenty of time We deliver superior software products and services that empower our partners and customers to dramatically improve their development, deployment, integratio",
+      "links": [
+        "http://whencompare.hk/",
+        "http://whencompare.hk/item.php?id=3442",
+        "http://whencompare.hk/item.php?id=3480",
+        "http://whencompare.hk/item.php?id=3441",
+        "http://whencompare.hk/item.php?id=3186",
+        "http://whencompare.hk/item.php?id=3266",
+        "http://whencompare.hk/item.php?id=3048",
+        "http://whencompare.hk/item.php?id=3251",
+        "http://whencompare.hk/item.php?id=3348",
+        "http://whencompare.hk/item.php?id=3033",
+        "http://whencompare.hk/item.php?id=3246",
+        "http://www.w3.org/TR/REC-html40",
+        "http://whencompare.hk",
+        "http://www.w3.org"
+      ],
+      "domains": [
+        "whencompare.hk",
+        "w3.org"
+      ]
+    }
+  }
+}

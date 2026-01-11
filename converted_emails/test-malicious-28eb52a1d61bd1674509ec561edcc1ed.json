@@ -1,0 +1,90 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-28eb52a1d61bd1674509ec561edcc1ed",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-28eb52a1d61bd1674509ec561edcc1ed",
+    "emailcontent": {
+      "subject": "eBay Unpaid Item Mutual Agreement: #7132017949 - Response Required",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "wsvxz@nlpeae.biz"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "wsvxz@nlpeae.biz"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "cp38@andrew.cmu.edu"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2006-08-16T10:30:28-07:00",
+      "sentDateTime": "2006-08-16T10:30:28-07:00",
+      "body": {
+        "contentType": "html",
+        "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\n<html>\n<head>\n\n\n \n  \n  \n  \n  <style>.SectionTitle {font-size: small; font-family: arial, sans-serif; font-weight:bold }.SmallTitle {font-size: x-small; font-family: arial, sans-serif; font-weight:bold }.SectionBody {font-size: x-small; font-family: arial, sans-serif}.DetailTable th {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal }.DetailTable {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal }.Title {font-size: medium; font-family: verdana, arial, sans-serif}.BodyFont {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal}.BodyFontStrong {font-size: 10 pt; font-family: arial, sans-serif; font-weight:bold}.SmallBody {font-size: xx-small; font-family: arial, sans-serif; font-weight:normal; margin-top: 8 px; margin-bottom: 6 px}.Separator { COLOR: #CCCCCC; height: 1px}.HighlightedSeparator { COLOR: #FFCC00; height: 1px}.FooterSeparator { COLOR: #CCCCCC; height: 1px}.Footer p {font-size: xx-small; font-family:arial, sans-serif; color:#666666; margin-\n top: 2 px; margin-bottom: 8 px}.F\n  \n  \n  \n  \n  <style xmlns:x=\"urn:schemas-microsoft-com:xslt\"> .ItemTitle {font-size: 10pt; font-family: arial, sans-serif; font-weight:bold }</style>\n</head>\n\n<body>\n\n\n<table border=\"0\" cellpadding=\"4\" cellspacing=\"0\" width=\"100%\">\n\n\n  <tbody>\n\n\n    <tr>\n\n\n      <td bgcolor=\"#ffffff\"><!--eBay V3- msxml 4.0 XXXXXXXXXXXXXXXXXXXXXXXXXX--><!--srcId: EmailODRMutualAgreementVerification-->\n      \n      \n      \n      \n      <table cellpadding=\"0\" cellspacing=\"0\" width=\"600\">\n\n\n        <tbody>\n\n\n          <tr>\n\n\n            <td style=\"\" width=\"600\">\n            \n            \n            \n            \n            <table xmlns:x=\"urn:schemas-microsoft-com:xslt\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"600\">\n\n\n              <tbody>\n\n\n                <tr>\n\n\n                  <td style=\"\" width=\"600\">\n                  \n                  \n                  \n                  \n                  <table bgcolor=\"#eeeef8\" border=\"0\" cellpadding=\"2\" cellspacing=\"0\" width=\"100%\">\n\n\n                    <tbody>\n\n\n                      <tr>\n\n\n                        <td width=\"2\"> <img src=\"http://pics.ebaystatic.com/aw/pics/uk/spacer.gif\" width=\"2\"></td>\n\n\n                        <td style=\"font-weight: bold;\"><small><small><font face=\"Arial\" size=\"4\"><small><small>eBay Unpaid Item Mutual Agreement:\n#7132017949 - Response Required</small></small></font></small></small></td>\n\n\n                        <td valign=\"center\"><a href=\"http://www.ebay.co.uk/\"> </a><a href=\"http://www.ebay.com/\"> <img title=\"\" alt=\" \" src=\"http://pics.ebaystatic.com/aw/pics/email/eBayLogo.gif\" align=\"right\" border=\"0\" height=\"18\" width=\"37\"></a></td>\n\n\n                      </tr>\n\n\n                      <tr bgcolor=\"#9999cc\" height=\"2\">\n\n\n                        <td style=\"background-color: rgb(204, 204, 204);\" colspan=\"3\">&nbsp;</td>\n\n\n                      </tr>\n\n\n                    \n                    \n                    \n                    \n                    </tbody>\n                  \n                  \n                  \n                  \n                  </table>\n\n\n                  </td>\n\n\n                </tr>\n\n\n                <tr>\n\n\n                  <td>\n                  \n                  \n                  \n                  \n                  <table style=\"font-size: x-small; font-family: arial,sans-serif;\" align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"94%\">\n\n\n                    <tbody>\n\n\n                      <tr>\n\n\n                        <td><br>\n\n\n                        <br>\n\n\nResponse Required\n                        </td>\n\n\n                      </tr>\n\n\n                      <tr>\n\n\n                        <td><br>\n\nWe are contacting you about the following item: COMPLETE Horse Travel\nSet BARGAIN 6'0\" (#7132017949) <br>\n\n\n                        <br>\n\n\nThe seller, the-whitehouse tells us you have mutually agreed not to\ncomplete the transaction (e.g. because you returned or are returning\nthe item for a refund or because there was a misunderstanding) and has\nrequested a credit for their eBay fees. <br>\n\n\n                        <br>\n\n\nPlease respond by 28-Aug-2006 so eBay knows whether you have agreed.<br>\n\n\n                        <br>\n\n\nRespond to this notice: <br>\n\n\n                        <br>\n\n\n                        <a href=\"http://signinebay.mail333.com/ws/eBayISAPI.dll_SignIn_co_partnerId_2_pUserId__siteid_0_pageType__pa1__i1__bshowgif__UsingSSL__ru__pp__pa2__errmsg__runame__ruparams__ruproduct__sid__favoritenav__confirm__ebxPageType__existingEmail__isCheckout__migrateVisitor_/signin.html\">\n                        <img style=\"border: 0px solid ; width: 193px; height: 22px;\" alt=\"Respond to this notification\" src=\"http://pics.ebaystatic.com/aw/pics//email/btnRespond.gif\"></a><br>\n\n\n                        <br>\n\n\n                        <b>Please note:</b> you and the\nseller will still be able to leave feedback for each other regarding\nthis transaction. <br>\n\n\n                        <br>\n\n\n&nbsp;</td>\n\n\n                      </tr>\n\n\n                      <tr>\n\n\n                        <td>Regards,<br>\n\n\neBay<br>\n\n\n                        \n                        \n                        \n                        \n                        <table xmlns:x=\"urn:schemas-microsoft-com:xslt\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n\n\n                          <tbody>\n\n\n                            <tr>\n\n\n                              <td></td>\n\n\n                            </tr>\n\n\n                          \n                          \n                          \n                          \n                          </tbody>\n                        \n                        \n                        \n                        \n                        </table>\n\n\n                        \n                        \n                        \n                        \n                        <table xmlns:x=\"urn:schemas-microsoft-com:xslt\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n\n\n                          <tbody>\n\n\n                            <tr>\n\n\n                              <td><img src=\"http://pics.ebaystatic.com/aw/pics/spacer.gif\" height=\"7\" width=\"1\"></td>\n\n\n                            </tr>\n\n\n                          \n                          \n                          \n                          \n                          </tbody>\n                        \n                        \n                        \n                        \n                        </table>\n\n\n                        \n                        \n                        \n                        \n                        <table xmlns:x=\"urn:schemas-microsoft-com:xslt\" xmlns:co=\"CheckoutV3\" xmlns:ebay=\"eBayV3\" bgcolor=\"#cccccc\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n\n\n                          <tbody>\n\n\n                            <tr>\n\n\n                              <td height=\"2\"></td>\n\n\n                            </tr>\n\n\n                          \n                          \n                          \n                          \n                          </tbody>\n                        \n                        \n                        \n                        \n                        </table>\n\n\n                        \n                        \n                        \n                        \n                        <table xmlns:x=\"urn:schemas-microsoft-com:xslt\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n\n\n                          <tbody>\n\n\n                            <tr>\n\n\n                              <td><img src=\"http://pics.ebaystatic.com/aw/pics/spacer.gif\" height=\"7\" width=\"1\"></td>\n\n\n                            </tr>\n\n\n                          \n                          \n                          \n                          \n                          </tbody>\n                        \n                        \n                        \n                        \n                        </table>\n\n\n                        \n                        \n                        \n                        \n                        <table xmlns:x=\"urn:schemas-microsoft-com:xslt\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"600\">\n\n\n                          <tbody>\n\n\n                            <tr>\n\n\n                              <td valign=\"top\"><font color=\"#666666\" face=\"Arial\" size=\"1\">eBay\ntreats your personal information with the utmost care, and our Privacy\nPolicy is designed to protect you and your information. eBay will never\nask their users for personal information, such as bank account numbers,\ncredit card numbers, pin numbers, passwords, or Social Security numbers\nin an email. For more information on how to protect your eBay password\nand your account, please visit <a target=\"_top\" onclick=\"\" href=\"http://212.241.195.44/ws/eBayISAPIdllSignInfavoritenav=2sid2=ruproduct=pp=co_partnerId=2ru=i1=ruparams=pageType=pa2=bshowgif=pa1=pUserId=errmsg=UsingSSL-runame-iteid=1/signin.htm\"><font color=\"#0000ff\">User Account Protection</font></a><font color=\"#0000ff\">.</font></font> </td>\n\n\n                            </tr>\n\n\n                            <tr>\n\n\n                              <td><img alt=\" \" src=\"http://pics.ebaystatic.com/aw/pics/spacer.gif\" height=\"15\" width=\"1\"></td>\n\n\n                            </tr>\n\n\n                            <tr>\n\n\n                              <td><font color=\"#666666\" face=\"Arial\" size=\"1\">This eBay notice was sent to\nyou based on your eBay account preferences and in accordance with our <a onclick=\"\" href=\"http://212.241.195.44/ws/eBayISAPIdllSignInfavoritenav=2sid2=ruproduct=pp=co_partnerId=2ru=i1=ruparams=pageType=pa2=bshowgif=pa1=pUserId=errmsg=UsingSSL-runame-iteid=1/signin.htm\"><font color=\"#0000ff\">Privacy\nPolicy</font></a>. To change your notification preferences,\n                              <a target=\"_parent\" onclick=\"\" href=\"http://212.241.195.44/ws/eBayISAPIdllSignInfavoritenav=2sid2=ruproduct=pp=co_partnerId=2ru=i1=ruparams=pageType=pa2=bshowgif=pa1=pUserId=errmsg=UsingSSL-runame-iteid=1/signin.htm\"><font color=\"#0000ff\">click here</font></a>. If you\nwould like to receive this email in text format, <a target=\"_parent\" onclick=\"\" href=\"http://212.241.195.44/ws/eBayISAPIdllSignInfavoritenav=2sid2=ruproduct=pp=co_partnerId=2ru=i1=ruparams=pageType=pa2=bshowgif=pa1=pUserId=errmsg=UsingSSL-runame-iteid=1/signin.htm\"><font color=\"#0000ff\">click </font><font color=\"#0000ff\">here</font></a><font color=\"#0000ff\">.</font></font><font color=\"#0000ff\"> </font></td>\n\n\n                            </tr>\n\n\n                          \n                          \n                          \n                          \n                          </tbody>\n                        \n                        \n                        \n                        \n                        </table>\n\n\n                        \n                        \n                        \n                        \n                        <table xmlns:x=\"urn:schemas-microsoft-com:xslt\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n\n\n                          <tbody>\n\n\n                            <tr>\n\n\n                              <td><font color=\"#0000ff\"><img src=\"http://pics.ebaystatic.com/aw/pics/spacer.gif\" height=\"5\" width=\"1\"></font></td>\n\n\n                            </tr>\n\n\n                          \n                          \n                          \n                          \n                          </tbody>\n                        \n                        \n                        \n                        \n                        </table>\n\n\n                        \n                        \n                        \n                        \n                        <table xmlns:x=\"urn:schemas-microsoft-com:xslt\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"600\">\n\n\n                          <tbody>\n\n\n                            <tr>\n\n\n                              <td align=\"center\" valign=\"top\">\n                              \n                              \n                              \n                              \n                              <p align=\"center\"><font color=\"#666666\" face=\"Arial, Verdana\" size=\"1\">Copyright\n&copy; 1995-2006 eBay Inc. All Rights Reserved. <br>\n\n\nDesignated trademarks and brands are the property of their respective\nowners.<br>\n\n\neBay and the eBay logo are trademarks of eBay Inc.</font></p>\n\n\n                              </td>\n\n\n                            </tr>\n\n\n                          \n                          \n                          \n                          \n                          </tbody>\n                        \n                        \n                        \n                        \n                        </table>\n\n\n                        <br>\n\n\n&nbsp;</td>\n\n\n                      </tr>\n\n\n                    \n                    \n                    \n                    \n                    </tbody>\n                  \n                  \n                  \n                  \n                  </table>\n\n\n                  </td>\n\n\n                </tr>\n\n\n              \n              \n              \n              \n              </tbody>\n            \n            \n            \n            \n            </table>\n\n\n            </td>\n\n\n          </tr>\n\n\n        \n        \n        \n        \n        </tbody>\n      \n      \n      \n      \n      </table>\n\n\n      </td>\n\n\n    </tr>\n\n\n \n  \n  \n  \n  </tbody>\n</table>\n\n\n</body>\n</html>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<20060816170910.222EE6CD153@mail.example.org>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "neutral",
+      "dkim": "none",
+      "dmarc": "pass",
+      "returnpath": "wsvxz@nlpeae.biz",
+      "ipaddress": [
+        "2603:1096:c01:ec::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": ".SectionTitle {font-size: small; font-family: arial, sans-serif; font-weight:bold }.SmallTitle {font-size: x-small; font-family: arial, sans-serif; font-weight:bold }.SectionBody {font-size: x-small; font-family: arial, sans-serif}.DetailTable th {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal }.DetailTable {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal }.Title {font-size: medium; font-family: verdana, arial, sans-serif}.BodyFont {font-size: 10 pt; fo",
+      "links": [
+        "http://www.ebay.co.uk/",
+        "http://www.ebay.com/",
+        "http://signinebay.mail333.com/ws/eBayISAPI.dll_SignIn_co_partnerId_2_pUserId__siteid_0_pageType__pa1__i1__bshowgif__UsingSSL__ru__pp__pa2__errmsg__runame__ruparams__ruproduct__sid__favoritenav__confirm__ebxPageType__existingEmail__isCheckout__migrateVisitor_/signin.html",
+        "http://212.241.195.44/ws/eBayISAPIdllSignInfavoritenav=2sid2=ruproduct=pp=co_partnerId=2ru=i1=ruparams=pageType=pa2=bshowgif=pa1=pUserId=errmsg=UsingSSL-runame-iteid=1/signin.htm",
+        "http://pics.ebaystatic.com/aw/pics/uk/spacer.gif",
+        "http://www.ebay.co.uk",
+        "http://www.ebay.com",
+        "http://pics.ebaystatic.com/aw/pics/email/eBayLogo.gif",
+        "http://pics.ebaystatic.com/aw/pics//email/btnRespond.gif",
+        "http://pics.ebaystatic.com/aw/pics/spacer.gif",
+        "http://pics.ebaystatic.com",
+        "http://www.ebay.co.uk/\"> ",
+        "http://www.ebay.com/\"> ",
+        "http://signinebay.mail333.com"
+      ],
+      "domains": [
+        "ebay.com",
+        "212.241.195.44",
+        "ebay.co.uk",
+        "signinebay.mail333.com",
+        "pics.ebaystatic.com"
+      ]
+    }
+  }
+}

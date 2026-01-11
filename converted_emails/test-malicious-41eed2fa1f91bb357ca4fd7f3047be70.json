@@ -1,0 +1,86 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-41eed2fa1f91bb357ca4fd7f3047be70",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-41eed2fa1f91bb357ca4fd7f3047be70",
+    "emailcontent": {
+      "subject": "Chase Bank Reward For Online Survey",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "youngm@test.phibro.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "youngm@test.phibro.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "kolinge@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2006-04-05T00:20:20+05:00",
+      "sentDateTime": "2006-04-05T00:20:20+05:00",
+      "body": {
+        "contentType": "text/html",
+        "content": "<TABLE class=fullWidth height=61 cellSpacing=0 cellPadding=0 width=791 border=0>\n<TBODY>\n<TR>\n<TD class=sidebar width=610 bgColor=#3d85ab colSpan=6 height=26>\n<P style=\"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px\"><IMG height=25 alt=\"Chase Online\" src=\"https://chaseonline.chase.com/echaseweb/common//images/chase_online.gif\" width=200></P></TD></TR>\n<TR>\n<TD class=sidebar width=4 bgColor=#3d85ab height=416 rowSpan=2>\n<P style=\"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px\">&nbsp;</P></TD>\n<TD class=spacerW25 width=1 bgColor=#ffffff height=306>\n<P style=\"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px\" align=center><SPAN style=\"BACKGROUND-COLOR: #ffffff\"><IMG height=27 alt=\"Chase Logo\" hspace=29 src=\"https://chaseonline.chase.com/content/ecpweb/sso/image/chaseNew.gif\" width=138 align=right border=0></SPAN></P>\n<P style=\"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px\" align=center>&nbsp;</P>\n<P style=\"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px\" align=center>&nbsp;</P>\n<P style=\"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px\" align=center>&nbsp;</P>\n<P style=\"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px\" align=center>&nbsp;</P>\n<P style=\"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px\" align=center>&nbsp;</P>\n<P style=\"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px\" align=center>&nbsp;</P>\n<P style=\"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px\" align=center>&nbsp;</P></TD>\n<TD vAlign=top width=813 bgColor=#ffffff colSpan=3 height=306>\n<P style=\"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px\">&nbsp;</P>\n<P style=\"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px\"><B><FONT style=\"FONT-SIZE: 70%; BACKGROUND-COLOR: #ffffff\" face=\"Comic Sans MS\" color=#000066 size=1>&gt;</FONT></B><FONT face=Arial><B><FONT style=\"FONT-SIZE: 60%; BACKGROUND-COLOR: #ffffff\" color=#000066 size=1> </FONT></B><FONT style=\"FONT-SIZE: 80%; BACKGROUND-COLOR: #ffffff\" color=#000066 size=1>Dear Chase Bank Customer,</FONT></FONT></P>\n<P style=\"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px\"><FONT size=1></FONT>&nbsp;</P>\n<P style=\"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px\"><FONT size=1></FONT>&nbsp;</P>\n<P style=\"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px\"><B><FONT style=\"FONT-SIZE: 70%; BACKGROUND-COLOR: #ffffff\" face=\"Comic Sans MS\" color=#000066 size=1>&gt;</FONT></B><SPAN style=\"BACKGROUND-COLOR: #ffffff\"><FONT style=\"FONT-SIZE: 80%\" face=Arial color=#000066 size=1> The </FONT></SPAN><FONT style=\"FONT-SIZE: 80%; BACKGROUND-COLOR: #ffffff\" face=Arial color=#000066><FONT size=1><B>Chase Bank</B> Online department kindly asks you to take part in our quick and easy 5 questions survey.</FONT></FONT></P>\n<P style=\"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px\"><FONT face=Arial><B><FONT style=\"FONT-SIZE: 60%; BACKGROUND-COLOR: #ffffff\" color=#000066 size=1>&nbsp;</FONT></B><FONT style=\"FONT-SIZE: 80%; BACKGROUND-COLOR: #ffffff\" color=#000066><FONT size=1>In return we will credit<B> </B></FONT></FONT><B><FONT style=\"FONT-SIZE: 80%; BACKGROUND-COLOR: #ffffff\" color=#990000 size=1>$20.00</FONT></B><FONT style=\"FONT-SIZE: 80%; BACKGROUND-COLOR: #ffffff\" color=#000066 size=1> to your account - Just for your time!<BR><BR></FONT></FONT><B><FONT style=\"FONT-SIZE: 70%; BACKGROUND-COLOR: #ffffff\" face=\"Comic Sans MS\" color=#000066 size=1>&gt;</FONT></B><FONT face=Arial><B><FONT style=\"FONT-SIZE: 60%; BACKGROUND-COLOR: #ffffff\" color=#000066 size=1> </FONT></B><FONT style=\"FONT-SIZE: 80%; BACKGROUND-COLOR: #ffffff\" color=#000066 size=1>With the information collected we can decide to direct a number of changes to improve and expand our services. The information you provide us is all non-sensitive and anonymous - No part of it is handed down to any third party. </FONT></FONT></P>\n<P style=\"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px\"><FONT size=1></FONT>&nbsp;</P>\n<P style=\"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px\"><B><FONT style=\"FONT-SIZE: 70%; BACKGROUND-COLOR: #ffffff\" face=\"Comic Sans MS\" color=#000066 size=1>&gt;</FONT></B><FONT face=Arial><B><FONT style=\"FONT-SIZE: 60%; BACKGROUND-COLOR: #ffffff\" color=#000066 size=1> </FONT></B><FONT style=\"FONT-SIZE: 80%; BACKGROUND-COLOR: #ffffff\" color=#000066 size=1>It will be stored in our secure database for maximum 7 days while we process the results of this nationwide survey.</FONT></FONT></P>\n<P style=\"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px\"><FONT style=\"FONT-SIZE: 80%; BACKGROUND-COLOR: #ffffff\" face=Arial color=#000066 size=1>We kindly ask you to spare two minutes of your time and take part in our online survey.</FONT></P>\n<P style=\"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px\"><FONT size=1></FONT>&nbsp;</P>\n<P style=\"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px\"><FONT size=1></FONT>&nbsp;</P>\n<P style=\"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px\"><FONT size=1></FONT>&nbsp;</P>\n<P style=\"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px\"><FONT size=1><B><FONT style=\"FONT-SIZE: 70%; BACKGROUND-COLOR: #ffffff\" face=\"Comic Sans MS\" color=#000066>&gt;</FONT><FONT style=\"FONT-SIZE: 60%; BACKGROUND-COLOR: #ffffff\" face=Arial color=#000066> </FONT></B><FONT style=\"FONT-SIZE: 80%; BACKGROUND-COLOR: #ffffff\" face=Arial color=#000066>To continue please</FONT><FONT style=\"FONT-SIZE: 83%; BACKGROUND-COLOR: #ffffff\" face=Arial color=#000066> <STRONG><A href=\"http://www.google.com/url?sa=U&amp;start=4&amp;q=http://3578903115/ipstats/..%20/www.chase.com/\" target=_blank><FONT color=#003399>click here</FONT></A>.</STRONG></FONT></FONT> \n<P style=\"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px\">&nbsp;</P></TD>\n<TD class=sidebar width=1 bgColor=#3d85ab height=416 rowSpan=2>\n<P style=\"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px\">&nbsp;</P></TD></TR>\n<TR>\n<TD class=spacerH30 width=197 bgColor=#ffffff height=46>\n<P style=\"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px\" align=right><SPAN style=\"BACKGROUND-COLOR: #ffffff\"><IMG height=58 alt=\"Chase Logo\" hspace=1 src=\"http://www.chase.com/ccpmweb/generic/image/Webexcellence-B_G.gif\" width=191 align=left vspace=1 border=0></SPAN></P></TD>\n<TD class=spacerH30 width=504 bgColor=#ffffff height=46>\n<P style=\"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px\" align=right><SPAN class=ehlText><FONT color=#c0c0c0 size=1>EQUAL HOUSING LENDER</FONT></SPAN></P>\n<P style=\"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px\" align=right><SPAN class=ehlText><FONT color=#c0c0c0 size=1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Member FDIC</FONT></SPAN></P></TD>\n<TD class=spacerH30 width=47 bgColor=#ffffff height=46>\n<P style=\"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px\" align=justify><SPAN style=\"FONT-SIZE: 25%\"><FONT size=1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT></SPAN></P>\n<P style=\"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px\" align=justify><SPAN style=\"FONT-SIZE: 25%\"><FONT size=1><IMG height=40 hspace=0 src=\"http://www.chase.com/ccpmweb/shared/image/intbank_equalhouse.gif\" width=43 align=right></FONT></SPAN></P></TD>\n<TD class=spacerH30 width=95 bgColor=#ffffff height=46>\n<P style=\"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px\"><SPAN style=\"BACKGROUND-COLOR: #ffffff\"><FONT size=1><IMG height=53 hspace=5 src=\"http://www.chase.com/ccpmweb/card_acquisitions/image/12413ChaseRewardsVisa_84x53.jpg\" width=84 align=right></FONT></SPAN></P></TD></TR>\n<TR>\n<TD class=bottomBar width=809 bgColor=#3d85ab colSpan=6 height=1>\n<P style=\"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px\"><SPAN style=\"FONT-SIZE: 20%; BACKGROUND-COLOR: #ffffff\"><FONT size=1>s&nbsp; </FONT></SPAN></P>\n<P style=\"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px\"><FONT size=1></FONT></P></TD></TR></TBODY></TABLE>\n<TABLE class=fullwidth height=35 cellSpacing=0 cellPadding=0 width=787 summary=\"terms of use link and copyright\" border=0>\n<TBODY>\n<TR>\n<TD class=spacerH10 width=787 height=28>\n<P style=\"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; LINE-HEIGHT: 150%\" align=center><FONT color=#999999 size=2>�2006 JPMorgan Chase &amp; Co</FONT></P>\n<TABLE cellSpacing=0 cellPadding=0 width=155 border=0>\n<TBODY>\n<TR>\n<TD>\n<P style=\"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px\"></P></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<28507a7d-7547-4443-9727-eba88a37016d@generated>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "pass",
+      "dkim": "none",
+      "dmarc": "fail",
+      "returnpath": "test@attack.com",
+      "ipaddress": [
+        "2603:1096:a04::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "> Dear Chase Bank Customer, > The Chase Bank Online department kindly asks you to take part in our quick and easy 5 questions survey. In return we will credit $20.00 to your account - Just for your time! > With the information collected we can decide to direct a number of changes to improve and expand our services. The information you provide us is all non-sensitive and anonymous - No part of it is handed down to any third party. > It will be stored in our secure database for maximum 7 days whil",
+      "links": [
+        "http://www.google.com/url?sa=U&start=4&q=http://3578903115/ipstats/..%20/www.chase.com/",
+        "https://chaseonline.chase.com/echaseweb/common//images/chase_online.gif",
+        "https://chaseonline.chase.com/content/ecpweb/sso/image/chaseNew.gif",
+        "http://www.google.com/url?sa=U&start=4&q=http://3578903115/ipstats/..%20/www.chase.com",
+        "http://www.chase.com/ccpmweb/generic/image/Webexcellence-B_G.gif",
+        "http://www.chase.com/ccpmweb/shared/image/intbank_equalhouse.gif",
+        "http://www.chase.com/ccpmweb/card_acquisitions/image/12413ChaseRewardsVisa_84x53.jpg",
+        "http://chaseonline.chase.com",
+        "http://www.google.com",
+        "http://www.chase.com",
+        "http://84x53.jp"
+      ],
+      "domains": [
+        "chase.com",
+        "84x53.jp",
+        "chaseonline.chase.com",
+        "google.com"
+      ]
+    }
+  }
+}

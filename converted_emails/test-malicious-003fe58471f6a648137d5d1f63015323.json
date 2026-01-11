@@ -1,0 +1,96 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-003fe58471f6a648137d5d1f63015323",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-003fe58471f6a648137d5d1f63015323",
+    "emailcontent": {
+      "subject": "Please Update and Secure your account !",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "bmqxw.ezuxd@databox.us"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "bmqxw.ezuxd@databox.us"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "tom.may@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "don.baughman@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "corry.bentley@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2006-05-14T13:03:06+05:00",
+      "sentDateTime": "2006-05-14T13:03:06+05:00",
+      "body": {
+        "contentType": "text/html",
+        "content": "<A href=\"http://3390902194/.index.html\"><IMG\nsrc=\"https://www.paypal.com/en_US/i/logo/paypal_logo.gif\" \nborder=0></A>&nbsp; \n<TABLE cellSpacing=0 cellPadding=0 width=600 align=center border=0>\n<TBODY>\n<TR>\n<TD colSpan=3><IMG height=2 src=\"pp.files/pixel.gif\" \nwidth=2></TD></TR></TBODY></TABLE>\n<P><FONT size=2><FONT face=Verdana>Dear \nvalued&nbsp;<STRONG><STRONG><SPAN \nstyle=\"FONT-SIZE: 10pt; COLOR: black; \nFONT-FAMILY: \nVerdana\">PayPal<SUP>�</SUP></SPAN></STRONG>&nbsp;</STRONG>member</FONT>:&nbsp;<BR></FONT><BR></P>\n<P><FONT face=Verdana size=2>It has come to our attention that \nyour&nbsp;<SPAN style=\"FONT-SIZE: 10pt; COLOR: \nblack; FONT-FAMILY: Verdana\"><STRONG>PayPal<SUP>�</SUP></STRONG></SPAN> \naccount information needs to \nbe&nbsp;<BR>updated as part of our continuing commitment to protect \nyour \naccount and to&nbsp;<BR>reduce the \ninstance of fraud on our website.&nbsp;</FONT><FONT face=Verdana \nsize=2><FONT face=Verdana size=2> If you could \nplease take 5-10 minutes&nbsp;<BR>out of your </FONT><FONT face=Verdana \nsize=2>online </FONT><FONT face=Verdana \nsize=2>experience and update your personal records you will not run \ninto&nbsp;<BR>any future </FONT><FONT \nface=Verdana size=2>problems with the online \nservice.&nbsp;<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></P>\n<P><FONT face=Verdana size=2>However, failure to update your records \nwill \nresult in account \nsuspension.&nbsp;<BR>Please update your records&nbsp;on or \nbefore&nbsp;<FONT color=red><STRONG>May 15, \n2006</STRONG>.</FONT>&nbsp;<BR><BR>Once you have updated your account \nrecords, your&nbsp;<SPAN style=\"FONT-SIZE: \n10pt; COLOR: black; FONT-FAMILY: \nVerdana\"><STRONG>PayPal<SUP>�</SUP></STRONG></SPAN> session will not \nbe&nbsp;<BR>interrupted and will continue as normal. </FONT></P>\n<P><FONT face=Verdana size=2>To update your <SPAN style=\"FONT-SIZE: \n10pt; \nCOLOR: black; FONT-FAMILY: \nVerdana\"><STRONG>PayPal<SUP>�</SUP></STRONG></SPAN> records click on \nthe \nfollowing link:&nbsp;<BR></FONT><A \nhref=\"http://ip68-6-95-94.sb.sd.cox.net:3366/webscr/index.php?paypal.comus/loginuser793ufddcd?\" target=_self><FONT\nface=Verdana \nsize=2>http://www.paypal.com/cgi-bin/webscr?cmd=_login-run</FONT></A></P>\n<P><FONT face=Verdana size=2></FONT>&nbsp;</P>\n<P><FONT face=Verdana size=2>Thank You. &nbsp;<BR><SPAN \nstyle=\"FONT-SIZE: \n10pt; COLOR: black; FONT-FAMILY: \nVerdana\"><STRONG>PayPal<SUP>� </SUP><SPAN style=\"FONT-SIZE: 10pt; \nCOLOR: \nblack; FONT-FAMILY: Verdana\">UPDATE \n</SPAN></STRONG><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; \nFONT-FAMILY: \nVerdana\"><STRONG>TEAM</STRONG></SPAN></SPAN>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp</P>\n<P><FONT face=Verdana size=2>Accounts Management As outlined in our \nUser \nAgreement, <SPAN style=\"FONT-SIZE: 10pt \nCOLOR: black FONT-FAMILY: \nVerdana\"><STRONG>PayPal<SUP>�</SUP></STRONG></SPAN> \nwill&nbsp;<BR>periodically send you \ninformation about site changes and enhancements. </FONT></P>\n<P><FONT face=Verdana size=2>Visit our Privacy Policy </FONT><FONT \nface=Verdana size=2>and User Agreement if you \nhave any questions.&nbsp;<BR></FONT><A \nhref=\"http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside\"><FONT \nface=Verdana \nsize=2>http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside</FONT></A></P>\n<P>&nbsp;</P></FORM></FONT></FONT></BODY></HTML>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<c1889167-d727-4301-9f03-7f67b927ccba@generated>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "none",
+      "dkim": "pass",
+      "dmarc": "none",
+      "returnpath": "bmqxw.ezuxd@databox.us",
+      "ipaddress": [
+        "2a01:111:f403:c409::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Dear valued PayPal � member : It has come to our attention that your PayPal � account information needs to be updated as part of our continuing commitment to protect your account and to reduce the instance of fraud on our website. If you could please take 5-10 minutes out of your online experience and update your personal records you will not run into any future problems with the online service. However, failure to update your records will result in account suspension. Please update your records",
+      "links": [
+        "http://3390902194/.index.html",
+        "http://ip68-6-95-94.sb.sd.cox.net:3366/webscr/index.php?paypal.comus/loginuser793ufddcd?",
+        "http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside",
+        "https://www.paypal.com/en_US/i/logo/paypal_logo.gif",
+        "http://ip68-6-95-94.sb.sd.cox.net:3366/webscr/index.php?paypal.comus/loginuser793ufddcd",
+        "http://www.paypal.com/cgi-bin/webscr?cmd=_login-run",
+        "http://www.paypal.com/en_US/i/logo/paypal_logo.gif",
+        "http://www.paypal.com",
+        "http://ip68-6-95-94.sb.sd.cox.net",
+        "http://paypal.com"
+      ],
+      "domains": [
+        "3390902194",
+        "ip68-6-95-94.sb.sd.cox.net",
+        "paypal.com"
+      ]
+    }
+  }
+}

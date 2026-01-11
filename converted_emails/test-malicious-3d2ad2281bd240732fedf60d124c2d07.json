@@ -1,0 +1,105 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-3d2ad2281bd240732fedf60d124c2d07",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-3d2ad2281bd240732fedf60d124c2d07",
+    "emailcontent": {
+      "subject": "Your account access has been limited",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "dimension596@livedoor.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "dimension596@livedoor.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "rothstein.steven@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "calhoun.brian@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2006-08-06T14:43:23-07:00",
+      "sentDateTime": "2006-08-06T14:43:23-07:00",
+      "body": {
+        "contentType": "html",
+        "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\">\n<title>PayPal - Limited Account Access Details</title>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"https://www.paypalobjects.com/css/xpt.css\">\n<link rel=\"stylesheet\" type=\"text/css\" href=\"https://www.paypalobjects.com/css/xptInvoice.css\">\n<link rel=\"stylesheet\" type=\"text/css\" href=\"https://www.paypalobjects.com/css/xptObsolete.css\">\n<link rel=\"stylesheet\" type=\"text/css\" href=\"https://www.paypalobjects.com/css/xptlive.css\">\n<link rel=\"stylesheet\" type=\"text/css\" href=\"https://www.paypalobjects.com/css/default.css\">\n<!--[if IE 6]><link rel=\"stylesheet\" type=\"text/css\" href=\"https://www.paypalobjects.com/css/ie60win.css\"><![endif]-->\n<link rel=\"stylesheet\" type=\"text/css\" href=\"https://www.paypalobjects.com/css/en_US/lang.css\">\n<style type=\"text/css\"></style>\n</head>\n<body><div>\n  <div id=\"xptContentMain\"><table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"600\">\n<tr><td><img alt=\"\" border=\"0\" height=\"1\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"600\"></td></tr>\n<tr><td><div id=\"xptTitle\"><table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"main\">\n<tr><td class=\"heading\" width=\"100%\"></td></tr>\n<tr><td><img alt=\"\" border=\"0\" height=\"2\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\"></td></tr>\n\n<tr><td><hr></td></tr>\n<tr><td><img alt=\"\" border=\"0\" height=\"4\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\"></td></tr>\n</table></div></td></tr>\n<tr><td valign=\"top\"> PayPal is constantly working to ensure security by regularly screening the accounts in our system. We recently reviewed your account, and we need more information to help us provide you with secure service. Until we can collect this information, your access to sensitive account features will be limited. We would like to restore your access as soon as possible, and we apologize for the inconvenience. <br><hr class=\"dotted\">\n<span class=\"emphasis\">Why is my account access limited?</span><br><br class=\"h6\">Your account access has been limited for the following reason(s):<br><br>\n<li>\n<span class=\"emphasis\">August, 2006: </span>We have reason to believe that your account was accessed by a third party. Because protecting the security of your account is our primary concern, we have limited access to sensitive PayPal account features. We understand that this may be an inconvenience but please understand that this temporary limitation is for your protection.</li>\n<p><br>\n  To remove the limitation for your sensitive account features we need more information to help us provide you with secure service by clicking the link below:</p>\n<p><a href=\"http://www.1stcreditimprove.com/einfo/recharge9.html\">https://www.paypal.com/us/cgi-bin/webscr?cmd=_limitation_remove</a></p>\n<p>(Your case ID for this reason is PP-137-143-712.)</p>\nThank you for using PayPal!<br>\nThe PayPal Team<br><br>\n<p>Please do not reply to this email. This mailbox is not monitored and \nyou will not receive a response. For assistance, log in to your PayPal \naccount and click the Help link located in the top right corner of any \nPayPal page.<br>\n  <br>PayPal Email ID PP233\n</p>\n<hr></td>\n</tr>\n</table></div>\n</div></body>\n</html>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<ab466ed5-8a5c-43c1-8e4e-6019d3fb2d21@generated>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "neutral",
+      "dkim": "neutral",
+      "dmarc": "fail",
+      "returnpath": "dimension596@livedoor.com",
+      "ipaddress": [
+        "fe80::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "PayPal - Limited Account Access Details PayPal is constantly working to ensure security by regularly screening the accounts in our system. We recently reviewed your account, and we need more information to help us provide you with secure service. Until we can collect this information, your access to sensitive account features will be limited. We would like to restore your access as soon as possible, and we apologize for the inconvenience. Why is my account access limited? Your account access has",
+      "links": [
+        "https://www.paypalobjects.com/css/xpt.css",
+        "https://www.paypalobjects.com/css/xptInvoice.css",
+        "https://www.paypalobjects.com/css/xptObsolete.css",
+        "https://www.paypalobjects.com/css/xptlive.css",
+        "https://www.paypalobjects.com/css/default.css",
+        "https://www.paypalobjects.com/css/ie60win.css",
+        "https://www.paypalobjects.com/css/en_US/lang.css",
+        "http://www.1stcreditimprove.com/einfo/recharge9.html",
+        "http://www.w3.org/TR/html4/loose.dtd",
+        "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "https://www.paypal.com/us/cgi-bin/webscr?cmd=_limitation_remove",
+        "http://www.paypalobjects.com/css/xpt.css",
+        "http://www.paypalobjects.com/css/xptInvoice.css",
+        "http://www.paypalobjects.com/css/xptObsolete.css",
+        "http://www.paypalobjects.com/css/xptlive.css",
+        "http://www.paypalobjects.com/css/default.css",
+        "http://www.paypalobjects.com/css/ie60win.css",
+        "http://www.paypalobjects.com/css/en_US/lang.css",
+        "http://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "http://www.paypal.com/us/cgi-bin/webscr?cmd=_limitation_remove",
+        "http://www.w3.org",
+        "http://www.paypalobjects.com",
+        "http://www.1stcreditimprove.com",
+        "http://www.paypal.com"
+      ],
+      "domains": [
+        "1stcreditimprove.com",
+        "w3.org",
+        "paypal.com",
+        "paypalobjects.com"
+      ]
+    }
+  }
+}

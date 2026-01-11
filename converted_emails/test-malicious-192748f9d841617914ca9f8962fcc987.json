@@ -1,0 +1,105 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-192748f9d841617914ca9f8962fcc987",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-192748f9d841617914ca9f8962fcc987",
+    "emailcontent": {
+      "subject": "Atualização de Segurança",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "susan.flynn@enron.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "susan.flynn@enron.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "tammy.barta@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "lisa.kang@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "susan.rance@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2011-01-19T13:12:47-02:00",
+      "sentDateTime": "2011-01-19T13:12:47-02:00",
+      "body": {
+        "contentType": "text",
+        "content": "You will not see this in a MIME-aware mail reader.\n--===============0541541152==\nContent-Type: text/plain; charset=\"iso-8859-1\"\nMIME-Version: 1.0\nContent-Transfer-Encoding: quoted-printable\nContent-Description: Mail message body\n\n =\n\n  \t \t =\n\n   =\n\nAtualiza--o de Seguran-a\n  Prezado(a) Cliente: Verificamos que sua senha do Disk Real encontra-se ex=\npirada em nosso sistema. =\n\n Para sua seguran-a, recomendamos sua reativa--o.\n =\n\n Clique em confirmar e siga todos os procedimentos exigidos pelo Internet B=\nanking para que sua senha seja reativada com rapidez e facilidade.\n =\n\n =\n\n  \t =\n\n  =\n\n  \t Banco Santander (Brasil) S.A.\t  CNPJ: 90.400.888/0001-42\n Institui--o Financeira autorizada a funcionar pelo Banco Central do Brasil=\n. \t =\n\n \t =\n\n =20\n--===============0541541152==\nContent-Type: text/html; charset=\"iso-8859-1\"\nMIME-Version: 1.0\nContent-Transfer-Encoding: quoted-printable\nContent-Description: Mail message body\n\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.=\nw3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=3D\"http://www.w3.org/1999/xhtml\">\n<head>\n<meta http-equiv=3D\"Content-Type\" content=3D\"text/html; charset=3Diso-8859-=\n1\" />\n<title></title>\n<style type=3D\"text/css\">\n<!--\nbody{background-color:#f3f3f3;font-family:verdana,arial;color:#666;font-siz=\ne:10px;}\ndiv{margin:10px;padding:10px 10px 0 10px;background-color:#fff;border:1px s=\nolid #ddd;}\nfieldset{border:0px;*margin:30px 0 0 0;padding:0 0 10px 0;position:relative=\n;}\nfieldset:nth-of-type(1){margin:30px 0 0 0;}\nh1{margin:0 0 10px 0;background-color:#ECEBEB;border:1px solid #ddd;padding=\n:5px;color:#666666;font-weight:bold;font-size:12px;}\nlegend:nth-of-type(1){position:absolute;left:-2px;top:-20px;margin:0;}\n.esquerda {\n\tcolor:#FFF;\n}\n.direita p {\n\tcolor:#FFF;\n}\n-->\n</style>\n</head>\n\n<body>\n<table width=3D\"671\" border=3D\"0\" cellspacing=3D\"0\" cellpadding=3D\"0\">\n  <tr>\n    <td width=3D\"191\" bgcolor=3D\"#E52D2A\"><img src=3D\"https://www2.realsecu=\nreweb.com.br/nrib/imagens/FL_tp_logobanco.gif\" width=3D\"191\" height=3D\"56\" =\n/></td>\n    <td width=3D\"480\" bgcolor=3D\"#E52D2A\"><img src=3D\"https://www2.realsecu=\nreweb.com.br/nrib/imagens/FL_tp_id_canal.gif\" width=3D\"117\" height=3D\"14\" /=\n></td>\n\n  </tr>\n  <tr>\n    <td colspan=3D\"2\"><div>\n      <h1>Atualiza&ccedil;&atilde;o de Seguran&ccedil;a</h1>\n      <fieldset>\n        <legend>Prezado(a) Cliente:</legend>\n        Verificamos\n        que sua senha do Disk Real encontra-se expirada em\n        nosso sistema. <br />\n\n        Para sua seguran&ccedil;a, recomendamos sua\n        reativa&ccedil;&atilde;o.<br />\n        <br />\n        Clique em confirmar e siga todos os procedimentos exigidos pelo Int=\nernet Banking para que sua senha seja reativada com rapidez e facilidade.<b=\nr />\n        <br />\n        <a href=3D\"http://74.63.237.33/www.bancoreal.com.br/\"><img src=3D\"h=\nttp://aahuuu.com/images/ok.jpg\" width=3D\"78\" height=3D\"20\" border=3D\"0\" /><=\n/a><br />\n        </fieldset>\n    </div></td>\n\n  </tr>\n  <tr>\n    <td colspan=3D\"2\" bgcolor=3D\"#E52D2A\"><table border=3D\"0\" cellspacing=\n=3D\"0\" cellpadding=3D\"0\">\n      <tr>\n        <td width=3D\"27\" height=3D\"36\"><img src=3D\"https://www2.realsecurew=\neb.com.br/nrib/imagens/imgRodapeLogo.GIF\" width=3D\"20\" height=3D\"26\" /></td>\n        <td width=3D\"169\"><span class=3D\"esquerda\">Banco Santander (Brasil)=\n S.A.</span></td>\n        <td width=3D\"474\" align=3D\"right\">\n\t\t\t<span class=3D\"esquerda\">CNPJ: 90.400.888/0001-42<br>\n\n\t\t\tInstitui&ccedil;&atilde;o =\n\n    Financeira autorizada a funcionar pelo Banco Central do Brasil.</span>\n\t\t</td>\n      </tr>\n    </table></td>\n  </tr>\n</table>\n</body>\n</html>\n\n--===============0541541152==--\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<BRTBSASC05ORXi4LJjn000782aa@brtbsasc05.infominas.com.br>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "fail",
+      "dkim": "none",
+      "dmarc": "fail",
+      "returnpath": "susan.flynn@enron.com",
+      "ipaddress": [
+        "2603:1096:a01:1c7::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "You will not see this in a MIME-aware mail reader.\n--===============0541541152==\nContent-Type: text/plain; charset=\"iso-8859-1\"\nMIME-Version: 1.0\nContent-Transfer-Encoding: quoted-printable\nContent-Description: Mail message body\n\n =\n\n  \t \t =\n\n   =\n\nAtualiza--o de Seguran-a\n  Prezado(a) Cliente: Verificamos que sua senha do Disk Real encontra-se ex=\npirada em nosso sistema. =\n\n Para sua seguran-a, recomendamos sua reativa--o.\n =\n\n Clique em confirmar e siga todos os procedimentos exigidos pelo In",
+      "links": [
+        "http://www.=",
+        "http://www.w3.org/1999/xhtml",
+        "https://www2.realsecu=",
+        "http://74.63.237.33/www.bancoreal.com.br",
+        "https://www2.realsecurew=",
+        "http://www.bancoreal.com.br",
+        "http://w3.org",
+        "http://www.w3.org",
+        "http://reweb.com.br",
+        "http://aahuuu.com",
+        "http://ok.jp",
+        "http://eb.com.br"
+      ],
+      "domains": [
+        "www2.realsecu=",
+        "reweb.com.br",
+        "ok.jp",
+        "74.63.237.33",
+        "=",
+        "w3.org",
+        "aahuuu.com",
+        "eb.com.br",
+        "www2.realsecurew=",
+        "bancoreal.com.br"
+      ]
+    }
+  }
+}

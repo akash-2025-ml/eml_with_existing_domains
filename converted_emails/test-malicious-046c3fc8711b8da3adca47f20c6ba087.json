@@ -1,0 +1,86 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-046c3fc8711b8da3adca47f20c6ba087",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-046c3fc8711b8da3adca47f20c6ba087",
+    "emailcontent": {
+      "subject": "New weight loss solution!",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "cwubbena@test.seminole-electric.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "cwubbena@test.seminole-electric.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "hof@swbell.net"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "amyphil@msn.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "elamprecht@encompserv.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2007-06-25T08:08:37-09:00",
+      "sentDateTime": "2007-06-25T08:08:37-09:00",
+      "body": {
+        "contentType": "text/html",
+        "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\">\n<HTML><HEAD><TITLE></TITLE>\n<META content=\"text/html; charset=us-ascii\" http-equiv=Content-Type>\n<META content=\"MSHTML 5.50.4522.1200\" name=GENERATOR></HEAD>\n<BODY>\n<table>\n<tr><td><p style=\"font-size: 14px; color : #3519EB; font-family : serif; text-align : justify;\">Total number of overweight adults: (20 through 74 years old) approximately one-third or 58 million Americans. (overweight defined as a BMI value of 27.3 percent or more for women and 27.8 percent or more for men)\nNearly 70 percent of the diagnosed cases of cardiovascular disease are related to obesity.</p>\n</td></tr>\n</table>\n<p style=\"font-size: 14px; color : #0D05C0; font-family : serif; text-align : justify;\">Obesity more than doubles one's chances of developing high blood pressure, which affects approximately 26 percent of obese American men and women.</p>\n\n<p style=\"font-size: 14px; color : #562ADC; font-family : serif; text-align : justify;\">Every year, 300,000 people in the U.S.A. die from being overweight\n These are frightening statistics. However, in this day and age, there are some amazing options for those wishing to shed weight, fast!</p>\n\n<p style=\"font-size: 14px; color : #011BC2; font-family : serif; text-align : justify;\"><strong>Anatrim</strong><br>\n The most powerful fat loss blend available anywhere! </p>\n\n<table>\n<tr><td>\n<p style=\"font-size: 14px; color : #3E2AD5; font-family : serif; text-align : justify;\"><strong>What is Anatrim ?</strong><br>\n If you haven't heard of Anatrim yet, you soon will because it is being touted as the new miracle supplement for safe, effective weight loss. Anatrim zombieii, (Anatrim) is the botanical name for a cactus like plant that grows in Southern Africa. Scientists have recently isolated several compounds in this amazing plant that are responsible for dramatic weight loss. This all-natural appetite suppressant is also being applauded for containing no dangerous stimulants that caused adverse side effects associated with weight loss products of the last decade.</p>\n</td></tr>\n</table>\n\n<p style=\"font-size: 14px; color : #220DC3; font-family : serif; text-align : justify;\"><strong>How does Anatrim work?</strong><br>\n It basically tricks the brain into thinking that you're full. The chemical constituents in Anatrim work within the satiety center by releasing a chemical compound similar to glucose but much stronger. The hypothalamus in the brain receives this signal as an indication that enough food has been consumed and this in turn stunts the appetite.</p>\n\n<p style=\"font-size: 14px; color : #185FDB; font-family : serif; text-align : justify;\">\n<i>\"I was originally amazed that the first two pills I took of Anatrim, almost immediately took my cravings away. Now 4 weeks later, 3 belt holes later, I have become an advocate for this awesomely powerful, natural supplement!\" </i><br>            <strong style=\"font-size: 12px;\">Jennifer L., Iowa</strong></p>\n<p style=\"font-size: 14px; color : #2D25C0; font-family : serif; text-align : justify;\">\n<em> I tried Anatrim after visiting your website, and I lost a few pounds without doing anything else. I was so amazed I decided to start exercising and getting outside more and I even starting eating better. Now I don't even look like the same man. Friends I haven't seen for more than a year don't even recognize me. The change is that dramatic! Thank you Anatrim really works!</em><br>        <b style=\"font-size: 12px;\">Steve Richter, Texas</b></p>\n<p style=\"font-size: 14px; color : #5F10E1; font-family : serif; text-align : justify;\">\n<i>\"WOW! My wife and I been on roller coater diets for years and years. It has been a frustrating ride I have to admit. Your product helped us to lose 64 lbs between us in 2 months. That was 6 months ago and the weight is still off! Thank you, thank you, thank you....did we say Thank you!!\"</i><br>    <i style=\"font-size: 12px;\">Linda C., Bellevue WA</i></p>\n\n<table style=\"border-bottom-color : #4B39C4; border-bottom-style : solid; border-bottom-width : 1px; border-top-color : #2A40C1; border-top-style : solid; border-top-width : 1px; border-left-color : #5647EA; border-left-style : solid; border-left-width : 1px; border-right-color : #5134DD; border-right-style : solid; border-right-width : 1px; text-align: center;\" border=0 width=100%>\n<tr><td>\n<a href=\"http://www.vstansi.com/\"><strong>Order now!</strong></a>\n</td></tr>\n</table>\n</BODY></HTML>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<01c7b700$085f6120$634d507c@dtlesaokrti>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "pass",
+      "dkim": "none",
+      "dmarc": "pass",
+      "returnpath": "test@attack.com",
+      "ipaddress": [
+        "fe80::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Total number of overweight adults: (20 through 74 years old) approximately one-third or 58 million Americans. (overweight defined as a BMI value of 27.3 percent or more for women and 27.8 percent or more for men) Nearly 70 percent of the diagnosed cases of cardiovascular disease are related to obesity. Obesity more than doubles one's chances of developing high blood pressure, which affects approximately 26 percent of obese American men and women. Every year, 300,000 people in the U.S.A. die from",
+      "links": [
+        "http://www.vstansi.com/",
+        "http://www.vstansi.com"
+      ],
+      "domains": [
+        "vstansi.com"
+      ]
+    }
+  }
+}

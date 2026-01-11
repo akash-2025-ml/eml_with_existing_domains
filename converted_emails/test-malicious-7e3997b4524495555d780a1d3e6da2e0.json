@@ -1,0 +1,76 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-7e3997b4524495555d780a1d3e6da2e0",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-7e3997b4524495555d780a1d3e6da2e0",
+    "emailcontent": {
+      "subject": "replica watches, rolex replicas, fake watches",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "xomharzdraxq@mailzone.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "xomharzdraxq@mailzone.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "jan_g1@hotmail.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2007-04-25T22:45:46+05:20",
+      "sentDateTime": "2007-04-25T22:45:46+05:20",
+      "body": {
+        "contentType": "text/html",
+        "content": "<html xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:w=\"urn:schemas-microsoft-com:office:word\" xmlns=\"http://www.w3.org/TR/REC-html40\">\n\n<head>\n<META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=iso-8859-2\">\n<meta name=Generator content=\"Microsoft Word 11 (filtered medium)\">\n</head>\n<body>\n<html><body bgcolor=\"#FFFFFF\">\n<div align=\"center\">\n  <p align=\"left\"><b><i><font color=\"#FF0000\">VIP   &nbsp;      </font> \n    R_E_P_L_I_C_A          W_A_T_C_H_E_S!</i></b></p>\n <p align=\"left\">If you are looking for a <b>stylish, quality costume watch at low prices</b>, our offers are for you. We specialize in top quality replica watches. Wearing these expensive looking watches is <b>prestigious</b>. Buying these models you will <b>save you a ton of money</b> and always look trendy.\n</p>\n  <p align=\"left\">We offer a free gift box with every VIP watch ordered. You can use it as a <b>lovely gift</b> for your friends or relatives or keep your gorgeous watch there. No matter what you do with your watch, you will enjoy it.</p>\n  <p align=\"left\"><a href=\"http://r4yinvnc21pc7lqh7rq9p3k072kipkk2.kodonline.hk/?235u8hcd\"><i><b>Check out our gift boxes that will make the present even more glamorous.</b></i></a><br>\n  </p></div>\n<br><br>\nS(1M*090-HA+O'8/VI5B\n</body></html>\n</body>\n</html>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<01c7878b$76fcee80$6c822ecf@squirtingbiennial>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "neutral",
+      "dkim": "fail",
+      "dmarc": "none",
+      "returnpath": "xomharzdraxq@mailzone.com",
+      "ipaddress": [
+        "2a01:111:f403:c409::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "VIP R_E_P_L_I_C_A W_A_T_C_H_E_S! If you are looking for a stylish, quality costume watch at low prices , our offers are for you. We specialize in top quality replica watches. Wearing these expensive looking watches is prestigious . Buying these models you will save you a ton of money and always look trendy. We offer a free gift box with every VIP watch ordered. You can use it as a lovely gift for your friends or relatives or keep your gorgeous watch there. No matter what you do with your watch, ",
+      "links": [
+        "http://r4yinvnc21pc7lqh7rq9p3k072kipkk2.kodonline.hk/?235u8hcd",
+        "http://www.w3.org/TR/REC-html40",
+        "http://www.w3.org"
+      ],
+      "domains": [
+        "r4yinvnc21pc7lqh7rq9p3k072kipkk2.kodonline.hk",
+        "w3.org"
+      ]
+    }
+  }
+}

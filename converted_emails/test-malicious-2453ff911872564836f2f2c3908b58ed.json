@@ -1,0 +1,89 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-2453ff911872564836f2f2c3908b58ed",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-2453ff911872564836f2f2c3908b58ed",
+    "emailcontent": {
+      "subject": "*-ADV-  LOWEST  MORTGAGE RATES IN AMERICA  - 8976-- NJOU7",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "admin@security.aol.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "admin@security.aol.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "bfloyd@water.ca.gov"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "mtbrommer@tid.org"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2002-06-10T03:09:40-05:00",
+      "sentDateTime": "2002-06-10T03:09:40-05:00",
+      "body": {
+        "contentType": "text/html",
+        "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\">\n<HTML><HEAD><TITLE>SOURCE LENDING</TITLE>\n</HEAD>\n<BODY text=#000000 bgColor=#ffffff>\n3:09:40 AM\ngen\n<TABLE cellSpacing=0 cellPadding=0 width=\"95%\" border=0>\n  <TBODY>\n  <TR>\n    <TD>\n      <HR width=\"98%\">\n    </TD></TR>\n  <TR>\n    <TD>\n      <DIV align=center><O:P><SPAN \n      style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\"><FONT color=#000000>If you \n      wish to unsubscribe from this list, please <A \n      href=\"mailto:remove@nouce1.com?subject=REMOVE\">Click Here</A> and send \n      this email address </FONT></SPAN><FONT color=#000000><SPAN \n      style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\">or call us at \n      </SPAN></FONT></O:P></DIV>\n      <DIV align=center><O:P><FONT color=#000000><SPAN \n      style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\">1-800-866-667-5399, or write \n      us at: NOUCE1, 6822 22nd Ave. N., St Petersburg, FL \n      33710-3918.</SPAN></FONT></O:P></DIV></TD></TR>\n  <TR>\n    <TD>\n      <HR width=\"98%\">\n    </TD></TR></TBODY></TABLE>\n<TABLE cellSpacing=0 cellPadding=0 width=\"95%\" border=0>\n  <TBODY>\n  <TR>\n    <TD>&nbsp;</TD></TR>\n  <TR>\n    <TD>\n      <DIV align=center>\n      <P><FONT face=\"Times New Roman\" color=black size=3><SPAN \n      style=\"FONT-SIZE: 12pt; COLOR: black\"><A \n      href=\"http://www.thezs.com/0066/index.html\"><SPAN \n      style=\"TEXT-DECORATION: none; text-underline: none\"><IMG id=_x0000_i1029 \n      height=30 src=\"http://www.thezs.com/0066/blackbar.gif\" width=500 \n      align=absMiddle vspace=10 border=0></SPAN></A></SPAN></FONT></P>\n      <DIV align=center>\n      <TABLE class=MsoNormalTable \n      style=\"mso-cellspacing: 0in; mso-padding-alt: 0in 0in 0in 0in\" \n      cellSpacing=0 cellPadding=0 border=0>\n        <TBODY>\n        <TR style=\"mso-yfti-irow: 0\">\n          <TD \n          style=\"PADDING-RIGHT: 0in; PADDING-LEFT: 0in; PADDING-BOTTOM: 0in; PADDING-TOP: 0in\" \n          colSpan=2>\n            <P class=MsoNormal><FONT face=\"Times New Roman\" color=black \n            size=3><SPAN \n            style=\"FONT-SIZE: 12pt; COLOR: black\"></SPAN></FONT><O:P></O:P></P></TD></TR>\n        <TR style=\"mso-yfti-irow: 1\">\n          <TD \n          style=\"PADDING-RIGHT: 0in; PADDING-LEFT: 0in; PADDING-BOTTOM: 0in; PADDING-TOP: 0in\">\n            <P class=MsoNormal><FONT face=\"Times New Roman\" color=black \n            size=3><SPAN style=\"FONT-SIZE: 12pt; COLOR: black\"><A \n            href=\"http://www.thezs.com/0066/index.html\"><SPAN \n            style=\"TEXT-DECORATION: none; text-underline: none\"><IMG \n            id=_x0000_i1031 height=52 hspace=5 \n            src=\"http://www.thezs.com/0066/click.gif\" width=112 \n            border=0></SPAN></A></SPAN></FONT><O:P></O:P></P></TD>\n          <TD \n          style=\"PADDING-RIGHT: 0in; PADDING-LEFT: 0in; PADDING-BOTTOM: 0in; PADDING-TOP: 0in\">\n            <P class=MsoNormal><FONT face=\"Times New Roman\" color=black \n            size=3><SPAN style=\"FONT-SIZE: 12pt; COLOR: black\"><A \n            href=\"http://www.thezs.com/0066/index.html\"><SPAN \n            style=\"TEXT-DECORATION: none; text-underline: none\"><IMG \n            id=_x0000_i1032 height=126 src=\"http://www.thezs.com/0066/234.jpg\" \n            width=272 border=0></SPAN></A></SPAN></FONT><O:P></O:P></P></TD></TR>\n        <TR style=\"mso-yfti-irow: 2; mso-yfti-lastrow: yes\">\n          <TD \n          style=\"PADDING-RIGHT: 0in; PADDING-LEFT: 0in; PADDING-BOTTOM: 0in; PADDING-TOP: 0in\" \n          colSpan=2>\n            <P class=MsoNormal><FONT face=\"Times New Roman\" color=black \n            size=3><SPAN style=\"FONT-SIZE: 12pt; COLOR: black\"><IMG \n            id=_x0000_i1033 height=20 src=\"file:///\\\\C|\\edemo\\quote123\\shim.gif\" \n            width=1 \n      border=0></SPAN></FONT><O:P></O:P></P></TD></TR></TBODY></TABLE></DIV>\n      <P class=MsoNormal align=center><FONT face=\"Times New Roman\" size=3><SPAN \n      style=\"DISPLAY: none; FONT-SIZE: 12pt; mso-hide: all\"><O:P></O:P></SPAN></FONT></P>\n      <DIV align=center>\n      <TABLE class=MsoNormalTable \n      style=\"WIDTH: 435pt; mso-cellspacing: 0in; mso-padding-alt: 0in 0in 0in 0in\" \n      cellSpacing=0 cellPadding=0 width=580 border=0>\n        <TBODY>\n        <TR style=\"mso-yfti-irow: 0\">\n          <TD \n          style=\"PADDING-RIGHT: 0in; PADDING-LEFT: 0in; PADDING-BOTTOM: 0in; PADDING-TOP: 0in\">\n            <P class=MsoNormal style=\"TEXT-ALIGN: center\" align=center><B><FONT \n            face=Verdana color=#0f209f size=4><SPAN \n            style=\"FONT-WEIGHT: bold; FONT-SIZE: 13.5pt; COLOR: #0f209f; FONT-FAMILY: Verdana\"><A \n            href=\"http://www.thezs.com/0066/index.html\">RATES ARE LOW - DON'T \n            MISS THIS OPPORTUNITY</A></SPAN></FONT></B><O:P></O:P></P></TD></TR>\n        <TR style=\"mso-yfti-irow: 1\">\n          <TD \n          style=\"PADDING-RIGHT: 0in; PADDING-LEFT: 0in; PADDING-BOTTOM: 0in; PADDING-TOP: 0in\">\n            <UL type=disc>\n              <LI class=MsoNormal \n              style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-list: l0 level1 lfo3; tab-stops: list .5in\"><B><FONT \n              face=Verdana color=black size=2><SPAN \n              style=\"FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">Good \n              or Bad Credit.</SPAN></FONT></B><O:P></O:P> \n              <LI class=MsoNormal \n              style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-list: l0 level1 lfo3; tab-stops: list .5in\"><B><FONT \n              face=Verdana color=black size=2><SPAN \n              style=\"FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">Ideal \n              Time to Purchase a Home.</SPAN></FONT></B><O:P></O:P> \n              <LI class=MsoNormal \n              style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-list: l0 level1 lfo3; tab-stops: list .5in\"><B><FONT \n              face=Verdana color=black size=2><SPAN \n              style=\"FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">Refinance \n              your Existing Mortgage - Lower your Current \n              Payments.</SPAN></FONT></B><O:P></O:P> \n              <LI class=MsoNormal \n              style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-list: l0 level1 lfo3; tab-stops: list .5in\"><B><FONT \n              face=Verdana color=black size=2><SPAN \n              style=\"FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">Convert \n              your Adjustable Rate Mortgage (ARM) to a low fixed \n              loan.</SPAN></FONT></B><O:P></O:P> \n              <LI class=MsoNormal \n              style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-list: l0 level1 lfo3; tab-stops: list .5in\"><B><FONT \n              face=Verdana color=black size=2><SPAN \n              style=\"FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">Convert \n              your ARM to a better ARM.</SPAN></FONT></B><O:P></O:P> \n              <LI class=MsoNormal \n              style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-list: l0 level1 lfo3; tab-stops: list .5in\"><B><FONT \n              face=Verdana color=black size=2><SPAN \n              style=\"FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">Convert \n              your 30 yr Mortgage to a 15 yr Mortgage - build equity \n              faster.</SPAN></FONT></B><O:P></O:P> \n              <LI class=MsoNormal \n              style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-list: l0 level1 lfo3; tab-stops: list .5in\"><B><FONT \n              face=Verdana color=black size=2><SPAN \n              style=\"FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">Need \n              Cash? Home equity loan rates are priced \n              right.</SPAN></FONT></B><O:P></O:P> </LI></UL></TD></TR>\n        <TR style=\"mso-yfti-irow: 2; mso-yfti-lastrow: yes\">\n          <TD \n          style=\"PADDING-RIGHT: 0in; PADDING-LEFT: 0in; PADDING-BOTTOM: 0in; PADDING-TOP: 0in\">\n            <P class=MsoNormal style=\"TEXT-ALIGN: center\" align=center><B><FONT \n            face=Verdana color=black size=3><SPAN \n            style=\"FONT-WEIGHT: bold; FONT-SIZE: 12pt; COLOR: black; FONT-FAMILY: Verdana\">Save \n            Hundreds of Dollars Each Month - Rates are Great - Don't Miss This \n            </SPAN></FONT></B><ST1:PLACE><B><FONT face=Verdana color=black><SPAN \n            style=\"FONT-WEIGHT: bold; COLOR: black; FONT-FAMILY: Verdana\">Opportunity</SPAN></FONT></B></ST1:PLACE><B><FONT \n            face=Verdana color=black><SPAN \n            style=\"FONT-WEIGHT: bold; COLOR: black; FONT-FAMILY: Verdana\">.</SPAN></FONT></B><O:P></O:P></P></TD></TR></TBODY></TABLE></DIV>\n      <P class=MsoNormal align=center><FONT face=\"Times New Roman\" size=3><SPAN \n      style=\"DISPLAY: none; FONT-SIZE: 12pt; mso-hide: all\"><O:P></O:P></SPAN></FONT></P>\n      <DIV align=center>\n      <TABLE class=MsoNormalTable \n      style=\"WIDTH: 351pt; mso-cellspacing: 0in; mso-padding-alt: 0in 0in 0in 0in\" \n      cellSpacing=0 cellPadding=0 width=468 border=0>\n        <TBODY>\n        <TR style=\"mso-yfti-irow: 0\">\n          <TD \n          style=\"PADDING-RIGHT: 0in; PADDING-LEFT: 0in; PADDING-BOTTOM: 0in; WIDTH: 351pt; PADDING-TOP: 0in\" \n          width=468>\n            <P class=MsoNormal style=\"TEXT-ALIGN: center\" align=center><FONT \n            face=\"Times New Roman\" color=black size=3><SPAN \n            style=\"FONT-SIZE: 12pt; COLOR: black\"><A \n            href=\"http://www.thezs.com/0066/index.html\"><SPAN \n            style=\"TEXT-DECORATION: none; text-underline: none\"><IMG \n            id=_x0000_i1034 height=60 \n            src=\"http://www.thezs.com/0066/getstarted.gif\" width=200 \n            border=0></SPAN></A></SPAN></FONT><O:P></O:P></P></TD></TR>\n        <TR style=\"mso-yfti-irow: 1; mso-yfti-lastrow: yes\">\n          <TD \n          style=\"PADDING-RIGHT: 0in; PADDING-LEFT: 0in; PADDING-BOTTOM: 0in; WIDTH: 351pt; PADDING-TOP: 0in\" \n          width=468>\n            <P class=MsoNormal style=\"TEXT-ALIGN: center\" align=center><FONT \n            face=\"Times New Roman\" color=black size=3><SPAN \n            style=\"FONT-SIZE: 12pt; COLOR: black\"><A \n            href=\"http://www.thezs.com/0066/index.html\"><SPAN \n            style=\"TEXT-DECORATION: none; text-underline: none\"><IMG \n            id=_x0000_i1035 height=60 \n            src=\"http://www.thezs.com/0066/quotes_468x60_purple2.gif\" width=468 \n            border=0></SPAN></A></SPAN></FONT><O:P></O:P></P></TD></TR></TBODY></TABLE></DIV>\n      <P>&nbsp;</P></DIV></TD></TR>\n  <TR>\n    <TD>&nbsp;</TD></TR></TBODY></TABLE>\n<HR align=left width=\"95%\">\n\n<P>&nbsp;</P></BODY></HTML>\n\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<RM3P7.125NEF9GNS4NMWA58M.loans@thezs.com>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "neutral",
+      "dkim": "none",
+      "dmarc": "fail",
+      "returnpath": "test@attack.com",
+      "ipaddress": [
+        "fe80::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "SOURCE LENDING 3:09:40 AM gen If you wish to unsubscribe from this list, please Click Here and send this email address or call us at 1-800-866-667-5399, or write us at: NOUCE1, 6822 22nd Ave. N., St Petersburg, FL 33710-3918. RATES ARE LOW - DON'T MISS THIS OPPORTUNITY Good or Bad Credit. Ideal Time to Purchase a Home. Refinance your Existing Mortgage - Lower your Current Payments. Convert your Adjustable Rate Mortgage (ARM) to a low fixed loan. Convert your ARM to a better ARM. Convert your 30 ",
+      "links": [
+        "http://www.thezs.com/0066/index.html",
+        "http://www.thezs.com/0066/blackbar.gif",
+        "http://www.thezs.com/0066/click.gif",
+        "http://www.thezs.com/0066/234.jpg",
+        "http://www.thezs.com/0066/getstarted.gif",
+        "http://www.thezs.com/0066/quotes_468x60_purple2.gif",
+        "http://nouce1.com",
+        "http://www.thezs.com",
+        "http://234.jp"
+      ],
+      "domains": [
+        "234.jp",
+        "thezs.com",
+        "nouce1.com"
+      ]
+    }
+  }
+}

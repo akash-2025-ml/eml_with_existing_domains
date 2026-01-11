@@ -1,0 +1,121 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-5b26c65a53f9bcfa660cfbfcc2fcb9b3",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-5b26c65a53f9bcfa660cfbfcc2fcb9b3",
+    "emailcontent": {
+      "subject": "Condos in Orlando, FL - Get 10% commission",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "theresa.brogan@enron.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "theresa.brogan@enron.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "jeremy.blachman@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "raymond.bowen@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "michael.brown@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2007-05-24T08:11:01-04:00",
+      "sentDateTime": "2007-05-24T08:11:01-04:00",
+      "body": {
+        "contentType": "text/html",
+        "content": "<HTML>\n\n\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://wwww3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\n<head>\n<title></title>\n</head>\n<body bgcolor=\"white\" leftmargin=\"0\" topmargin=\"0\" marginwidth=\"0\" marginheight=\"0\">\n<table width=\"801\" height=\"1073\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" bgcolor=\"white\">\n  <tr>\n    <td colspan=\"5\"><img src=\"http://realvite.com/projects/tradewinds/20070521/images/emailer_01.gif\" width=\"800\" height=\"153\" alt=\"\" /></td>\n    <td><img src=\"http://realvite.com/projects/tradewinds/20070521/images/spacer.gif\" width=\"1\" height=\"153\" alt=\"\" /></td>\n  </tr>\n  <tr>\n    <td colspan=\"5\"><img src=\"http://realvite.com/projects/tradewinds/20070521/images/emailer_02.gif\" width=\"800\" height=\"185\" alt=\"\" /></td>\n    <td><img src=\"http://realvite.com/projects/tradewinds/20070521/images/spacer.gif\" width=\"1\" height=\"185\" alt=\"\" /></td>\n  </tr>\n  <tr>\n    <td colspan=\"5\"><img src=\"http://realvite.com/projects/tradewinds/20070521/images/emailer_03.gif\" width=\"800\" height=\"134\" alt=\"\" /></td>\n    <td><img src=\"http://realvite.com/projects/tradewinds/20070521/images/spacer.gif\" width=\"1\" height=\"134\" alt=\"\" /></td>\n  </tr>\n  <tr>\n    <td colspan=\"5\" width=\"800\" height=\"32\" background=\"http://realvite.com/projects/tradewinds/20070521/images/emailer_04.gif\" align=\"center\" valign=\"middle\"><font style=\"font-family:'Trebuchet MS';font-size:12px;font-weight:bold;\">As-is units feature original finishes along with new paint and carpet.</font> </td>\n    <td><img src=\"http://realvite.com/projects/tradewinds/20070521/images/spacer.gif\" width=\"1\" height=\"32\" alt=\"\" /></td>\n  </tr>\n  <tr>\n    <td colspan=\"5\"><img src=\"http://realvite.com/projects/tradewinds/20070521/images/emailer_05.jpg\" width=\"800\" height=\"39\" alt=\"\" /></td>\n    <td><img src=\"http://realvite.com/projects/tradewinds/20070521/images/spacer.gif\" width=\"1\" height=\"39\" alt=\"\" /></td>\n  </tr>\n  <tr>\n    <td colspan=\"5\"><img src=\"http://realvite.com/projects/tradewinds/20070521/images/emailer_06.jpg\" width=\"800\" height=\"104\" alt=\"\" /></td>\n    <td><img src=\"http://realvite.com/projects/tradewinds/20070521/images/spacer.gif\" width=\"1\" height=\"104\" alt=\"\" /></td>\n  </tr>\n  <tr>\n    <td colspan=\"3\"><img src=\"http://realvite.com/projects/tradewinds/20070521/images/emailer_07.gif\" width=\"388\" height=\"136\" alt=\"\" /></td>\n    <td colspan=\"2\"><img src=\"http://realvite.com/projects/tradewinds/20070521/images/emailer_08.jpg\" width=\"412\" height=\"136\" alt=\"\" /></td>\n    <td><img src=\"http://realvite.com/projects/tradewinds/20070521/images/spacer.gif\" width=\"1\" height=\"136\" alt=\"\" /></td>\n  </tr>\n  <tr>\n    <td colspan=\"3\"><img src=\"http://realvite.com/projects/tradewinds/20070521/images/emailer_09.gif\" width=\"388\" height=\"66\" alt=\"\" /></td>\n    <td colspan=\"2\"><img src=\"http://realvite.com/projects/tradewinds/20070521/images/emailer_10.gif\" width=\"412\" height=\"66\" alt=\"\" /></td>\n    <td><img src=\"http://realvite.com/projects/tradewinds/20070521/images/spacer.gif\" width=\"1\" height=\"66\" alt=\"\" /></td>\n  </tr>\n  <tr>\n    <td rowspan=\"2\"><img src=\"http://realvite.com/projects/tradewinds/20070521/images/emailer_11.gif\" width=\"22\" height=\"189\" alt=\"\" /></td>\n    <td colspan=\"2\" width=\"366\" height=\"181\" background=\"http://realvite.com/projects/tradewinds/20070521/images/emailer_12.gif\" valign=\"top\"><table cellspacing=\"1\" cellpadding=\"0\" border=\"0\">\n        <tr>\n          <td colspan=\"2\" height=\"3\"></td>\n        </tr>\n        <tr>\n          <td width=\"30\"></td>\n          <td >\n          <img src=\"http://realvite.com/projects/tradewinds/20070521/images/bullet.gif\"  alt=\"\" border=\"0\" width=\"12\" height=\"12\" /></td>\n          <td width=\"5\"></td>\n          <td><font style=\"color:#4F3609;font-family:'Trebuchet MS';font-size:12px;font-weight:bold;\">Maple cabinetry finishes for baths and kitchens</font></td>\n        </tr>\n        <tr>\n          <td width=\"30\"></td>\n          <td >\n          <img src=\"http://realvite.com/projects/tradewinds/20070521/images/bullet.gif\"  alt=\"\" border=\"0\" width=\"12\" height=\"12\" /></td>\n          <td width=\"5\"></td>\n          <td><font style=\"color:#4F3609;font-family:'Trebuchet MS';font-size:12px;font-weight:bold;\">Choice of natural hardwood floors<sup>*</sup></font></td>\n        </tr>\n        <tr>\n          <td width=\"30\"></td>\n          <td >\n          <img src=\"http://realvite.com/projects/tradewinds/20070521/images/bullet.gif\"  alt=\"\" border=\"0\" width=\"12\" height=\"12\" /></td>\n          <td width=\"5\"></td>\n          <td><font style=\"color:#4F3609;font-family:'Trebuchet MS';font-size:12px;font-weight:bold;\">Choice of designer Berber or Fris&eacute; carpet<sup>*</sup></font></td>\n        </tr>\n        <tr>\n          <td width=\"30\"></td>\n          <td >\n          <img src=\"http://realvite.com/projects/tradewinds/20070521/images/bullet.gif\"  alt=\"\" border=\"0\" width=\"12\" height=\"12\" /></td>\n          <td width=\"5\"></td>\n          <td><font style=\"color:#4F3609;font-family:'Trebuchet MS';font-size:12px;font-weight:bold;\">Choice of granite kitchen countertops</font></td>\n        </tr>\n        <tr>\n          <td width=\"30\"></td>\n          <td >\n          <img src=\"http://realvite.com/projects/tradewinds/20070521/images/bullet.gif\"  alt=\"\" border=\"0\" width=\"12\" height=\"12\" /></td>\n          <td width=\"5\"></td>\n          <td><font style=\"color:#4F3609;font-family:'Trebuchet MS';font-size:12px;font-weight:bold;\">Whirlpool<sup>&reg;</sup> kitchen appliance package</font></td>\n        </tr>\n        <tr>\n          <td width=\"30\"></td>\n          <td >\n          <img src=\"http://realvite.com/projects/tradewinds/20070521/images/bullet.gif\"  alt=\"\" border=\"0\" width=\"12\" height=\"12\" /></td>\n          <td width=\"5\"></td>\n          <td><font style=\"color:#4F3609;font-family:'Trebuchet MS';font-size:12px;font-weight:bold;\">Designer paint choices</font></td>\n        </tr>\n        <tr>\n          <td width=\"30\"></td>\n          <td >\n          <img src=\"http://realvite.com/projects/tradewinds/20070521/images/bullet.gif\"  alt=\"\" border=\"0\" width=\"12\" height=\"12\" /></td>\n          <td width=\"5\"></td>\n          <td><font style=\"color:#4F3609;font-family:'Trebuchet MS';font-size:12px;font-weight:bold;\">Screened or open air patio/balcony</font></td>\n        </tr>\n      </table></td>\n    <td colspan=\"2\"><a href=\"http://www.tradewindsatmetrowest.com\"><img src=\"http://realvite.com/projects/tradewinds/20070521/images/emailer_13.gif\" border=\"0\" width=\"412\" height=\"181\" alt=\"\" /></a></td>\n    <td><img src=\"http://realvite.com/projects/tradewinds/20070521/images/spacer.gif\" width=\"1\" height=\"181\" alt=\"\" /></td>\n  </tr>\n  <tr>\n    <td rowspan=\"2\"><img src=\"http://realvite.com/projects/tradewinds/20070521/images/emailer_14.gif\" width=\"85\" height=\"42\" alt=\"\" /></td>\n    <td colspan=\"2\" rowspan=\"2\" width=\"665\" height=\"42\" background=\"http://realvite.com/projects/tradewinds/20070521/images/emailer_15.gif\"><font style=\"font-size:8px;font-family:tahoma;\"> &copy; 2007 ORAL REPRESENTATIONS CANNOT BE RELIED UPON AS CORRECTLY STATING REPRESENTATIONS OF THE DEVELOPER. FOR CORRECT REPRESENTATIONS, MAKE REFERENCE TO THE DOCUMENTS REQUIRED BY SECTION 718.503, FLORIDA STATUTES, TO BE FURNISHED BY A DEVELOPER TO A BUYER OR LESSEE. *Hardwood floors apply only to the living rooms, dining rooms and halls. **See sales center for complete details. Void where prohibited by law. All pricing in United States dollars.</font> </td>\n    <td rowspan=\"2\"><img src=\"http://realvite.com/projects/tradewinds/20070521/images/emailer_16.gif\" width=\"28\" height=\"42\" alt=\"\" /></td>\n    <td><img src=\"http://realvite.com/projects/tradewinds/20070521/images/spacer.gif\" width=\"1\" height=\"8\" alt=\"\" /></td>\n  </tr>\n  <tr>\n    <td><img src=\"http://realvite.com/projects/tradewinds/20070521/images/emailer_17.gif\" width=\"22\" height=\"34\" alt=\"\" /></td>\n    <td><img src=\"http://realvite.com/projects/tradewinds/20070521/images/spacer.gif\" width=\"1\" height=\"34\" alt=\"\" /></td>\n  </tr>\n  <tr>\n    <td><img src=\"http://realvite.com/projects/tradewinds/20070521/images/spacer.gif\" width=\"22\" height=\"1\" alt=\"\" /></td>\n    <td><img src=\"http://realvite.com/projects/tradewinds/20070521/images/spacer.gif\" width=\"85\" height=\"1\" alt=\"\" /></td>\n    <td><img src=\"http://realvite.com/projects/tradewinds/20070521/images/spacer.gif\" width=\"281\" height=\"1\" alt=\"\" /></td>\n    <td><img src=\"http://realvite.com/projects/tradewinds/20070521/images/spacer.gif\" width=\"384\" height=\"1\" alt=\"\" /></td>\n    <td><img src=\"http://realvite.com/projects/tradewinds/20070521/images/spacer.gif\" width=\"28\" height=\"1\" alt=\"\" /></td>\n    <td></td>\n  </tr>\n</table>\n<div>\n  <font face=\"Arial\" size=\"2\"><span class=\"500132617-09012007\">\n  <p align=\"center\">&nbsp;<i><b> </b></i>\n  </span></font>\n</div>\n</body>\n</html>\n</HTML>\n  <hr color=\"#336699\" noShade><font face=\"Arial\" size=\"1\">\n  <p align=\"center\">\n  <font style=\"FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif\"\nsize=\"1\">This message \n  was sent to you as an opt-in subscriber to The Speed Network or one of its \n  affiliates. <br>\n  We will continue to bring you valuable offers on the products and services \n  that interest you most. If you wish to unsubscribe, please\n  <a style=\"PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #fffbf0; PADDING-TOP: 0px; FONT-FAMILY: 'Trebuchet MS', Arial; TEXT-DECORATION: none\" href=\"http://rm.speed-mx.com/rem.html\">\n  <font color=\"#000000\">Click Here</font></a></font></p>\n  <div style=\"FONT-WEIGHT: normal; FONT-SIZE: 13px; FONT-FAMILY: verdana, sans-serif\">\n    <p align=\"center\">\n    <font style=\"LINE-HEIGHT: 1.35em; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif\" face=\"MS Sans Serif\" size=\"1\">\n    Postal opt-out - 1300 NW 17th avenue Ste 218 Delray Beach FL 33445</font></div>\n  </font><hr color=\"#336699\" noShade>\n  <p align=\"center\">&nbsp;</div></BODY></HTML>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<3ff7848f-6b56-4eda-b231-b55b337c6003@generated>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "fail",
+      "dkim": "none",
+      "dmarc": "none",
+      "returnpath": "theresa.brogan@enron.com",
+      "ipaddress": [
+        "2603:1096:a01:1c7::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "As-is units feature original finishes along with new paint and carpet. Maple cabinetry finishes for baths and kitchens Choice of natural hardwood floors * Choice of designer Berber or Frisé carpet * Choice of granite kitchen countertops Whirlpool ® kitchen appliance package Designer paint choices Screened or open air patio/balcony © 2007 ORAL REPRESENTATIONS CANNOT BE RELIED UPON AS CORRECTLY STATING REPRESENTATIONS OF THE DEVELOPER. FOR CORRECT REPRESENTATIONS, MAKE REFERENCE TO THE DOCUMENTS R",
+      "links": [
+        "http://www.tradewindsatmetrowest.com",
+        "http://rm.speed-mx.com/rem.html",
+        "http://wwww3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+        "http://www.w3.org/1999/xhtml",
+        "http://realvite.com/projects/tradewinds/20070521/images/emailer_01.gif",
+        "http://realvite.com/projects/tradewinds/20070521/images/spacer.gif",
+        "http://realvite.com/projects/tradewinds/20070521/images/emailer_02.gif",
+        "http://realvite.com/projects/tradewinds/20070521/images/emailer_03.gif",
+        "http://realvite.com/projects/tradewinds/20070521/images/emailer_04.gif",
+        "http://realvite.com/projects/tradewinds/20070521/images/emailer_05.jpg",
+        "http://realvite.com/projects/tradewinds/20070521/images/emailer_06.jpg",
+        "http://realvite.com/projects/tradewinds/20070521/images/emailer_07.gif",
+        "http://realvite.com/projects/tradewinds/20070521/images/emailer_08.jpg",
+        "http://realvite.com/projects/tradewinds/20070521/images/emailer_09.gif",
+        "http://realvite.com/projects/tradewinds/20070521/images/emailer_10.gif",
+        "http://realvite.com/projects/tradewinds/20070521/images/emailer_11.gif",
+        "http://realvite.com/projects/tradewinds/20070521/images/emailer_12.gif",
+        "http://realvite.com/projects/tradewinds/20070521/images/bullet.gif",
+        "http://realvite.com/projects/tradewinds/20070521/images/emailer_13.gif",
+        "http://realvite.com/projects/tradewinds/20070521/images/emailer_14.gif",
+        "http://realvite.com/projects/tradewinds/20070521/images/emailer_15.gif",
+        "http://realvite.com/projects/tradewinds/20070521/images/emailer_16.gif",
+        "http://realvite.com/projects/tradewinds/20070521/images/emailer_17.gif",
+        "http://wwww3.org",
+        "http://www.w3.org",
+        "http://realvite.com",
+        "http://05.jp",
+        "http://06.jp",
+        "http://08.jp",
+        "http://rm.speed-mx.com"
+      ],
+      "domains": [
+        "realvite.com",
+        "rm.speed-mx.com",
+        "w3.org",
+        "wwww3.org",
+        "tradewindsatmetrowest.com",
+        "06.jp",
+        "08.jp",
+        "05.jp"
+      ]
+    }
+  }
+}

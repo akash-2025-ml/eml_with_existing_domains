@@ -1,0 +1,98 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-0a0579a4d998378b157e8959086695d1",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-0a0579a4d998378b157e8959086695d1",
+    "emailcontent": {
+      "subject": "Gnitpick,iӬݬݴNeA100",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "sksluo9659@cyberlink.co.uk"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "sksluo9659@cyberlink.co.uk"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "Beginners List",
+            "address": "beginners@perl.org"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2007-07-02T13:31:27+01:00",
+      "sentDateTime": "2007-07-02T13:31:27+01:00",
+      "body": {
+        "contentType": "text/html",
+        "content": "<html>\n<head>\n<title>T��H</title>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=big5\">\n</head>\n<body bgcolor=\"#FFFFFF\" leftmargin=\"0\" topmargin=\"0\" marginwidth=\"0\" marginheight=\"0\">\n<table width=\"75\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\">\n  <tr> \n    <td colspan=\"2\"><table width=\"441\" height=\"540\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\" id=\"Table_01\">\n        <tr> \n          <td colspan=\"2\"> <img src=\"http://www.net-tv.com.tw/paper/images/4camlatter_01.gif\" width=\"440\" height=\"54\" alt=\"\"></td>\n          <td> <img src=\"file:///F|/%BA%F4%B8%F4%B8%EA%AE%C6/%BA%F4%AF%B8%B3%5D%ADp/%C4R%AA%BA%AET%BC%D6%BA%F4/paper/images/spacer.gif\" width=\"1\" height=\"54\" alt=\"\"></td>\n        </tr>\n        <tr> \n          <td colspan=\"2\"> <img src=\"http://www.net-tv.com.tw/paper/images/4camlatter_02.gif\" width=\"440\" height=\"35\" alt=\"\"></td>\n          <td> <img src=\"file:///F|/%BA%F4%B8%F4%B8%EA%AE%C6/%BA%F4%AF%B8%B3%5D%ADp/%C4R%AA%BA%AET%BC%D6%BA%F4/paper/images/spacer.gif\" width=\"1\" height=\"35\" alt=\"\"></td>\n        </tr>\n        <tr> \n          <td colspan=\"2\"> <img src=\"http://www.net-tv.com.tw/paper/images/4camlatter_03.gif\" width=\"440\" height=\"31\" alt=\"\"></td>\n          <td> <img src=\"file:///F|/%BA%F4%B8%F4%B8%EA%AE%C6/%BA%F4%AF%B8%B3%5D%ADp/%C4R%AA%BA%AET%BC%D6%BA%F4/paper/images/spacer.gif\" width=\"1\" height=\"31\" alt=\"\"></td>\n        </tr>\n        <tr> \n          <td colspan=\"2\"> <img src=\"http://www.net-tv.com.tw/paper/images/4camlatter_04.gif\" width=\"440\" height=\"34\" alt=\"\"></td>\n          <td> <img src=\"file:///F|/%BA%F4%B8%F4%B8%EA%AE%C6/%BA%F4%AF%B8%B3%5D%ADp/%C4R%AA%BA%AET%BC%D6%BA%F4/paper/images/spacer.gif\" width=\"1\" height=\"34\" alt=\"\"></td>\n        </tr>\n        <tr> \n          <td colspan=\"2\"> <img src=\"http://www.net-tv.com.tw/paper/images/4camlatter_05.gif\" width=\"440\" height=\"30\" alt=\"\"></td>\n          <td> <img src=\"file:///F|/%BA%F4%B8%F4%B8%EA%AE%C6/%BA%F4%AF%B8%B3%5D%ADp/%C4R%AA%BA%AET%BC%D6%BA%F4/paper/images/spacer.gif\" width=\"1\" height=\"30\" alt=\"\"></td>\n        </tr>\n        <tr> \n          <td colspan=\"2\"> <img src=\"http://www.net-tv.com.tw/paper/images/4camlatter_06.gif\" width=\"440\" height=\"31\" alt=\"\"></td>\n          <td> <img src=\"file:///F|/%BA%F4%B8%F4%B8%EA%AE%C6/%BA%F4%AF%B8%B3%5D%ADp/%C4R%AA%BA%AET%BC%D6%BA%F4/paper/images/spacer.gif\" width=\"1\" height=\"31\" alt=\"\"></td>\n        </tr>\n        <tr> \n          <td colspan=\"2\"> <img src=\"http://www.net-tv.com.tw/paper/images/4camlatter_07.gif\" width=\"440\" height=\"30\" alt=\"\"></td>\n          <td> <img src=\"file:///F|/%BA%F4%B8%F4%B8%EA%AE%C6/%BA%F4%AF%B8%B3%5D%ADp/%C4R%AA%BA%AET%BC%D6%BA%F4/paper/images/spacer.gif\" width=\"1\" height=\"30\" alt=\"\"></td>\n        </tr>\n        <tr> \n          <td colspan=\"2\"> <img src=\"http://www.net-tv.com.tw/paper/images/4camlatter_08.gif\" width=\"440\" height=\"38\" alt=\"\"></td>\n          <td> <img src=\"file:///F|/%BA%F4%B8%F4%B8%EA%AE%C6/%BA%F4%AF%B8%B3%5D%ADp/%C4R%AA%BA%AET%BC%D6%BA%F4/paper/images/spacer.gif\" width=\"1\" height=\"38\" alt=\"\"></td>\n        </tr>\n        <tr> \n          <td colspan=\"2\"> <img src=\"http://www.net-tv.com.tw/paper/images/4camlatter_09.gif\" width=\"440\" height=\"34\" alt=\"\"></td>\n          <td> <img src=\"file:///F|/%BA%F4%B8%F4%B8%EA%AE%C6/%BA%F4%AF%B8%B3%5D%ADp/%C4R%AA%BA%AET%BC%D6%BA%F4/paper/images/spacer.gif\" width=\"1\" height=\"34\" alt=\"\"></td>\n        </tr>\n        <tr> \n          <td> <img src=\"http://www.net-tv.com.tw/paper/images/4camlatter_10.gif\" width=\"252\" height=\"28\" alt=\"\"></td>\n          <td rowspan=\"2\"> <a href=\"http://av.net-tv.com.tw/index.asp\" target=\"_blank\"><img src=\"http://www.net-tv.com.tw/paper/images/4camlatter_11.gif\" alt=\"\" width=\"188\" height=\"41\" border=\"0\"></a></td>\n          <td> <img src=\"file:///F|/%BA%F4%B8%F4%B8%EA%AE%C6/%BA%F4%AF%B8%B3%5D%ADp/%C4R%AA%BA%AET%BC%D6%BA%F4/paper/images/spacer.gif\" width=\"1\" height=\"28\" alt=\"\"></td>\n        </tr>\n        <tr> \n          <td rowspan=\"2\"> <img src=\"http://www.net-tv.com.tw/paper/images/4camlatter_12.gif\" width=\"252\" height=\"48\" alt=\"\"></td>\n          <td> <img src=\"file:///F|/%BA%F4%B8%F4%B8%EA%AE%C6/%BA%F4%AF%B8%B3%5D%ADp/%C4R%AA%BA%AET%BC%D6%BA%F4/paper/images/spacer.gif\" width=\"1\" height=\"13\" alt=\"\"></td>\n        </tr>\n        <tr> \n          <td> <img src=\"http://www.net-tv.com.tw/paper/images/4camlatter_13.gif\" width=\"188\" height=\"35\" alt=\"\"></td>\n          <td> <img src=\"file:///F|/%BA%F4%B8%F4%B8%EA%AE%C6/%BA%F4%AF%B8%B3%5D%ADp/%C4R%AA%BA%AET%BC%D6%BA%F4/paper/images/spacer.gif\" width=\"1\" height=\"35\" alt=\"\"></td>\n        </tr>\n        <tr> \n          <td colspan=\"2\"> <img src=\"http://www.net-tv.com.tw/paper/images/4camlatter_14.gif\" width=\"440\" height=\"57\" alt=\"\"></td>\n          <td> <img src=\"file:///F|/%BA%F4%B8%F4%B8%EA%AE%C6/%BA%F4%AF%B8%B3%5D%ADp/%C4R%AA%BA%AET%BC%D6%BA%F4/paper/images/spacer.gif\" width=\"1\" height=\"57\" alt=\"\"></td>\n        </tr>\n        <tr> \n          <td colspan=\"2\"> <img src=\"http://www.net-tv.com.tw/paper/images/4camlatter_15.gif\" width=\"440\" height=\"47\" alt=\"\"></td>\n          <td> <img src=\"file:///F|/%BA%F4%B8%F4%B8%EA%AE%C6/%BA%F4%AF%B8%B3%5D%ADp/%C4R%AA%BA%AET%BC%D6%BA%F4/paper/images/spacer.gif\" width=\"1\" height=\"47\" alt=\"\"></td>\n        </tr>\n        <tr> \n          <td colspan=\"2\"> <img src=\"http://www.net-tv.com.tw/paper/images/4camlatter_16.gif\" width=\"440\" height=\"43\" alt=\"\"></td>\n          <td> <img src=\"file:///F|/%BA%F4%B8%F4%B8%EA%AE%C6/%BA%F4%AF%B8%B3%5D%ADp/%C4R%AA%BA%AET%BC%D6%BA%F4/paper/images/spacer.gif\" width=\"1\" height=\"43\" alt=\"\"></td>\n        </tr>\n      </table></td>\n  </tr>\n  <tr> \n    <td><font size=\"2\"><a href=\"mailto:?subject=%A7A%C1%D9%B3%E6%A8%AD%B6%DC?%A8%EChttp://av.net-tv.com.tw/%ACD%AD%D3%A4k%AAB%A4%CD%A7a\">Hn</a></font></td>\n    <td><div align=\"right\"><font size=\"2\"><a href=\"http://www.amazingcounters.com\" target=\"_top\"><img border=\"0\" src=\"http://www.amazingcounters.com/counter.php?i=461858&c=1385887\" alt=\"Web Counters\"></a></font></div></td>\n  </tr>\n</table>\n</body>\n</html>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<64e75c21-1ad0-4c4d-9fbd-2cb12624ec6d@generated>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "none",
+      "dkim": "pass",
+      "dmarc": "pass",
+      "returnpath": "sksluo9659@cyberlink.co.uk",
+      "ipaddress": [
+        "2603:1096:a01:af::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "T��H Hn",
+      "links": [
+        "http://av.net-tv.com.tw/index.asp",
+        "http://www.amazingcounters.com",
+        "http://www.net-tv.com.tw/paper/images/4camlatter_01.gif",
+        "http://www.net-tv.com.tw/paper/images/4camlatter_02.gif",
+        "http://www.net-tv.com.tw/paper/images/4camlatter_03.gif",
+        "http://www.net-tv.com.tw/paper/images/4camlatter_04.gif",
+        "http://www.net-tv.com.tw/paper/images/4camlatter_05.gif",
+        "http://www.net-tv.com.tw/paper/images/4camlatter_06.gif",
+        "http://www.net-tv.com.tw/paper/images/4camlatter_07.gif",
+        "http://www.net-tv.com.tw/paper/images/4camlatter_08.gif",
+        "http://www.net-tv.com.tw/paper/images/4camlatter_09.gif",
+        "http://www.net-tv.com.tw/paper/images/4camlatter_10.gif",
+        "http://www.net-tv.com.tw/paper/images/4camlatter_11.gif",
+        "http://www.net-tv.com.tw/paper/images/4camlatter_12.gif",
+        "http://www.net-tv.com.tw/paper/images/4camlatter_13.gif",
+        "http://www.net-tv.com.tw/paper/images/4camlatter_14.gif",
+        "http://www.net-tv.com.tw/paper/images/4camlatter_15.gif",
+        "http://www.net-tv.com.tw/paper/images/4camlatter_16.gif",
+        "http://av.net-tv.com.tw/%ACD%AD%D3%A4k%AAB%A4%CD%A7a",
+        "http://www.amazingcounters.com/counter.php?i=461858&c=1385887",
+        "http://www.net-tv.com",
+        "http://av.net-tv.com"
+      ],
+      "domains": [
+        "av.net-tv.com.tw",
+        "net-tv.com.tw",
+        "amazingcounters.com",
+        "av.net-tv.com",
+        "net-tv.com"
+      ]
+    }
+  }
+}

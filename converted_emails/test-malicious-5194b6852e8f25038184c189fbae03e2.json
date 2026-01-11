@@ -1,0 +1,92 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-5194b6852e8f25038184c189fbae03e2",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-5194b6852e8f25038184c189fbae03e2",
+    "emailcontent": {
+      "subject": "You have chance to save up to 70% on Cialis!",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "lola.willis@test.enron.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "lola.willis@test.enron.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "e-mail",
+            "address": "jane@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "jason.wolfe@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "e-mail",
+            "address": "wayne@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2007-04-11T20:27:49+02:00",
+      "sentDateTime": "2007-04-11T20:27:49+02:00",
+      "body": {
+        "contentType": "image/gif",
+        "content": "\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\">\n<HTML><HEAD>\n<META http-equiv=Content-Type content=\"text/html; charset=windows-1251\">\n<META content=\"MSHTML 6.00.2900.2180\" name=GENERATOR>\n<STYLE></STYLE>\n</HEAD>\n<BODY bgColor=#ffffff>\n<DIV><FONT face=Arial size=2>The six-nation talks stalled a year ago when North <BR>disease.<BR>Bush said the five nations involved in talks with North <BR>He said if North Korea chooses a peaceful path, <BR>Ahead of its Oct. 9 nuclear test, North Korea pledged <BR>program is atop the agenda in most of the meetings<BR>\n</FONT></DIV>\n<DIV><a href=\"http://jhgvnb.lplax.hk/?18052266\"><IMG alt=\"\" hspace=0 \nsrc=\"cid:001b01c77c77$df39ad40$001ab8d4@pentium4\" align=baseline border=0></a></DIV>\n<DIV><FONT face=Arial size=2>government, including counterfeiting and money <BR>and we will do our part,\" Bush said. \"Ultimately, the <BR>weakened at home after his Republican Party lost <BR> U.S. - will make genuine progress in ending North <BR>Korea walked out over penalties imposed by the <BR>Korea \"are speaking with one voice.\"<BR>community,\" he said.<BR>to return to the negotiating table after a one-year <BR> assistance and other benefits to the North Korean <BR>in Singapore<BR> to be spread outside the country.<BR>\n</FONT></DIV>\n</BODY></HTML>\n"
+      },
+      "hasAttachments": true,
+      "internetMessageId": "<417d2d01-d611-4035-9fd3-1cbd14764755@generated>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "pass",
+      "dkim": "none",
+      "dmarc": "fail",
+      "returnpath": "test@attack.com",
+      "ipaddress": [
+        "2603:1096:a01:af:cafe::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "The six-nation talks stalled a year ago when North disease. Bush said the five nations involved in talks with North He said if North Korea chooses a peaceful path, Ahead of its Oct. 9 nuclear test, North Korea pledged program is atop the agenda in most of the meetings government, including counterfeiting and money and we will do our part,\" Bush said. \"Ultimately, the weakened at home after his Republican Party lost U.S. - will make genuine progress in ending North Korea walked out over penalties",
+      "links": [
+        "http://jhgvnb.lplax.hk/?18052266"
+      ],
+      "domains": [
+        "jhgvnb.lplax.hk"
+      ]
+    },
+    "attachments": [
+      {
+        "name": "fsf_52.gif",
+        "contentBytes": "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",
+        "contentType": "image/gif"
+      }
+    ]
+  }
+}

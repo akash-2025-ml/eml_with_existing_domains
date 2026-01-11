@@ -1,0 +1,93 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-03fdd36dae2f40e701d3bd8093d3c1d4",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-03fdd36dae2f40e701d3bd8093d3c1d4",
+    "emailcontent": {
+      "subject": "[Mhln] Tired with prescriptions? There is way out!",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "david.howell@uvm.edu"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "david.howell@uvm.edu"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "dahlberg.carl@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "steed.chris@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "petrello.cindy@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2007-05-18T04:35:19-01:00",
+      "sentDateTime": "2007-05-18T04:35:19-01:00",
+      "body": {
+        "contentType": "text",
+        "content": "This is a multi-part message in MIME format.\n\n------=_NextPart_000_0006_01C79916.B42396F0\nContent-Type: text/plain;\n\tcharset=\"windows-1250\"\nContent-Transfer-Encoding: 7bit\n\nDear valued member.\nWe are sure that your health isnt the least thing you care of  so, please, read the valuable piece of advice our Association offers you.\nNot all the meds offered in numerous Web pharmacies are as qualitative as you might wish them to be. According to the results of the official research made by our Association only one (USDrugs) out of 46 online drugstores analyzed offers drugs of true generic quality.\nRemember! Taking generic drugs you will secure yourself against poisoning!\n--\nIf you have any more questions please contact to me.\nPlease include all previous messages in your email's.\n-------------------------------------------\nThank you and best regards\nDonnell Bowden\nEmail: iiablcv@verizon.com\nWWW: http://spfnlj.sfdfirst.hk/?aiylsxghypvw\n\n\n------=_NextPart_000_0006_01C79916.B42396F0\nContent-Type: text/html;\n\tcharset=\"windows-1250\"\nContent-Transfer-Encoding: quoted-printable\n\n<html xmlns:o=3D\"urn:schemas-microsoft-com:office:office\"=20=\nxmlns:w=3D\"urn:schemas-microsoft-com:office:word\"=20=\nxmlns=3D\"http://www.w3.org/TR/REC-html40\">\n\n<head>\n<META HTTP-EQUIV=3D\"Content-Type\" CONTENT=3D\"text/html; charset=3Dwindows-1250\">\n<meta name=3DGenerator content=3D\"Microsoft Word 11 (filtered medium)\">\n</head>\n<body>\n<html>\n<body bgcolor=3D\"#FFFFFF\" link=3D\"#333366\">\n<font face=3D\"Verdana\" size=3D\"2\" color=3D\"#000000\">Dear valued=20=\nmember.<br>\n<br>\nWe are sure that your health isn=92t the least thing you care of =96=20=\nso, please, read the valuable piece of advice our Association offers=20=\nyou.<br><br>\nNot all the meds offered in numerous Web pharmacies are as qualitative=20=\nas you might wish them to be. According to the results of the official=20=\nresearch made by our Association only one (<a=20=\nhref=3D\"http://spfnlj.sfdfirst.hk/?aiylsxghypvw\">USDrugs</a>) out of 46=20=\nonline drugstores analyzed offers drugs of true generic quality.<br><bR>\nRemember! Taking generic drugs you will secure yourself against=20=\npoisoning!<bR>\n<br>\n--<br>\nIf you have any more questions please contact to me.<br>\nPlease include all previous messages in your email's.<br>\n-------------------------------------------<br>\nThank you and best regards<br>\nDonnell Bowden<br>\nEmail: iiablcv@verizon.com<br>\nWWW: <a=20=\nhref=3D\"http://spfnlj.sfdfirst.hk/?aiylsxghypvw\">http://spfnlj.sfdfirst.hk/?aiylsxghypvw</a>\n</body>\n</html>\n</body>\n</html>\n\n------=_NextPart_000_0006_01C79916.B42396F0--\n\n_______________________________________________\nMhln maillist  -  Mhln@mailman.eppg.com\nhttp://mailman.eppg.com/mailman/listinfo/mhln\n\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<ba8257e8-fbe2-4b3e-84ad-15c3ecae843c@generated>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "none",
+      "dkim": "pass",
+      "dmarc": "fail",
+      "returnpath": "david.howell@uvm.edu",
+      "ipaddress": [
+        "2603:1096:a04::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "This is a multi-part message in MIME format.\n\n------=_NextPart_000_0006_01C79916.B42396F0\nContent-Type: text/plain;\n\tcharset=\"windows-1250\"\nContent-Transfer-Encoding: 7bit\n\nDear valued member.\nWe are sure that your health isnt the least thing you care of  so, please, read the valuable piece of advice our Association offers you.\nNot all the meds offered in numerous Web pharmacies are as qualitative as you might wish them to be. According to the results of the official research made by our Associa",
+      "links": [
+        "http://spfnlj.sfdfirst.hk/?aiylsxghypvw",
+        "http://www.w3.org/TR/REC-html40",
+        "http://mailman.eppg.com/mailman/listinfo/mhln",
+        "http://verizon.com",
+        "http://www.w3.org",
+        "http://mailman.eppg.com"
+      ],
+      "domains": [
+        "mailman.eppg.com",
+        "verizon.com",
+        "spfnlj.sfdfirst.hk",
+        "w3.org"
+      ]
+    }
+  }
+}

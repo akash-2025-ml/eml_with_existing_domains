@@ -1,0 +1,92 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-784e59141b1d18a5dfbc9f5a70ba6b6b",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-784e59141b1d18a5dfbc9f5a70ba6b6b",
+    "emailcontent": {
+      "subject": "Viagra or Cialis . solution for your problems.",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "colin@easydns.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "colin@easydns.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "julia.hafener@bus.utexas.edu"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2007-10-17T02:04:15+01:00",
+      "sentDateTime": "2007-10-17T02:04:15+01:00",
+      "body": {
+        "contentType": "image/gif",
+        "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd\">\n<HTML \nxmlns=\"http://www.w3.org/1999/xhtml\"><HEAD><TITLE>Untitled Document</TITLE>\n<META http-equiv=Content-Type content=\"text/html; charset=iso-8859-1\">\n<STYLE type=text/css>.style2 {\n\tFONT-WEIGHT: bold; COLOR: #993300\n}\nstyle3 {\n\tCOLOR: #993300\n}\nstyle5 {\n\tFONT-WEIGHT: bold; COLOR: #ff00ff\n}\nstyle8 {\n\tFONT-WEIGHT: bold; FONT-SIZE: 14pt; COLOR: #993300\n}\nstyle10 {\n\tFONT-WEIGHT: bold; FONT-SIZE: 16pt; COLOR: #ff0000\n}\nstyle11 {\n\tFONT-WEIGHT: bold; COLOR: #333333\n}\n</STYLE>\n\n<META content=\"MSHTML 6.00.2900.3059\" name=GENERATOR></HEAD>\n<BODY><SPAN class=style8>Cialis Soft Tabs</SPAN> \n<TABLE cellSpacing=2 cellPadding=2 width=466 border=1>\n  <TBODY>\n  <TR>\n    <TD width=52><IMG alt=\"\" hspace=0 \n      src=\"cid:------------ms090407040704050405080906\" border=0></TD>\n    <TD width=157>\n      <DIV align=justify><STRONG>Cialis Soft Tabs</STRONG><BR><EM>10 pills/20 \n      mg</EM></DIV></TD>\n    <TD width=101>\n      <DIV><STRONG>$89.95</STRONG><BR><EM>$9 per item</EM></DIV></TD>\n    <TD width=120><SPAN class=style2>You save: $11</SPAN></TD></TR>\n  <TR>\n    <TD><IMG alt=\"\" hspace=0 src=\"cid:------------ms090407040704050405080906\" \n      border=0></TD>\n    <TD>\n      <DIV align=justify><STRONG>Cialis Soft Tabs</STRONG><BR><EM>30 pills/20 \n      mg</EM></DIV></TD>\n    <TD>\n      <DIV><STRONG>$236.5</STRONG><BR><EM>$7.88 per item</EM></DIV></TD>\n    <TD><SPAN class=style2>You save: $34</SPAN></TD></TR>\n  <TR>\n    <TD><IMG alt=\"\" hspace=0 src=\"cid:------------ms090407040704050405080906\" \n      border=0></TD>\n    <TD>\n      <DIV align=justify><STRONG>Cialis Soft Tabs</STRONG><BR><EM>60 pills/20 \n      mg</EM></DIV></TD>\n    <TD>\n      <DIV><STRONG>$377.95</STRONG><BR><EM>$6.3 per item</EM></DIV></TD>\n    <TD><SPAN class=style2>You save: $162</SPAN></TD></TR>\n  <TR>\n    <TD height=67><IMG alt=\"\" hspace=0 \n      src=\"cid:------------ms090407040704050405080906\" border=0></TD>\n    <TD>\n      <DIV align=justify><STRONG>Cialis Soft Tabs</STRONG><BR><EM>100 pills/20 \n      mg</EM></DIV></TD>\n    <TD>\n      <DIV><STRONG>$577.5</STRONG><BR><EM>$5.78 per item</EM></DIV></TD>\n    <TD><SPAN class=style2>You save: $322</SPAN></TD></TR></TBODY></TABLE><SPAN \nclass=style8>Viagra Professional</SPAN>&nbsp; \n<TABLE cellSpacing=2 cellPadding=2 width=466 border=1>\n  <TBODY>\n  <TR>\n    <TD width=48><IMG alt=\"\" hspace=0 \n      src=\"cid:------------ms070203040306090803080306\" border=0></TD>\n    <TD width=147>\n      <DIV align=justify><STRONG>Viagra Professional</STRONG><BR><EM>10 \n      Pills/100 mg</EM></DIV></TD>\n    <TD width=94>\n      <DIV><STRONG>$94.95</STRONG><BR><EM>$9.5 per item</EM></DIV></TD>\n    <TD width=112><SPAN class=style3><STRONG>You save: \n  $28</STRONG></SPAN></TD></TR>\n  <TR>\n    <TD><IMG alt=\"\" hspace=0 src=\"cid:------------ms070203040306090803080306\" \n      border=0></TD>\n    <TD>\n      <DIV align=justify><STRONG>Viagra Professional</STRONG><BR><EM>30 \n      pills/100 mg</EM></DIV></TD>\n    <TD>\n      <DIV><STRONG>$139.95</STRONG><BR><EM>$4.67 per item</EM></DIV></TD>\n    <TD><SPAN class=style3><STRONG>You save: $145</STRONG></SPAN></TD></TR>\n  <TR>\n    <TD><IMG alt=\"\" hspace=0 src=\"cid:------------ms070203040306090803080306\" \n      border=0></TD>\n    <TD>\n      <DIV align=justify><STRONG>Viagra Professional</STRONG><BR><EM>70 \n      pills/100 mg</EM></DIV></TD>\n    <TD>\n      <DIV><STRONG>$299.95</STRONG><BR><EM>$4.29 per item</EM></DIV></TD>\n    <TD><SPAN class=style3><STRONG>You save: $365</STRONG></SPAN></TD></TR>\n  <TR>\n    <TD><IMG alt=\"\" hspace=0 src=\"cid:------------ms070203040306090803080306\" \n      border=0></TD>\n    <TD>\n      <DIV align=justify><STRONG>Viagra Professional</STRONG><BR><EM>100 \n      pills/100 mg</EM></DIV></TD>\n    <TD>\n      <DIV><STRONG>$406.95</STRONG><BR><EM>$4.07 per item</EM></DIV></TD>\n    <TD><SPAN class=style3><STRONG>You save: \n$543</STRONG></SPAN></TD></TR></TBODY></TABLE>\n<P class=style11>All prices are listed in US Dollars</P>\n<DIV class=style5>* Order two or more products and get free shipping!</DIV>\n<DIV class=style5>* Free shipping for orders starting with $500! <FONT \ncolor=#ffffff size=1>ffxov</FONT></DIV>\n<P class=style11>Have you ever stopped to wonder how much an average man pays \nfor his mediecines? <FONT color=#ffffff size=1>goxwx</FONT><BR>Painkillers, drugs \nto improve the quality of life, weight reducing tablets, and many more.&nbsp; \n<FONT color=#ffffff size=1>sfaaf</FONT><BR>What's worse, the same mediucine costs \na lot more if it is branded. \n<A href=\"http://qjdlhl.deafanddum.net/?83273649\">\n<DIV class=style10>Visit online pharmacy store now</DIV>\n<DIV class=style10><FONT color=#ffffff \nsize=1>evbdp</FONT></DIV></A></BODY></HTML>\n"
+      },
+      "hasAttachments": true,
+      "internetMessageId": "<5bae6d14-7ffc-4688-bf29-4bf5fd351332@generated>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "pass",
+      "dkim": "fail",
+      "dmarc": "fail",
+      "returnpath": "colin@easydns.com",
+      "ipaddress": [
+        "2603:1096:a04::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Untitled Document .style2 { FONT-WEIGHT: bold; COLOR: #993300 } style3 { COLOR: #993300 } style5 { FONT-WEIGHT: bold; COLOR: #ff00ff } style8 { FONT-WEIGHT: bold; FONT-SIZE: 14pt; COLOR: #993300 } style10 { FONT-WEIGHT: bold; FONT-SIZE: 16pt; COLOR: #ff0000 } style11 { FONT-WEIGHT: bold; COLOR: #333333 } Cialis Soft Tabs Cialis Soft Tabs 10 pills/20 mg $89.95 $9 per item You save: $11 Cialis Soft Tabs 30 pills/20 mg $236.5 $7.88 per item You save: $34 Cialis Soft Tabs 60 pills/20 mg $377.95 $6.3",
+      "links": [
+        "http://qjdlhl.deafanddum.net/?83273649",
+        "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd",
+        "http://www.w3.org/1999/xhtml",
+        "http://www.w3c.org",
+        "http://www.w3.org",
+        "http://qjdlhl.deafanddum.net"
+      ],
+      "domains": [
+        "w3c.org",
+        "qjdlhl.deafanddum.net",
+        "w3.org"
+      ]
+    },
+    "attachments": [
+      {
+        "name": "xldimq.gif",
+        "contentBytes": "R0lGODlhHwAeAPcAAAAAAIAAAACAAICAAAAAgIAAgACAgICAgMDAwP8AAAD/AP//AAAA//8A/wD//////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMwAAZgAAmQAAzAAA/wAzAAAzMwAzZgAzmQAzzAAz/wBmAABmMwBmZgBmmQBmzABm/wCZAACZMwCZZgCZmQCZzACZ/wDMAADMMwDMZgDMmQDMzADM/wD/AAD/MwD/ZgD/mQD/zAD//zMAADMAMzMAZjMAmTMAzDMA/zMzADMzMzMzZjMzmTMzzDMz/zNmADNmMzNmZjNmmTNmzDNm/zOZADOZMzOZZjOZmTOZzDOZ/zPMADPMMzPMZjPMmTPMzDPM/zP/ADP/MzP/ZjP/mTP/zDP//2YAAGYAM2YAZmYAmWYAzGYA/2YzAGYzM2YzZmYzmWYzzGYz/2ZmAGZmM2ZmZmZmmWZmzGZm/2aZAGaZM2aZZmaZmWaZzGaZ/2bMAGbMM2bMZmbMmWbMzGbM/2b/AGb/M2b/Zmb/mWb/zGb//5kAAJkAM5kAZpkAmZkAzJkA/5kzAJkzM5kzZpkzmZkzzJkz/5lmAJlmM5lmZplmmZlmzJlm/5mZAJmZM5mZZpmZmZmZzJmZ/5nMAJnMM5nMZpnMmZnMzJnM/5n/AJn/M5n/Zpn/mZn/zJn//8wAAMwAM8wAZswAmcwAzMwA/8wzAMwzM8wzZswzmcwzzMwz/8xmAMxmM8xmZsxmmcxmzMxm/8yZAMyZM8yZZsyZmcyZzMyZ/8zMAMzMM8zMZszMmczMzMzM/8z/AMz/M8z/Zsz/mcz/zMz///8AAP8AM/8AZv8Amf8AzP8A//8zAP8zM/8zZv8zmf8zzP8z//9mAP9mM/9mZv9mmf9mzP9m//+ZAP+ZM/+ZZv+Zmf+ZzP+Z///MAP/MM//MZv/Mmf/MzP/M////AP//M///Zv//mf//zP///yH5BAEAABAALAAAAAAfAB4AAAj/AP8JHEiwoMGDA6n9U8hwocOGEB9KVIiwosWEEzNS82fP3jt7y94x03iR4L13y+CFXDbyIER/zajh8wcR5LKbxZahIulPIL6b9/rVs9fTH0d7xVDexCewJ0GGP3Peu0nMnsJpIN8pW5Zz2sJ+HRv+81fvXTF7Q5eBtPePmdqboeISBauSqEOPVOutvNlvWdxldkKB4pv2ptWxWf2GUnqzXr1iofjcNPvRI2OaYJcR0xrq1LKtg9Vu3UpsGShmoT5rZjnWn9p371JNY6Zy2Sl7zPT6Zek2LmOr1O55rMeMmnHZzUwvNq3cTjHIg3MSW0gNKyqKPamhNmsvlFuzN6UR8ovLjNk0hn2Vlkb1k3l5qswHE2OWqv5AeypVmpU2FfYyrP0EhdY7etlUzD0KCUfVO+vZVNpb9pxUDDOg4JWTNK2htdI7qPjTD1i6wfbhhkMlRQxN/2B1kzLMXCecMo5tR0w/0tSzVTRKDeaVQM3gRl9wHq01TXLvhDLgMumthOJx1DSzkIP2KGNPcsrEZSMzCqJU3FgYCZRbSDmphQpKcTWTCj73OPaOkxExRI1npYWZ3Gqp/JOKcPZcR5FL0+yVlHFuLTNQKtQQKlCbD6WCSqCCFtrMeQ8Z55BFTBpK3Z4GIQqRcZJqKlFJoBbk6agkURMQADs=",
+        "contentType": "image/gif"
+      },
+      {
+        "name": "gceaxa.gif",
+        "contentBytes": "R0lGODlhHwAgAPcAAAAAAIAAAACAAICAAAAAgIAAgACAgICAgMDAwP8AAAD/AP//AAAA//8A/wD//////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMwAAZgAAmQAAzAAA/wAzAAAzMwAzZgAzmQAzzAAz/wBmAABmMwBmZgBmmQBmzABm/wCZAACZMwCZZgCZmQCZzACZ/wDMAADMMwDMZgDMmQDMzADM/wD/AAD/MwD/ZgD/mQD/zAD//zMAADMAMzMAZjMAmTMAzDMA/zMzADMzMzMzZjMzmTMzzDMz/zNmADNmMzNmZjNmmTNmzDNm/zOZADOZMzOZZjOZmTOZzDOZ/zPMADPMMzPMZjPMmTPMzDPM/zP/ADP/MzP/ZjP/mTP/zDP//2YAAGYAM2YAZmYAmWYAzGYA/2YzAGYzM2YzZmYzmWYzzGYz/2ZmAGZmM2ZmZmZmmWZmzGZm/2aZAGaZM2aZZmaZmWaZzGaZ/2bMAGbMM2bMZmbMmWbMzGbM/2b/AGb/M2b/Zmb/mWb/zGb//5kAAJkAM5kAZpkAmZkAzJkA/5kzAJkzM5kzZpkzmZkzzJkz/5lmAJlmM5lmZplmmZlmzJlm/5mZAJmZM5mZZpmZmZmZzJmZ/5nMAJnMM5nMZpnMmZnMzJnM/5n/AJn/M5n/Zpn/mZn/zJn//8wAAMwAM8wAZswAmcwAzMwA/8wzAMwzM8wzZswzmcwzzMwz/8xmAMxmM8xmZsxmmcxmzMxm/8yZAMyZM8yZZsyZmcyZzMyZ/8zMAMzMM8zMZszMmczMzMzM/8z/AMz/M8z/Zsz/mcz/zMz///8AAP8AM/8AZv8Amf8AzP8A//8zAP8zM/8zZv8zmf8zzP8z//9mAP9mM/9mZv9mmf9mzP9m//+ZAP+ZM/+ZZv+Zmf+ZzP+Z///MAP/MM//MZv/Mmf/MzP/M////AP//M///Zv//mf//zP///yH5BAEAABAALAAAAAAfACAAAAj/AP8JHEiwoMGDCBMqXMiwocOHECNC3PaPokWJDbdpfEhRocVtsTpiPEgxpEiDJwd+rLaNZaxbLxuFJElSI0iQMG/JbMTzFkONIWPGksmIZyMxjcY0YrQQaM6dRtNETToJZUWQQ4c2OmQ0qlSeYpQW/Bgra1eeSsEaVTrmJEWWPIsqLYq07tGjacTkbZRS49m/U6UqleqTINxGhs5+/ap3TN69jVCWRSr1q+JGgjEnTfmvLF2jdtHclUr5aCySMTUDBpyGs8BtOs+KXg32dELYMXWa1d1oEtrCHp+aNQvadkajOp/GRuN6YbVbeqOncSxmJEGsMo1b3869u/fv3QMCADs=",
+        "contentType": "image/gif"
+      }
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-30119d055f4db483d5dff790e583ca73",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-30119d055f4db483d5dff790e583ca73",
+    "emailcontent": {
+      "subject": "Too busy to go back to school?",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "amy.fabian@enron.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "amy.fabian@enron.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "r.brackett@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "stephanie.mcginnis@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "d.powell@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2007-04-21T00:24:34-04:20",
+      "sentDateTime": "2007-04-21T00:24:34-04:20",
+      "body": {
+        "contentType": "text/html",
+        "content": "<html xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:w=\"urn:schemas-microsoft-com:office:word\" xmlns=\"http://www.w3.org/TR/REC-html40\">\n\n<head>\n<META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=iso-8859-2\">\n<meta name=Generator content=\"Microsoft Word 11 (filtered medium)\">\n</head>\n<body>\n<html xmlns:v=\"urn:schemas-microsoft-com:vml\"\nxmlns:o=\"urn:schemas-microsoft-com:office:office\"\nxmlns:w=\"urn:schemas-microsoft-com:office:word\"\nxmlns=\"http://www.w3.org/TR/REC-html40\">\n\n<head>\n<meta http-equiv=Content-Type content=\"text/html; charset=windows-1251\">\n<meta name=ProgId content=Word.Document>\n<meta name=Generator content=\"Microsoft Word 10\">\n<meta name=Originator content=\"Microsoft Word 10\">\n<title>Start earning the salary you deserve by obtaining the appropriate University Degree.</title>\n<style>\n<!--\n  @font-face\n\t{font-family:Georgia;\n\tpanose-1:2 4 5 2 5 4 5 2 3 3;\n\tmso-font-charset:204;\n\tmso-generic-font-family:roman;\n\tmso-font-pitch:variable;\n\tmso-font-signature:647 0 0 0 159 0;}\n /* Style Definitions */\n p.MsoNormal, li.MsoNormal, div.MsoNormal\n\t{mso-style-parent:\"\";\n\tmargin:0cm;\n\tmargin-bottom:.0001pt;\n\tmso-pagination:widow-orphan;\n\tfont-size:12.0pt;\n\tfont-family:\"Times New Roman\";\n\tmso-fareast-font-family:\"Times New Roman\";\n\tmso-ansi-language:EN-US;\n\tmso-fareast-language:EN-US;}\nspan.GramE\n\t{mso-style-name:\"\";\n\tmso-gram-e:yes;}\n@page Section1\n\t{size:612.0pt 792.0pt;\n\tmargin:72.0pt 90.0pt 72.0pt 90.0pt;\n\tmso-header-margin:36.0pt;\n\tmso-footer-margin:36.0pt;\n\tmso-paper-source:0;}\ndiv.Section1\n\t{page:Section1;}\n-->\n</style>\n\n</head>\n\n\n<div class=Section1>\n\n<p class=MsoNormal align=center style='text-align:center'><b><span lang=EN-US\nstyle='font-size:16.0pt;font-family:Georgia'><o:p> </o:p></span></b></p>\n\n<p class=MsoNormal align=center style='text-align:center'><b><span lang=EN-US\nstyle='font-size:22.0pt;font-family:Georgia'>University Degree<o:p></o:p></span></b></p>\n\n<p class=MsoNormal align=center style='text-align:center'><span lang=EN-US\nstyle='font-family:Georgia'><o:p> </o:p></span></p>\n\n<p class=MsoNormal align=center style='text-align:center'><span lang=EN-US\nstyle='font-family:Georgia'>OBTAIN A PROSPEROUS FUTURE, MONEY-EARNING POWER,\nAND THE PRESTIGE THAT COMES WITH HAVING THE CAREER POSITION YOU HAVE ALWAYS\nDREAMED OF. DIPLOMA FROM PRESTIGIOUS N0N-ACCREDITED UNIVERSITIES BASED ON YOUR\nPRESENT KNOWLEDGE AND PROFESSIONAL EXPERIENCE.<o:p></o:p></span></p>\n\n<p class=MsoNormal align=center style='text-align:center'><span lang=EN-US\nstyle='font-family:Georgia'><o:p> </o:p></span></p>\n\n<p class=MsoNormal align=center style='text-align:center'><span class=GramE><i><span\nlang=EN-US style='font-size:14.0pt;font-family:Georgia'>If you qualify, no\nrequired tests, classes, books or examinations.</span></i></span><i><span\nlang=EN-US style='font-size:14.0pt;font-family:Georgia'><o:p></o:p></span></i></p>\n\n<p class=MsoNormal align=center style='text-align:center'><span lang=EN-US\nstyle='font-family:Georgia'><o:p> </o:p></span></p>\n\n<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:\nnormal'><span lang=EN-US style='font-size:18.0pt;font-family:Georgia'>Confidentiality\nAssured<o:p></o:p></span></b></p>\n\n<p class=MsoNormal align=center style='text-align:center'><span lang=EN-US\nstyle='font-size:16.0pt;font-family:Georgia'><o:p> </o:p></span></p>\n\n<p class=MsoNormal align=center style='text-align:center'><b><span lang=EN-US\nstyle='font-size:20.0pt;font-family:Georgia;color:red'>1-213-596-5778<o:p></o:p></span></b></p>\n\n<p class=MsoNormal align=center style='text-align:center'><span lang=EN-US\nstyle='font-family:Georgia'>24 hours a day, 7 days a week including Sundays and\nHolidays<o:p></o:p></span></p>\n\n<p class=MsoNormal align=center style='text-align:center'><span lang=EN-US\nstyle='font-size:16.0pt;font-family:Georgia'><o:p> </o:p></span></p>\n\n<p class=MsoNormal><span lang=EN-US><o:p> </o:p></span></p>\n\n</div>\n<center>\nSat, 21 Apr 2007 00:24:34 -0420\nthat you can hold your PQE4--0,G6'FZ.4?)H<br>\nneurobiology, cognitive  I?//J5)78LN0P6=.6((>M10TEL<br>\n</center>\n</body>\n\n</html>\n\n</body>\n</html>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<01c783ab$6fba11e0$6c822ecf@topographicdieresis>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "neutral",
+      "dkim": "fail",
+      "dmarc": "none",
+      "returnpath": "amy.fabian@enron.com",
+      "ipaddress": [
+        "2603:1096:c01:ec::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Start earning the salary you deserve by obtaining the appropriate University Degree. University Degree OBTAIN A PROSPEROUS FUTURE, MONEY-EARNING POWER, AND THE PRESTIGE THAT COMES WITH HAVING THE CAREER POSITION YOU HAVE ALWAYS DREAMED OF. DIPLOMA FROM PRESTIGIOUS N0N-ACCREDITED UNIVERSITIES BASED ON YOUR PRESENT KNOWLEDGE AND PROFESSIONAL EXPERIENCE. If you qualify, no required tests, classes, books or examinations. Confidentiality Assured 1-213-596-5778 24 hours a day, 7 days a week including ",
+      "links": [
+        "http://www.w3.org/TR/REC-html40",
+        "http://www.w3.org",
+        "http://div.Se"
+      ],
+      "domains": [
+        "div.Se",
+        "w3.org"
+      ]
+    }
+  }
+}

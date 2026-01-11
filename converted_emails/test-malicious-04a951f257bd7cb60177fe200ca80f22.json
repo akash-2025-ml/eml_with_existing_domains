@@ -1,0 +1,105 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-04a951f257bd7cb60177fe200ca80f22",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-04a951f257bd7cb60177fe200ca80f22",
+    "emailcontent": {
+      "subject": "Adf, do you qualify for a Free 2007 GE Wireless Alarm? ($379 value)",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "bill.shipley@usherbrooke.ca"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "bill.shipley@usherbrooke.ca"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "mark.davis@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "paul.broderick@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "chris.dorland@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "alerts@ec-hasslefreeoffers.com"
+          }
+        }
+      ],
+      "receivedDateTime": "2007-05-15T19:52:49+00:00",
+      "sentDateTime": "2007-05-15T19:52:49+00:00",
+      "body": {
+        "contentType": "text/html",
+        "content": "<TABLE cellSpacing=0 cellPadding=0\n width=600 align=center border=0>\t<TBODY>\t<TR>\t\t<TD align=middle>\t\t<TABLE cellSpacing=0 cellPadding=0\n width=600 border=0>\t\t\t<TBODY>\t\t\t<TR>\t\t\t\t<TD align=left width=\"50%\"></TD>\t\t\t\t<TD align=right width=\"50%\"><FONT\n face=verdana color=#666666 size=1>Didn't\n expect this email? <A href=\"http://ohtherealmadlib.com/knl/stlrwgssrh.r9o8sn.f9nn.f9nsmsszujfumhnourz0ocjn.f9nfl_neinowdizwnn.f9nerhusz0rgrenlrw_0_3fmessage_id_0_3d5451a0a80698a42702298a381_0_26lliinnkkIDD_0_3d0000/___0a0a0a0a0___5451a0a80698a42702298a381\">Report\n as Spam</A></FONT></TD>\t\t\t</TR>\t\t\t</TBODY>\t\t</TABLE>\t\t\t\t\t<BR>\t\t<TABLE cellSpacing=0 cellPadding=0\n width=600 border=0>\t\t\t<TBODY>\t\t\t<TR>\t\t\t\t<TD vAlign=bottom>\t\t\t\t\t\t\t\t\t<TABLE cellSpacing=0 cellPadding=0\n width=600 border=0>\t\t\t\t\t<TBODY>\t\t\t\t\t<TR>\t\t\t\t\t\t<TD align=left><img src=\"http://ohtherealmadlib.com/gmi/stlrwaaa0njuwszwqecszn0ocjn.f9nznn.f9nswdbbzwj.m9n8djubznn.f9ngncj.m9n8gzuhzwbdysenlrw___5451a0a80698a42702298a381\"\n alt=\"HassleFreeOffers\" width=\"156\"\n height=\"18\"></TD>\t\t\t\t\t\t<TD width=5></TD>\t\t\t\t\t\t<TD vAlign=bottom align=right><FONT\n face=Arial color=#666666 size=1>Prepared\n For: <B>Adf _</B>,\n   CA</FONT></TD>\t\t\t\t\t</TR>\t\t\t\t\t</TBODY>\t\t\t\t\t</TABLE>\t\t\t\t\t</TD>\t\t\t\t</TR>\t\t\t\t</TBODY>\t\t\t</TABLE>\t\t\t</TD>\t\t</TR>\t\t</TBODY>\t</TABLE><CENTER><TABLE cellSpacing=0\n cellPadding=0 width=600 border=0><TR><TD\n bgColor=#8696cf colSpan=3 height=1></TD></TR></TABLE><TABLE\n cellSpacing=0 cellPadding=0 width=600\n border=0><TR><TD width=1 bgColor=#8696cf></TD><TD\n width=4 bgColor=#f8941d></TD><TD\n vAlign=top align=left width=590\n bgColor=#f8941d><BR><CENTER><FONT\n face=arial color=#000000 size=4><B><I> \n Spring Home Security Package: <FONT\n color=#5a2768>$369 Value FREE</FONT></I><P><A\n href=\"http://ohtherealmadlib.com/knl/stlrwgssrh.r9o8sn.f9nn.f9naaa0njuwszwqecszn0ocjn.f9ngcjznzoewdsxn.f9ndmhzl0unrenlrw_0_3fMID_0_3d500300_0_26SID_0_3d42702298_0_26ATC_0_3d1_0_26lliinnkkIDD_0_3d342/___5451a0a80698a42702298a381\">Limited\n   Packages Available</A><P><TABLE\n cellSpacing=1 cellPadding=0 width=\"100%\"><TR><TD\n bgColor=#9a9a99 colSpan=2 height=1></TD></TR><TR><TD\n vAlign=center align=right bgColor=#ffffff><FONT\n face=arial size=2><B>Confirm Your\n Zip Code:</B></FONT>&nbsp;&nbsp;<INPUT\n size=10 value=90210></TD><TD vAlign=center\n align=middle bgColor=#ffffff><FONT\n face=arial size=2><B><A href=\"http://ohtherealmadlib.com/knl/stlrwgssrh.r9o8sn.f9nn.f9naaa0njuwszwqecszn0ocjn.f9ngcjznzoewdsxn.f9ndmhzl0unrenlrw_0_3fMID_0_3d500300_0_26SID_0_3d42702298_0_26ATC_0_3d2_0_26lliinnkkIDD_0_3d343/___5451a0a80698a42702298a381\">Check\n for Availability &gt;&gt;&gt;</A></B></FONT></TD></TR><TR><TD\n bgColor=#9a9a99 colSpan=2 height=1></TD></TR></TABLE></CENTER></P></B></FONT></TD><TD\n width=4 bgColor=#f8941d></TD><TD\n width=1 bgColor=#8696cf></TD></TR><TR><TD\n width=1 bgColor=#8696cf></TD><TD\n width=4 bgColor=#f8941d></TD><TD\n vAlign=top align=left width=590\n bgColor=#f8941d><BR><CENTER><IMG\n height=250 src=\"http://ohtherealmadlib.com/gmi/stlrwaaa0njuwszwqecszn0ocjn.f9nznn.f9nswdbbzwj.m9n8djubznn.f9ngnj.m9n8pdr3bdysenlrw___5451a0a80698a42702298a381\"\n width=570 border=0></CENTER><P><FONT\n face=arial color=#000000 size=2><B>Adf,</B>\n this promotional package is offered\n by the Nationwide Leader in GE Home\n Security Systems. The equipment\n package, <U>valued at $369</U> and\n featuring wireless technology designed\n to protect your home and family,\n is yours free and also <I>comes\n with free activation!</I><CENTER><P><TABLE\n cellSpacing=1 cellPadding=0 width=\"100%\"><TR><TD\n bgColor=#9a9a99 colSpan=2 height=1></TD></TR><TR><TD\n vAlign=center align=right bgColor=#ffffff><FONT\n face=arial size=2><B>Just Start\n With Your Zip Code</B></FONT>&nbsp;&nbsp;<INPUT\n size=10 value=90210></TD><TD vAlign=center\n align=middle bgColor=#ffffff><FONT\n face=arial size=2><B><A href=\"http://ohtherealmadlib.com/knl/stlrwgssrh.r9o8sn.f9nn.f9naaa0njuwszwqecszn0ocjn.f9ngcjznzoewdsxn.f9ndmhzl0unrenlrw_0_3fMID_0_3d500300_0_26SID_0_3d42702298_0_26ATC_0_3d3_0_26lliinnkkIDD_0_3d344/___5451a0a80698a42702298a381\">Protect\n Your Home &gt;&gt;&gt;</A></B></FONT></TD></TR><TR><TD\n bgColor=#9a9a99 colSpan=2 height=1></TD></TR></TABLE></CENTER></P></FONT></TD><TD\n width=4 bgColor=#f8941d></TD><TD\n width=1 bgColor=#8696cf></TD></TR><TR><TD\n width=1 bgColor=#8696cf></TD><TD\n width=4 bgColor=#f8941d></TD><TD\n vAlign=top align=left width=590\n bgColor=#f8941d><BR><CENTER><P><IMG\n alt=\"TrustE Certified\" hspace=2\n src=\"http://ohtherealmadlib.com/gmi/stlrwaaa0njuwszwqecszn0ocjn.f9nswumnzjudfn.f9nTwensEbdysenlrw___5451a0a80698a42702298a381\"\n vspace=2><IMG alt=\"Guaranteed Secure\"\n hspace=2 src=\"http://ohtherealmadlib.com/gmi/stlrwaaa0njuwszwqecszn0ocjn.f9nswumnzjudfn.f9nGzcbdysenlrw___5451a0a80698a42702298a381\"\n vspace=2></CENTER></P></TD><TD width=4\n bgColor=#f8941d></TD><TD width=1\n bgColor=#8696cf></TD></TR></TABLE><TABLE\n cellSpacing=0 cellPadding=0 width=600\n border=0><TR><TD bgColor=#8696cf\n height=1></TD></TR></TABLE><P></P></CENTER></TD></TR></TABLE><CENTER></CENTER><P><CENTER><TABLE cellSpacing=0 cellPadding=0\n width=600 border=0>\t<TBODY>\t<TR>\t\t<TD>\t\t\t\t<TABLE cellSpacing=0 cellPadding=2\n width=600>\t\t\t<TBODY>\t\t\t<TR align=middle>\t\t\t\t<TD align=left colSpan=2><CENTER><FONT\n face=\"Arial, Helvetica, sans-serif\"\n color=#666666 size=1>Message Sent\n To:<B>producttestpanel@speedy.uwaterloo.ca</B>&nbsp;|&nbsp;Valued\n HFO Subscriber Since:<B>2007-03-27</B></FONT></CENTER></TD>\t\t\t</TR>\t\t\t<TR>\t\t\t\t<TD align=left bgColor=#eeeeee\n colSpan=2><P><FONT face=Arial color=#666666\n size=1>Adf, you are part\n of our exclusive <B>List Rewards\n Program</B>, which rewards you simply\n for being a Free HassleFreeOffers\n List Subscriber. Each week you remain\n active you'll automatically receive\n <B>(1) additional entry</b> into\n our quarterly <b><font color=green>$10,000</font>\n CASH sweepstakes</b>, as well as\n other great drawings. (<A href=\"http://ohtherealmadlib.com/knl/stlrwgssrh.r9o8sn.f9nn.f9naaa0njuwszwqecszn0ocjn.f9nwzauwhnn.f9n.1vbdkzuauxenlrw_0_3flliinnkkIDD_0_3d533/___5451a0a80698a42702298a381\">details\n here</A>)</FONT></P><P align=center><FONT\n face=Arial color=#666666 size=1><FONT\n color=#000000>Congratulations to\n our 2006 <FONT color=green>$10K\n Winners: Rachel C of South Pittsburg,\n TN. & Margaret S of Girrad, OH.</FONT></TD>\t\t\t</TR>\t\t\t<TR>\t\t\t\t<TD align=middle bgColor=#dddddd\n colSpan=2><FONT face=verdana color=#737373\n size=1>HassleFreeOffers Network\n | 218 Main Street, #372 | Kirkland,\n WA 98033 | <A href=\"http://ohtherealmadlib.com/knl/stlrwgssrh.r9o8sn.f9nn.f9naaa0njuwszwqecszn0ocjn.f9njzjizwnn.f9nrwdkuox0unrenlrw_0_3flliinnkkIDD_0_3d431/___5451a0a80698a42702298a381\">Privacy\n Policy</A></FONT></TD>\t\t\t</TR>\t\t\t<TR>\t\t\t\t<TD align=middle colSpan=2><BR><FONT\n face=verdana color=#000000 size=1><I>No\n longer interested in our free list\n rewards program? Please follow the\n link below.</I><BR><A href=\"http://ohtherealmadlib.com/knl/stlrwgssrh.r9o8sn.f9nn.f9nsmsszujfumhnourz0ocjn.f9nfl_neinowdizwnn.f9nerhusz0rgrenlrw_0_3fmessage_id_0_3d5451a0a80698a42702298a381_0_26lliinnkkIDD_0_3d0000/___0a0a0a0a0___5451a0a80698a42702298a381/\">Please\n cancel my free rewards program subscription</A></FONT></TD>\t\t\t</TR>\t\t\t<TR>\t\t\t\t<TD vAlign=bottom align=left\n width=\"50%\"><BR><FONT face=verdana\n color=#cccccc size=1><B>MG.ID:</B>5451a0a80698a42702298a381</FONT></FONT></TD>\t\t\t\t<TD vAlign=center align=right\n width=\"50%\"><FONT face=verdana color=#cccccc\n size=1>Copyright&copy; HFO Network\n 2002-Current.</FONT></TD>\t\t\t</TR>\t\t\t<TR>\t\t\t\t<TD align=left colSpan=2>\t\t\t\t\t\t\t\t\t\t<TABLE cellSpacing=0 cellPadding=2\n align=center border=0>\t\t\t\t\t\t<TBODY>\t\t\t\t\t\t<TR>\t\t\t\t\t\t\t<TD vAlign=top align=middle\n width=200><P><FONT face=verdana\n color=#000000 size=1>Powered by\n EmailLaunch</FONT></TD>\t\t\t\t\t\t</TR>\t\t\t\t\t\t</TBODY>\t\t\t\t\t</TABLE>\t\t\t\t\t\t\t\t\t\t</TD>\t\t\t\t</TR>\t\t\t\t</TBODY>\t\t\t</TABLE>\t\t\t\t\t\t</TD>\t\t</TR>\t\t</TBODY>\t</TABLE>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<5451a0a80698a42702298a381@mta-lowquotes.com>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "none",
+      "dkim": "fail",
+      "dmarc": "none",
+      "returnpath": "bill.shipley@usherbrooke.ca",
+      "ipaddress": [
+        "fe80::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Didn't expect this email? Report as Spam Prepared For: Adf _ , CA Spring Home Security Package: $369 Value FREE Limited Packages Available Confirm Your Zip Code: Check for Availability >>> Adf, this promotional package is offered by the Nationwide Leader in GE Home Security Systems. The equipment package, valued at $369 and featuring wireless technology designed to protect your home and family, is yours free and also comes with free activation! Just Start With Your Zip Code Protect Your Home >>>",
+      "links": [
+        "http://ohtherealmadlib.com/knl/stlrwgssrh.r9o8sn.f9nn.f9nsmsszujfumhnourz0ocjn.f9nfl_neinowdizwnn.f9nerhusz0rgrenlrw_0_3fmessage_id_0_3d5451a0a80698a42702298a381_0_26lliinnkkIDD_0_3d0000/___0a0a0a0a0___5451a0a80698a42702298a381",
+        "http://ohtherealmadlib.com/knl/stlrwgssrh.r9o8sn.f9nn.f9naaa0njuwszwqecszn0ocjn.f9ngcjznzoewdsxn.f9ndmhzl0unrenlrw_0_3fMID_0_3d500300_0_26SID_0_3d42702298_0_26ATC_0_3d1_0_26lliinnkkIDD_0_3d342/___5451a0a80698a42702298a381",
+        "http://ohtherealmadlib.com/knl/stlrwgssrh.r9o8sn.f9nn.f9naaa0njuwszwqecszn0ocjn.f9ngcjznzoewdsxn.f9ndmhzl0unrenlrw_0_3fMID_0_3d500300_0_26SID_0_3d42702298_0_26ATC_0_3d2_0_26lliinnkkIDD_0_3d343/___5451a0a80698a42702298a381",
+        "http://ohtherealmadlib.com/knl/stlrwgssrh.r9o8sn.f9nn.f9naaa0njuwszwqecszn0ocjn.f9ngcjznzoewdsxn.f9ndmhzl0unrenlrw_0_3fMID_0_3d500300_0_26SID_0_3d42702298_0_26ATC_0_3d3_0_26lliinnkkIDD_0_3d344/___5451a0a80698a42702298a381",
+        "http://ohtherealmadlib.com/knl/stlrwgssrh.r9o8sn.f9nn.f9naaa0njuwszwqecszn0ocjn.f9nwzauwhnn.f9n.1vbdkzuauxenlrw_0_3flliinnkkIDD_0_3d533/___5451a0a80698a42702298a381",
+        "http://ohtherealmadlib.com/knl/stlrwgssrh.r9o8sn.f9nn.f9naaa0njuwszwqecszn0ocjn.f9njzjizwnn.f9nrwdkuox0unrenlrw_0_3flliinnkkIDD_0_3d431/___5451a0a80698a42702298a381",
+        "http://ohtherealmadlib.com/knl/stlrwgssrh.r9o8sn.f9nn.f9nsmsszujfumhnourz0ocjn.f9nfl_neinowdizwnn.f9nerhusz0rgrenlrw_0_3fmessage_id_0_3d5451a0a80698a42702298a381_0_26lliinnkkIDD_0_3d0000/___0a0a0a0a0___5451a0a80698a42702298a381/",
+        "http://ohtherealmadlib.com/gmi/stlrwaaa0njuwszwqecszn0ocjn.f9nznn.f9nswdbbzwj.m9n8djubznn.f9ngncj.m9n8gzuhzwbdysenlrw___5451a0a80698a42702298a381",
+        "http://ohtherealmadlib.com/gmi/stlrwaaa0njuwszwqecszn0ocjn.f9nznn.f9nswdbbzwj.m9n8djubznn.f9ngnj.m9n8pdr3bdysenlrw___5451a0a80698a42702298a381",
+        "http://ohtherealmadlib.com/gmi/stlrwaaa0njuwszwqecszn0ocjn.f9nswumnzjudfn.f9nTwensEbdysenlrw___5451a0a80698a42702298a381",
+        "http://ohtherealmadlib.com/gmi/stlrwaaa0njuwszwqecszn0ocjn.f9nswumnzjudfn.f9nGzcbdysenlrw___5451a0a80698a42702298a381",
+        "http://ohtherealmadlib.com",
+        "http://speedy.uwaterloo.ca"
+      ],
+      "domains": [
+        "ohtherealmadlib.com",
+        "speedy.uwaterloo.ca"
+      ]
+    }
+  }
+}

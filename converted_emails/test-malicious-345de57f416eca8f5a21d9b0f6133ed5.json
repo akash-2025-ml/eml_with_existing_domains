@@ -1,0 +1,90 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-345de57f416eca8f5a21d9b0f6133ed5",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-345de57f416eca8f5a21d9b0f6133ed5",
+    "emailcontent": {
+      "subject": "Your Mailbox Has Exceeded",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "mpage@test.esatclear.ie"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "mpage@test.esatclear.ie"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "tracy.geaccone@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "lindy.donoho@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "jan.moore@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2011-07-28T08:10:13-04:00",
+      "sentDateTime": "2011-07-28T08:10:13-04:00",
+      "body": {
+        "contentType": "text",
+        "content": "This is a multi-part message in MIME format.\n\n------_=_NextPart_001_01CC4D1F.4DF76E60\nContent-Type: text/plain;\n\tcharset=\"iso-8859-1\"\nContent-Transfer-Encoding: quoted-printable\n\nYour Mailbox Has Exceeded It Storage Limit As Set By Your Administrator, =\nAnd You Will Not Be Able To Receive New Mails Until You Re-Validate It. =\nTo Re-Validate  - >  =\n<https://spreadsheets.google.com/spreadsheet/viewform?formkey=3DdDhJVDBUS=\nUJmTXFTR0tVWHV0M2cxT0E6MQ> Click Here =\n<https://spreadsheets.google.com/spreadsheet/viewform?formkey=3DdDJsMFk2W=\nEVUb2FydmdaZUd1bllfVFE6MQ> : System Administrators.\n\n------_=_NextPart_001_01CC4D1F.4DF76E60\nContent-Type: text/html;\n\tcharset=\"iso-8859-1\"\nContent-Transfer-Encoding: quoted-printable\n\n<HTML dir=3Dltr><HEAD>=0A=\n<META http-equiv=3DContent-Type content=3D\"text/html; charset=3Dunicode\">=0A=\n<META content=3D\"MSHTML 6.00.2900.2180\" name=3DGENERATOR></HEAD>=0A=\n<BODY><SPAN class=3DApple-style-span style=3D\"WORD-SPACING: 0px; FONT: =\nmedium/20px 'Times New Roman'; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); =\nTEXT-INDENT: 0px; WHITE-SPACE: normal; LETTER-SPACING: normal; =\nBORDER-COLLAPSE: separate; orphans: 2; widows: 2; =\nwebkit-border-horizontal-spacing: 0px; webkit-border-vertical-spacing: =\n0px; webkit-text-decorations-in-effect: none; webkit-text-size-adjust: =\nauto; webkit-text-stroke-width: 0px\"><SPAN class=3DApple-style-span =\nstyle=3D\"FONT-SIZE: 13px; COLOR: rgb(42,42,42); LINE-HEIGHT: 17px; =\nFONT-FAMILY: Arial\">Your Mailbox Has Exceeded It Storage Limit As Set By =\nYour Administrator, And You Will Not Be Able To Receive New Mails Until =\nYou Re-Validate It. To Re-Validate&nbsp; - &gt;<A style=3D\"CURSOR: =\npointer; COLOR: rgb(0,104,207); LINE-HEIGHT: 17px; TEXT-DECORATION: =\nunderline\" =\nhref=3D\"https://spreadsheets.google.com/spreadsheet/viewform?formkey=3DdD=\nhJVDBUSUJmTXFTR0tVWHV0M2cxT0E6MQ\" target=3D_blank><FONT =\nclass=3DecxApple-style-span style=3D\"LINE-HEIGHT: normal\" =\ncolor=3D#0068cf><SPAN class=3DecxApple-style-span style=3D\"CURSOR: =\npointer; LINE-HEIGHT: 17px\">&nbsp;</SPAN></FONT></A><FONT =\nstyle=3D\"CURSOR: pointer; COLOR: rgb(0,104,207); TEXT-INDENT: 0px! =\nimportant; LINE-HEIGHT: normal; TEXT-DECORATION: underline\" =\ncolor=3D#0068cf><SPAN class=3DecxApple-style-span style=3D\"TEXT-INDENT: =\n0px! important; LINE-HEIGHT: 17px\"><A style=3D\"CURSOR: pointer; COLOR: =\nrgb(0,104,207); LINE-HEIGHT: 17px; TEXT-DECORATION: underline\" =\nhref=3D\"https://spreadsheets.google.com/spreadsheet/viewform?formkey=3DdD=\nJsMFk2WEVUb2FydmdaZUd1bllfVFE6MQ\" target=3D_blank>Click =\nHere</A></SPAN></FONT>: System =\nAdministrators.</SPAN></SPAN></BODY></HTML>\n------_=_NextPart_001_01CC4D1F.4DF76E60--\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<959B802588BA5448A39472D70933639B097BAB29@mhs-mail03.intra.midhosp.org>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "none",
+      "dkim": "pass",
+      "dmarc": "pass",
+      "returnpath": "test@attack.com",
+      "ipaddress": [
+        "2603:1096:a01:af::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "This is a multi-part message in MIME format.\n\n------_=_NextPart_001_01CC4D1F.4DF76E60\nContent-Type: text/plain;\n\tcharset=\"iso-8859-1\"\nContent-Transfer-Encoding: quoted-printable\n\nYour Mailbox Has Exceeded It Storage Limit As Set By Your Administrator, =\nAnd You Will Not Be Able To Receive New Mails Until You Re-Validate It. =\nTo Re-Validate  - >  =\n<https://spreadsheets.google.com/spreadsheet/viewform?formkey=3DdDhJVDBUS=\nUJmTXFTR0tVWHV0M2cxT0E6MQ> Click Here =\n<https://spreadsheets.google.com/s",
+      "links": [
+        "https://spreadsheets.google.com/spreadsheet/viewform?formkey=3DdDhJVDBUS=",
+        "https://spreadsheets.google.com/spreadsheet/viewform?formkey=3DdDJsMFk2W=",
+        "https://spreadsheets.google.com/spreadsheet/viewform?formkey=3DdD=",
+        "https://spreadsheets.google.com/spreadsheet/viewform?formkey=3DdDhJVDBUS=\nUJmTXFTR0tVWHV0M2cxT0E6MQ",
+        "https://spreadsheets.google.com/spreadsheet/viewform?formkey=3DdDJsMFk2W=\nEVUb2FydmdaZUd1bllfVFE6MQ",
+        "http://spreadsheets.google.com"
+      ],
+      "domains": [
+        "spreadsheets.google.com"
+      ]
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-2de2011156db36ce1fa7bae30b6fcb0e",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-2de2011156db36ce1fa7bae30b6fcb0e",
+    "emailcontent": {
+      "subject": "Re:",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "james.h.cook@us.andersen.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "james.h.cook@us.andersen.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "'Smiles'",
+            "address": "smiles@speedy.uwaterloo.ca"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2007-04-20T15:44:26-01:00",
+      "sentDateTime": "2007-04-20T15:44:26-01:00",
+      "body": {
+        "contentType": "text/plain",
+        "content": "<html xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:w=\"urn:schemas-microsoft-com:office:word\" xmlns=\"http://www.w3.org/TR/REC-html40\">\n\n<head>\n<META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=iso-8859-1\">\n<meta name=Generator content=\"Microsoft Word 11 (filtered medium)\">\n</head>\n<body>\n<BODY text=#000000 bgColor=#ffffff>\n<font size=\"3\" face=\"Times New Roman\"><p align=\"center\"><font color=\"#0000ff\" size=\"6\"><strong>VIAGRA</strong></font></p>\n<p align=\"center\">If you have a problem getting or keeping an \nerection, your sex life can suffer. <br />You should know that \nyou&rsquo;re not alone. In fact, more than half of all men over 40 <br/>have difficulties getting or maintaining an erection. This issue, also called <br />erectile dysfunction, occurs with younger men as \nwell!</p>\n<p align=\"center\">You should know there is something you can do about \nit. <br />Join the millions of men who have already <strong>improved \ntheir sex lives with VIAGRA</strong>!</p>\n<p align=\"center\"><a href=\"http://setequate.hk\"><font size=\"4\"><strong>VISIT STORE ONLINE!</strong></font></a></p></font>\n</BODY>\n</body>\n</html>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<01c78362$c699cb70$6c822ecf@pommelingspacesuits>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "pass",
+      "dkim": "fail",
+      "dmarc": "pass",
+      "returnpath": "james.h.cook@us.andersen.com",
+      "ipaddress": [
+        "2603:1096:c01:ec::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "VIAGRA If you have a problem getting or keeping an erection, your sex life can suffer. You should know that you’re not alone. In fact, more than half of all men over 40 have difficulties getting or maintaining an erection. This issue, also called erectile dysfunction, occurs with younger men as well! You should know there is something you can do about it. Join the millions of men who have already improved their sex lives with VIAGRA ! VISIT STORE ONLINE!",
+      "links": [
+        "http://setequate.hk",
+        "http://www.w3.org/TR/REC-html40",
+        "http://www.w3.org"
+      ],
+      "domains": [
+        "setequate.hk",
+        "w3.org"
+      ]
+    }
+  }
+}

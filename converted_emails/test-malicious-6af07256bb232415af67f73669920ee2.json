@@ -1,0 +1,94 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-6af07256bb232415af67f73669920ee2",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-6af07256bb232415af67f73669920ee2",
+    "emailcontent": {
+      "subject": "Mr. Potts?",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "joe.richards@test.enron.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "joe.richards@test.enron.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "ip-health@lists.essential.org"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "a2k@lists.essential.org"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2007-05-04T10:41:12-08:00",
+      "sentDateTime": "2007-05-04T10:41:12-08:00",
+      "body": {
+        "contentType": "image/gif",
+        "content": "<html xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:w=\"urn:schemas-microsoft-com:office:word\" xmlns:st1=\"urn:schemas-microsoft-com:office:smarttags\" xmlns=\"http://www.w3.org/TR/REC-html40\">\n\n<head>\n<META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=us-ascii\">\n<meta name=Generator content=\"Microsoft Word 11 (filtered medium)\">\n<!--[if !mso]>\n<style>\nv\\:* {behavior:url(#default#VML);}\no\\:* {behavior:url(#default#VML);}\nw\\:* {behavior:url(#default#VML);}\nshape {behavior:url(#default#VML);}\n</style>\n<![endif]--><o:SmartTagType\n namespaceuri=\"urn:schemas-microsoft-com:office:smarttags\" name=\"City\"/>\n<o:SmartTagType namespaceuri=\"urn:schemas-microsoft-com:office:smarttags\"\n name=\"place\"/>\n<!--[if !mso]>\n<style>\nst1\\:*{behavior:url(#default#ieooui) }\n</style>\n<![endif]-->\n<style>\n<!--\n /* Style Definitions */\n p.MsoNormal, li.MsoNormal, div.MsoNormal\n    {margin:0cm;\n    margin-bottom:.0001pt;\n    font-size:12.0pt;\n    font-family:\"Times New Roman\";}\na:link, span.MsoHyperlink\n    {color:blue;\n    text-decoration:underline;}\na:visited, span.MsoHyperlinkFollowed\n    {color:purple;\n    text-decoration:underline;}\nspan.EmailStyle17\n    {mso-style-type:personal-compose;\n    font-family:Arial;\n    color:windowtext;}\n@page Section1\n    {size:595.3pt 841.9pt;\n    margin:2.0cm 42.5pt 2.0cm 3.0cm;}\ndiv.Section1\n    {page:Section1;}\n-->      \n</style>\n\n</head>\n\n<body lang=EN link=blue vlink=purple>\n\n<div class=Section1>\n\n<p class=MsoNormal><font size=2 face=Arial><span style='font-size:10.0pt;\nfont-family:Arial'><A HREF=\"http://altudfynezessity.com/\"><img width=494 height=228 id=\"_x0000_i1025\"\nsrc=\"cid:pic01.gif@01C78E38.BC16EBC0\"></A></span></font><font size=2 face=Arial><span\nlang=EN-US style='font-size:10.0pt;font-family:Arial'><o:p></o:p></span></font></p>\n\n<p class=MsoNormal><font size=2 face=Arial><span lang=EN-US style='font-size:10.0pt;font-family:Arial'>PCs details China Martens IDG<o:p></o:p></span></font></p>\n\n<p class=MsoNormal><font size=2 face=Arial><span lang=EN-US style='font-size:10.0pt;font-family:Arial'>systems adjusting they are<o:p></o:p></span></font></p>\n\n</div>\n\n</body>\n\n</html>\n"
+      },
+      "hasAttachments": true,
+      "internetMessageId": "<AFC373805F23975.79301053D6@pldt.net>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "none",
+      "dkim": "neutral",
+      "dmarc": "pass",
+      "returnpath": "test@attack.com",
+      "ipaddress": [
+        "2a01:111:f403:c409::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "v\\:* {behavior:url(#default#VML);} o\\:* {behavior:url(#default#VML);} w\\:* {behavior:url(#default#VML);} shape {behavior:url(#default#VML);} st1\\:*{behavior:url(#default#ieooui) } PCs details China Martens IDG systems adjusting they are",
+      "links": [
+        "http://altudfynezessity.com/",
+        "http://www.w3.org/TR/REC-html40",
+        "http://altudfynezessity.com",
+        "http://www.w3.org",
+        "http://span.Email",
+        "http://div.Se"
+      ],
+      "domains": [
+        "altudfynezessity.com",
+        "div.Se",
+        "span.Email",
+        "w3.org"
+      ]
+    },
+    "attachments": [
+      {
+        "name": "pic01.gif",
+        "contentBytes": "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",
+        "contentType": "image/gif"
+      }
+    ]
+  }
+}

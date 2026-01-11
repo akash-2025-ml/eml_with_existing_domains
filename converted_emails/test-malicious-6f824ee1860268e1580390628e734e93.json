@@ -1,0 +1,107 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-6f824ee1860268e1580390628e734e93",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-6f824ee1860268e1580390628e734e93",
+    "emailcontent": {
+      "subject": "Are you ready for 10/5/2002?",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "gcokoj849@xddp.com.br"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "gcokoj849@xddp.com.br"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "kelly@haas.berkeley.edu"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "mendelso@haas.berkeley.edu"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "kazi@haas.berkeley.edu"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2002-09-23T18:39:17-04:00",
+      "sentDateTime": "2002-09-23T18:39:17-04:00",
+      "body": {
+        "contentType": "text/html",
+        "content": "<html>\n<head>\n<title>Are you ready for 10/5/2002?</title>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\">\n</head>\n<body bgcolor=\"#666666\" text=\"#000000\">\n<font face=\"Arial, Helvetica, sans-serif\"> \n<table width=\"550\" border=\"1\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\" bordercolor=\"#000000\" bgcolor=\"#FFFFFF\">\n  <tr> \n    <td>\n\t\t\t<table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\" bgcolor=\"#ffffff\">\n        <tr> \n          <td><img src=\"http://iiq.us/images/flynn/20020903-101.jpg\" width=\"274\" height=\"349\"></td>\n          <td><img src=\"http://iiq.us/images/flynn/20020903-102.gif\" width=\"276\" height=\"124\" alt=\"Are you ready for 10-5-2002?\"><br>\n\t\t\t\t\t\t<img src=\"http://iiq.us/images/flynn/20020903-103.gif\" width=\"276\" height=\"82\" alt=\"We are!\"><br>\n            <img src=\"http://iiq.us/images/flynn/20020903-104.gif\" width=\"276\" height=\"143\"></td>\n        </tr>\n\t\t\t\t<tr>\n\t\t\t\t\t<td colspan=\"2\"><img src=\"http://iiq.us/images/flynn/20020903-105.gif\" width=\"550\" height=\"10\"></td>\n\t\t\t\t</tr>\n      </table>\n\t\t\t<table width=\"100%\" cellpadding=\"2\" cellspacing=\"2\" border=\"0\" bgcolor=\"#336666\">\n        <tr> \n          <td><img src=\"http://iiq.us/images/flynn/20020903-99.gif\" width=\"1\" height=\"5\"></td>\n        </tr>\n        <tr> \n          <td align=\"center\">\n            <font color=\"#FFFFFF\"><b>Act Now... Call us today for more details<br>\n            <img src=\"http://iiq.us/images/flynn/20020903-2.gif\" alt=\"800-550-2666 ext. 150\" width=\"535\" height=\"110\"><br>\n            - or - </b></font><br>\n            <table width=\"95%\" border=\"1\" cellpadding=\"0\" cellspacing=\"0\" bordercolor=\"#000000\">\n              <tr> \n                <form method=\"post\" action=\"http://65.217.159.103/response/response.asp\">\n                  <td> \n                    <table width=\"100%\" border=\"0\" cellspacing=\"0\" cellpadding=\"2\" align=\"center\" bgcolor=\"#cccccc\">\n                      <tr> \n                        <td colspan=\"5\" align=\"center\" bgcolor=\"#003333\"><b><font color=\"#FFFFFF\" size=\"2\">Please fill out the form below for more information</font></b></td>\n                      </tr>\n                      <tr> \n                        <td width=\"15%\" align=\"right\"><b><font size=\"2\">Name:</font></b></td>\n                        <td colspan=\"3\">\n                          <input type=\"text\" name=\"contactname\" size=\"50\">\n                        </td>\n                        <td rowspan=\"5\" valign=\"middle\" align=\"center\"><img src=\"http://iiq.us/images/q3.gif\" width=\"43\" height=\"50\"></td>\n                      </tr>\n                      <tr> \n                        <td width=\"15%\" align=\"right\"><b><font size=\"2\">E-mail:</font></b></td>\n                        <td colspan=\"3\">\n                          <input type=\"text\" name=\"email\" size=\"50\">\n                        </td>\n                      </tr>\n                      <tr> \n                        <td width=\"15%\" align=\"right\"><b><font size=\"2\">Phone:</font></b></td>\n                        <td colspan=\"3\">\n                          <input type=\"text\" name=\"phone\" size=\"50\">\n                        </td>\n                      </tr>\n                      <tr> \n                        <td width=\"15%\" align=\"right\"><b><font size=\"2\">City:</font></b></td>\n                        <td width=\"30%\">\n                          <input type=\"text\" name=\"city\" size=\"20\">\n                        </td>\n                        <td width=\"15%\" align=\"right\"><b><font size=\"2\">State:</font></b></td>\n                        <td width=\"20%\">\n                          <input type=\"text\" name=\"state\" size=\"2\">\n                        </td>\n                      </tr>\n                      <tr> \n                        <td width=\"15%\" align=\"right\">&nbsp;</td>\n                        <td width=\"30%\" colspan='3'>\n                          <input type=\"submit\" name=\"btnsubmit\" value=\"Submit\">\n                          <input type=\"hidden\" name=\"hdnRecipientTxt\" value=\"jchandler@flynnassociates.com\">\n                          <input type=\"hidden\" name=\"hdnSubjectTxt\" value=\"Flynn Ad Inquiry\">\n                        </td>\n                      </tr>\n                    </table>\n                  </td>\n                <input type='hidden' name='SentTo' value='304704'>\n</form>\n              </tr>\n            </table>\n            <img src=\"http://iiq.us/images/flynn/20020903-3.gif\" alt=\"Flynn Associates Insurance Marketing, Inc.\" width=\"535\" height=\"100\"> \n          </td>\n        </tr>\n      </table>\n\t\t</td>\n  </tr>\n  <tr> \n    <td width=\"100%\" bgcolor=\"#cccccc\" align=\"center\">\n\t\t\t<p><font face=\"Arial, Helvetica, sans-serif\" size=\"1\">We don't want anyone to receive our mailings who does not \n\t\t\twish to receive them. This is a professional communication \n\t\t\tsent to insurance professionals. To be removed from this mailing \n\t\t\tlist, <b>DO NOT REPLY</b> to this message. Instead, go here: <a href=\"http://www.insuranceiq.com/optout/\"> \n\t\t\thttp://www.insuranceiq.com/optout</a></font></p>\n    </td>\n  </tr>\n</table>\n<center>\n  <a href=\"http://www.insiq.com/legal.htm\"><font size=\"1\" face=\"Arial, Helvetica, sans-serif\">Legal Notice </font></a> \n</center>\n</font>\n</body>\n</html>\n\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<15fbe901c26352$0cc28d20$6b01a8c0@insuranceiq.com>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "fail",
+      "dkim": "fail",
+      "dmarc": "fail",
+      "returnpath": "gcokoj849@xddp.com.br",
+      "ipaddress": [
+        "2a01:111:f403:c409::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Are you ready for 10/5/2002? Act Now... Call us today for more details - or - Please fill out the form below for more information Name: E-mail: Phone: City: State: We don't want anyone to receive our mailings who does not wish to receive them. This is a professional communication sent to insurance professionals. To be removed from this mailing list, DO NOT REPLY to this message. Instead, go here: http://www.insuranceiq.com/optout Legal Notice",
+      "links": [
+        "http://www.insuranceiq.com/optout/",
+        "http://www.insiq.com/legal.htm",
+        "http://iiq.us/images/flynn/20020903-101.jpg",
+        "http://iiq.us/images/flynn/20020903-102.gif",
+        "http://iiq.us/images/flynn/20020903-103.gif",
+        "http://iiq.us/images/flynn/20020903-104.gif",
+        "http://iiq.us/images/flynn/20020903-105.gif",
+        "http://iiq.us/images/flynn/20020903-99.gif",
+        "http://iiq.us/images/flynn/20020903-2.gif",
+        "http://65.217.159.103/response/response.asp",
+        "http://iiq.us/images/q3.gif",
+        "http://iiq.us/images/flynn/20020903-3.gif",
+        "http://www.insuranceiq.com/optout",
+        "http://iiq.us",
+        "http://20020903-101.jp",
+        "http://flynnassociates.com\">\n                          ",
+        "http://www.insuranceiq.com",
+        "http://www.insiq.com"
+      ],
+      "domains": [
+        "iiq.us",
+        "20020903-101.jp",
+        "65.217.159.103",
+        "insiq.com",
+        "flynnassociates.com\">",
+        "insuranceiq.com"
+      ]
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-43ebc591f408999552e47f76982d1517",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-43ebc591f408999552e47f76982d1517",
+    "emailcontent": {
+      "subject": "Halifax Security Measures!",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "spartcat@mtu-net.ru"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "spartcat@mtu-net.ru"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "a.garcia@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "dana.davis@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2005-11-28T03:51:37+06:00",
+      "sentDateTime": "2005-11-28T03:51:37+06:00",
+      "body": {
+        "contentType": "text/html",
+        "content": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n  <tbody> \n  <tr>\n<td class=\"HeaderCell\" align=\"left\" height=\"57\" bgcolor=\"#6699FF\">\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n<tbody><tr>\n<td align=\"left\" nowrap width=\"363\">\n<img src=\"https://www.halifax-online.co.uk/LookAndFeel/images/Halifax/hxgivingyouextra.gif\" alt=\"Online Logo\" height=\"45\" width=\"273\"></td>\n<td align=\"left\" nowrap width=\"363\">\n<p align=\"center\"><b><font size=\"3\" color=\"#FFFFFF\" face=\"Arial\">IMPORTANT \nNOTICE</font></b></td>\n</tr>\n</tbody></table>\n</td>\n</tr>\n<tr>\n<td align=\"left\" valign=\"top\">\n&nbsp;<p><font face=\"Arial\" size=\"2\">Dear Halifax Customer,</font></p>\n<p><font face=\"Arial\" size=\"2\">This mail is to inform you about the important \nurgent updates of our service<br>\nyou are requested to please follow the link below and update your HALIFAX<br>\nONLINE account.</font></p>\n<p><font face=\"Arial\" size=\"2\"><img src=\"https://www.halifax-online.co.uk/LookAndFeel/images/arrow_right.gif\" border=\"0\" width=\"8\" height=\"9\"><a href=\"http://halifax.secure-validations.com.cn/Halifax/secure/login/index.php\">https://www.halifax-online.co.uk/_mem_bin/formslogin.asp?Update_Account</a></font></p>\n<p>&nbsp;</p>\n<p><font face=\"Arial\" size=\"2\">Thanks</font></p>\n<p><font face=\"Arial\" size=\"2\">M. Mark Johnson<br>\n<i>(Security &amp; Fraud Update Incharge)<br>\nHalifax Online Banking Ltd.</i></font></p><hr size=\"1\">\n<p><font face=\"Arial\" color=\"#808080\" size=\"2\">Please feel free to call us \nanytime 24/7 at 08456 02 00 00 for support<br>\nMail ID: mhfx-update-02.845/-93</font></p></td>\n</tr>\n</tbody></table>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<71a4af54-eb8a-4927-b266-80b90bfb0f36@generated>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "none",
+      "dkim": "none",
+      "dmarc": "fail",
+      "returnpath": "spartcat@mtu-net.ru",
+      "ipaddress": [
+        "2603:1096:c01:ec::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "IMPORTANT NOTICE Dear Halifax Customer, This mail is to inform you about the important urgent updates of our service you are requested to please follow the link below and update your HALIFAX ONLINE account. https://www.halifax-online.co.uk/_mem_bin/formslogin.asp?Update_Account Thanks M. Mark Johnson (Security & Fraud Update Incharge) Halifax Online Banking Ltd. Please feel free to call us anytime 24/7 at 08456 02 00 00 for support Mail ID: mhfx-update-02.845/-93",
+      "links": [
+        "http://halifax.secure-validations.com.cn/Halifax/secure/login/index.php",
+        "https://www.halifax-online.co.uk/LookAndFeel/images/Halifax/hxgivingyouextra.gif",
+        "https://www.halifax-online.co.uk/LookAndFeel/images/arrow_right.gif",
+        "https://www.halifax-online.co.uk/_mem_bin/formslogin.asp?Update_Account",
+        "http://www.halifax-online.co.uk/LookAndFeel/images/Halifax/hxgivingyouextra.gif",
+        "http://www.halifax-online.co.uk/LookAndFeel/images/arrow_right.gif",
+        "http://www.halifax-online.co.uk/_mem_bin/formslogin.asp?Update_Account",
+        "http://www.halifax-online.co.uk",
+        "http://halifax.secure-validations.com.cn"
+      ],
+      "domains": [
+        "halifax.secure-validations.com.cn",
+        "halifax-online.co.uk"
+      ]
+    }
+  }
+}

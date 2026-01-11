@@ -1,0 +1,83 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-54341a156797dae5cec58d191ac78170",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-54341a156797dae5cec58d191ac78170",
+    "emailcontent": {
+      "subject": "TODO CARPINTERIA",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "ijamtiayu@anastasiaynicolas.com.ar"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "ijamtiayu@anastasiaynicolas.com.ar"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "all.corp@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "ijamtiayu@anastasiaynicolas.com.ar"
+          }
+        }
+      ],
+      "receivedDateTime": "2007-05-03T19:45:02+03:00",
+      "sentDateTime": "2007-05-03T19:45:02+03:00",
+      "body": {
+        "contentType": "html",
+        "content": "\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \n\"http://www.w3.org/TR/html4/loose.dtd\"> \n<html>\n\n<head>\n<meta http-equiv=\"Content-Language\" content=\"es\">\n<meta name=\"GENERATOR\" content=\"Microsoft FrontPage 5.0\">\n<meta name=\"ProgId\" content=\"FrontPage.Editor.Document\">\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=windows-1252\">\n<title>Aprenda sobre CARPINTERIA 2007</title>\n</head>\n\n<body>\n\n<p align=\"center\"><font size=\"5\" color=\"#006666\" face=\"Trebuchet MS\"><b>NOVEDAD: \nCURSO COMPLETO</b></font></p>\n<p align=\"center\"><font size=\"5\" color=\"#006666\" face=\"Trebuchet MS\"><b>\nCARPINTERA 2007</b></font><b><font size=\"5\" color=\"#006666\"><br>\n</font><font size=\"6\" color=\"#008000\">\n<br>\n</font><font size=\"4\" color=\"#FF0000\">\n----------------------------------------------------<br>\n</font><font size=\"4\">Pedidos a: <a href=\"mailto:mzcarpinteria@gmail.com\">\nmzcarpinteria@gmail.com</a> <br>\n1</font><font color=\"#008000\" size=\"4\">\nCD completo para tu PC a $49.-<br>\n</font><font size=\"4\" color=\"#FF0000\">\n----------------------------------------------------<br>\n</font></b><font size=\"6\" color=\"#008000\"><i>El manual mas econmico del Mercado<br>\n</i><b><br>\n</b>\n</font><b><font size=\"6\" color=\"#FF0000\">Convirtase en un EXPERTO!<br>\n</font><font size=\"5\">Apto principiantes hasta Maestros Carpinteros</font></b></p>\n<span style=\"font-size: 14pt; font-family: Arial Black\">\n<p class=\"MsoNormal\" style=\"text-align: center; margin-left: 0cm; margin-right: 0cm; margin-top: 0cm; margin-bottom: 0pt\" align=\"center\">\n<span style=\"font-size: 18pt; font-family: Falstaff Festival MT\">\n<font color=\"#008000\" size=\"3\"><u><span style=\"font-family: Arial Black\"><br>\nESTE ES \nEL MATERIAL</span></u></font></p>\n</span></span><span style=\"font-size: 14pt\">\n<p class=\"MsoNormal\" style=\"margin-left: 0cm; margin-right: 0cm; margin-top: 0cm; margin-bottom: 0pt\" align=\"center\">\n<br>\n</span><font face=\"Times New Roman\"><b>CURSO DE CARPINTERA<br>\n</b>Carpintera General<br>\nEl Taller en el Hogar<br>\nLa Madera<br>\nMedios Auxiliares<br>\nHerramientas y Aparatos Elctricos<br>\nTrabajar la Madera<br>\nMtodos de Unin<br>\nEnsambles<br>\nEnchapado<br>\nTratamiento de Superficies<br>\nUso de Materiales Sintticos<br>\nEjemplos de Trabajos<br>\n&nbsp;</font></p>\n<p class=\"MsoNormal\" style=\"margin-left: 0cm; margin-right: 0cm; margin-top: 0cm; margin-bottom: 0pt\" align=\"center\">\n<font face=\"Times New Roman\"><br>\n<b>TORNEADO DE MADERA<br>\n</b>Introduccin<br>\nConsideraciones<br>\nTaller de Torneria<br>\nEl Torno<br>\nHerramientas<br>\nAfilar las herramientas<br>\nTornear Longitudinalmente<br>\nFrentear y Tornear el interior<br>\nTornear formas difciles<br>\nTcnicas de Trabajo Combinadas<br>\n&nbsp;</font></p>\n<p class=\"MsoNormal\" style=\"margin-left: 0cm; margin-right: 0cm; margin-top: 0cm; margin-bottom: 0pt\" align=\"center\">\n<font face=\"Times New Roman\"><br>\n<b>MUEBLES<br>\n</b>Juego de Comedor<br>\nConsola HiFiTV estilo Italiano<br>\nMesa<br>\nMesa para sof<br>\nEscritorio con sus sillas<br>\nBandejas<br>\nParagero<br>\nLibrero<br>\nEnchapados sencillos<br>\nBandeja Incrustada<br>\nCaja de Caoba<br>\nParasol para jardn<br>\nMuebles con tejido<br>\nGabinetes<br>\nCornisas<br>\nCigarreros<br>\nArmarios<br>\nY MUCHOS MAS <br>\n&nbsp;</font></p>\n<p class=\"MsoNormal\" style=\"margin-left: 0cm; margin-right: 0cm; margin-top: 0cm; margin-bottom: 0pt\" align=\"center\">\n<font face=\"Times New Roman\"><br>\n<b>UD LO CONSTRUYE<br>\n</b>Construya sus sillas<br>\nLaminados<br>\nTerrazas en Madera<br>\nMesas con Bandejas!<br>\nConstruya sus mesas!<br>\nY Mas!!!<br>\n&nbsp;</font></p>\n<p class=\"MsoNormal\" style=\"margin-left: 0cm; margin-right: 0cm; margin-top: 0cm; margin-bottom: 0pt\" align=\"center\">\n<font face=\"Times New Roman\"><br>\n<b>TRABAJOS BSICOS DE CARPINTERA<br>\n</b>Herramientas Necesarias<br>\nEjemplos de aplicacin con explicacin paso a paso<br>\n&nbsp;</font></p>\n<p class=\"MsoNormal\" style=\"margin-left: 0cm; margin-right: 0cm; margin-top: 0cm; margin-bottom: 0pt\" align=\"center\">\n<font face=\"Times New Roman\"><br>\n<b>TALLADO DE MADERA<br>\n</b>Secretos y Tcnicas Avanzadas<br>\nIntroduccin<br>\nEl Dibujo<br>\nLa Madera<br>\nLa Veta de la Madera<br>\nNormas Bsicas<br>\nTalla con cuchillas<br>\nComas o Tildes<br>\nTrisquel<br>\nArte Celta<br>\nAfilado<br>\nTintes<br>\nProteccin de la Madera<br>\ny mucho mas en un manual de 162 paginas!<br>\n&nbsp;</font></p>\n<p class=\"MsoNormal\" style=\"margin-left: 0cm; margin-right: 0cm; margin-top: 0cm; margin-bottom: 0pt\" align=\"center\">\n&nbsp;</p>\n<p class=\"MsoNormal\" style=\"margin-left: 0cm; margin-right: 0cm; margin-top: 0cm; margin-bottom: 0pt\" align=\"center\">\n<font face=\"Times New Roman\"><b>TRABAJOS EN CARPINTERA<br>\n</b>Adicional-Carpintera de madera<br>\nCARPINTERA Y MADERA<br>\nTratado De Construccin En Madera 1899<br>\n&nbsp;</font></p>\n<p class=\"MsoNormal\" style=\"margin-left: 0cm; margin-right: 0cm; margin-top: 0cm; margin-bottom: 0pt\" align=\"center\">\n<font face=\"Times New Roman\"><br>\n<b>MATERIAL DE CARPINTERA PLUS<br>\n</b>Aplicacin de Protectores Decorativos para Madera<br>\nColocar planchas de melamina o madera<br>\nComo colocar revestimientos de madera en paredes<br>\ncomo lijar<br>\nEnsamblar Muebles a Escuadra - 1<br>\nGua de Tarimas Parque y Laminados<br>\nInstalacin de Tarima Clavada<br>\nInstalacin de tarimas y parque flotante<br>\nlos ensamblajes de madera<br>\nArmado de un armario empotrado<br>\nColocar planchas de PVC<br>\nComo instalar vigas decorativas<br>\nEnsamblaje en lnea de muebles<br>\nEnsamblar Muebles a Escuadra - 2<br>\nInstalacin de parque pegado<br>\nInstalacin de Tarimas o Parque Flotante (sin cola)<br>\nInstalar parque pegado<br>\nInstalar parque pegado<br>\n<br>\n<br>\n<b>ADICIONALES<br>\n</b>Muebles De Pladur<br>\nProteger y decorar el hierro y la madera de exterior<br>\nRestauracin de muebles de madera 2<br>\n*EXTRAS*<br>\n&nbsp;</font></p>\n<p class=\"MsoNormal\" style=\"margin-left: 0cm; margin-right: 0cm; margin-top: 0cm; margin-bottom: 0pt\" align=\"center\">\n<font face=\"Times New Roman\"><br>\nPROGRAMA Cabinet Creator v3.25(Creacin muebles)<br>\n&nbsp;</font></p>\n<p class=\"MsoNormal\" style=\"margin-left: 0cm; margin-right: 0cm; margin-top: 0cm; margin-bottom: 0pt\" align=\"center\">\n<font face=\"Times New Roman\"><br>\nPROGRAMA CUTMASTER<br>\n</font><span style=\"font-size: 18pt; font-family: Falstaff Festival MT\"><span style=\"font-size: 14pt\"><br>\n&nbsp;</p>\n<p class=\"MsoNormal\" style=\"margin-left: 0cm; margin-right: 0cm; margin-top: 0cm; margin-bottom: 0pt\">\n</span><span style=\"font-family: Falstaff Festival MT\">\n<font face=\"Times New Roman\" size=\"2\">&nbsp;<br>\n&nbsp;</font></p>\n</span><font size=\"3\"><span style=\"font-family: Arial Black\"><b>\n<p class=\"MsoNormal\" style=\"tab-sto1s: list 36.0pt; margin-left: 0cm; margin-right: 0cm; margin-top: 0cm; margin-bottom: 0pt\" align=\"center\">\n<span style=\"font-size: 20pt; font-family: Falstaff Festival MT\">\n<font size=\"5\" color=\"#008000\">Y DE REGALO</font></span></p>\n</b></span></font></span>\n<p class=\"MsoNormal\" style=\"tab-sto1s: list 36.0pt; margin-left: 0cm; margin-right: 0cm; margin-top: 0cm; margin-bottom: 0pt\" align=\"center\">\n<font face=\"Times New Roman\">Albailera (Todos los libros electrnicos)<br>\nAmbientacin<br>\nCerrajera (curso de aprendizaje)<br>\nCocina (instalaciones y refacciones)<br>\nInstalaciones de Sanitarios (completo)<br>\n<br>\n&nbsp;</font></p>\n<p align=\"center\"><b><font size=\"4\" color=\"#FF0000\">\n----------------------------------------------------<br>\n</font><font size=\"4\">Pedidos a: <a href=\"mailto:mzcarpinteria@gmail.com\">\nmzcarpinteria@gmail.com</a><br>\n</font><font color=\"#008000\" size=\"4\">\n<br>\n</font><font color=\"#666699\" size=\"4\">\nGARANTA POR UN AO<br>\nSOPORTE TCNICO POR MAIL O MSN</font><font color=\"#008000\" size=\"4\"><br>\n</font><font size=\"4\" color=\"#FF0000\">\n----------------------------------------------------<br>\n</font></b><font size=\"4\"><br>\nENVOS A TODO EL PAS<br>\nPor Correo Argentino o Mensajera en Moto (Cap.Fed.)<br>\n<br>\nLo paga nicamente al recibirlo.<br>\n$49.- POR TODO CONCEPTO SIN COSTOS EXTRAS<br>\n<br>\n</font>-------------------------------------------------------------------------------<u><br>\nIndique en su pedido:<br>\n</u>Nombre y Apellido:<br>\nDireccin:<br>\nLocalidad:<br>\nCdigo Postal:<br>\nProvincia:<br>\nTelfono:<br>\n<br>\nIndique en el tema: &quot;COMPRAR CURSO CARPINTERA 2007&quot;<br>\n--------------------------------------------------------------------------------<br>\n<font size=\"4\" color=\"#003366\"><br>\nPara no recibir mas correos, enviar un mail a la misma cuenta indicando ser \nremovido.<br>\n&nbsp;</font></p>\n\n</body>\n\n</html>\n\n\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<fc4f9401-92d8-4c73-b6fd-b5340d2de6c1@generated>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "none",
+      "dkim": "fail",
+      "dmarc": "pass",
+      "returnpath": "ijamtiayu@anastasiaynicolas.com.ar",
+      "ipaddress": [
+        "fe80::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Aprenda sobre CARPINTERIA 2007 NOVEDAD: CURSO COMPLETO CARPINTERA 2007 ---------------------------------------------------- Pedidos a: mzcarpinteria@gmail.com 1 CD completo para tu PC a $49.- ---------------------------------------------------- El manual mas econmico del Mercado Convirtase en un EXPERTO! Apto principiantes hasta Maestros Carpinteros ESTE ES EL MATERIAL CURSO DE CARPINTERA Carpintera General El Taller en el Hogar La Madera Medios Auxiliares Herramientas y Aparatos Elctricos Traba",
+      "links": [
+        "http://www.w3.org/TR/html4/loose.dtd",
+        "http://www.w3.org",
+        "http://gmail.com"
+      ],
+      "domains": [
+        "gmail.com",
+        "w3.org"
+      ]
+    }
+  }
+}

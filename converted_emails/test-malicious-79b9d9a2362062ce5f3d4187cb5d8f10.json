@@ -1,0 +1,79 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-79b9d9a2362062ce5f3d4187cb5d8f10",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-79b9d9a2362062ce5f3d4187cb5d8f10",
+    "emailcontent": {
+      "subject": "[Mhln] ROLEX at unbelievable prices!",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "ykazmef.pewy@kuvkjgpg.co.in"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "ykazmef.pewy@kuvkjgpg.co.in"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "csspc@lug-owl.de"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2007-06-28T20:20:11-01:00",
+      "sentDateTime": "2007-06-28T20:20:11-01:00",
+      "body": {
+        "contentType": "text",
+        "content": "This is a multi-part message in MIME format.\n\n------=_NextPart_000_0006_01C7B9D2.7E454C90\nContent-Type: text/plain;\n\tcharset=\"iso-8859-2\"\nContent-Transfer-Encoding: 7bit\n\n\n  VIP     \n    R_E_P_L_I_C_A W_A_T_C_H_E_S!\n If you are looking for a stylish, quality costume watch at low prices, our offers are for you. We specialize in top quality replica watches. Wearing these expensive looking watches is prestigious. Buying these models you will save you a ton of money and always look trendy.\n\n  We offer a free gift box with every VIP watch ordered. You can use it as a lovely gift for your friends or relatives or keep your gorgeous watch there. No matter what you do with your watch, you will enjoy it.\n  Check out our gift boxes that will make the present even more glamorous.\n  \n0G=)Y*B856\n\n\n\n------=_NextPart_000_0006_01C7B9D2.7E454C90\nContent-Type: text/html;\n\tcharset=\"iso-8859-2\"\nContent-Transfer-Encoding: quoted-printable\n\n<html xmlns:o=3D\"urn:schemas-microsoft-com:office:office\" xmlns:w=3D\"urn:sc=\nhemas-microsoft-com:office:word\" xmlns=3D\"http://www.w3.org/TR/REC-html40\">\n\n<head>\n<META HTTP-EQUIV=3D\"Content-Type\" CONTENT=3D\"text/html; charset=3Diso-8859-2\">\n<meta name=3DGenerator content=3D\"Microsoft Word 11 (filtered medium)\">\n</head>\n<body>\n<html><body bgcolor=3D\"#FFFFFF\">\n<div align=3D\"center\">\n  <p align=3D\"left\"><b><i><font color=3D\"#FF0000\">VIP   &nbsp;=A0=A0=A0=A0=\n=A0=A0</font> \n   =A0 R_E_P_L_I_C_A =A0=A0=A0=A0W_A_T_C_H_E_S!</i></b></p>\n <p align=3D\"left\">If you are looking for a <b>stylish, quality costume wat=\nch at low prices</b>, our offers are for you. We specialize in top quality =\nreplica watches. Wearing these expensive looking watches is <b>prestigious<=\n/b>. Buying these models you will <b>save you a ton of money</b> and always=\n look trendy.\n</p>\n  <p align=3D\"left\">We offer a free gift box with every VIP watch ordered. =\nYou can use it as a <b>lovely gift</b> for your friends or relatives or kee=\np your gorgeous watch there. No matter what you do with your watch, you wil=\nl enjoy it.</p>\n  <p align=3D\"left\"><a href=3D\"http://vesf93tk828kxlmkyfv2xfvkfxx.hbbd.hk/?=\ncdw\"><i><b>Check out our gift boxes that will make the present even more gl=\namorous.</b></i></a><br>\n  </p></div>\n<br><br>\n0G=3D)Y*B856\n</body></html>\n</body>\n</html>\n\n------=_NextPart_000_0006_01C7B9D2.7E454C90--\n\n_______________________________________________\nMhln maillist  -  Mhln@mailman.eppg.com\nhttp://mailman.eppg.com/mailman/listinfo/mhln\n\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<d4ef8538-9641-4642-a807-6826501fe022@generated>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "fail",
+      "dkim": "pass",
+      "dmarc": "pass",
+      "returnpath": "ykazmef.pewy@kuvkjgpg.co.in",
+      "ipaddress": [
+        "2603:1096:a01:1c7::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "This is a multi-part message in MIME format.\n\n------=_NextPart_000_0006_01C7B9D2.7E454C90\nContent-Type: text/plain;\n\tcharset=\"iso-8859-2\"\nContent-Transfer-Encoding: 7bit\n\n\n  VIP     \n    R_E_P_L_I_C_A W_A_T_C_H_E_S!\n If you are looking for a stylish, quality costume watch at low prices, our offers are for you. We specialize in top quality replica watches. Wearing these expensive looking watches is prestigious. Buying these models you will save you a ton of money and always look trendy.\n\n  We off",
+      "links": [
+        "http://www.w3.org/TR/REC-html40",
+        "http://vesf93tk828kxlmkyfv2xfvkfxx.hbbd.hk/?=",
+        "http://mailman.eppg.com/mailman/listinfo/mhln",
+        "http://www.w3.org",
+        "http://mailman.eppg.com"
+      ],
+      "domains": [
+        "vesf93tk828kxlmkyfv2xfvkfxx.hbbd.hk",
+        "mailman.eppg.com",
+        "w3.org"
+      ]
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-034a6540c594d79ada8a893b6b3751d6",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-034a6540c594d79ada8a893b6b3751d6",
+    "emailcontent": {
+      "subject": "We Dare You to Find a Better Annuity",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "seligman@nmoga.org"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "seligman@nmoga.org"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "email1091@speedy.uwaterloo.ca"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2002-09-03T19:20:07-04:00",
+      "sentDateTime": "2002-09-03T19:20:07-04:00",
+      "body": {
+        "contentType": "text/html",
+        "content": "<html>\n<head>\n<title>We Dare You to Find a Better Annuity</title>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\">\n</head>\n<body bgcolor=\"#666666\" text=\"#000000\">\n<font face=\"Arial, Helvetica, sans-serif\"> \n<table width=\"550\" border=\"1\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\" bordercolor=\"#000000\" bgcolor=\"#FFFFFF\">\n  <tr> \n    <td>\n      <img src=\"http://iiq.us/images/pmg/20020822-101.gif\" alt=\"We dare you...\" width=\"550\" height=\"55\"><br>\n      <img src=\"http://iiq.us/images/pmg/20020822-102.jpg\" alt=\"Try to find a better annuity!\" width=\"550\" height=\"47\"><br>\n      <img src=\"http://iiq.us/images/pmg/20020822-103.jpg\" width=\"550\" height=\"248\"> \n      <table width=\"100%\" cellpadding=\"2\" cellspacing=\"2\" border=\"0\" bgcolor=\"#ffffff\">\n        <tr> \n          <td><img src=\"http://iiq.us/images/pmg/20020822-201.gif\" width=\"32\" height=\"142\"><img src=\"http://iiq.us/images/pmg/20020822-202.gif\" alt=\"- 5.40% Guaranteed for 6 Years&#10;- 6 Year Surrender Charge&#10;- 5% Agent Commission up to age 80\" width=\"508\" height=\"142\"></td>\n        </tr>\n        <tr> \n          <td align=\"center\">\n            <b><font size=\"2\">Call today for more information!<br>\n            <img src=\"http://iiq.us/images/pmg/20020822-3.gif\" alt=\"800-888-7641 ext. 103\" width=\"535\" height=\"115\"><br>\n            - or -</font></b><br>\n            <table width=\"95%\" border=\"1\" cellpadding=\"0\" cellspacing=\"0\" bordercolor=\"#000000\">\n              <tr> \n                <form method=\"post\" action=\"http://65.217.159.103/response/response.asp\">\n                  <td> \n                    <table width=\"100%\" border=\"0\" align=\"center\" cellpadding=\"2\" cellspacing=\"0\" background=\"http://iiq.us/images/pmg/20020822-5.gif\" bgcolor=\"#ffffff\">\n                      <tr> \n                        <td colspan=\"5\" align=\"center\"><b><font size=\"2\">Please fill out the form below for more information</font></b></td>\n                      </tr>\n                      <tr> \n                        <td width=\"15%\" align=\"right\"><b><font size=\"2\">Name:</font></b></td>\n                        <td colspan=\"3\"><input type=\"text\" name=\"contactname\" size=\"50\"></td>\n                        <td rowspan=\"5\" valign=\"middle\" align=\"center\"><img src=\"http://iiq.us/images/q3.gif\" width=\"43\" height=\"50\"></td>\n                      </tr>\n                      <tr> \n                        <td width=\"15%\" align=\"right\"><b><font size=\"2\">E-mail:</font></b></td>\n                        <td colspan=\"3\"><input type=\"text\" name=\"email\" size=\"50\"></td>\n                      </tr>\n                      <tr> \n                        <td width=\"15%\" align=\"right\"><b><font size=\"2\">Phone:</font></b></td>\n                        <td colspan=\"3\"><input type=\"text\" name=\"phone\" size=\"50\"></td>\n                      </tr>\n                      <tr> \n                        <td width=\"15%\" align=\"right\"><b><font size=\"2\">City:</font></b></td>\n                        <td width=\"30%\"><input type=\"text\" name=\"city\" size=\"20\"></td>\n                        <td width=\"15%\" align=\"right\"><b><font size=\"2\">State:</font></b></td>\n                        <td width=\"20%\"><input type=\"text\" name=\"state\" size=\"2\"></td>\n                      </tr>\n                      <tr> \n                        <td width=\"15%\" align=\"right\">&nbsp;</td>\n                        <td width=\"30%\" colspan='3'> \n                          <input type=\"submit\" name=\"btnsubmit\" value=\"Submit\">\n                          <input type=\"hidden\" name=\"hdnRecipientTxt\" value=\"rhock@pmgsecurities.com\">\n                          <input type=\"hidden\" name=\"hdnSubjectTxt\" value=\"PMG Dare Ad Inquiry\">\n                        </td>\n                      </tr>\n                    </table>\n                  </td>\n                <input type='hidden' name='SentTo' value='304704'>\n</form>\n              </tr>\n            </table>\n            <b><font size=\"2\"><img src=\"http://iiq.us/images/pmg/20020822-4.gif\" alt=\"PMG Financial Services\" width=\"416\" height=\"142\"> \n            </font></b></td>\n        </tr>\n        <tr> \n          <td><font size=\"1\">*5.40% for deposits of $100,000 and up, 5.25% interest for deposits totalling $25,000-$99,999.</font></td>\n        </tr>\n      </table>\n\t\t</td>\n  </tr>\n  <tr> \n    <td width=\"100%\" bgcolor=\"#cccccc\" align=\"center\">\n\t\t\t<p><font face=\"Arial, Helvetica, sans-serif\" size=\"1\">We \n\t\t\tdon't want anyone to receive our mailings who does not \n\t\t\twish to receive them. This is a professional communication \n\t\t\tsent to insurance professionals. To be removed from this mailing \n\t\t\tlist, <b>DO NOT REPLY</b> to this message. Instead, go here: <a href=\"http://www.insuranceiq.com/optout/\"> \n\t\t\thttp://www.insuranceiq.com/optout</a></font></p>\n    </td>\n  </tr>\n</table>\n<center>\n  <a href=\"http://www.insiq.com/legal.htm\"><font size=\"1\" face=\"Arial, Helvetica, sans-serif\">Legal Notice </font></a> \n</center>\n</font>\n</body>\n</html>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<1f20ba01c253a0$70f607c0$6b01a8c0@insuranceiq.com>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "pass",
+      "dkim": "pass",
+      "dmarc": "pass",
+      "returnpath": "kyle@biemilac.com",
+      "ipaddress": [
+        "fe80::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "We Dare You to Find a Better Annuity Call today for more information! - or - Please fill out the form below for more information Name: E-mail: Phone: City: State: *5.40% for deposits of $100,000 and up, 5.25% interest for deposits totalling $25,000-$99,999. We don't want anyone to receive our mailings who does not wish to receive them. This is a professional communication sent to insurance professionals. To be removed from this mailing list, DO NOT REPLY to this message. Instead, go here: http:/",
+      "links": [
+        "http://www.insuranceiq.com/optout/",
+        "http://www.insiq.com/legal.htm",
+        "http://iiq.us/images/pmg/20020822-101.gif",
+        "http://iiq.us/images/pmg/20020822-102.jpg",
+        "http://iiq.us/images/pmg/20020822-103.jpg",
+        "http://iiq.us/images/pmg/20020822-201.gif",
+        "http://iiq.us/images/pmg/20020822-202.gif",
+        "http://iiq.us/images/pmg/20020822-3.gif",
+        "http://65.217.159.103/response/response.asp",
+        "http://iiq.us/images/pmg/20020822-5.gif",
+        "http://iiq.us/images/q3.gif",
+        "http://iiq.us/images/pmg/20020822-4.gif",
+        "http://www.insuranceiq.com/optout",
+        "http://iiq.us",
+        "http://20020822-102.jp",
+        "http://20020822-103.jp",
+        "http://pmgsecurities.com\">\n                          ",
+        "http://www.insuranceiq.com",
+        "http://www.insiq.com"
+      ],
+      "domains": [
+        "iiq.us",
+        "pmgsecurities.com\">",
+        "20020822-103.jp",
+        "65.217.159.103",
+        "insiq.com",
+        "20020822-102.jp",
+        "insuranceiq.com"
+      ]
+    }
+  }
+}

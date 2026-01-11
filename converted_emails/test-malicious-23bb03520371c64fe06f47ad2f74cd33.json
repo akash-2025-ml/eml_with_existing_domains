@@ -1,0 +1,86 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-23bb03520371c64fe06f47ad2f74cd33",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-23bb03520371c64fe06f47ad2f74cd33",
+    "emailcontent": {
+      "subject": "Полный отчет о проделанной работе ",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "cheapestshoe.com@onnagata.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "cheapestshoe.com@onnagata.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "greg.wolfe@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "bill.iii@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2007-06-23T09:20:58+00:00",
+      "sentDateTime": "2007-06-23T09:20:58+00:00",
+      "body": {
+        "contentType": "image/gif",
+        "content": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\">\n<HTML><HEAD>\n<META http-equiv=Content-Type content=\"text/html; charset=windows-1251\">\n<META content=\"MSHTML 6.00.2800.1264\" name=GENERATOR>\n<STYLE></STYLE>\n</HEAD>\n<BODY bgcolor=#ffffff><FONT face=\"Times New Roman\">\n<div align=\"center\">\n<TABLE cellSpacing=0 cellPadding=0 border=0 bgcolor=#ffff99 bordercolor=#000000 align=center>\n  <TBODY>\n  <TR><TD background=\"cid:92d7259edfa6$79c72ddd$3ae7a732@barbarascanlon.com\">\n\t\t\t<DIV>&nbsp;</DIV>\n\t\t\t<DIV>&nbsp;</DIV>\n\t\t\t<DIV align=center><FONT color=#ffff99 size=6><STRONG>Электронные рассылки</STRONG></FONT></DIV>\n\t\t\t<DIV>&nbsp;</DIV>\n\t</TD></TR>\n\t<TR><TD>\n\t\t\t<DIV align=left><FONT color=#00008C size=4><STRONG>\n\t\t\t<UL>\n\t\t\t\t<LI>полный отчет о проделанной работе\n\t\t\t\t<LI>принимаются заказы на рассылку от 3 000 рублей\n\t\t\t\t<LI>самые полные регулярно обновляемые базы (Москва&#044; Россия&#044; СНГ…)\n\t\t\t\t<LI>возможность выборки по <U>любой</U> теме\n\t\t\t\t<LI>самое современное оборудование\n\t\t\t\t<LI><FONT color=#0000ff size=4><U>Бесплатно:</U></FONT> выборка по отраслям и регионам, &nbsp;консультация,  выезд курьера,  изготовление макета!!!\n\t\t\t</LI></UL></STRONG></FONT></DIV>\n\t\t\t<DIV align=center><FONT size=3 face=\"Verdana\"><I>Детальную информацию можно узнать из нашего <FONT color=#0000ff><STRONG>прайс-листа</STRONG></FONT>. Позвоните нам и<br> мы вышлем его на Ваш почт.ящик</I></FONT></DIV>\n\t\t\t<DIV>&nbsp;</DIV>\n\t</TD></TR>\n\t\t<TR><TD background=\"cid:92d7259edfa6$79c72ddd$3ae7a732@barbarascanlon.com\">\n\t\t\t<DIV>&nbsp;</DIV><DIV>&nbsp;</DIV>\n\t\t\t<DIV align=center><FONT color=#ffff99 size=7><STRONG><I>[495] 642`52_97</I></STRONG></FONT></DIV>\n\t\t\t<DIV>&nbsp;</DIV><DIV>&nbsp;</DIV>\n\t\t</TD></TR>\n\t\t</TBODY></TABLE>\n</div></font></body></html>\n\n"
+      },
+      "hasAttachments": true,
+      "internetMessageId": "<f86c897e-50df-4c2e-82d3-e7888236a968@generated>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "fail",
+      "dkim": "neutral",
+      "dmarc": "none",
+      "returnpath": "cheapestshoe.com@onnagata.com",
+      "ipaddress": [
+        "fe80::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Электронные рассылки полный отчет о проделанной работе принимаются заказы на рассылку от 3 000 рублей самые полные регулярно обновляемые базы (Москва, Россия, СНГ…) возможность выборки по любой теме самое современное оборудование Бесплатно: выборка по отраслям и регионам, консультация, выезд курьера, изготовление макета!!! Детальную информацию можно узнать из нашего прайс-листа . Позвоните нам и мы вышлем его на Ваш почт.ящик [495] 642`52_97",
+      "links": [
+        "http://barbarascanlon.com\">\n\t\t\t"
+      ],
+      "domains": [
+        "barbarascanlon.com\">"
+      ]
+    },
+    "attachments": [
+      {
+        "name": "lraxw.gif",
+        "contentBytes": "R0lGODlh8AJ2ALMAAAQCBAQC/AEAAAAAAEABWwAA5iIA0wEAd+jsAK/IAJYSAAAAAEAJHgCHByLTJwF3ACH5BAAAAAAALAAAAADwAnYAAwT/EARJp6346sy37+AnhuRoluippuzqtvArx/Rs1/it5/zu98CfMEgc+gJISRJpWTqbUGWUKa1Sr09rFjvdertgbZgrLpPPX3MaPV6723B1nC2v0+9vex4/3/v7gHqBfIKFhId/homIg4t5RZBGkZOSlZSXlpmYm5qdnJ+eoaCjoqGNp4qojKmsq66OqrCtsq+xtrO3tbi7ur20v7nAvMK+wV2kyKXJy8rNzM/O0dDT0tXU10bFw8bb3drfxOHc4OPi3ubk5+Xr6u3p7+jC2PPW9fT39vn4+/r9/P/12METGI+gQXcFER4cqLAhw4cJIS6MSJEgwIv+MmLcqLEjx48e/0OCDCHRYUWTE1OiXFmy5UmXKmGyfEkzpqyRInPi3KmzJ8+fPoPitEl0ZlGZSGsaXZr0qNKmTJ9KtSi0KtCrVrNi3aq1K9cKUMNOjeq0LNmzYs2mRTt2rdtHXuN+lUt3rt26eO/mUNu2L9+/bAG/Few3sOHBhx3pzct4sePGkB9LDlgYseXKmAlrTrz5cufMnLtNHh25NOnTplOjBhvac2vQrmPDnv259mvbSVer3q27N+/fvvnJxk37tvHhx4sjX668eZzgwKNDny69OvUexLMn186cu/Pt4LuHp3jduvny6M+r9y2+/Xf33uOPlw9/vv30+Nfrz89/f1D67wUI4P+A9tVnoIAFztbfgv4x6GCDEHJyIIETJkghghVmiOGGtzzoYYQgfihiiCZcaKKFKGp4ooopctjiiDCSGOOMMprH4o0u4rhijjzu6KNhNAZZo5BEDknXjzq2iGSPSjaZ5JPxFCmlkVNWSWVGUC6ppZNMZsnlll5SYeWYV5JpZpmZgNnlmmq2+eWbYbKpxZl0olnnnXaWKGecbvIJ556A9okgnoTmWeihNQqq6J+L+ulooIyahOikhlZK6YiPNgppppFy6ummN1kq6qWjlkqqEp2CqumqqbL6qatOnGrqrLLW+turreaK666q6torHbYGS+uwwmIF67G+Isursr8GWCz/sdA+K21PyyZrbbXYNsusbdN2G+233kKz7bXakjtutuf2FS647K7rbifomitvvPSWWy877+bb7r761pDuv/PaKzDA957TL78IH6ywBwU3PHDABD/s8HMJV7zwxRbrEPHGEHc8sccSu4HxyBmTXOTHKIfMccorM2lyyTC/TGrLNINcM8s2vxjzzjLz7HMLOAetcs5C3zzoz0j3rPSsRjdN9NBFP33h0lQnbXWMUWcN9dZOaw1Y1WBfLTaDXXMt9dleo81j2GyP7XZ5acdtttxl111H23i/rbdudtOtdt9zB+5U3oTvbfhjficu+N+MK45K4ZAfLjlXgFfe+OKOXx5L7OScT+75UJiHbnnmpIvOSueof646QKObXnrrsD+d+uyr147N65rnjvvuQ9Puu+3AJxM778O7bnzLvycf/PKYEK/78c8X77Ty1DNvfRDSR6+989yDWv3314cfQ/fZk7899EmCr7747JN0fvnoxw8/8u3Xv/79TMz//v7m9/8d/gC0X/j05z8Cyo9/axNgABcIvAIi0IAQfGBoGEhBBaougg7M4AE1GIwKetCC7+KgBEVIwg0m5IMoBKHbMGhCFrpwhApSYQpniLQSvtCGMLxhEmjIQxnuTIdAzKEQcfiKHhrRh4giYguHuEQlmiUCADs=",
+        "contentType": "image/gif"
+      }
+    ]
+  }
+}

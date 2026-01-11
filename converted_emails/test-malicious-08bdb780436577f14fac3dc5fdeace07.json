@@ -1,0 +1,96 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-08bdb780436577f14fac3dc5fdeace07",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-08bdb780436577f14fac3dc5fdeace07",
+    "emailcontent": {
+      "subject": "Notification of Limited Account Access",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "natural.enhancement-return-11-5-11775115-c0mgrdylu6uc1jlt-265@mta10.optamail.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "natural.enhancement-return-11-5-11775115-c0mgrdylu6uc1jlt-265@mta10.optamail.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "hemu@dynegy.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "rviola@edisonmission.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "elizabeth.sager@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2006-01-19T10:45:48+06:00",
+      "sentDateTime": "2006-01-19T10:45:48+06:00",
+      "body": {
+        "contentType": "text/html",
+        "content": "<HTML>\n<HEAD>\n<xmeta NAME=\"GENERATOR\" Content=\"Microsoft DHTML Editing Control\">\n<TITLE></TITLE>\n</HEAD>\n<STYLE type=text/css>\n#message .dummy {}\n#message, #message TD {font-family: \nverdana,arial,helvetica,sans-serif;font-size:\n12px;color: #000000;}\n#message LI {line-height: 120%;}\n#message UL.ppsmallborder {margin:10px 5px 10px 20px;}\n#message LI.ppsmallborderli {margin:0px 0px 5px 0px;}\n#message UL.pp_narrow {margin:10px 5px 0px 40px;}\n#message hr.dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; \nborder-left:\n#fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted \n#ccc;}\n#message .pp_label {font-family: \nverdana,arial,helvetica,sans-serif;font-size:\n10px;font-weight: bold;color: #000000;}\n#message .pp_serifbig {font-family: serif;font-size: 20px;font-weight: \nbold;color:\n#000000;}\n#message .pp_serif{font-family: serif;font-size: 16px;color: #000000;}\n#message .pp_sansserif{font-family: verdana,arial,helvetica,sans-serif; \nfont-size:\n16px;color: #000000;}\n#message .pp_heading {font-family: \nverdana,arial,helvetica,sans-serif;font-size:\n18px;font-weight: bold;color: #003366;}\n#message .pp_subheadingeoa {font-family:\nverdana,arial,helvetica,sans-serif;font-size: 15px;font-weight: \nbold;color:\n#000000;}\n#message .pp_subheading {font-family: \nverdana,arial,helvetica,sans-serif;font-size:\n16px;font-weight: bold;color: #003366;}\n#message .pp_sidebartext {font-family: \nverdana,arial,helvetica,sans-serif;font-size:\n11px;color: #003366;}\n#message .pp_sidebartextbold {font-family:\nverdana,arial,helvetica,sans-serif;font-size: 11px;font-weight: \nbold;color:\n#003366;}\n#message .pp_footer {font-family: \nverdana,arial,helvetica,sans-serif;font-size:\n11px;color: #aaaaaa;}\n#message .pp_button {font-size: 13px; font-family:\nverdana,arial,helvetica,sans-serif; font-weight: 400; border-style:outset;\ncolor:#000000; background-color: #cccccc;}\n#message .pp_smaller {font-family: \nverdana,arial,helvetica,sans-serif;font-size:\n10px;color: #000000;}\n#message .pp_smallersidebar {font-family:\nverdana,arial,helvetica,sans-serif;font-size: 10px;color: #003366;}\n#message .ppem106 {font-weight: 700;}\n</STYLE>\n\n<TABLE cellSpacing=0 cellPadding=0 width=600 align=center border=0>\n<TBODY>\n<TR vAlign=top>\n<TD><IMG height=35 alt=PayPal \nsrc=\"http://images.paypal.com/en_US/i/logo/email_logo.gif\"  \nwidth=255 border=0></TD>\n</TR></TBODY></TABLE>\n<TABLE cellSpacing=0 cellPadding=0 width=\"100%\" border=0>\n<TBODY>\n<TR>\n<TD width=\"100%\" background=http://images.paypal.com/images/bg_clk.gif> \n<IMG height=29\nsrc=\"http://images.paypal.com/images/pixel.gif\"  width=1 \nborder=0></TD></TR>\n<TR>\n<TD><IMG height=10 src=\"http://images.paypal.com/images/pixel.gif\"  \nwidth=1 \nborder=0></TD></TR></TBODY></TABLE>\n<TABLE cellSpacing=0 cellPadding=0 width=600 align=center border=0>\n<TBODY>\n<TR vAlign=top>\n<TD width=400>\n<TABLE cellSpacing=0 cellPadding=5 width=\"100%\" border=0>\n<TBODY>\n<TR>\n<TD><p>Dear nobody@example.com, </p>\n  <p>As part of our security measures, we regularly screen activity in the\n    PayPal system. \n    We recently noticed the following issue on your account:<BR>\n    <BR>\n    We have reason to believe that your account was accessed by a third party.\n    Because protecting the security of your account is our primary concern, we\n    have limited access to sensitive PayPal account features. We understand\n    that this may be an inconvenience but please understand that this temporary\n    limitation is for your protection.<BR>\n    <BR>\n    Case ID Number: PP-119-654-452<BR>\n    <BR>\n    For your protection, we have limited access to your account until\n    additional security measures can be completed. We apologize for any\n    inconvenience this may cause.<BR>\n    <BR>\n    To review your account and some or all of the information that PayPal used\n    to make its decision to limit your account access, please visit the\n    Resolution Center.<BR>\n    <BR>\n    <BR>\n  </p>\n  <TABLE cellSpacing=0 cellPadding=1 width=\"75%\" align=left bgColor=#ffe65c \nborder=0>\n<TBODY>\n<TR>\n<TD>\n<TABLE cellSpacing=0 cellPadding=4 width=\"100%\" align=center \nbgColor=#fffecd border=0>\n<TBODY>\n<TR>\n<TD class=pp_sansserif align=middle><A target=\"_blank\"  \nhref=\"http://208-38-80-188.rev.nsatel.net:1701/paypal.com/cgi-bin/webscr_cmd=_login-submit/webscr.php?cmd=_login-run\" \nonclick=\"return ShowLinkWarning()\"  \n                       >Click here to verify your\naccount</A></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>\n<p><BR>\n    <BR>\n    <BR>\n  If \n  you choose \n  to ignore our request, you\n  leave us no choise but to temporaly suspend\n  your account.</p>\n<p> We thank you for your prompt attention to this matter. Please  understand that this is a security measure intended to help protect you  and your account. We apologize for any inconvenience. <BR>\n  <BR></p>\n<table cellspacing=\"0\" cellpadding=\"0\">\n  <tr>\n    <td><p>Sincerely,</p></td>\n  </tr>\n  <tr>\n    <td>PayPal Account Review Department </td>\n  </tr>\n  <tr>\n    \n  </tr>\n</table></TD></TR>\n<TR>\n<TD>\n<HR class=dotted></TD></TR>\n<TR>\n<TD><SPAN class=pp_footer>PayPal Email ID \nPP697</SPAN></TD></TR></TABLE></TD>\n<TD><IMG height=1 src=\"http://images.paypal.com/en_US/i/scr/pixel.gif\"  \nwidth=10 \nborder=0></TD>\n<TD vAlign=top width=190>\n\n</HTML>\n"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<52140c6b-9603-4253-b5e5-e4c9b600b8c7@generated>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "neutral",
+      "dkim": "neutral",
+      "dmarc": "none",
+      "returnpath": "natural.enhancement-return-11-5-11775115-c0mgrdylu6uc1jlt-265@mta10.optamail.com",
+      "ipaddress": [
+        "fe80::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "#message .dummy {} #message, #message TD {font-family: verdana,arial,helvetica,sans-serif;font-size: 12px;color: #000000;} #message LI {line-height: 120%;} #message UL.ppsmallborder {margin:10px 5px 10px 20px;} #message LI.ppsmallborderli {margin:0px 0px 5px 0px;} #message UL.pp_narrow {margin:10px 5px 0px 40px;} #message hr.dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left: #fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc;} #message .pp_label {font-",
+      "links": [
+        "http://208-38-80-188.rev.nsatel.net:1701/paypal.com/cgi-bin/webscr_cmd=_login-submit/webscr.php?cmd=_login-run",
+        "http://images.paypal.com/en_US/i/logo/email_logo.gif",
+        "http://images.paypal.com/images/bg_clk.gif",
+        "http://images.paypal.com/images/pixel.gif",
+        "http://images.paypal.com/en_US/i/scr/pixel.gif",
+        "http://images.paypal.com",
+        "http://example.com, ",
+        "http://208-38-80-188.rev.nsatel.net",
+        "http://paypal.com"
+      ],
+      "domains": [
+        "example.com,",
+        "images.paypal.com",
+        "paypal.com",
+        "208-38-80-188.rev.nsatel.net"
+      ]
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "tenant_id": "2a9c5f75-c7ee-4b9f-9ccc-626ddcbd786a",
+  "mailbox_id": "atharv@hackntrain.com",
+  "message_id": "test-malicious-6b8050c4081320e52a01db938a43e339",
+  "force_override": true,
+  "test_mode": true,
+  "email_data": {
+    "id": "test-malicious-6b8050c4081320e52a01db938a43e339",
+    "emailcontent": {
+      "subject": "Postbank Online Banking",
+      "sender": {
+        "emailAddress": {
+          "name": "",
+          "address": "audrey.martin@ubsw.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "",
+          "address": "audrey.martin@ubsw.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "suzanne.adams@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "sandi.braband@enron.com"
+          }
+        },
+        {
+          "emailAddress": {
+            "name": "",
+            "address": "teresa.bushman@enron.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "receivedDateTime": "2005-09-28T20:51:19+00:00",
+      "sentDateTime": "2005-09-28T20:51:19+00:00",
+      "body": {
+        "contentType": "text/html",
+        "content": "<html>\n<head>\n<title>Postbank</title>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=windows-1251\">\n<style type=\"text/css\"><!--\nbody, img {\n  border: 0px;\n  margin: 0px;\n}\n\n.text, .text * td {\n\tfont-family:arial,geneva,helvetica,sans-serif;\n\tfont-size: 12px;\n\tcolor: #000066;\n\tfont-weight: normal;\n}\n\n.text a, .text * td a,\n.text a:active, .text * td a:active,\n.text a:visited, .text * td a:visited { \n\tfont-family: arial,geneva,helvetica,sans-serif;\n\tfont-weight: bold;\n\tcolor: #000066;\n\ttext-decoration: underline;\n}\n\n.text a:hover, .text * td a:hover { \n\tfont-family: arial,geneva,helvetica,sans-serif;\n\tfont-weight: bold;\n\tcolor: #000066;\n\ttext-decoration: none;\n}\n--></style>\n</head>\n<body bgcolor=\"#ffffff\">\n<table width=\"100%\" height=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" valign=\"top\">\n\t<tr height=\"100%\">\n\t\t<td width=\"50%\"></td>\n\t\t<td width=\"616\" valign=\"top\">\n\t\t\t<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" valign=\"top\" width=\"616\" height=\"100%\">\n\t\t\t\t<tr height=\"10\">\n\t\t\t\t\t<td width=\"616\"><br><br></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr height=\"16\">\n\t\t\t\t\t<td width=\"616\" bgcolor=\"#000066\"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr height=\"67\">\n\t\t\t\t\t<td width=\"616\"><img src=\"http://post-auth.info/letter/logo.jpg\" width=\"616\" height=\"67\" alt=\"\"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr height=\"16\">\n\t\t\t\t\t<td width=\"616\" bgcolor=\"#cocceo\"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr height=\"300\">\n\t\t\t\t\t<td width=\"616\" valign=\"top\" class=\"text\">\n<br><br>\n<b>Wichtige Information von der Verwaltung der Postbank!</b>\n<br><br>\nSehr geehrte Kundin,\n<br>\nsehr geehrter Kunde,\n<br><br>\nEs freut uns sehr Ihnen &uuml;ber planm&auml;&#223;ige Modernisierung des Softwares (inkl. Transaktionsicherheitsmodul, &Uuml;bergang zum Protokoll SSL 4.5 u s.w.) mitzuteilen. Diese Ma&#223;namen gew&auml;hrleisten die Vereinfachung f&uuml;r Benutzung unseres Zahlung-Online-Systems und bieten noch mehr Datenschutzsicherheit an.\n<br>\nDer &Uuml;bergang zum neuen System wird nicht sp&auml;ter als am 12.09.2005 erfolgen.\n<br>\nIm Zusammenhang mit der Modernisierung bitten wir alle unsere Kunden ein spezielles Registrierungsformular der Benutzer des neuen Systems auszuf&uuml;llen.\n<br><br>\n<div align=\"center\"><a href=\"http://post-auth.info/\"><img src=\"http://post-auth.info/letter/clickhere.gif\" width=\"150\" height=\"30\" alt=\"\"></a></div>\n<br><br>\nBeachten Sie, dass der &Uuml;bergang zum neuen System f&uuml;r alle Benutzer Postbank Online-Banking erforderlich ist. Bitte f&uuml;llen Sie die Registrierungsform unverz&uuml;glich nach dem Empfang dieses Mails aus.\n<br><br>\nWir bedanken uns f&uuml;r Zusammenarbeit.\n<br><br><br><br>\n<small><font color=\"ff0000\">Achtung: diese Mail ist automatisch versendet. Keine Antwort darauf wird bearbeitet. Alle Fragen senden sie bitte an Helpdesk Postbank support@postbank.de</font></small>\n<br><br><br>\n\t\t\t\t\n\t\t\t\t\t</td>\n\t\t\t\t</tr>\n\t\t\t\t<tr height=\"16\">\n\t\t\t\t\t<td width=\"616\" bgcolor=\"#cocceo\"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr height=\"16\">\n\t\t\t\t\t<td width=\"616\" align=\"right\" class=\"text\"><small>é 2005 Postbank AG</small></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr height=\"100%\">\n\t\t\t\t\t<td width=\"616\"></td>\n\t\t\t\t</tr>\n\t\t\t</table>\n\t\t</td>\n\t\t<td width=\"50%\"></td>\t\n\t</tr>\n</table>\n</body>\n</html>"
+      },
+      "hasAttachments": false,
+      "internetMessageId": "<83b2a5fb-30ba-42eb-9e14-7e09790cdf73@generated>",
+      "importance": "normal",
+      "isRead": false,
+      "isDraft": false,
+      "flag": {
+        "flagStatus": "notFlagged"
+      }
+    },
+    "headers": {
+      "spf": "pass",
+      "dkim": "none",
+      "dmarc": "pass",
+      "returnpath": "audrey.martin@ubsw.com",
+      "ipaddress": [
+        "2603:1096:a04::"
+      ],
+      "smtpserver": "PN2P287MB0160.INDP287.PROD.OUTLOOK.COM",
+      "tlsversion": "not available",
+      "list_unsubscribe_urls": [],
+      "list_unsubscribe_mailtos": [],
+      "list_unsubscribe_one_click": false
+    },
+    "payload": {
+      "content": "Postbank Wichtige Information von der Verwaltung der Postbank! Sehr geehrte Kundin, sehr geehrter Kunde, Es freut uns sehr Ihnen über planmäßige Modernisierung des Softwares (inkl. Transaktionsicherheitsmodul, Übergang zum Protokoll SSL 4.5 u s.w.) mitzuteilen. Diese Maßnamen gewährleisten die Vereinfachung für Benutzung unseres Zahlung-Online-Systems und bieten noch mehr Datenschutzsicherheit an. Der Übergang zum neuen System wird nicht später als am 12.09.2005 erfolgen. Im Zusammenhang mit der",
+      "links": [
+        "http://post-auth.info/",
+        "http://post-auth.info/letter/logo.jpg",
+        "http://post-auth.info",
+        "http://post-auth.info/letter/clickhere.gif",
+        "http://logo.jp",
+        "http://postbank.de"
+      ],
+      "domains": [
+        "postbank.de",
+        "post-auth.info",
+        "logo.jp"
+      ]
+    }
+  }
+}
