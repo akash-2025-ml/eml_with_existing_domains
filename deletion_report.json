@@ -1,0 +1,283 @@
+{
+  "deletion_date": "2026-01-11T16:19:37.616477",
+  "total_files_checked": 500,
+  "files_deleted": [
+    {
+      "filename": "008b2bbea71bf2d07fc721bda2eeb22e.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "0159aa42f5d8e4f3f1ca22bcd99cada4.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "03344de34a54bfd847fbe7e1f5c8ce46.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "0575a3eb0436c7d51c74d949e1a1fae2.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "0982c1680a32b3bee8a84e68e6df19d7.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "0e10d9d3ab222f751b71e260413454e3.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "10edc8c84d654f9ba5173eed1a270ec8.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "1914bba8c8785e710d4f791ccb6d50b1.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "1c492fa4e0587c61fcea1a05b76e1697.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "1d2f40e19ffe13ab442a2dbf2aa2846c.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "1de8d90d8f6c21a7bbddbc434d786c37.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "1f60b50b95f2b56c9860029fe70436cb.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "20c751ea1c1cb9dd9e4e68baec42f1bf.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "28dffba7a4f56492d1dad477b84a1de4.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "2a6cb47cc403491462e8320a824bde9a.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "2ac93463f941d7017f5ecf581f50f848.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "2d854b9335d3012854c2dafc861b0174.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "2fff55d06874c931e8f14f5057ddaa8f.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "313ce825265f6320776d8b5dd20ae74f.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "36403737d66b8f59653eb8fef445915b.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "3a5bb236373f71769aca3804f3cbda56.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "3b8aa33d283b6cee2b7b8425c59cfc69.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "3bbb9314138fab2f9373928978bd9f8a.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "3fbf279ceb2c99d9a2e4026c1aa9b06c.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "411084904240d35aa83f0eb9b3764a82.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "4ed956eceeb8c9efa8db258cb38d4869.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "4f22cd5329734268217f663459d57f61.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "51b74e4d1edcd4dcb7b2f5a080870b9a.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "557dccec0ef854abcd828d787c4cbb3f.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "5b792d935251078c39c6a8dc889e831b.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "5d205bd8b73bd9086c4f4e1f3c995dec.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "5ea8bded69e27cf8c5ad3ef5ca6a6c95.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "5eb501ee845172eb363d877a072e5349.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "5ed347173317ff466a3a955ad8b6a933.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "5ee519a801de7697be7ada2e81247ed0.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "60c4ce60b6e6a25d2e1725c1bde450a1.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "63e8a2bdd9d67626401914ed4655373a.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "6e4393f19a13ea4d82178e475c460118.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "6e8894849fabf918248dd4add83d9201.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "6f8e1478bac4b7f4968d2ca4d974fcf1.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "7081d4bb77ff6c5a3b6ee2928e913635.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "7173f8cfd3c580271c326a918a4f1f86.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "7384825a6304e45b4a71a338f1020a2f.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "7ad6a5464b8ea59d1592fdc92fe94a4a.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "7dda2029018ffdebd89346a6b37608a9.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    },
+    {
+      "filename": "7e1f8bb12d3970f644f57c751d762995.eml",
+      "violations": [
+        "Duplicate FROM header (should be unique)"
+      ]
+    }
+  ],
+  "files_kept": 454
+}
